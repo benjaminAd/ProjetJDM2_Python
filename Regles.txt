@@ -1,0 +1,77 @@
+*er ;   *age
+*er & -*ier ; *age
+* er ; *age & r_pos == Nom: & r_isa == action
+* er & r_pos == Ver:Inf ; *age & r_pos == Nom: & r_isa == action
+*er ;  *ement
+* er ; *ement & r_pos == N & r_isa == action
+*er ;  *eur  & r_isa personne
+*er ;  *euse & r_isa personne
+*ger ;  *geoire
+*ger ; *goire & r_pos == N & r_isa lieu
+*er ;  *oire’
+*er ;  *oir’
+*er ;  *age’
+*er & pos == V ; *e  & pos = N
+*er & pos == V  ;  *ant & pos = ADJ
+*ner & pos == V ; *nier & pos = N
+*er  & pos == V ; *ette & pos = N
+*uire ;  *uction’
+*uire ;  *ucteur’
+*uire ;  *uctrice’
+Verbe:ister ; nom:istance
+verbe:er ; nom:able
+*ger ;  *gement’
+verbe:ger ; nom:geur
+verbe:ner ; nom:naison
+verbe:quer ; nom:cation
+verbe:ner ; nom:naison
+verbe:ser ; nom:sation
+verbe:quer ; nom:quage
+Verbe:ter;nom:tement
+Verbe:dir ; nom:d
+Verbe:lir ; nom:lissage
+verbe:er ; nom:ant
+verbe:ller ; nom:l
+Verbe:uer ; nom:cation
+Nom:” “ ; adj:able
+Verbe:”er” ; adj:ible
+Nom:” “ ; Nom:”age”
+Nom:”ier” ; Nom:”eraie”
+Verbe:”er” ; Nom:”ail”
+Verbe:”er ; Nom:”aille”
+adj:””;adv:”ante”
+*er & r_pos Ver:Inf ; *ant & r_pos Adj:
+Nom:” “ ; nom:”aison”
+Nompropre:” “ ; nom:”oise”
+Verbe:” “ ; nom:”ateur”
+Verbe:”er” ; nom:”ation”
+Nom:” “ ; nom:”isme”
+Nom:” “ ; nom:”iste”
+Nom:” “ ; verbe:”ir”
+Verbe:” “ ; nom:”iteur”
+nom:eur ; nom:euse
+nom:er ; nom:ance
+nom:" " ; nom:aire
+nom:" " ; nom:iaire
+nom:" " ; nom:ale
+nom:" " ; nom:al
+nom:" " ; adj:al
+nom:"ale" ; nom:ales
+nom:"al"; nom:aux
+nom:" " ; adj:ale
+nom: " " ; adj:elle
+nom" " ; adj:acé
+nom:""  ; adj:an
+nom:""  ; adj:ane
+Adj:ant;:adv:emment r_manner
+adj:ante ; adv:emment
+adj:tif;nom:tivité
+adv:ant;nom:ance
+Adv:ante;nom:ance
+nom:"";adj:ain
+nom:"";adj:aine
+nom:"";nom"ard"
+nom:"" ; :nom"arde"
+*age & r_pos Nom: ; *er & r_pos Ver:Inf
+*age ; *er
+*e & r_isa animal ;  *eau & r_isa animal & r_isa bébé

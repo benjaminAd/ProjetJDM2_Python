@@ -1,6 +1,31 @@
 import requests
 
 
+class Regle:
+    def __init__(self, head, body):
+        self.head = head
+        self.body = body
+
+    def toString(self):
+        print(self.body, '=>', self.head)
+
+
+class Regles:
+    def __init__(self):
+        self.regles = []
+        file = open('Regles.txt')
+        try:
+            with file as reader:
+                line = reader.readline()
+                while line != '':
+                    separateLine = line.split(';')
+                    self.regles.append(Regle(separateLine[0].replace(" ", "").replace("\n", ""),
+                                             separateLine[1].replace(" ", "").replace("\n", "")))
+                    line = reader.readline()
+        finally:
+            file.close()
+
+
 class TypeRelation:
     def __init__(self, id, trname, trgpname, help):
         self.id = id
@@ -51,7 +76,6 @@ class JDM:
                 self.typeRelationsList.append(
                     TypeRelation(lineSeparator[1], lineSeparator[2], lineSeparator[3], lineSeparator[4]))
 
-
     def requestToJDM(self, mot):
         url = "http://www.jeuxdemots.org/rezo-dump.php?gotermsubmit=Chercher&gotermrel=penser&rel=?gotermsubmit=Chercher" \
               "&gotermrel=" + mot + "&rel= "
@@ -62,7 +86,6 @@ class JDM:
             if j == '<CODE>\n':
                 flag = True
             if j == '</CODE>\n':
-                print(code)
                 return code
             if flag and j != '// END\n' and j != '\n':
                 code += j
@@ -71,3 +94,5 @@ class JDM:
 if __name__ == '__main__':
     jdm = JDM()
     jdm.separateData(jdm.requestToJDM("jardinage"))
+
+    regles = Regles()
