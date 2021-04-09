@@ -57,10 +57,17 @@ class Terms:
 
 class JDM:
 
-    def __init__(self):
+    def __init__(self, mot):
+        self.mot = mot
         self.termsList = []
         self.relationsSortantesList = []
         self.typeRelationsList = []
+        self.regles = Regles()
+
+    def checkRule(self):
+        for rule in self.regles.regles:
+            if rule.head[0] == "*":
+                print(rule.head)
 
     def separateData(self, Data):
         for line in Data.split("\n"):
@@ -76,9 +83,9 @@ class JDM:
                 self.typeRelationsList.append(
                     TypeRelation(lineSeparator[1], lineSeparator[2], lineSeparator[3], lineSeparator[4]))
 
-    def requestToJDM(self, mot):
+    def requestToJDM(self):
         url = "http://www.jeuxdemots.org/rezo-dump.php?gotermsubmit=Chercher&gotermrel=penser&rel=?gotermsubmit=Chercher" \
-              "&gotermrel=" + mot + "&rel= "
+              "&gotermrel=" + self.mot + "&rel= "
         res = requests.get(url)
         code = ""
         flag = False
@@ -92,7 +99,6 @@ class JDM:
 
 
 if __name__ == '__main__':
-    jdm = JDM()
-    jdm.separateData(jdm.requestToJDM("jardinage"))
-
-    regles = Regles()
+    jdm = JDM("jardinage")
+    jdm.separateData(jdm.requestToJDM())
+    jdm.checkRule()
