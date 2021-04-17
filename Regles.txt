@@ -1,77 +1,141 @@
-*er ;   *age
-*er & -*ier ; *age
-* er ; *age & r_pos == Nom: & r_isa == action
-* er & r_pos == Ver:Inf ; *age & r_pos == Nom: & r_isa == action
-*er ;  *ement
-* er ; *ement & r_pos == N & r_isa == action
-*er ;  *eur  & r_isa personne
-*er ;  *euse & r_isa personne
-*ger ;  *geoire
-*ger ; *goire & r_pos == N & r_isa lieu
-*er ;  *oire’
-*er ;  *oir’
-*er ;  *age’
-*er & pos == V ; *e  & pos = N
-*er & pos == V  ;  *ant & pos = ADJ
-*ner & pos == V ; *nier & pos = N
-*er  & pos == V ; *ette & pos = N
-*uire ;  *uction’
-*uire ;  *ucteur’
-*uire ;  *uctrice’
-Verbe:ister ; nom:istance
-verbe:er ; nom:able
-*ger ;  *gement’
-verbe:ger ; nom:geur
-verbe:ner ; nom:naison
-verbe:quer ; nom:cation
-verbe:ner ; nom:naison
-verbe:ser ; nom:sation
-verbe:quer ; nom:quage
-Verbe:ter;nom:tement
-Verbe:dir ; nom:d
-Verbe:lir ; nom:lissage
-verbe:er ; nom:ant
-verbe:ller ; nom:l
-Verbe:uer ; nom:cation
-Nom:” “ ; adj:able
-Verbe:”er” ; adj:ible
-Nom:” “ ; Nom:”age”
-Nom:”ier” ; Nom:”eraie”
-Verbe:”er” ; Nom:”ail”
-Verbe:”er ; Nom:”aille”
-adj:””;adv:”ante”
-*er & r_pos Ver:Inf ; *ant & r_pos Adj:
-Nom:” “ ; nom:”aison”
-Nompropre:” “ ; nom:”oise”
-Verbe:” “ ; nom:”ateur”
-Verbe:”er” ; nom:”ation”
-Nom:” “ ; nom:”isme”
-Nom:” “ ; nom:”iste”
-Nom:” “ ; verbe:”ir”
-Verbe:” “ ; nom:”iteur”
-nom:eur ; nom:euse
-nom:er ; nom:ance
-nom:" " ; nom:aire
-nom:" " ; nom:iaire
-nom:" " ; nom:ale
-nom:" " ; nom:al
-nom:" " ; adj:al
-nom:"ale" ; nom:ales
-nom:"al"; nom:aux
-nom:" " ; adj:ale
-nom: " " ; adj:elle
-nom" " ; adj:acé
-nom:""  ; adj:an
-nom:""  ; adj:ane
-Adj:ant;:adv:emment r_manner
-adj:ante ; adv:emment
-adj:tif;nom:tivité
-adv:ant;nom:ance
-Adv:ante;nom:ance
-nom:"";adj:ain
-nom:"";adj:aine
-nom:"";nom"ard"
-nom:"" ; :nom"arde"
-*age & r_pos Nom: ; *er & r_pos Ver:Inf
-*age ; *er
-*e & r_isa animal ;  *eau & r_isa animal & r_isa bébé
+Ver:Inf;ir;Nom:;ition;$
+Ver:Inf;ir;Adj:;i;$
+Ver:Inf;ir;Adj:;is;$
+Ver:Inf;ir;Adj:;ie;$
+Ver:Inf;ir;Adj:;ies;$
+Ver:Inf;ir;Adj:;issant;$
+Ver:Inf;ir;Adj:;iens;$
+Ver:Inf;ir;Adj:;ient;$
+Ver:Inf;ir;Adj:;ons;$
+Ver:Inf;ir;Adj:;nez;$
+Ver:Inf;ir;Adj:;iennent;$
+Ver:Inf;ir;Ver:;is;$
+Ver:Inf;ir;Ver:;it;$
+Ver:Inf;ir;Ver:;issons;$
+Ver:Inf;ir;Ver:;issez;$
+Ver:Inf;ir;Ver:;issent;$
+Ver:Inf;ir;Ver:;irai;$
+Ver:Inf;ir;Ver:;irais;$
+Ver:Inf;ir;Ver:;irait;$
+Ver:Inf;ir;Ver:;irons;$
+Ver:Inf;ir;Ver:;irez;$
+Ver:Inf;ir;Ver:;iraient;$
+Ver:Inf;ir;Ver:;issais;$
+Ver:Inf;ir;Ver:;issait;$
+Ver:Inf;ir;Ver:;issions;$
+Ver:Inf;ir;Ver:;issiez;$
+Ver:Inf;ir;Ver:;issaient;$
+Ver:Inf;er;Nom:;oir;ger
+Ver:Inf;er;Nom:;oire;ger
+Ver:Inf;ger;Nom:;geoir;$
+Ver:Inf;ger;Nom:;geoire;$
+Ver:Inf;er;Ver:;e;$
+Ver:Inf;er;Ver:;es;$
+Ver:Inf;er;Ver:;ons;ger
+Ver:Inf;ger;Ver:;geons;$
+Ver:Inf;er;Ver:;ez;$
+Ver:Inf;er;Ver:;ent;$
+Ver:Inf;er;Ver:;ais;ger
+Ver:Inf;ger;Ver:;geais;$
+Ver:Inf;er;Ver:;ait;ger
+Ver:Inf;ger;Ver:;geait;$
+Ver:Inf;er;Ver:;aient;ger
+Ver:Inf;ger;Ver:;geaient;$
+Ver:Inf;er;Ver:;iez;$
+Ver:Inf;er;Ver:;ions;$
+Ver:Inf;er;Ver:;erais;$
+Ver:Inf;er;Ver:;erai;$
+Ver:Inf;er;Ver:;erait;$
+Ver:Inf;er;Ver:;eraient;$
+Ver:Inf;er;Ver:;erions;$
+Ver:Inf;er;Ver:;eriez;$
+Ver:Inf;er;Ver:;erons;$
+Ver:Inf;er;Ver:;erez;$
+Ver:Inf;er;Ver:;ai;ger
+Ver:Inf;er;Ver:;a;ger
+Ver:Inf;er;Ver:;as;ger
+Ver:Inf;er;Ver:;âmes;ger
+Ver:Inf;er;Ver:;âtes;ger
+Ver:Inf;er;Ver:;èrent;$
+Ver:Inf;er;Ver:;asse;ger
+Ver:Inf;er;Ver:;asses;ger
+Ver:Inf;er;Ver:;assions;ger
+Ver:Inf;er;Ver:;assiez;ger
+Ver:Inf;er;Ver:;assent;ger
+Ver:Inf;ger;Ver:;geai;$
+Ver:Inf;ger;Ver:;gea;$
+Ver:Inf;ger;Ver:;geas;$
+Ver:Inf;ger;Ver:;geâmes;$
+Ver:Inf;ger;Ver:;geâtes;$
+Ver:Inf;ger;Ver:;geasse;$
+Ver:Inf;ger;Ver:;geasses;$
+Ver:Inf;ger;Ver:;geassions;$
+Ver:Inf;ger;Ver:;geassiez;$
+Ver:Inf;ger;Ver:;geassent;$
+Ver:Inf;er;Nom:;e;$
+Ver:Inf;er;Adj:;ant;$
+Ver:Inf;er;Adj:;eant;ger
+Ver:Inf;ger;Adj:;geant;$
+Ver:Inf;er;Adj:;ible;$
+Ver:Inf;er;Nom:;ail;ger
+Ver:Inf;er;Nom:;aille;ger
+Ver:Inf;ger;Nom:;geail;$
+Ver:Inf;ger;Nom:;geaille;$
+Ver:Inf;er;Nom:;ation;ger
+Ver:Inf;ger;Nom:;geation;$
+Ver:Inf;er;Nom:;ant;$
+Ver:Inf;er;Adj:;able;ger
+Ver:Inf;ger;Adj:;geable;$
+Ver:Inf;er;Nom:;ette;$
+Ver:Inf;ner;Nom:;naison;$
+Ver:Inf;ner;agent;nier;$
+Ver:Inf;ner;Nom:;naison;$
+Ver:Inf;ter;Nom:;tement;$
+Ver:Inf;ser;Nom:;sation;$
+Ver:Inf;uer;Nom:;cation;$
+Ver:Inf;ger;Nom:;geur;$
+Ver:Inf;ister;Nom:;istance;$
+Ver:Inf;quer;Nom:;cation;$
+Ver:Inf;quer;Nom:;quage;$
+Ver:Inf;dir;Nom:;d;$
+Ver:Inf;lir;Nom:;lissage;$
+Ver:Inf;ller;Nom:;l;$
+Ver:Inf;” “;Nom:;iteur;$
+Ver:Inf;” “;Nom:;ateur;$
+Nom:;r;Nom:;se;$
+Nom:;ier;Ver:Inf;er;$
+Nom:;ier;Nom:;ière;$
+Nom:;e;Nom:;es;$
+Nom:;e;Nom:;ation;$
+Nom:;e;Nom:;atisation;$
+Nom:;e;Adj:;able;$
+Nom:;e;Nom:;age;$
+Nom:;e;Nom:;aison;$
+Nom:;e;Nom:;isme;$
+Nom:;e;Nom:;iste;$
+Nom:;e;Ver:Inf;ir;$
+Nom:;e;Nom:;aire;$
+Nom:;e;Nom:;iaire;$
+Nom:;e;Nom:;ale;$
+Nom:;e;Nom:;al;$
+Nom:;e;Adj:;al;$
+Nom:;e;Adj:;ale;$
+Nom:;e;Adj:;elle;$
+Nom:;e;Adj:;acé;$
+Nom:;e;Adj:;an;$
+Nom:;e;Adj:;ane;$
+Nom:;e;Adj:;ain;$
+Nom:;e;Adj:;aine;$
+Nom:;e;Nom:;ard;$
+Nom:;e;Nom:;arde;$
+Nom:;ier;Nom:;eraie;$
+Nom:;eur;Nom:;euse;$
+Nom:;er;Nom:;ance;$
+Nom:;ale;Nom:;ales;$
+Nom:;al;Nom:;aux;$
+Adj:;” ”;Adv:;ante;$
+Adj:;ant;Adv:;amment;$
+Adj:;ante;Adv:;amment;$
+Adj:;tif;Nom:;tivité;$
+Adv:;ant;Nom:;ance;$
+Adv:;ante;Nom:;ance;$

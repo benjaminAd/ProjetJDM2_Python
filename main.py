@@ -2,12 +2,15 @@ import requests
 
 
 class Regle:
-    def __init__(self, head, body):
-        self.head = head
-        self.body = body
+    def __init__(self, baseType, endWord, transformType, transformation, last):
+        self.baseType = baseType
+        self.endWord = endWord
+        self.transformType = transformType
+        self.transformation = transformation
+        self.last = last
 
     def toString(self):
-        print(self.body, '=>', self.head)
+        print(self.baseType, ' & ', self.endWord, ' => ', self.transformType, ' & ', self.transformation)
 
 
 class Regles:
@@ -19,8 +22,8 @@ class Regles:
                 line = reader.readline()
                 while line != '':
                     separateLine = line.split(';')
-                    self.regles.append(Regle(separateLine[0].replace(" ", "").replace("\n", ""),
-                                             separateLine[1].replace(" ", "").replace("\n", "")))
+                    self.regles.append(
+                        Regle(separateLine[0], separateLine[1], separateLine[2], separateLine[3], separateLine[4]))
                     line = reader.readline()
         finally:
             file.close()
@@ -66,8 +69,11 @@ class JDM:
 
     def checkRule(self):
         for rule in self.regles.regles:
-            if rule.head[0] == "*":
-                print(rule.head)
+            if rule.baseType == 'Ver:Inf':
+                length = len(rule.endWord)
+                endword = self.mot[-length:]
+                if endword == rule.endWord:
+                    print(self.mot.replace(endword, rule.transformation))
 
     def separateData(self, Data):
         for line in Data.split("\n"):
@@ -99,6 +105,6 @@ class JDM:
 
 
 if __name__ == '__main__':
-    jdm = JDM("jardinage")
+    jdm = JDM("finir")
     jdm.separateData(jdm.requestToJDM())
     jdm.checkRule()
