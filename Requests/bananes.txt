@@ -1,0 +1,1743 @@
+<CODE>
+// DUMP pour le terme 'bananes' (eid=420990)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;8;'n_chunk'
+nt;10;'n_relation'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;200;'n_context'
+nt;444;'n_link'
+nt;666;'n_AKI'
+nt;777;'n_wikipedia'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;420990;'bananes';1;58
+e;16033;'cuisine';1;11418
+e;34046;'banane';1;750
+e;89760;'fruits';1;664
+e;152552;'Cuisine';1;156
+e;153764;'bananer';1;56
+e;214275;'cuisine>143757';1;1928;'cuisine>art culinaire'
+e;1906544;'bananes et patates douces en feuilles de bananier';1;0
+e;2348396;'bananes mûre';1;0
+e;3744864;'tarte banane - chocolat';1;0
+e;3744939;'sorbet malin super rapide';1;0
+e;3746214;'pavlova banoffee';1;0
+e;3762435;'ingrédient de recette de cuisine';1;2
+e;14364053;'::>66:73893>24:130164';8;0;'singe [peut] manger'
+e;14493077;'::>66:118790>24:14492094';8;0;'cuisinier [peut] faire flamber'
+e;14496881;'::>66:118790>24:14496877';8;0;'cuisinier [peut] faire flamber [objet] bananes'
+e;14540329;'::>66:73893>24:14540327';8;0;'singe [peut] manger [objet] bananes'
+e;14282427;'bananes>2946892';1;0;'bananes>Ver:Conjug'
+e;14282428;'bananes>171870';1;0;'bananes>Nom:'
+e;14298315;'bananes>171869';1;0;'bananes>Adj:'
+e;146893;'Nom:Fem+PL';4;50
+e;161710;'Ver:IPre+SG+P2:SPre+SG+P2';4;50
+e;161717;'Ver:IPre+SG+P2';4;50
+e;161718;'Ver:SPre+SG+P2';4;50
+e;171869;'Adj:';4;50
+e;171870;'Nom:';4;50
+e;212235;'Ver:';4;50
+e;2586628;'Gender:Fem';4;0
+e;2586630;'Number:Plur';4;0
+e;2935005;'VerbalTime:Present';4;0
+e;2946892;'Ver:Conjug';4;0
+e;3093590;'VerbalMode:Indicatif';4;0
+e;3093591;'VerbalMode:Subjonctif';4;0
+e;14270943;'VerbalPers:P2';4;0
+e;14270945;'VerbalNumber:SG';4;0
+e;3359178;'bananes au citron';1;0
+e;3359179;'bananes au citron vert';1;0
+e;3359180;'bananes au four';1;0
+e;3359181;'bananes au jambon et béchamel au curry';1;0
+e;3359182;'bananes au jambon et moutarde';1;0
+e;3359183;'bananes au lait de coco et perles de tapioca';1;0
+e;3359184;'bananes au lait de coco tout simple';1;0
+e;3359185;'bananes au miel';1;0
+e;3359186;'bananes au pralin';1;0
+e;3359187;'bananes beauharnais';1;0
+e;3359188;'bananes et clémentines aux épices';1;0
+e;3359189;'bananes et poires rôties au lait de coco';1;0
+e;3359190;'bananes flambées';1;2
+e;3359191;'bananes flambées au cognac';1;0
+e;3359192;'bananes flambées au miel';1;0
+e;3359193;'bananes frites';1;0
+e;3359194;'bananes glacées au citron';1;0
+e;3359195;'bananes grillées';1;0
+e;3359196;'bananes malgaches';1;0
+e;3359197;'bananes rôties au bacon et riz aux raisins';1;0
+e;3359198;'bananes vapeur mode antillaise';1;0
+e;3365187;'bananes au jambon, moutarde à l'estragon';1;0
+e;3365188;'bananes malaxées, cameroun';1;0
+e;3751086;'bananes bien mûres';1;0
+e;3751213;'bananes écrasées';1;0
+e;3752349;'bananes mûres écrasées';1;0
+e;3752640;'bananes épluchées et coupées en dans le sens de la longueur';1;0
+e;3753010;'bananes écrasées très mûres';1;0
+e;3753067;'bananes bien mûres écrasées';1;0
+e;3754309;'bananes coupées en tranches';1;0
+e;3754720;'bananes coupées en tranches épaisses';1;0
+e;3754737;'bananes épluchées et écrasées à la fourchette';1;0
+e;3755084;'bananes fermes';1;0
+e;3755138;'bananes réduites en bouillie';1;0
+e;3755854;'bananes coupées en rondelles et congelées';1;0
+e;3756271;'bananes pelées et coupées en cubes';1;0
+e;3756419;'bananes pelées surgelées';1;0
+e;3757119;'bananes bien mûres écrasées en purée';1;0
+e;3757673;'bananes découpées en tranches';1;0
+e;3757682;'bananes coupées en rondelles';1;0
+e;3758244;'bananes fermes coupées en dans la longueur';1;0
+e;3758675;'bananes pelées';1;0
+e;3763654;'bananes plantains';1;0
+e;14496879;'::>66:420990>26:14492094';8;0;'bananes [se faire] faire flamber'
+e;14540328;'::>66:420990>26:130164';8;0;'bananes [se faire] manger'
+e;227011;'quiche>177321';1;62;'quiche>préparation culinaire'
+e;213580;'régime de bananes';1;50
+e;1906630;'mousse de bananes au citron vert et à l'anis étoilé';1;0
+e;3159438;'liqueur de bananes';1;0
+e;3159732;'Daiquiri aux bananes';1;0
+e;3318412;'bananes au chocolat faciles au four à micro-ondes';1;0
+e;3318637;'gâteau bananes, chocolat et noix';1;0
+e;3318654;'muffins fraises bananes, sans beurre';1;0
+e;3318762;'gâteau bananes et graines de sésame';1;0
+e;3319406;'Union des pays exportateurs de bananes';1;0
+e;3321777;'pommes-fraises-bananes';1;0
+e;3359214;'barres bananes chocolat';1;0
+e;3359250;'beignets de bananes plantain';1;0
+e;3359251;'beignets de bananes plantain sucrés';1;0
+e;3359292;'biscottes aux bananes';1;0
+e;3359544;'boulgour aux bananes et aux raisins secs';1;0
+e;3360016;'cake moelleux bananes - pommes et pépites de chocolat';1;0
+e;3360332;'charlotte aux rondelles de bananes et aux raisins secs';1;0
+e;3360356;'charlottes aux bananes et à la noix de coco';1;0
+e;3360540;'clafoutis aux bananes et coco';1;0
+e;3360579;'clafoutis flambé aux bananes';1;0
+e;3360679;'compote pommes - bananes à la cannelle';1;0
+e;3360706;'confiture pêches - bananes';1;0
+e;3361044;'crème de bananes';1;0
+e;3361155;'crêpes fourrées au mascarpone et marmelade de bananes';1;0
+e;3361352;'croustilles bananes et chocolat';1;0
+e;3361453;'crumble pommes bananes';1;0
+e;3361454;'crumble pommes - bananes à la noix de coco';1;0
+e;3361456;'crumble pommes bananes crème de marrons';1;0
+e;3361620;'délice de bananes';1;0
+e;3362309;'flan aux bananes et aux oranges';1;0
+e;3362374;'flan pommes bananes express';1;0
+e;3362749;'gâteau à la vanille et aux bananes flambées';1;0
+e;3363310;'glace minute bananes - framboises';1;0
+e;3363389;'gratin de bananes au rhum';1;0
+e;3364784;'muffin bananes et pépites de chocolat';1;0
+e;3364830;'muffins bananes au coeur biolette';1;0
+e;3365348;'chaussons aux pommes, bananes et raisins secs';1;0
+e;3365478;'crumble bananes, citrons verts et noix de coco';1;0
+e;3365482;'crumble pommes, bananes et framboises';1;0
+e;3365484;'crumble pommes, poires et bananes';1;0
+e;3365971;'omelette tropicale flambée, aux ananas et aux bananes';1;0
+e;3365996;'pain aux bananes et aux fraises, banana and strawberry bread';1;0
+e;3365997;'pain aux bananes et noix';1;0
+e;3366181;'pannequets de bananes';1;0
+e;3366220;'papillotes de bananes';1;0
+e;3367244;'porc au curry, pommes et bananes';1;0
+e;3367262;'porc des îles aux bananes et à l'ananas';1;0
+e;3367764;'pudding de bananes au chocolat';1;0
+e;3370255;'tarte à la rhubarbe et aux bananes';1;0
+e;3370266;'tarte à la ricotta et bananes';1;0
+e;3370395;'tarte au lait de coco aux bananes ou aux pommes';1;0
+e;3370467;'tarte aux amandes et aux bananes';1;0
+e;3370472;'tarte aux bananes et compote pomme banane';1;0
+e;3370473;'tarte aux bananes flambées au rhum';1;0
+e;3370842;'tarte frangipane aux bananes et chocolat';1;0
+e;3370952;'tarte poires, bananes, et chocolat ultra-simple';1;0
+e;3371567;'tortillas sucrées aux bananes et sauce caramel';1;0
+e;3372213;'coco-bananes';1;0
+e;3372361;'bananes-noix';1;0
+e;3372405;'pommes-bananes-raisin';1;0
+e;3372408;'courgettes-bananes';1;0
+e;3373531;'pommes-bananes';1;0
+e;3373533;'bananes-framboises';1;0
+e;3744809;'nems aux bananes et aux fraises';1;0
+e;3746148;'diplomates fraises bananes';1;0
+e;3754068;'grosses bananes';1;0
+e;3755788;'rondelles de bananes surgelées';1;0
+e;3758136;'petites bananes coupées en morceaux';1;0
+e;3758163;'grosses bananes mûres réduites en bouillie';1;0
+e;3759361;'tartelettes noisettes bananes cacao de kiwi-forme (léger sans céréales végétalien)';1;0
+e;5807300;'ketchup de bananes';777;0
+e;5807308;'sauce de bananes';777;0
+e;11129482;'hangar à bananes';777;0
+e;11150742;'araignée des bananes';777;0
+e;11933768;'culture des bananes';1;0
+e;13755386;'c1d famille albulidae - albulidés - bananes de mer, albules';1;0
+e;14159721;'comparer des pommes et des bananes';1;0
+e;15680370;'c'était des bananes';1;0
+e;16163809;'gratin léger d'ananas et bananes meringué';1;6
+e;151553;'_FL:0';6;50
+e;91218;'comestibles';1;52
+e;160635;'vertes';1;114
+e;1978912;'caramélisées';1;8
+e;2029526;'bouillies';2;0
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+e;59879;'éplucher';1;394
+e;79307;'faire revenir';1;152
+e;130164;'manger';1;10180
+e;257879;'faire frire';1;64
+e;392003;'couper en petits morceaux';1;8
+e;14364052;'::>13:73893>29:130164';8;0;'manger [sujet] singe'
+e;14492094;'faire flamber';1;0
+e;14493071;'::>13:118790>29:14492094';8;0;'faire flamber [sujet] cuisinier'
+e;14496877;'::>14:420990>29:14492094';8;0;'faire flamber [objet] bananes'
+e;14540327;'::>14:420990>29:130164';8;0;'manger [objet] bananes'
+e;14330;'satisfaction';1;614
+e;28453;'bonheur';1;2180
+e;91691;'surprise';1;1186
+e;103405;'indifférence';1;610
+e;223172;'_POL-NEG';36;50
+e;223173;'_POL-POS';36;50
+e;241794;'_POL-NEUTRE';36;50
+e;254876;'_POL-POS_PC';36;50
+e;254877;'_POL-NEUTRE_PC';36;50
+e;254878;'_POL-NEG_PC';36;50
+e;276096;'_INFO-WIKI-YES';36;50
+e;438949;'_INFO-POLYMORPHIC';36;50
+e;1912917;'_INFO-COUNTABLE-YES';36;0
+e;12911;'bananier';1;196
+e;2325266;':r33825169';10;0
+e;2345224;':r34507674';10;0
+e;3372194;':r86127076';10;0
+e;4530290;':r93757288';10;0
+e;8785670;':r182812702';10;0
+e;10961248;':r86125280';10;0
+e;11123407;':r93708433';10;0
+e;11124242;':r93680796';10;0
+e;11124496;':r93675531';10;0
+e;11125627;':r93669089';10;0
+e;12054099;':r86125420';10;0
+e;14491591;':r368209526';10;0
+e;14689849;':r368209017';10;0
+e;12696324;'122e51002347b7ba3fb01976a691f33f';200;0
+e;12716119;'5268b2a89018c9d6d8fa4f3904a31900';200;0
+e;12733718;'c5a6d013931e2cfd0da67a427e54a494';200;0
+e;12733729;'702db0a7ced5bce686ae65914daf832c';200;0
+e;12734454;'fe3ea9d0baa68a0a3fe4aa1d2236da03';200;0
+e;12907181;'e9ec51033e7b1f6fc294470ad14cb6a0';200;0
+e;12989497;'10c5d262f41ce295b71541f9e436186d';200;0
+e;13518897;'67dd631540bba27e7aa424ef27026c28';200;0
+e;13603028;'3980973a288c30a3c69554baad99f4db';200;0
+e;13603059;'ca585a0bbe8a17c5fa3a7053fa0470c1';200;0
+e;14129438;'c9f20b5cdf23f16aeba4b20326ae0a0c';200;0
+e;14139996;'fa20d020cb3c5d7ddb4d968384217928';200;0
+e;14160773;'95a8ea6862fe8b6ae4174a0412d4e50a';200;0
+e;14558500;'f40ea59c7d15cfe2f082fa4c25f9fd41';200;0
+e;14771309;'cdc20fec67a8a2b21135dee79fa5297a';200;0
+e;3228593;'wiki:@';444;0
+e;3383530;'bn:00008268n';444;0
+e;2983124;'_SW';36;50
+e;668;'bouturage';1;56
+e;1921;'Honduras';1;58
+e;8809;'diversification';1;60
+e;10655;'Indus';1;54
+e;12860;'calcium';1;262
+e;13842;'figue';1;134
+e;14254;'Cameroun';1;82
+e;16746;'alimentaire';1;220
+e;30522;'Louvain';1;50
+e;32206;'potassium';1;116
+e;33998;'Asie du Sud-Est';1;116
+e;38128;'phosphore';1;94
+e;42683;'parasites';1;80
+e;42719;'arabe';1;487
+e;43786;'nectar';1;294
+e;52255;'arbre';1;5268
+e;59315;'Cavendish';1;52
+e;65825;'oligopolistique';1;50
+e;73703;'inflorescence';1;72
+e;77750;'chauves-souris';1;50
+e;79302;'Sainte-Lucie';1;54
+e;83522;'Belgique';1;606
+e;85081;'pulpe';1;272
+e;87286;'fruit';1;6137
+e;89912;'agrumes';1;170
+e;91083;'biotechnologies';1;52
+e;93528;'raisin';1;1092
+e;94682;'bantou';1;52
+e;98428;'carry';1;50
+e;106858;'Antilles';1;164
+e;108952;'baie';1;326
+e;109752;'Philippines';1;60
+e;112428;'rhizome';1;132
+e;116226;'Alexandre le Grand';1;140
+e;118879;'parasitose';1;152
+e;122178;'portugais';1;324
+e;124092;'fer';1;1308
+e;125808;'Marco Polo';1;50
+e;133449;'éthylène';1;62
+e;138879;'Inde';1;596
+e;141045;'Orange';1;88
+e;142209;'Sucre';1;50
+e;142716;'C';1;1374
+e;143220;'B';1;1354
+e;145382;'orange';1;1834
+e;146396;'Japon';1;1174
+e;148106;'arabes';1;104
+e;148362;'graines';1;148
+e;152228;'Botanique';1;90
+e;154768;'Alimentation';1;54
+e;157516;'sucres';1;76
+e;161398;'Portugais';1;50
+e;168380;'Panama';1;30
+e;179763;'Arabe';1;56
+e;191664;'banane plantain';1;56
+e;230960;'Pisang Ambon';1;50
+e;239598;'Ceylan';1;46
+e;259547;'ovules';1;60
+e;273066;'hydrates de carbone';777;50
+e;275204;'Centre national de ressources textuelles et lexicales';777;50
+e;402023;'Arbre';1;50
+e;404302;'Cale';1;50
+e;408617;'Fer';1;50
+e;413079;'Baie';1;50
+e;414044;'Raisin';1;50
+e;418410;'stériles';1;50
+e;431214;'Graine';1;50
+e;565838;'cales';1;52
+e;622954;'babafigue';777;0
+e;694578;'Éthylène';1;0
+e;1492195;'La Recherche';1;0
+e;214799;'régime>113902';1;192;'régime>alimentation'
+e;214801;'régime>21383';1;50;'régime>débit'
+e;214802;'régime>36100';1;24;'régime>régime politique'
+e;214803;'régime>214318';1;50;'régime>régime moteur'
+e;453404;'régime>54490';1;50;'régime>grammaire'
+e;5537833;'régime>3183799';1;0;'régime>ensemble de règles'
+e;5537837;'régime>5517128';1;12;'régime>mode d'organisation'
+e;5537848;'régime>5537845';1;0;'régime>phénomènes naturels'
+e;5537884;'régime>146050';1;0;'régime>militaire'
+e;230759;'artichaud';666;50
+e;127867;'régime';1;842
+e;214800;'régime>213580';1;50;'régime>régime de bananes'
+e;2553828;'cercosporiose';1;0
+e;15440766;'en:bunch of bananas';1;0
+e;2363091;'s'autopeluredebananiser';1;0
+e;16163826;'tarte à la banane meringuée';1;0
+e;16166022;'bonbons croustillants à la banane';1;0
+e;6905841;'en:food';1;0
+e;15257940;'en:eatables';1;0
+e;15257941;'en:edibles';1;0
+e;73893;'singe';1;872
+e;220183;'singe>33840';1;152;'singe>primate'
+e;284935;'joupara';777;50
+e;284936;'poto';777;50
+e;284937;'yellow maucauco';777;50
+e;50788;'kinkajou';1;50
+e;460933;'Cercoleptes caudivolvulus';777;50
+e;287617;'Basankusu';777;50
+e;417911;'Guppy';1;50
+e;294949;'Poecilia reticulata';777;50
+e;14141;'Équateur';1;78
+e;299974;'République d'Équateur';777;50
+e;299975;'République de l'Équateur';777;50
+e;462495;'Angwantibo du Nord';777;50
+e;462496;'Arctocebus calabarensis';777;50
+e;462497;'Arctocèbe de Calabar';777;50
+e;306882;'angwantibo de Calabar';777;50
+e;310590;'noix brésilienne';777;50
+e;310591;'noix d'Amazonie';777;50
+e;465070;'châtaigne du Brésil';777;50
+e;310592;'castanha-do-Pará';777;50
+e;23292;'Martinique';1;134
+e;465332;'Madiana';777;50
+e;465333;'Madinina';777;50
+e;465334;'ioüanacéra';777;50
+e;465335;'l'île aux iguanes';777;50
+e;331834;'musacée';1;50
+e;111711;'Musacées';1;50
+e;293766;'bananiers';777;50
+e;116196;'Musa';1;50
+e;399061;'bananière';1;50
+e;138874;'herbe';1;1772
+e;405214;'Herbe';1;50
+e;144147;'Madère';1;64
+e;279565;'région autonome de Madère';777;50
+e;407066;'madeira';1;50
+e;407510;'Régime';1;50
+e;408511;'Shi';1;50
+e;422962;'shi';1;50
+e;68096;'ouistiti pygmée';1;50
+e;298366;'Cebuella pygmaea';777;50
+e;298367;'Callithrix pygmaea';777;50
+e;409862;'Cebuella';1;50
+e;6176;'fluorescence';1;64
+e;416378;'fluorescente';1;50
+e;190987;'îles Canaries';1;40
+e;423554;'canaries';1;52
+e;131274;'Queensland';1;52
+e;274696;'Sunshine State';777;50
+e;49807;'mélatonine';1;66
+e;289944;'hormone du sommeil';777;50
+e;461273;'phytomélatonine';777;50
+e;144490;'musacées';1;50
+e;86996;'équatorien';1;50
+e;156157;'république bananière';1;86
+e;32106;'Tamale';1;50
+e;58067;'Albert Schweitzer';1;52
+e;60441;'pourghère';1;50
+e;124270;'Port-Vendres';1;56
+e;169480;'jaune citron';1;56
+e;88409;'fluorescent';1;86
+e;228062;'minijupe';1;54
+e;57135;'mini-jupe';1;224
+e;54990;'jupette';1;174
+e;152931;'mini jupe';1;64
+e;179490;'microjupe';1;2
+e;65846;'pain grillé';1;166
+e;92142;'toast';1;230
+e;68470;'rôtie';1;76
+e;161247;'fruits et légumes';1;136
+e;271803;'Îles Canaries';777;50
+e;2581;'Maharashtra';1;50
+e;114119;'Guatemala';1;80
+e;173154;'Guatémala';1;50
+e;284117;'République du Guatemala';777;50
+e;284118;'République du Guatémala';777;50
+e;30841;'guatémaltèque';1;50
+e;39483;'bananeraie';1;66
+e;179937;'rhinocéros de Bourbon';1;50
+e;190997;'îles Pitcairn';1;50
+e;270912;'révolution néolithique';666;50
+e;306884;'potto de Calabar';777;50
+e;404105;'figues';1;56
+e;1468884;'archipel d'Ogasawara';777;0
+e;57913;'Machala';1;50
+e;21934;'martiniquais';1;56
+e;52800;'Tozeur';1;50
+e;52340;'Yunnan';1;54
+e;230447;'Yoshi';1;6
+e;47467;'Fouta-Djalon';1;50
+e;289917;'Fouta Djallon';777;50
+e;461900;'Non évalué';777;50
+e;1858390;'réactions de Maillard';777;0
+e;1856519;'Cairns';1;0
+e;258032;'micro jupe';1;14
+e;315897;'martiniquaise';1;50
+e;1922849;'patuline';1;0
+e;215337;'gloubi-boulga';1;50
+e;2360060;'micro-jupe';1;0
+e;2372989;'murisserie';1;0
+e;2434588;'Frutigen';1;0
+e;2478118;'Toussiana';1;0
+e;2483602;'thiabendazole';1;0
+e;2926639;'Kinkajou';1;0
+e;2872080;'Préoccupation mineure';777;0
+e;232430;'noix du Brésil';1;58
+e;2936975;'N-acétyl-5-méthoxytryptamine';777;0
+e;116460;'Santa Marta';1;50
+e;3169373;'Zostérops à dos vert';777;0
+e;307421;'Zosterops xanthochroa';777;50
+e;3173269;'Gaz banane';777;0
+e;3177217;'du Guatémala';777;0
+e;3232463;'Señorita';777;0
+e;3274957;'salade de papaye verte';777;0
+e;3274958;'tam som';777;0
+e;3274960;'tam maak hoong';777;0
+e;247912;'som tam';1;30
+e;3274961;'bok l'hong';777;0
+e;3313688;'Poto';1;0
+e;3323010;'amidon résistant';1;0
+e;217175;'cuisine vietnamienne';1;184
+e;2924240;'Cette section';777;0
+e;3370199;'tarte à la banane';1;0
+e;10431724;'Manono';777;0
+e;1814020;'île de Madère';1;0
+e;21538;'Gabès';1;58
+e;1838269;'réaction de Maillard';1;0
+e;2923199;'Données insuffisantes';777;0
+e;4313086;'crabe de cocotier';1;0
+e;1133451;'Mytho';1;0
+e;5564873;'nourriture et';777;0
+e;53002;'sexualité';1;2148
+e;5619707;'cuir de fruit';777;0
+e;5619708;'Joray Fruit Rolls';777;0
+e;5631081;'carne mechada';777;0
+e;5631079;'ropa vieja';777;0
+e;5631082;'estofado';777;0
+e;5631080;'carne desmechada';777;0
+e;5621682;'cuisine des Tuvalu';777;0
+e;5621683;'cuisine tuvaluane';777;0
+e;5622034;'mitshopo';777;0
+e;5622949;'musaceae';777;0
+e;6564670;'Changuinola';1;0
+e;3229633;'H226';777;0
+e;3322280;'EUH066';777;0
+e;272311;'Numéro index';777;50
+e;272189;'Phrases R';777;50
+e;273456;'R10';777;50
+e;282517;'R66';777;50
+e;5793534;'bière de banane';777;0
+e;5800904;'cuisine ougandaise';777;0
+e;5801586;'Distillerie Damoiseau';777;0
+e;5802842;'fanesca';777;0
+e;5803311;'flygande Jacob';777;0
+e;5804797;'gofio';777;0
+e;5804954;'Grande Riviere';777;0
+e;5805289;'gruau de fruit';777;0
+e;5805291;'gruau rouge';777;0
+e;5827776;'poivre blanc de Penja';777;0
+e;5827892;'sandwich au beurre de cacahuète et à la confiture';777;0
+e;5827894;'peanut butter and jelly sandwich';777;0
+e;5827895;'PBJ';777;0
+e;5828870;'lemang';777;0
+e;5537339;'Keropok';777;0
+e;5537340;'Kuih';777;0
+e;5831496;'Biosphère II';777;0
+e;5831498;'Biosphère 2';777;0
+e;5831912;'United Fruit Company';777;0
+e;5832136;'Chiquita Brands International';777;0
+e;5832185;'Del Monte Foods';777;0
+e;5834296;'cultivars de bananiers';777;0
+e;5836322;'Allen Welsh Dulles';777;0
+e;50567;'agriculture';1;1802
+e;5872175;'Thomas Barbour';777;0
+e;3982551;'potos';1;0
+e;5892682;'potos flavus';777;0
+e;5892684;'Belette mexicaine';777;0
+e;5892685;'Lemur flavus';777;0
+e;191561;'Donkey Kong';1;8
+e;5894300;'Shaar-Hagolan';777;0
+e;5897073;'BRATT';777;0
+e;5898842;'waragi';777;0
+e;5832903;'donator';1;0
+e;5833363;'Penja';1;0
+e;5918759;'brunissement enzymatique';777;0
+e;5922311;'Maki de Mayotte';777;0
+e;5922313;'Ankoumba';777;0
+e;4276502;'Comba';1;0
+e;5940493;'jatropha curcas';777;0
+e;5946694;'Phoneutria';777;0
+e;5946789;'Phoneutria nigriventer';777;0
+e;5875253;'Musaceae';1;0
+e;6066448;'sous-préfecture d'Ogasawara';777;0
+e;18007;'néolithique';1;54
+e;9945260;'alimentation saine et équilibrée';777;0
+e;41260;'amidon';1;100
+e;9601933;'Personnages de la série de jeux vidéo Monkey Island';777;0
+e;50048;'Mizoram';1;50
+e;9961955;'Gouvernement révolutionnaire populaire de la Grenade';777;0
+e;5620191;'bubur injun';777;0
+e;10060818;'Hugh Shearer';777;0
+e;2523931;'chlordécone';1;0
+e;2916885;'Képone';777;0
+e;10063611;'Merex';777;0
+e;10063612;'Curlone';777;0
+e;83797;'Samoa';1;62
+e;290460;'État indépendant des Samoa';777;50
+e;10101642;'du Samoa';777;0
+e;290462;'État indépendant des Samoa occidentales';777;50
+e;39559;'Samoa occidentales';1;50
+e;10071296;'Donkey Kong Country';777;0
+e;10119075;'dkc';777;0
+e;10961876;'riz Casimir';777;0
+e;10838082;'Magilla le gorille';777;0
+e;10058170;'Chronologie de l'économie';777;0
+e;234831;'années 1940';1;50
+e;10462314;'histoire de la ville de Miami';777;0
+e;10552306;'sciences arabes';777;0
+e;10605993;'Jacques Foccart';777;0
+e;10605994;'Jacques Koch-Foccart';777;0
+e;40104;'Cochabamba';1;50
+e;10940826;'Donkey Kong Land';777;0
+e;10940827;'dkl';777;0
+e;5534759;'ton neutre';777;0
+e;10970434;'économie de Cuba';777;0
+e;10970448;'économie de la Guinée';777;0
+e;10970495;'économie de Saint-Vincent-et-les-Grenadines';777;0
+e;10970497;'économie des Seychelles';777;0
+e;130036;'Chantal';1;50
+e;11081940;'acétate de 3-méthylbutyle';777;0
+e;6433777;'acétate d'isoamyle';1;0
+e;11081941;'acétate d'isopentyle';777;0
+e;6401322;'huile de banane';1;0
+e;11102412;'grand port maritime de Dunkerque';777;0
+e;11102413;'port autonome de Dunkerque';777;0
+e;4277993;'Villavicencio';1;0
+e;11118142;'IXe millénaire av. J.-C';777;0
+e;11118878;'Barthélemy Boganda';777;0
+e;11118970;'drapeau de la Dominique';777;0
+e;416568;'Dai';1;50
+e;11129279;'Thaïs en Chine';777;0
+e;11150740;'araignée-banane';777;0
+e;11150741;'araignée bananière';777;0
+e;11155426;'république du Guatemala';777;0
+e;11174027;'Birgus';777;0
+e;11174028;'Birgus latro';777;0
+e;11124708;'Gom';1;0
+e;11253801;'Arba Minch';777;0
+e;11253802;'Gantar';777;0
+e;11253803;'Minghi';777;0
+e;11258767;'Luis Alves';777;0
+e;11287594;'culture des Tuvalu';777;0
+e;11017722;'Cross River';777;0
+e;11305755;'Ebonyi';777;0
+e;94035;'Iloilo';1;50
+e;11341931;'El Oro';777;0
+e;11363685;'culture de Bahreïn';777;0
+e;27131;'Tarzan';1;168
+e;2434251;'mangostan';1;0
+e;11519479;'mangostanier';777;0
+e;38450;'mangoustan';1;50
+e;57355;'mangoustanier';1;50
+e;11519480;'mangoustier';777;0
+e;11519481;'mangostier';777;0
+e;5988784;'Dothideomycetes';1;0
+e;222059;'nectar de fruit';1;50
+e;11755853;'république d'Équateur';777;0
+e;11755854;'république de l'Équateur';777;0
+e;11776689;'Tour de Tarn-et-Garonne';777;0
+e;11805684;'Port-de-Paix';777;0
+e;5621645;'cuisine danoise';777;0
+e;6530921;'Aspergillus clavatus';1;0
+e;11978418;'wagons de type UIC-I';777;0
+e;309617;'fibres alimentaires';777;54
+e;2482600;'Basse-Pointe';1;0
+e;4012477;'La Matanza de Acentejo';1;0
+e;12715708;'camp-perrin';777;0
+e;142886;'Nord-Ouest';1;50
+e;12715889;'Arrondissement de Môle-Saint-Nicolas';777;0
+e;12715891;'Arrondissement de Port-de-Paix';777;0
+e;12715892;'Arrondissement de Saint-Louis-du-Nord';777;0
+e;141852;'Cavaillon';1;52
+e;184127;'riz gluant';1;70
+e;280153;'riz glutineux';1;54
+e;230908;'riz collant';1;14
+e;230909;'riz doux';1;6
+e;12981260;'archipel Ogasawara';777;0
+e;12990354;'People's Revolutionary Government of Grenada';777;0
+e;113722;'Fulton';1;50
+e;310181;'révolution sexuelle';777;2
+e;212375;'libération sexuelle';1;14
+e;418451;'Bang';1;50
+e;13519757;'Thaï en Chine';777;0
+e;3351089;'Bom';1;0
+e;10555758;'Adere';1;0
+e;13568703;'Bitui';777;0
+e;13568704;'Fa'am';777;0
+e;13568705;'Jator-Gwembe';777;0
+e;13568706;'Jui';777;0
+e;13568707;'Koffa';777;0
+e;434851;'Kom';1;50
+e;9973563;'Kwaja';1;0
+e;246674;'Kwak';1;50
+e;13568708;'Lih';777;0
+e;13568712;'Mbirikpa';777;0
+e;13568713;'Mbiripkwa';777;0
+e;13568714;'Ncha';777;0
+e;13568718;'Nking';777;0
+e;13568723;'Nwat';777;0
+e;11008050;'Mbem';1;0
+e;229867;'ti-punch';1;12
+e;308495;'ti-ponch';777;50
+e;254973;'fibre alimentaire';1;56
+e;2933792;'Figue';1;0
+e;334809;'alimentation saine';1;42
+e;14040602;'Histoire de Miami';777;0
+e;14053023;'Allen Dulles';777;0
+e;5567093;'Amidon';777;0
+e;12781165;'île de Madagascar';1;0
+e;14156239;'forêts humides et luxuriantes';777;0
+e;14156240;'savanes sèches';777;0
+e;14156241;'rizières en terrasses';777;0
+e;14311679;'Embus';777;0
+e;11247991;'Guy II de Dampierre';777;0
+e;9267656;'Contenus de qualité';777;0
+e;9267657;'Bons contenus';777;0
+e;5951228;'Sélection';1;0
+e;411314;'Programme';1;50
+e;101895;'épidémie';1;686
+e;126781;'offensive';1;128
+e;14376819;'Portrait d'un jeune homme au chapeau rouge';777;0
+e;5944317;'Mélodie du Sud';777;0
+e;14381667;'Aegidienberger';777;0
+e;100065;'quitte';1;58
+e;14387297;'Les Conjurés de Florence';777;0
+e;14465092;'Tamboril';777;0
+e;14537998;'kasiksi';777;0
+e;14537999;'Mbégé';777;0
+e;14538000;'Urwagwa';777;0
+e;14564039;'Madeleine-Angevine-Oberlin';777;0
+e;14564040;'Jaoumet';777;0
+e;2535200;'Chasselas';1;2
+e;14564041;'Admirable de Courtiller';777;0
+e;670;'Servant';1;50
+e;14564042;'Dattier de Beyrouth';777;0
+e;84032;'Italia';1;50
+e;14571829;'les fibres solubles';777;0
+e;4075108;'Les';1;0
+e;14571830;'fibres insolubles';777;0
+e;5535122;'Grandes familles de biomolécules';777;0
+e;14657226;'théorie de l'oasis';777;0
+e;14657227;'flancs vallonnés';777;0
+e;123288;'festin';1;220
+e;14657228;'théorie démographique';777;0
+e;14657229;'théorie de l'évolution et de l'intentionnalité';777;0
+e;436370;'cuisine sicilienne';1;50
+e;2601675;'Quasi menacé';777;0
+e;52354;'Caraïbes';1;106
+e;155754;'La Réunion';1;102
+e;14884058;'liste des aliments déshydratés';777;0
+e;14884059;'Le séchage des aliments';777;0
+e;14884060;'Les fruits séchés';777;0
+e;14884061;'Le séchage du poisson';777;0
+e;14884062;'labtingaw';777;0
+e;16358344;'BRAT';777;0
+e;290461;'État indépendant du Samoa';777;50
+e;15640004;'qld';777;0
+e;4220858;'glycation';1;2
+e;11544088;'province de Vientiane';777;0
+e;2428303;'CNS';1;0
+e;16140963;'Mets indonésiens à base de riz gluant';777;0
+e;16104693;'Tamale Airport';777;0
+e;5913458;'cuisine sénégalaise';777;0
+e;16241682;'teranga';777;0
+e;108750;'poissons';1;410
+e;140100;'viande';1;4970
+e;145295;'mouton';1;1628
+e;5536212;'Cette section ne cite pas suffisamment ses sources';777;0
+e;16283710;'8600-7500 av. J.-C';777;0
+e;16283711;'8850-7850 av. J.-C';777;0
+e;16283712;'8800-5100 av. J.-C';777;0
+e;16283713;'Vers 8500 av. J.-C';777;0
+e;16283714;'Vers 8550-8240 av. J.-C';777;0
+e;16283715;'Vers 9000 av. J.-C';777;0
+e;152685;'Animal';1;50
+e;18229;'Oiseau';1;54
+e;179551;'Fleur';1;2
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;2;'r_raff_morpho';'raffinement morphologique';Raffinement morphologique vers un usage particulier du terme source
+rt;3;'r_domain';'domaine';Il est demandé de fournir des domaines relatifs au mot cible. Par exemple, pour 'corner', on pourra donner les domaines 'football' ou 'sport'.
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;6;'r_isa';'générique';Il est demandé d'énumérer les GENERIQUES/hyperonymes du terme. Par exemple, 'animal' et 'mammifère' sont des génériques de 'chat'.
+rt;8;'r_hypo';'spécifique';Il est demandé d'énumérer des SPECIFIQUES/hyponymes du terme. Par exemple, 'mouche', 'abeille', 'guêpe' pour 'insecte'.
+rt;9;'r_has_part';'partie';Il faut donner des PARTIES/constituants/éléments (a pour méronymes) du mot cible. Par exemple, 'voiture' a comme parties : 'porte', 'roue', 'moteur', ...
+rt;10;'r_holo';'tout';Il est démandé d'énumérer des 'TOUT' (a pour holonymes)  de l'objet en question. Pour 'main', on aura 'bras', 'corps', 'personne', etc... Le tout est aussi l'ensemble comme 'classe' pour 'élève'.
+rt;11;'r_locution';'locution';A partir d'un terme, il est demandé d'énumérer les locutions, expression ou mots composés en rapport avec ce terme. Par exemple, pour 'moulin', ou pourra avoir 'moulin à vent', 'moulin à eau', 'moulin à café'. Pour 'vendre', on pourra avoir 'vendre la peau de l'ours avant de l'avoir tué', 'vendre à perte', etc..
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;14;'r_patient';'action>patient';Le patient (qu'on appelle aussi l'objet) est l'entité qui subit l'action. Par exemple dans - Le chat mange la souris -, le patient est la souris. Des patients typiques de manger peuvent être 'viande', 'légume', 'pain', ... (manger r_patient pain)
+rt;17;'r_carac';'caractéristique';Pour un terme donné, souvent un objet, il est demandé d'en énumérer les CARACtéristiques (adjectifs) possibles/typiques. Par exemple, 'liquide', 'froide', 'chaude', pour 'eau'.
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;23;'r_carac-1';'caractéristique-1';Quels sont les objets (des noms) possédant typiquement/possiblement la caractérisque suivante ? Par exemple, 'soleil', 'feu', pour 'chaud'.
+rt;26;'r_patient-1';'patient-1';(inverse de r_patient) Que peut-on faire à cet OBJET. Pour 'pomme', on pourrait avoir 'manger', 'croquer', couper', 'éplucher',  etc. (pomme r_patient-1 manger)
+rt;27;'r_domain-1';'domaine-1';inverse de r_domain : à un domaine, on associe des termes
+rt;32;'r_sentiment';'sentiment';Pour un terme donné, évoquer des mots liés à des SENTIMENTS ou des EMOTIONS que vous pourriez associer à ce terme. Par exemple, la joie, le plaisir, le dégoût, la peur, la haine, l'amour, l'indifférence, l'envie, avoir peur, horrible, etc.
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;50;'r_object>mater';'objet>matiere';Quel est la ou les MATIERE/SUBSTANCE pouvant composer l'objet qui suit. Par exemple, 'bois' pour 'poutre'.
+rt;51;'r_mater>object';'matière>objet';Quel est la ou les CHOSES qui sont composés de la MATIERE/SUBSTANCE qui suit (exemple 'bois' -> poutre, table, ...).
+rt;53;'r_make';'produit';Que peut PRODUIRE le terme ? (par exemple abeille -> miel, usine -> voiture, agriculteur -> blé,  moteur -> gaz carbonique ...)
+rt;54;'r_product_of';'est le produit de';Le terme est le RESULTAT/PRODUIT de qui/quoi ?
+rt;66;'r_chunk_head';'r_chunk_head';
+rt;102;'r_can_eat';'se nourrit de';De quoi peut se nourir l'animal suivant ?
+rt;115;'r_sentiment-1';'sentiment-1';Pour un SENTIMENT ou EMOTION donné, il est demandé dénumérer les termes que vous pourriez associer. Par exemple, pour 'joie', on aurait 'cadeau', 'naissance', 'bonne nouvelle', etc.
+rt;128;'r_node2relnode';'r_node2relnode';Relation entre un noeud (quelconque) et un noeud de relation (type = 10) - permet de rendre le graphe connexe même avec les annotations de relations
+rt;200;'r_context';'r_context';Relation de contexte entre un terme et un noeud contexte.
+rt;444;'r_link';'r_link';Lien vers une ressource externe (WordNet, RadLex, UMLS, Wikipedia, etc...)
+rt;555;'r_cooccurrence';'r_cooccurrence';co-occurences (non utilisée)
+rt;777;'r_wiki';'r_wiki';Associations issues de wikipedia...
+rt;999;'r_inhib';'r_inhib';relation d'inhibition, le terme inhibe les termes suivants... ce terme a tendance à exclure le terme associé.
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;15310159;420990;16033;0;65
+r;87493592;420990;34046;0;31
+r;88850201;420990;89760;0;38
+r;15704717;420990;152552;0;30
+r;87857659;420990;153764;0;32
+r;15308522;420990;214275;0;35
+r;30753957;420990;1906544;0;13
+r;34697604;420990;2348396;0;6
+r;95130007;420990;3744864;0;7
+r;95130463;420990;3744939;0;21
+r;95138642;420990;3746214;0;6
+r;245346994;420990;3762435;0;11
+r;369574262;420990;14364053;0;25
+r;368291067;420990;14493077;0;25
+r;368291083;420990;14496881;0;25
+r;369574274;420990;14540329;0;25
+r;363895048;420990;14282427;2;65
+r;363895052;420990;14282428;2;50
+r;363951560;420990;14298315;2;35
+r;14687087;420990;16033;3;62
+r;15658678;420990;152552;3;-20
+r;14691972;420990;214275;3;31
+r;14346367;420990;146893;4;57
+r;76488644;420990;161710;4;32
+r;362924307;420990;161717;4;25
+r;362932785;420990;161718;4;25
+r;329858498;420990;171869;4;25
+r;14346368;420990;171870;4;197
+r;76488645;420990;212235;4;34
+r;53989222;420990;2586628;4;45
+r;54005312;420990;2586630;4;45
+r;76488642;420990;2935005;4;29
+r;76488643;420990;2946892;4;27
+r;76488641;420990;3093590;4;35
+r;76488640;420990;3093591;4;27
+r;362949680;420990;14270943;4;25
+r;362941240;420990;14270945;4;25
+r;93816735;420990;3762435;6;112
+r;30721311;420990;1906544;8;30
+r;34663586;420990;2348396;8;36
+r;243539075;420990;3359178;8;25
+r;243539222;420990;3359179;8;25
+r;243539137;420990;3359180;8;25
+r;243539141;420990;3359181;8;25
+r;243539348;420990;3359182;8;25
+r;243539163;420990;3359183;8;25
+r;243539224;420990;3359184;8;25
+r;243539225;420990;3359185;8;25
+r;243539343;420990;3359186;8;25
+r;243539274;420990;3359187;8;25
+r;243539269;420990;3359188;8;25
+r;243539402;420990;3359189;8;25
+r;243539120;420990;3359190;8;25
+r;243539086;420990;3359191;8;25
+r;243539096;420990;3359192;8;25
+r;243539351;420990;3359193;8;25
+r;243539418;420990;3359194;8;25
+r;243539124;420990;3359195;8;25
+r;243539234;420990;3359196;8;25
+r;243539149;420990;3359197;8;25
+r;243539130;420990;3359198;8;25
+r;243544939;420990;3365187;8;25
+r;243544938;420990;3365188;8;25
+r;246137429;420990;3751086;8;25
+r;246137553;420990;3751213;8;25
+r;246145195;420990;3752349;8;25
+r;246144864;420990;3752640;8;25
+r;246144488;420990;3753010;8;25
+r;246144422;420990;3753067;8;25
+r;246143057;420990;3754309;8;25
+r;246142627;420990;3754720;8;25
+r;246142610;420990;3754737;8;25
+r;246142269;420990;3755084;8;25
+r;246142219;420990;3755138;8;25
+r;246141467;420990;3755854;8;25
+r;246140995;420990;3756271;8;25
+r;246140856;420990;3756419;8;25
+r;246140135;420990;3757119;8;25
+r;246225027;420990;3757673;8;25
+r;246139543;420990;3757682;8;25
+r;246138755;420990;3758244;8;25
+r;246138268;420990;3758675;8;25
+r;246146191;420990;3763654;8;25
+r;376237144;420990;14496879;8;25
+r;370084461;420990;14540328;8;21
+r;368209526;420990;227011;10;25
+r;93759358;420990;3744864;10;16
+r;93757288;420990;3744939;10;26
+r;93740926;420990;3746214;10;17
+r;14276671;420990;213580;11;54
+r;30716527;420990;1906544;11;60
+r;30716214;420990;1906630;11;57
+r;34661452;420990;2348396;11;51
+r;75977847;420990;3159438;11;55
+r;75981740;420990;3159732;11;57
+r;83640603;420990;3318412;11;54
+r;83641324;420990;3318637;11;52
+r;83649872;420990;3318654;11;56
+r;83651149;420990;3318762;11;53
+r;83671779;420990;3319406;11;53
+r;83674461;420990;3321777;11;51
+r;86125149;420990;3359178;11;51
+r;86127074;420990;3359179;11;59
+r;86125904;420990;3359180;11;60
+r;86126035;420990;3359181;11;54
+r;86129116;420990;3359182;11;58
+r;86126453;420990;3359183;11;54
+r;86127085;420990;3359184;11;59
+r;86127110;420990;3359185;11;54
+r;86129089;420990;3359186;11;60
+r;86127874;420990;3359187;11;54
+r;86127778;420990;3359188;11;59
+r;86129797;420990;3359189;11;57
+r;86125678;420990;3359190;11;57
+r;86125278;420990;3359191;11;57
+r;86125418;420990;3359192;11;60
+r;86129158;420990;3359193;11;60
+r;86130177;420990;3359194;11;60
+r;86125718;420990;3359195;11;57
+r;86127255;420990;3359196;11;58
+r;86126186;420990;3359197;11;53
+r;86125822;420990;3359198;11;59
+r;86126595;420990;3359214;11;53
+r;86126468;420990;3359250;11;56
+r;86219185;420990;3359251;11;59
+r;86128424;420990;3359292;11;58
+r;86182834;420990;3359544;11;53
+r;86216209;420990;3360016;11;57
+r;86230800;420990;3360332;11;53
+r;86230342;420990;3360356;11;55
+r;86234444;420990;3360540;11;58
+r;86233959;420990;3360579;11;59
+r;86215971;420990;3360679;11;57
+r;86215954;420990;3360706;11;55
+r;86243463;420990;3361044;11;55
+r;86243189;420990;3361155;11;56
+r;86245638;420990;3361352;11;53
+r;86252945;420990;3361453;11;56
+r;86215444;420990;3361454;11;51
+r;86247632;420990;3361456;11;59
+r;86252585;420990;3361620;11;52
+r;86213157;420990;3362309;11;53
+r;86212640;420990;3362374;11;52
+r;86209543;420990;3362749;11;60
+r;86204942;420990;3363310;11;55
+r;86204409;420990;3363389;11;53
+r;86193843;420990;3364784;11;53
+r;86193467;420990;3364830;11;54
+r;86190468;420990;3365187;11;51
+r;86190461;420990;3365188;11;60
+r;86188887;420990;3365348;11;53
+r;86187560;420990;3365478;11;53
+r;86187521;420990;3365482;11;55
+r;86187503;420990;3365484;11;56
+r;86182550;420990;3365971;11;52
+r;86182364;420990;3365996;11;56
+r;86182357;420990;3365997;11;55
+r;86180794;420990;3366181;11;57
+r;86180443;420990;3366220;11;58
+r;86171873;420990;3367244;11;51
+r;86171739;420990;3367262;11;58
+r;86167633;420990;3367764;11;56
+r;86146680;420990;3370255;11;57
+r;86146571;420990;3370266;11;55
+r;86145392;420990;3370395;11;51
+r;86144788;420990;3370467;11;53
+r;86144746;420990;3370472;11;56
+r;86144738;420990;3370473;11;60
+r;86141738;420990;3370842;11;54
+r;86140880;420990;3370952;11;59
+r;86135792;420990;3371567;11;53
+r;86215219;420990;3372213;11;54
+r;86221239;420990;3372361;11;56
+r;86221167;420990;3372405;11;52
+r;86221159;420990;3372408;11;59
+r;86220360;420990;3373531;11;60
+r;86220348;420990;3373533;11;60
+r;93471579;420990;3744809;11;52
+r;93498627;420990;3746148;11;52
+r;93630204;420990;3751086;11;52
+r;93632292;420990;3751213;11;52
+r;93714513;420990;3752349;11;51
+r;93711732;420990;3752640;11;57
+r;93708431;420990;3753010;11;52
+r;93707881;420990;3753067;11;51
+r;93698413;420990;3754068;11;59
+r;93696058;420990;3754309;11;51
+r;93692267;420990;3754720;11;56
+r;93692114;420990;3754737;11;60
+r;93688989;420990;3755084;11;51
+r;93688499;420990;3755138;11;55
+r;93681409;420990;3755788;11;55
+r;93680794;420990;3755854;11;57
+r;93676802;420990;3756271;11;51
+r;93675529;420990;3756419;11;53
+r;93669087;420990;3757119;11;59
+r;93663953;420990;3757673;11;56
+r;93663882;420990;3757682;11;58
+r;93659735;420990;3758136;11;57
+r;93659452;420990;3758163;11;59
+r;93658675;420990;3758244;11;53
+r;93654552;420990;3758675;11;54
+r;93648515;420990;3759361;11;51
+r;93983754;420990;3763654;11;56
+r;113289587;420990;5807300;11;31
+r;113289563;420990;5807308;11;39
+r;282716146;420990;11129482;11;50
+r;283546995;420990;11150742;11;37
+r;309082518;420990;11933768;11;36
+r;419673196;420990;13755386;11;25
+r;359716819;420990;14159721;11;25
+r;419672267;420990;15680370;11;25
+r;423616762;420990;16163809;11;26
+r;74548959;420990;151553;12;30
+r;88850204;420990;91218;17;41
+r;104909475;420990;160635;17;19
+r;34508335;420990;1978912;17;21
+r;88850205;420990;2029526;17;41
+r;89785110;420990;3575927;18;38
+r;90748798;420990;3576104;18;30
+r;14346366;420990;34046;19;58
+r;76488646;420990;153764;19;30
+r;31787879;420990;59879;26;30
+r;34130171;420990;79307;26;53
+r;369574252;420990;130164;26;30
+r;31839905;420990;257879;26;30
+r;33827061;420990;392003;26;31
+r;369574257;420990;14364052;26;30
+r;368291053;420990;14492094;26;30
+r;368291058;420990;14493071;26;30
+r;368325946;420990;14496877;26;30
+r;369675510;420990;14540327;26;30
+r;34016492;420990;14330;32;37
+r;33582653;420990;28453;32;46
+r;34072519;420990;91691;32;20
+r;102645494;420990;103405;32;13
+r;34106936;420990;223172;36;18
+r;17527553;420990;223173;36;310
+r;26166374;420990;241794;36;173
+r;27045689;420990;254876;36;62
+r;27045690;420990;254877;36;35
+r;76275683;420990;254878;36;4
+r;77848529;420990;276096;36;37
+r;363895051;420990;438949;36;29
+r;30785510;420990;1912917;36;40
+r;93900905;420990;34046;50;30
+r;182812767;420990;12911;54;70
+r;368323127;420990;14496879;66;592
+r;369660222;420990;14540328;66;602.5
+r;33825173;420990;2325266;128;1
+r;34507678;420990;2345224;128;1
+r;86127133;420990;3372194;128;2
+r;100322052;420990;4530290;128;5
+r;182812707;420990;8785670;128;1
+r;276211944;420990;10961248;128;2
+r;282427515;420990;11123407;128;1
+r;282460997;420990;11124242;128;1
+r;282466973;420990;11124496;128;1
+r;282493587;420990;11125627;128;1
+r;313787072;420990;12054099;128;1
+r;368249029;420990;14491591;128;561
+r;373805765;420990;14689849;128;13
+r;325389676;420990;12696324;200;1
+r;326285932;420990;12716119;200;1
+r;327074467;420990;12733718;200;1
+r;327074658;420990;12733729;200;1
+r;327103808;420990;12734454;200;4
+r;331281951;420990;12907181;200;1
+r;333771722;420990;12989497;200;1
+r;342419306;420990;13518897;200;3
+r;345086165;420990;13603028;200;4
+r;345086882;420990;13603059;200;4
+r;357965582;420990;14129438;200;2
+r;358681396;420990;14139996;200;2
+r;359739941;420990;14160773;200;2
+r;369928510;420990;14558500;200;2
+r;375435061;420990;14771309;200;6
+r;78042050;420990;3228593;444;29
+r;88850202;420990;3383530;444;36
+r;74041734;420990;2983124;555;4060
+r;17527609;420990;668;777;10
+r;17527600;420990;1921;777;10
+r;17527616;420990;8809;777;10
+r;17527577;420990;10655;777;10
+r;17527626;420990;12860;777;10
+r;17527561;420990;12911;777;10
+r;17527638;420990;13842;777;10
+r;17527601;420990;14254;777;10
+r;17527569;420990;16746;777;10
+r;17527604;420990;30522;777;10
+r;17527588;420990;32206;777;10
+r;17527571;420990;33998;777;10
+r;17527625;420990;38128;777;10
+r;17527603;420990;42683;777;10
+r;17527637;420990;42719;777;10
+r;17527632;420990;43786;777;10
+r;17527594;420990;52255;777;10
+r;17527623;420990;59315;777;10
+r;17527585;420990;65825;777;10
+r;17527560;420990;73703;777;10
+r;17527597;420990;77750;777;10
+r;17527606;420990;79302;777;10
+r;17527599;420990;83522;777;10
+r;17527586;420990;85081;777;10
+r;17527556;420990;87286;777;10
+r;17527612;420990;89912;777;10
+r;17527602;420990;91083;777;10
+r;17527621;420990;93528;777;10
+r;17527636;420990;94682;777;10
+r;17527633;420990;98428;777;10
+r;17527607;420990;106858;777;10
+r;17527559;420990;108952;777;10
+r;17527614;420990;109752;777;10
+r;17527595;420990;112428;777;10
+r;17527575;420990;116226;777;10
+r;17527611;420990;118879;777;10
+r;17527635;420990;122178;777;10
+r;17527629;420990;124092;777;10
+r;17527579;420990;125808;777;10
+r;17527591;420990;133449;777;10
+r;17527570;420990;138879;777;10
+r;17527617;420990;141045;777;10
+r;17527589;420990;142209;777;10
+r;17527631;420990;142716;777;10
+r;17527630;420990;143220;777;10
+r;17527618;420990;145382;777;10
+r;17527613;420990;146396;777;10
+r;17527555;420990;148106;777;10
+r;17527567;420990;148362;777;10
+r;17527563;420990;152228;777;10
+r;17527568;420990;154768;777;10
+r;17527590;420990;157516;777;10
+r;17527634;420990;161398;777;10
+r;17527598;420990;168380;777;10
+r;17527554;420990;179763;777;10
+r;17527596;420990;191664;777;10
+r;17527640;420990;230960;777;10
+r;17527573;420990;239598;777;10
+r;17527587;420990;259547;777;10
+r;17527624;420990;273066;777;10
+r;17527639;420990;275204;777;10
+r;17527593;420990;402023;777;10
+r;17527582;420990;404302;777;10
+r;17527628;420990;408617;777;10
+r;17527558;420990;413079;777;10
+r;17527620;420990;414044;777;10
+r;17527564;420990;418410;777;10
+r;17527566;420990;431214;777;10
+r;17527583;420990;565838;777;10
+r;21827334;420990;622954;777;10
+r;21827333;420990;694578;777;10
+r;26555349;420990;1492195;777;10
+r;285294453;420990;214799;999;3
+r;285294123;420990;214801;999;3
+r;285294410;420990;214802;999;3
+r;285294226;420990;214803;999;3
+r;285293941;420990;453404;999;3
+r;285294273;420990;5537833;999;3
+r;285294341;420990;5537837;999;3
+r;285293991;420990;5537848;999;3
+r;285294059;420990;5537884;999;3
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;359716820;14159721;420990;0;1
+r;419672268;15680370;420990;0;1
+r;419673197;13755386;420990;0;1
+r;425306371;230759;420990;0;1
+r;423616763;16163809;420990;0;2
+r;113289564;5807308;420990;0;5
+r;113289589;5807300;420990;0;5
+r;373307183;227011;420990;0;10
+r;309082519;11933768;420990;0;12
+r;283546996;11150742;420990;0;13
+r;93759357;3744864;420990;0;16
+r;93740925;3746214;420990;0;17
+r;15549965;152552;420990;0;22
+r;93757287;3744939;420990;0;23
+r;15229468;214275;420990;0;24
+r;368291031;14492094;420990;0;25
+r;368291048;14496877;420990;0;25
+r;368291056;14496879;420990;0;25
+r;368291066;14493077;420990;0;25
+r;368291080;14496881;420990;0;25
+r;369574238;130164;420990;0;25
+r;369574247;14540327;420990;0;25
+r;369574255;14540328;420990;0;25
+r;369574261;14364053;420990;0;25
+r;369574271;14540329;420990;0;25
+r;365001077;12911;420990;0;26
+r;98270671;127867;420990;0;28
+r;282716147;11129482;420990;0;28
+r;15231175;16033;420990;0;30
+r;88850203;214800;420990;0;34
+r;91533089;34046;420990;0;35
+r;424981688;2553828;420990;0;45
+r;411975168;15440766;420990;0;50
+r;417411527;2363091;420990;0;50
+r;423717675;16163826;420990;0;50
+r;424117208;16166022;420990;0;50
+r;86128425;3359292;420990;0;51
+r;86129159;3359193;420990;0;51
+r;86144739;3370473;420990;0;51
+r;86180795;3366181;420990;0;51
+r;86187504;3365484;420990;0;51
+r;86190469;3365187;420990;0;51
+r;86193468;3364830;420990;0;51
+r;86213158;3362309;420990;0;51
+r;86216210;3360016;420990;0;51
+r;93711733;3752640;420990;0;51
+r;93714514;3752349;420990;0;51
+r;83640604;3318412;420990;0;52
+r;83651150;3318762;420990;0;52
+r;86127779;3359188;420990;0;52
+r;86129117;3359182;420990;0;52
+r;86140881;3370952;420990;0;52
+r;86144789;3370467;420990;0;52
+r;86212641;3362374;420990;0;52
+r;86215955;3360706;420990;0;52
+r;86221168;3372405;420990;0;52
+r;86243190;3361155;420990;0;52
+r;86245639;3361352;420990;0;52
+r;86252586;3361620;420990;0;52
+r;93632293;3751213;420990;0;52
+r;93663883;3757682;420990;0;52
+r;93688990;3755084;420990;0;52
+r;86126187;3359197;420990;0;53
+r;86126469;3359250;420990;0;53
+r;86130178;3359194;420990;0;53
+r;86141739;3370842;420990;0;53
+r;86146681;3370255;420990;0;53
+r;86188888;3365348;420990;0;53
+r;86193844;3364784;420990;0;53
+r;86209544;3362749;420990;0;53
+r;86252946;3361453;420990;0;53
+r;93498628;3746148;420990;0;53
+r;93648516;3759361;420990;0;53
+r;93708432;3753010;420990;0;53
+r;86125679;3359190;420990;0;54
+r;86125719;3359195;420990;0;54
+r;86126596;3359214;420990;0;54
+r;86127875;3359187;420990;0;54
+r;86135793;3371567;420990;0;54
+r;86182358;3365997;420990;0;54
+r;86187561;3365478;420990;0;54
+r;86190462;3365188;420990;0;54
+r;86204410;3363389;420990;0;54
+r;86215445;3361454;420990;0;54
+r;86220361;3373531;420990;0;54
+r;86221240;3372361;420990;0;54
+r;86243464;3361044;420990;0;54
+r;83641325;3318637;420990;0;55
+r;86125419;3359192;420990;0;55
+r;86127086;3359184;420990;0;55
+r;86127111;3359185;420990;0;55
+r;86127256;3359196;420990;0;55
+r;86171874;3367244;420990;0;55
+r;86182551;3365971;420990;0;55
+r;86215220;3372213;420990;0;55
+r;86215972;3360679;420990;0;55
+r;86233960;3360579;420990;0;55
+r;93654553;3758675;420990;0;55
+r;93659736;3758136;420990;0;55
+r;93675530;3756419;420990;0;55
+r;93688500;3755138;420990;0;55
+r;93692115;3754737;420990;0;55
+r;83649873;3318654;420990;0;56
+r;86125150;3359178;420990;0;56
+r;86129090;3359186;420990;0;56
+r;86180444;3366220;420990;0;56
+r;86204943;3363310;420990;0;56
+r;86220349;3373533;420990;0;56
+r;93658676;3758244;420990;0;56
+r;93663954;3757673;420990;0;56
+r;93692268;3754720;420990;0;56
+r;93983755;3763654;420990;0;56
+r;83671780;3319406;420990;0;57
+r;86127075;3359179;420990;0;57
+r;86129798;3359189;420990;0;57
+r;86144747;3370472;420990;0;57
+r;86171740;3367262;420990;0;57
+r;86182365;3365996;420990;0;57
+r;86219186;3359251;420990;0;57
+r;86230801;3360332;420990;0;57
+r;93659453;3758163;420990;0;57
+r;93676803;3756271;420990;0;57
+r;93698414;3754068;420990;0;57
+r;14276672;213580;420990;0;58
+r;30716215;1906630;420990;0;58
+r;30716528;1906544;420990;0;58
+r;83674462;3321777;420990;0;58
+r;86125905;3359180;420990;0;58
+r;86126036;3359181;420990;0;58
+r;86126454;3359183;420990;0;58
+r;86167634;3367764;420990;0;58
+r;86182836;3359544;420990;0;58
+r;86187522;3365482;420990;0;58
+r;86221160;3372408;420990;0;58
+r;86234445;3360540;420990;0;58
+r;86247633;3361456;420990;0;58
+r;93471580;3744809;420990;0;58
+r;93630205;3751086;420990;0;58
+r;93669088;3757119;420990;0;58
+r;34661453;2348396;420990;0;59
+r;75981741;3159732;420990;0;59
+r;86125279;3359191;420990;0;59
+r;86145393;3370395;420990;0;59
+r;86146572;3370266;420990;0;59
+r;93681410;3755788;420990;0;59
+r;93707882;3753067;420990;0;59
+r;75977848;3159438;420990;0;60
+r;86125823;3359198;420990;0;60
+r;86230343;3360356;420990;0;60
+r;93680795;3755854;420990;0;60
+r;93696059;3754309;420990;0;60
+r;368291049;14496879;420990;6;25
+r;369574248;14540328;420990;6;25
+r;86125151;3359178;420990;6;26
+r;86125680;3359190;420990;6;26
+r;86125720;3359195;420990;6;26
+r;86125824;3359198;420990;6;26
+r;86125906;3359180;420990;6;26
+r;86126037;3359181;420990;6;26
+r;86126188;3359197;420990;6;26
+r;86126455;3359183;420990;6;26
+r;86127087;3359184;420990;6;26
+r;86127112;3359185;420990;6;26
+r;86127257;3359196;420990;6;26
+r;86127780;3359188;420990;6;26
+r;86127876;3359187;420990;6;26
+r;86129091;3359186;420990;6;26
+r;86129121;3359182;420990;6;26
+r;86129160;3359193;420990;6;26
+r;86129799;3359189;420990;6;26
+r;86130179;3359194;420990;6;26
+r;86190463;3365188;420990;6;26
+r;86190470;3365187;420990;6;26
+r;86125280;3359191;420990;6;31
+r;86125420;3359192;420990;6;31
+r;86127076;3359179;420990;6;31
+r;34661454;2348396;420990;6;32
+r;30716529;1906544;420990;6;39
+r;93983756;3763654;420990;6;56
+r;93658677;3758244;420990;6;62
+r;93708433;3753010;420990;6;62
+r;93675531;3756419;420990;6;63
+r;93680796;3755854;420990;6;64
+r;93669089;3757119;420990;6;65
+r;93676804;3756271;420990;6;66
+r;93692269;3754720;420990;6;68
+r;93707883;3753067;420990;6;70
+r;93696060;3754309;420990;6;71
+r;93714515;3752349;420990;6;73
+r;93630206;3751086;420990;6;74
+r;93632294;3751213;420990;6;74
+r;93663884;3757682;420990;6;74
+r;93692116;3754737;420990;6;74
+r;93654554;3758675;420990;6;75
+r;93711734;3752640;420990;6;75
+r;93663955;3757673;420990;6;78
+r;93688991;3755084;420990;6;78
+r;93688501;3755138;420990;6;80
+r;245346997;3762435;420990;8;25
+r;93606856;3744864;420990;9;34
+r;93616447;3746214;420990;9;40
+r;93607364;3744939;420990;9;41
+r;368209017;227011;420990;9;51
+r;31781618;59879;420990;14;30
+r;368291029;14492094;420990;14;30
+r;368291057;14493071;420990;14;30
+r;369574237;130164;420990;14;30
+r;369574256;14364052;420990;14;30
+r;34133244;79307;420990;14;31
+r;31834541;257879;420990;14;57
+r;33825169;392003;420990;14;57
+r;368291040;14496877;420990;14;100
+r;369574240;14540327;420990;14;100
+r;396185667;6905841;420990;23;10
+r;396186389;15257940;420990;23;10
+r;396186435;15257941;420990;23;10
+r;88910438;91218;420990;23;23
+r;88910437;2029526;420990;23;28
+r;98921439;160635;420990;23;44
+r;34507674;1978912;420990;23;57
+r;15513347;152552;420990;27;21
+r;15093672;214275;420990;27;23
+r;15095391;16033;420990;27;30
+r;376041413;34046;420990;51;25
+r;182812702;12911;420990;53;76
+r;190323443;73893;420990;102;41
+r;369574278;220183;420990;102;46
+r;385365007;28453;420990;115;25
+r;385419415;14330;420990;115;25
+r;369928555;14558500;420990;200;-1
+r;327074478;12733718;420990;200;1
+r;342419318;13518897;420990;200;2
+r;357965594;14129438;420990;200;2
+r;359739954;14160773;420990;200;2
+r;327103823;12734454;420990;200;4
+r;18731549;13842;420990;777;9
+r;109863895;12911;420990;777;9
+r;16159873;284935;420990;777;10
+r;16159874;284936;420990;777;10
+r;16159875;284937;420990;777;10
+r;16159876;50788;420990;777;10
+r;16159877;460933;420990;777;10
+r;16179945;287617;420990;777;10
+r;16235627;417911;420990;777;10
+r;16235628;294949;420990;777;10
+r;16268057;14141;420990;777;10
+r;16268058;299974;420990;777;10
+r;16268059;299975;420990;777;10
+r;16314114;462495;420990;777;10
+r;16314115;462496;420990;777;10
+r;16314116;462497;420990;777;10
+r;16314117;306882;420990;777;10
+r;16366777;310590;420990;777;10
+r;16366778;310591;420990;777;10
+r;16366779;465070;420990;777;10
+r;16366780;310592;420990;777;10
+r;16394803;23292;420990;777;10
+r;16394804;465332;420990;777;10
+r;16394805;465333;420990;777;10
+r;16394806;465334;420990;777;10
+r;16394807;465335;420990;777;10
+r;16895736;331834;420990;777;10
+r;16895735;111711;420990;777;10
+r;17267751;293766;420990;777;10
+r;17267753;116196;420990;777;10
+r;17267754;399061;420990;777;10
+r;17333657;138874;420990;777;10
+r;17333660;405214;420990;777;10
+r;17356420;144147;420990;777;10
+r;17356421;279565;420990;777;10
+r;17356422;407066;420990;777;10
+r;17361967;127867;420990;777;10
+r;17361968;407510;420990;777;10
+r;17374739;408511;420990;777;10
+r;17374742;422962;420990;777;10
+r;17392160;68096;420990;777;10
+r;17392161;298366;420990;777;10
+r;17392162;298367;420990;777;10
+r;17392163;409862;420990;777;10
+r;17447391;93528;420990;777;10
+r;17447392;414044;420990;777;10
+r;17478645;6176;420990;777;10
+r;17478646;416378;420990;777;10
+r;17555939;190987;420990;777;10
+r;17555940;423554;420990;777;10
+r;17566181;131274;420990;777;10
+r;17566182;274696;420990;777;10
+r;17712043;49807;420990;777;10
+r;17712044;289944;420990;777;10
+r;17712045;461273;420990;777;10
+r;17818684;144490;420990;777;10
+r;17871763;86996;420990;777;10
+r;17940494;156157;420990;777;10
+r;18159960;32106;420990;777;10
+r;18199430;58067;420990;777;10
+r;18203530;60441;420990;777;10
+r;18302702;124270;420990;777;10
+r;18506284;169480;420990;777;10
+r;18557174;88409;420990;777;10
+r;18625708;228062;420990;777;10
+r;18625709;57135;420990;777;10
+r;18625710;54990;420990;777;10
+r;18625711;152931;420990;777;10
+r;18639024;179490;420990;777;10
+r;18667189;65846;420990;777;10
+r;18667190;92142;420990;777;10
+r;18667191;68470;420990;777;10
+r;18755549;161247;420990;777;10
+r;18810241;271803;420990;777;10
+r;18863225;2581;420990;777;10
+r;19333835;114119;420990;777;10
+r;19333836;173154;420990;777;10
+r;19333837;284117;420990;777;10
+r;19333838;284118;420990;777;10
+r;19333839;30841;420990;777;10
+r;19405690;39483;420990;777;10
+r;19585259;179937;420990;777;10
+r;19686836;190997;420990;777;10
+r;20910968;270912;420990;777;10
+r;21224449;306884;420990;777;10
+r;22137656;404105;420990;777;10
+r;24334739;1468884;420990;777;10
+r;24719827;57913;420990;777;10
+r;24800975;21934;420990;777;10
+r;25296431;52800;420990;777;10
+r;27532486;52340;420990;777;10
+r;27801202;230447;420990;777;10
+r;28591569;47467;420990;777;10
+r;28591570;289917;420990;777;10
+r;28854711;461900;420990;777;10
+r;30024868;1858390;420990;777;10
+r;30141987;1856519;420990;777;10
+r;30298420;258032;420990;777;10
+r;30638374;315897;420990;777;10
+r;31128347;1922849;420990;777;10
+r;31574848;215337;420990;777;10
+r;50078487;2360060;420990;777;10
+r;52086927;2372989;420990;777;10
+r;55095559;2434588;420990;777;10
+r;59221954;2478118;420990;777;10
+r;61393786;2483602;420990;777;10
+r;71729692;2926639;420990;777;10
+r;72028384;2872080;420990;777;10
+r;72230845;232430;420990;777;10
+r;72272650;2936975;420990;777;10
+r;72846114;116460;420990;777;10
+r;76167845;3169373;420990;777;10
+r;76167847;307421;420990;777;10
+r;76365412;3173269;420990;777;10
+r;76603177;3177217;420990;777;10
+r;78352683;3232463;420990;777;10
+r;80090266;3274957;420990;777;10
+r;80090268;3274958;420990;777;10
+r;80090270;3274960;420990;777;10
+r;80090272;247912;420990;777;10
+r;80090274;3274961;420990;777;10
+r;83439522;3313688;420990;777;10
+r;83751656;3323010;420990;777;10
+r;108208722;217175;420990;777;10
+r;86026487;2924240;420990;777;10
+r;86401686;3370199;420990;777;10
+r;256032221;10431724;420990;777;10
+r;89160403;1814020;420990;777;10
+r;93200900;21538;420990;777;10
+r;93912282;1838269;420990;777;10
+r;97867784;2923199;420990;777;10
+r;97867786;4313086;420990;777;10
+r;104413031;1133451;420990;777;10
+r;110051755;5564873;420990;777;10
+r;110051757;53002;420990;777;10
+r;110600838;5619707;420990;777;10
+r;110600840;5619708;420990;777;10
+r;110836297;5631081;420990;777;10
+r;110836293;5631079;420990;777;10
+r;110836299;5631082;420990;777;10
+r;110836295;5631080;420990;777;10
+r;110674334;5621682;420990;777;10
+r;110674335;5621683;420990;777;10
+r;110682343;5622034;420990;777;10
+r;110704020;5622949;420990;777;10
+r;122056508;6564670;420990;777;10
+r;112710258;3229633;420990;777;10
+r;112710259;3322280;420990;777;10
+r;112710260;272311;420990;777;10
+r;112710261;272189;420990;777;10
+r;112710262;273456;420990;777;10
+r;112710263;282517;420990;777;10
+r;112802829;5793534;420990;777;10
+r;112975352;5800904;420990;777;10
+r;112991425;5801586;420990;777;10
+r;113022605;5802842;420990;777;10
+r;113029952;5803311;420990;777;10
+r;113072207;5804797;420990;777;10
+r;113076447;5804954;420990;777;10
+r;113082735;5805289;420990;777;10
+r;113082737;5805291;420990;777;10
+r;113140889;5807300;420990;777;10
+r;113140894;5807308;420990;777;10
+r;113559522;5827776;420990;777;10
+r;113563405;5827892;420990;777;10
+r;113563407;5827894;420990;777;10
+r;113563409;5827895;420990;777;10
+r;113593421;5828870;420990;777;10
+r;113593422;5537339;420990;777;10
+r;113593423;5537340;420990;777;10
+r;113701277;5831496;420990;777;10
+r;113701279;5831498;420990;777;10
+r;113731548;5831912;420990;777;10
+r;113744215;5832136;420990;777;10
+r;113746764;5832185;420990;777;10
+r;113780257;5834296;420990;777;10
+r;113849813;5836322;420990;777;10
+r;113883182;50567;420990;777;10
+r;114279561;5872175;420990;777;10
+r;114619435;3982551;420990;777;10
+r;114619437;5892682;420990;777;10
+r;114619439;5892684;420990;777;10
+r;114619441;5892685;420990;777;10
+r;114652645;191561;420990;777;10
+r;114673878;5894300;420990;777;10
+r;114793124;5897073;420990;777;10
+r;114939092;5898842;420990;777;10
+r;115191550;5832903;420990;777;10
+r;115337182;5833363;420990;777;10
+r;115520482;5918759;420990;777;10
+r;115648626;5922311;420990;777;10
+r;115648628;5922313;420990;777;10
+r;115648630;4276502;420990;777;10
+r;115966316;5940493;420990;777;10
+r;116195476;5946694;420990;777;10
+r;116197272;5946789;420990;777;10
+r;116755199;5875253;420990;777;10
+r;118922515;6066448;420990;777;10
+r;119400523;18007;420990;777;10
+r;220331903;9945260;420990;777;10
+r;220303959;41260;420990;777;10
+r;216375621;9601933;420990;777;10
+r;220701389;50048;420990;777;10
+r;220923577;9961955;420990;777;10
+r;221875034;5620191;420990;777;10
+r;229372892;10060818;420990;777;10
+r;230463190;2523931;420990;777;10
+r;230463191;2916885;420990;777;10
+r;230463192;10063611;420990;777;10
+r;230463193;10063612;420990;777;10
+r;233801475;83797;420990;777;10
+r;233801476;290460;420990;777;10
+r;233801478;10101642;420990;777;10
+r;233801479;290462;420990;777;10
+r;233801480;39559;420990;777;10
+r;234424701;10071296;420990;777;10
+r;234424703;10119075;420990;777;10
+r;276274386;10961876;420990;777;10
+r;270961782;10838082;420990;777;10
+r;249941293;10058170;420990;777;10
+r;249941295;234831;420990;777;10
+r;259070427;10462314;420990;777;10
+r;262916620;10552306;420990;777;10
+r;264657741;10605993;420990;777;10
+r;264657744;10605994;420990;777;10
+r;274739238;40104;420990;777;10
+r;275459639;10940826;420990;777;10
+r;275459641;10940827;420990;777;10
+r;277027406;5534759;420990;777;10
+r;277027410;10970434;420990;777;10
+r;277028970;10970448;420990;777;10
+r;277034664;10970495;420990;777;10
+r;277034872;10970497;420990;777;10
+r;277446201;130036;420990;777;10
+r;281122018;11081940;420990;777;10
+r;281122020;6433777;420990;777;10
+r;281122022;11081941;420990;777;10
+r;281122024;6401322;420990;777;10
+r;281568509;11102412;420990;777;10
+r;281568511;11102413;420990;777;10
+r;281891636;4277993;420990;777;10
+r;282202251;11118142;420990;777;10
+r;282258821;11118878;420990;777;10
+r;282263462;11118970;420990;777;10
+r;282701251;416568;420990;777;10
+r;282701253;11129279;420990;777;10
+r;283415663;11150740;420990;777;10
+r;283415665;11150741;420990;777;10
+r;283415667;11150742;420990;777;10
+r;283750587;11155426;420990;777;10
+r;285882504;11174027;420990;777;10
+r;285882506;11174028;420990;777;10
+r;288182933;11124708;420990;777;10
+r;288411843;11253801;420990;777;10
+r;288411845;11253802;420990;777;10
+r;288411847;11253803;420990;777;10
+r;288559538;11258767;420990;777;10
+r;288809000;11287594;420990;777;10
+r;289657898;11017722;420990;777;10
+r;289658080;11305755;420990;777;10
+r;290260441;94035;420990;777;10
+r;290546640;11341931;420990;777;10
+r;291534715;11363685;420990;777;10
+r;293447067;27131;420990;777;10
+r;296017898;2434251;420990;777;10
+r;296017900;11519479;420990;777;10
+r;296017902;38450;420990;777;10
+r;296017904;57355;420990;777;10
+r;296017906;11519480;420990;777;10
+r;296017908;11519481;420990;777;10
+r;296327626;5988784;420990;777;10
+r;296690032;222059;420990;777;10
+r;301587622;11755853;420990;777;10
+r;301587624;11755854;420990;777;10
+r;302370287;11776689;420990;777;10
+r;304042333;11805684;420990;777;10
+r;305392742;5621645;420990;777;10
+r;306312666;6530921;420990;777;10
+r;311203597;11978418;420990;777;10
+r;313465578;309617;420990;777;10
+r;314525278;2482600;420990;777;10
+r;315250079;4012477;420990;777;10
+r;326266236;12715708;420990;777;10
+r;326275744;142886;420990;777;10
+r;326275746;12715889;420990;777;10
+r;326275748;12715891;420990;777;10
+r;326275750;12715892;420990;777;10
+r;326277114;141852;420990;777;10
+r;326859219;184127;420990;777;10
+r;326859221;280153;420990;777;10
+r;326859223;230908;420990;777;10
+r;326859225;230909;420990;777;10
+r;333331515;12981260;420990;777;10
+r;333839441;12990354;420990;777;10
+r;338793015;113722;420990;777;10
+r;339592315;310181;420990;777;10
+r;339592317;212375;420990;777;10
+r;342315556;418451;420990;777;10
+r;342559657;13519757;420990;777;10
+r;343630967;3351089;420990;777;10
+r;343631041;10555758;420990;777;10
+r;343631099;13568703;420990;777;10
+r;343631158;13568704;420990;777;10
+r;343631202;13568705;420990;777;10
+r;343631261;13568706;420990;777;10
+r;343631313;13568707;420990;777;10
+r;343631378;434851;420990;777;10
+r;343631435;9973563;420990;777;10
+r;343631484;246674;420990;777;10
+r;343631530;13568708;420990;777;10
+r;343631744;13568712;420990;777;10
+r;343631746;13568713;420990;777;10
+r;343631860;13568714;420990;777;10
+r;343632074;13568718;420990;777;10
+r;343632319;13568723;420990;777;10
+r;345244342;11008050;420990;777;10
+r;347015782;229867;420990;777;10
+r;347015783;308495;420990;777;10
+r;354058702;254973;420990;777;10
+r;354059324;2933792;420990;777;10
+r;354564179;334809;420990;777;10
+r;354631673;14040602;420990;777;10
+r;355168671;14053023;420990;777;10
+r;356555175;5567093;420990;777;10
+r;359363070;12781165;420990;777;10
+r;359363072;14156239;420990;777;10
+r;359363074;14156240;420990;777;10
+r;359363076;14156241;420990;777;10
+r;364260366;14311679;420990;777;10
+r;365152863;11247991;420990;777;10
+r;365152865;9267656;420990;777;10
+r;365152867;9267657;420990;777;10
+r;365152869;5951228;420990;777;10
+r;365152871;411314;420990;777;10
+r;365152873;101895;420990;777;10
+r;365152875;126781;420990;777;10
+r;365152877;14376819;420990;777;10
+r;365152879;5944317;420990;777;10
+r;365260973;14381667;420990;777;10
+r;365250360;100065;420990;777;10
+r;365369294;14387297;420990;777;10
+r;367007319;14465092;420990;777;10
+r;369435906;14537998;420990;777;10
+r;369435908;14537999;420990;777;10
+r;369435910;14538000;420990;777;10
+r;370128050;14564039;420990;777;10
+r;370128052;14564040;420990;777;10
+r;370128054;2535200;420990;777;10
+r;370128056;14564041;420990;777;10
+r;370128058;670;420990;777;10
+r;370128060;14564042;420990;777;10
+r;370128062;84032;420990;777;10
+r;370318340;14571829;420990;777;10
+r;370318342;4075108;420990;777;10
+r;370318344;14571830;420990;777;10
+r;371565121;5535122;420990;777;10
+r;372792509;14657226;420990;777;10
+r;372792511;14657227;420990;777;10
+r;372792513;123288;420990;777;10
+r;372792515;14657228;420990;777;10
+r;372792517;14657229;420990;777;10
+r;372938986;436370;420990;777;10
+r;375089052;2601675;420990;777;10
+r;375116667;52354;420990;777;10
+r;375116668;155754;420990;777;10
+r;386039765;14884058;420990;777;10
+r;386039767;14884059;420990;777;10
+r;386039769;14884060;420990;777;10
+r;386039771;14884061;420990;777;10
+r;386039773;14884062;420990;777;10
+r;432000238;16358344;420990;777;10
+r;400351390;290461;420990;777;10
+r;401744710;15640004;420990;777;10
+r;406510660;4220858;420990;777;10
+r;416730870;11544088;420990;777;10
+r;419067928;2428303;420990;777;10
+r;421861697;16140963;420990;777;10
+r;423886739;16104693;420990;777;10
+r;425976517;5913458;420990;777;10
+r;425976519;16241682;420990;777;10
+r;425976521;108750;420990;777;10
+r;425976523;140100;420990;777;10
+r;425976525;145295;420990;777;10
+r;426677576;5536212;420990;777;10
+r;427141533;16283710;420990;777;10
+r;427141535;16283711;420990;777;10
+r;427141537;16283712;420990;777;10
+r;427141539;16283713;420990;777;10
+r;427141541;16283714;420990;777;10
+r;427141543;16283715;420990;777;10
+r;428932519;152685;420990;777;10
+r;428932521;18229;420990;777;10
+r;428932523;402023;420990;777;10
+r;428932525;179551;420990;777;10

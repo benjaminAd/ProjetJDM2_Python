@@ -89,15 +89,29 @@ class JDM:
         self.termsListImp = []
         self.relations = []
 
+    def checkIfWordExist(self, mot, typeMot):
+        jdm = JDM(mot)
+        if jdm.checkIfNeology(jdm.requestToJDM()):
+            return self.checkSemantique(typeMot)
+        else:
+            return False
+
+    def checkSemantique(self, typeMot):
+        for relation in self.relations:
+            if relation.mot2.name.split("'")[1] == typeMot:
+                return True
+        return False
+
     def checkRule(self):
         createdWord = []
         for rule in self.regles.regles:
             if self.mot[-len(rule.exception):] != rule.exception:
                 for relation in self.relations:
-                    if rule.baseType == relation.mot2.name.split("'")[1] or rule.baseType=="$":
+                    if rule.baseType == relation.mot2.name.split("'")[1] or rule.baseType == "$":
                         length = len(rule.endWord)
                         endword = self.mot[-length:]
-                        if endword == rule.endWord:
+                        if endword == rule.endWord and self.checkIfWordExist(
+                                self.mot.replace(endword, rule.transformation), rule.transformType):
                             createdWord.append(self.mot.replace(endword, rule.transformation))
         return createdWord
 
@@ -133,6 +147,13 @@ class JDM:
                         TypeRelation(lineSeparator[1], lineSeparator[2], lineSeparator[3], lineSeparator[4]))
             self.nettoyage()
 
+    def checkIfNeology(self, Data):
+        if Data == None:
+            return False
+        else:
+            self.separateData(Data)
+            return True
+
     def requestToJDM(self):
         code = ""
         flag = False
@@ -163,7 +184,7 @@ class JDM:
 
 
 if __name__ == '__main__':
-    jdm = JDM("avant")
+    jdm = JDM("banane")
     jdm.separateData(jdm.requestToJDM())
     derivation = jdm.checkRule()
 

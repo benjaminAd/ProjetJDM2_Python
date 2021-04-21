@@ -1,0 +1,244 @@
+<CODE>
+// DUMP pour le terme 'mange' (eid=421145)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;777;'n_wikipedia'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;421145;'mange';1;50
+e;130164;'manger';1;10180
+e;162232;'mangé';1;66
+e;8623781;'en:mange';1;0
+e;150120;'Ver:SPre+SG+P3';4;50
+e;14270942;'VerbalPers:P1';4;0
+e;212235;'Ver:';4;50
+e;14270943;'VerbalPers:P2';4;0
+e;14270944;'VerbalPers:P3';4;0
+e;14270945;'VerbalNumber:SG';4;0
+e;14270847;'Ver:ImPre+SG+P2';4;0
+e;161698;'Ver:IPre+SG+P1:IPre+SG+P3:SPre+SG+P1:SPre+SG+P3:ImPre+SG+P2';4;50
+e;150119;'Ver:SPre+SG+P1';4;50
+e;150118;'Ver:IPre+SG+P3';4;50
+e;150117;'Ver:IPre+SG+P1';4;50
+e;14270798;'VerbalMode:Impératif';4;0
+e;3093591;'VerbalMode:Subjonctif';4;0
+e;3093590;'VerbalMode:Indicatif';4;0
+e;2946892;'Ver:Conjug';4;0
+e;2935005;'VerbalTime:Present';4;0
+e;10084083;'ce qu'on mange';1;0
+e;2604504;'ne valoir pas le pain qu'on mange';1;0
+e;9695737;'bruit de quelqu'un qui mange';1;0
+e;3368153;'regime soupe mange graisse';1;0
+e;2534544;'la vengeance se mange froide';1;0
+e;10665537;'Faut pas dire à maman que la gardienne mange les pissenlits par les racines';777;0
+e;11573881;'quelqu'un qui mange';1;0
+e;14350918;'personne qui mange';1;0
+e;15285779;'au long aller, la lime mange le fer';1;0
+e;15308672;'Elle mange normalement.';1;0
+e;15378397;'Elle mange mieux.';1;0
+e;15384891;'Je ne mange que de la viande maigre.';1;0
+e;15396086;'Il mange toujours à heures fixes.';1;0
+e;15437331;'Qu'est-ce qu'on mange ce soir ?';1;0
+e;15461675;'Il ne mange guère.';1;0
+e;16100788;'Il mange de tout.';1;0
+e;2558214;'mange-Canayen';1;0
+e;18085;'mange-disques';1;58
+e;18371;'mange-disque';1;86
+e;28745;'mange-mil';1;50
+e;110379;'mange-tout';1;50
+e;200808;'faute de grives on mange des merles';1;54
+e;200809;'faute de grives, on mange des merles';1;50
+e;201705;'haricot mange-tout';1;50
+e;202578;'la vengeance est un plat qui se mange froid';1;50
+e;211540;'pleurer le pain qu'on mange';1;50
+e;1970819;'haricots mange-tout';1;0
+e;2587820;'ce qui se mange';1;0
+e;1942;'mange-maillols';1;50
+e;2471962;'ça mange pas de pain';1;0
+e;2435660;'mange-debout';1;0
+e;2403776;'mange-merde';1;0
+e;2390442;'ça ne mange pas de pain';1;0
+e;2367821;'mange-piles';1;0
+e;151553;'_FL:0';6;50
+e;117533;'fleurs';1;974
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+e;223172;'_POL-NEG';36;50
+e;223173;'_POL-POS';36;50
+e;241794;'_POL-NEUTRE';36;50
+e;254876;'_POL-POS_PC';36;50
+e;254877;'_POL-NEUTRE_PC';36;50
+e;254878;'_POL-NEG_PC';36;50
+e;273221;'_INFO-WIKI-NO';36;50
+e;2983124;'_SW';36;50
+e;15364706;'en:half a loaf is better than no bread';1;0
+e;7030707;'en:string bean';1;0
+e;15396087;'en:He always eats at set times.';1;0
+e;15461676;'en:He doesn't eat much.';1;0
+e;149047;'mangetout';1;50
+e;15661850;'vengeance est un plat qui se mange froid';1;0
+e;15364707;'en:half a loaf is better than none';1;0
+e;15661849;'en:revenge is a dish best served cold';1;0
+e;15434278;'Faute de grives';1;0
+e;15434279;'on mange des merles.';1;0
+e;15549289;'en:it can't hurt';1;0
+e;15549290;'en:it can't do any harm';1;0
+e;294086;'fourmi tisserande';777;50
+e;461554;'Oecophylla smaragdina';777;50
+e;116311;'vie quotidienne';1;1068
+e;53651;'quotidien';1;540
+e;281067;'vie de tous les jours';777;52
+e;386875;'vie personnelle';1;50
+e;2936698;'Fourmi tisserande';777;0
+e;42178;'albinisme';1;64
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;5;'r_syn';'synonyme';Il est demandé d'énumérer les synonymes ou quasi-synonymes de ce terme.
+rt;11;'r_locution';'locution';A partir d'un terme, il est demandé d'énumérer les locutions, expression ou mots composés en rapport avec ce terme. Par exemple, pour 'moulin', ou pourra avoir 'moulin à vent', 'moulin à eau', 'moulin à café'. Pour 'vendre', on pourra avoir 'vendre la peau de l'ours avant de l'avoir tué', 'vendre à perte', etc..
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;14;'r_patient';'action>patient';Le patient (qu'on appelle aussi l'objet) est l'entité qui subit l'action. Par exemple dans - Le chat mange la souris -, le patient est la souris. Des patients typiques de manger peuvent être 'viande', 'légume', 'pain', ... (manger r_patient pain)
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;26;'r_patient-1';'patient-1';(inverse de r_patient) Que peut-on faire à cet OBJET. Pour 'pomme', on pourrait avoir 'manger', 'croquer', couper', 'éplucher',  etc. (pomme r_patient-1 manger)
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;72;'r_syn_strict';'r_syn_strict';Termes strictement substituables, pour des termes hors du domaine général, et pour la plupart des noms (exemple : endométriose intra-utérine --> adénomyose)
+rt;333;'r_translation';'r_translation';Traduction vers une autre langue.
+rt;555;'r_cooccurrence';'r_cooccurrence';co-occurences (non utilisée)
+rt;777;'r_wiki';'r_wiki';Associations issues de wikipedia...
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;87496232;421145;130164;0;26
+r;14447833;421145;162232;0;21
+r;211453241;421145;8623781;0;26
+r;362990666;421145;150120;4;25
+r;363008495;421145;14270942;4;25
+r;14356604;421145;212235;4;69
+r;363017449;421145;14270943;4;25
+r;363026434;421145;14270944;4;25
+r;362999635;421145;14270945;4;25
+r;363205376;421145;14270847;4;25
+r;14356603;421145;161698;4;57
+r;362981528;421145;150119;4;25
+r;362972527;421145;150118;4;25
+r;362963625;421145;150117;4;25
+r;361880336;421145;14270798;4;25
+r;363195643;421145;3093591;4;25
+r;361877784;421145;3093590;4;25
+r;72423981;421145;2946892;4;155
+r;72094510;421145;2935005;4;45
+r;210725405;421145;8623781;5;27
+r;232466405;421145;10084083;11;43
+r;55470892;421145;2604504;11;59
+r;217358785;421145;9695737;11;50
+r;86164613;421145;3368153;11;54
+r;52460284;421145;2534544;11;60
+r;267324767;421145;10665537;11;27
+r;297605393;421145;11573881;11;40
+r;364831772;421145;14350918;11;25
+r;419619568;421145;15285779;11;25
+r;397499343;421145;15308672;11;50
+r;397499337;421145;15378397;11;50
+r;402272897;421145;15384891;11;50
+r;402107838;421145;15396086;11;50
+r;419530573;421145;15437331;11;25
+r;402108536;421145;15461675;11;50
+r;420269810;421145;16100788;11;32
+r;52492556;421145;2558214;11;53
+r;14340535;421145;18085;11;55
+r;14340517;421145;18371;11;60
+r;14340081;421145;28745;11;56
+r;14336851;421145;110379;11;52
+r;14280183;421145;200808;11;54
+r;14280179;421145;200809;11;57
+r;14279951;421145;201705;11;59
+r;14279653;421145;202578;11;55
+r;14277423;421145;211540;11;56
+r;31761759;421145;1970819;11;57
+r;54423017;421145;2587820;11;51
+r;14341175;421145;1942;11;60
+r;55888614;421145;2471962;11;58
+r;55117141;421145;2435660;11;32
+r;53568385;421145;2403776;11;38
+r;53103840;421145;2390442;11;42
+r;50479254;421145;2367821;11;44
+r;74695896;421145;151553;12;32
+r;426831882;421145;117533;14;30
+r;89785064;421145;3575927;18;30
+r;90748655;421145;3576104;18;28
+r;14356602;421145;130164;19;51
+r;26417019;421145;223172;36;51
+r;17531010;421145;223173;36;388
+r;26417020;421145;241794;36;47
+r;26750213;421145;254876;36;80
+r;26750214;421145;254877;36;10
+r;26750215;421145;254878;36;10
+r;86866973;421145;273221;36;28
+r;210676071;421145;8623781;72;27
+r;210552993;421145;8623781;333;28
+r;73954859;421145;2983124;555;7953
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;364831773;14350918;421145;0;1
+r;419530574;15437331;421145;0;1
+r;419619569;15285779;421145;0;1
+r;267324768;10665537;421145;0;3
+r;53568386;2403776;421145;0;4
+r;55117142;2435660;421145;0;8
+r;420269811;16100788;421145;0;8
+r;398268548;15364706;421145;0;10
+r;414633504;7030707;421145;0;10
+r;428263545;15396087;421145;0;10
+r;55888615;2471962;421145;0;12
+r;297605394;11573881;421145;0;16
+r;232466406;10084083;421145;0;19
+r;413669812;15461676;421145;0;20
+r;210676069;8623781;421145;0;26
+r;14381521;149047;421145;0;27
+r;14447834;162232;421145;0;28
+r;50479255;2367821;421145;0;28
+r;14340518;18371;421145;0;32
+r;14336852;110379;421145;0;33
+r;14340536;18085;421145;0;33
+r;14340082;28745;421145;0;35
+r;402832279;15661850;421145;0;40
+r;14341176;1942;421145;0;46
+r;14280180;200809;421145;0;48
+r;14277424;211540;421145;0;49
+r;14279654;202578;421145;0;50
+r;14280184;200808;421145;0;50
+r;217358786;9695737;421145;0;50
+r;397499344;15308672;421145;0;50
+r;397499338;15378397;421145;0;50
+r;402108537;15461675;421145;0;50
+r;398268555;15364707;421145;0;50
+r;402107839;15396086;421145;0;50
+r;402272898;15384891;421145;0;50
+r;402518754;15661849;421145;0;50
+r;411277068;15434278;421145;0;50
+r;411277074;15434279;421145;0;50
+r;54423018;2587820;421145;0;51
+r;52492557;2558214;421145;0;52
+r;86164614;3368153;421145;0;54
+r;52460285;2534544;421145;0;55
+r;55470893;2604504;421145;0;57
+r;14279952;201705;421145;0;58
+r;31761760;1970819;421145;0;59
+r;402533302;15549289;421145;0;185
+r;53103841;2390442;421145;0;186
+r;402533308;15549290;421145;0;190
+r;210676070;8623781;421145;5;35
+r;426836806;117533;421145;26;30
+r;210559968;8623781;421145;72;30
+r;210541049;8623781;421145;333;33
+r;16229937;294086;421145;777;10
+r;16229938;461554;421145;777;10
+r;33906004;116311;421145;777;10
+r;33906005;53651;421145;777;10
+r;33906006;281067;421145;777;10
+r;33906007;386875;421145;777;10
+r;72250693;2936698;421145;777;10
+r;85633111;42178;421145;777;10

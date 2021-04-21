@@ -1,0 +1,88 @@
+<CODE>
+// DUMP pour le terme 'mangent' (eid=2220922)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;777;'n_wikipedia'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;2220922;'mangent';2;0
+e;130164;'manger';1;10180
+e;3093591;'VerbalMode:Subjonctif';4;0
+e;14270944;'VerbalPers:P3';4;0
+e;14270946;'VerbalNumber:PL';4;0
+e;161707;'Ver:SPre+PL+P3';4;50
+e;161706;'Ver:IPre+PL+P3';4;50
+e;3093590;'VerbalMode:Indicatif';4;0
+e;2935005;'VerbalTime:Present';4;0
+e;2946892;'Ver:Conjug';4;0
+e;161711;'Ver:IPre+PL+P3:SPre+PL+P3';4;50
+e;212235;'Ver:';4;50
+e;15241696;'Qu'ils mangent de la brioche!';1;0
+e;2460013;'si les petits cochons ne le mangent pas';1;0
+e;2561273;'les loups ne se mangent pas entre eux';1;0
+e;2497002;'les gros poissons mangent les petits';1;0
+e;151553;'_FL:0';6;50
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+e;2983124;'_SW';36;50
+e;15471524;'en:there's honour among thieves';1;0
+e;15471525;'en:there is honour among thieves';1;0
+e;15830519;'en:dog does not eat dog';1;0
+e;15830518;'en:dog doesn't eat dog';1;0
+e;15830517;'loups ne se mangent pas entre eux';1;0
+e;15374452;'en:there is honor among thieves';1;0
+e;116311;'vie quotidienne';1;1068
+e;53651;'quotidien';1;540
+e;281067;'vie de tous les jours';777;52
+e;386875;'vie personnelle';1;50
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;11;'r_locution';'locution';A partir d'un terme, il est demandé d'énumérer les locutions, expression ou mots composés en rapport avec ce terme. Par exemple, pour 'moulin', ou pourra avoir 'moulin à vent', 'moulin à eau', 'moulin à café'. Pour 'vendre', on pourra avoir 'vendre la peau de l'ours avant de l'avoir tué', 'vendre à perte', etc..
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;555;'r_cooccurrence';'r_cooccurrence';co-occurences (non utilisée)
+rt;777;'r_wiki';'r_wiki';Associations issues de wikipedia...
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;87699881;2220922;130164;0;34
+r;363196697;2220922;3093591;4;25
+r;363058951;2220922;14270944;4;25
+r;363051505;2220922;14270946;4;25
+r;363043872;2220922;161707;4;25
+r;363036356;2220922;161706;4;25
+r;363031280;2220922;3093590;4;25
+r;72113162;2220922;2935005;4;45
+r;72506864;2220922;2946892;4;45
+r;32696238;2220922;161711;4;54
+r;32696239;2220922;212235;4;54
+r;419530847;2220922;15241696;11;25
+r;55660527;2220922;2460013;11;42
+r;52447484;2220922;2561273;11;52
+r;52477760;2220922;2497002;11;52
+r;74695917;2220922;151553;12;27
+r;89476653;2220922;3575927;18;35
+r;90459763;2220922;3576104;18;35
+r;32696236;2220922;130164;19;54
+r;74057665;2220922;2983124;555;3663
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;419530848;15241696;2220922;0;1
+r;55660528;2460013;2220922;0;14
+r;412875713;15471524;2220922;0;40
+r;412875718;15471525;2220922;0;40
+r;412875723;15830519;2220922;0;40
+r;412875729;15830518;2220922;0;40
+r;413166767;15830517;2220922;0;40
+r;428095395;15374452;2220922;0;50
+r;52477761;2497002;2220922;0;53
+r;52447485;2561273;2220922;0;55
+r;72029810;116311;2220922;777;10
+r;72029811;53651;2220922;777;10
+r;72029812;281067;2220922;777;10
+r;72029813;386875;2220922;777;10
