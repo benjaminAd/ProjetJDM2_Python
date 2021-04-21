@@ -67,6 +67,16 @@ class Terms:
         print(self.id, " ", self.name)
 
 
+class Relation:
+    def __init__(self, mot, typeRel, mot2):
+        self.mot = mot
+        self.typeRel = typeRel
+        self.mot2 = mot2
+
+    def getData(self):
+        print(self.mot.name, self.typeRel, self.mot2)
+
+
 class JDM:
 
     def __init__(self, mot):
@@ -76,19 +86,38 @@ class JDM:
         self.relationsSortantesList = []
         self.typeRelationsList = []
         self.regles = Regles()
+        self.termsListImp = []
+        self.relations = []
 
     def checkRule(self):
+        createdWord = []
         for rule in self.regles.regles:
             if self.mot[-len(rule.exception):] != rule.exception:
-                if rule.baseType == 'Ver:Inf':
-                    length = len(rule.endWord)
-                    endword = self.mot[-length:]
-                    if endword == rule.endWord:
-                        print(self.mot.replace(endword, rule.transformation))
+                for relation in self.relations:
+                    if rule.baseType == relation.mot2.name.split("'")[1] or rule.baseType=="$":
+                        length = len(rule.endWord)
+                        endword = self.mot[-length:]
+                        if endword == rule.endWord:
+                            createdWord.append(self.mot.replace(endword, rule.transformation))
+        return createdWord
+
+    def nettoyage(self):
+        BaseTerm = None
+        for term in self.termsList:
+            if self.mot == term.name.split("'")[1]:
+                BaseTerm = term
+            if "Nom:" in term.name or "Adj:" in term.name or "Ver:" in term.name or "Adv:" in term.name:
+                self.termsListImp.append(term)
+
+        for termImp in self.termsListImp:
+            for relation in self.relationsSortantesList:
+                if relation.node1 == BaseTerm.id and relation.node2 == termImp.id and (
+                        relation.type == "4" or relation.type == "6"):
+                    self.relations.append(Relation(BaseTerm, relation, termImp))
 
     def separateData(self, Data):
         if Data == None:
-            print("le mot", self.mot, "n'existe pas")
+            print("Vous avez créé un néologisme!")
         else:
             for line in Data.split("\n"):
                 lineSeparator = line.split(";")
@@ -102,6 +131,7 @@ class JDM:
                 if lineSeparator[0] == 'rt':
                     self.typeRelationsList.append(
                         TypeRelation(lineSeparator[1], lineSeparator[2], lineSeparator[3], lineSeparator[4]))
+            self.nettoyage()
 
     def requestToJDM(self):
         code = ""
@@ -133,6 +163,9 @@ class JDM:
 
 
 if __name__ == '__main__':
-    jdm = JDM("jardinier")
+    jdm = JDM("avant")
     jdm.separateData(jdm.requestToJDM())
-    jdm.checkRule()
+    derivation = jdm.checkRule()
+
+    for mot in derivation:
+        print(mot)
