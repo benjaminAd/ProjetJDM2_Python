@@ -1,3 +1,5 @@
+import os.path
+
 import requests
 
 
@@ -69,6 +71,7 @@ class JDM:
 
     def __init__(self, mot):
         self.mot = mot
+        self.path = "Requests/" + self.mot + ".txt"
         self.termsList = []
         self.relationsSortantesList = []
         self.typeRelationsList = []
@@ -101,20 +104,35 @@ class JDM:
                         TypeRelation(lineSeparator[1], lineSeparator[2], lineSeparator[3], lineSeparator[4]))
 
     def requestToJDM(self):
-        url = "http://www.jeuxdemots.org/rezo-dump.php?gotermsubmit=Chercher&gotermrel=penser&rel=?gotermsubmit=Chercher&gotermrel=" + self.mot + "&rel= "
-        res = requests.get(url)
         code = ""
         flag = False
-        for j in res.text.splitlines(True):
-            if j == '<CODE>\n':
-                flag = True
-            if j == '</CODE>\n':
-                return code
-            if flag and j != '// END\n' and j != '\n':
-                code += j
+        if os.path.isfile(self.path):
+            file = open(self.path, "r")
+            try:
+                with file as reader:
+                    line = reader.readline()
+                    while line != '':
+                        code += line
+                        line = reader.readline()
+            finally:
+                file.close()
+            return code
+        else:
+            url = "http://www.jeuxdemots.org/rezo-dump.php?gotermsubmit=Chercher&gotermrel=penser&rel=?gotermsubmit=Chercher&gotermrel=" + self.mot + "&rel= "
+            res = requests.get(url)
+            for j in res.text.splitlines(True):
+                if j == '<CODE>\n':
+                    flag = True
+                if j == '</CODE>\n':
+                    fichier = open("Requests/" + self.mot + ".txt", "w")
+                    fichier.write(code)
+                    fichier.close()
+                    return code
+                if flag and j != '// END\n' and j != '\n':
+                    code += j
 
 
 if __name__ == '__main__':
-    jdm = JDM("manger")
+    jdm = JDM("jardinier")
     jdm.separateData(jdm.requestToJDM())
     jdm.checkRule()
