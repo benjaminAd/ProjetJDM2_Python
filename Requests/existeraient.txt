@@ -1,0 +1,47 @@
+<CODE>
+// DUMP pour le terme 'existeraient' (eid=2197016)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;2197016;'existeraient';2;0
+e;85728;'exister';1;116
+e;212235;'Ver:';4;50
+e;2935005;'VerbalTime:Present';4;0
+e;2946892;'Ver:Conjug';4;0
+e;3094354;'VerbalMode:Conditionnel';4;0
+e;3095206;'Ver:CPre+PL+P3';4;50
+e;14270944;'VerbalPers:P3';4;0
+e;14270946;'VerbalNumber:PL';4;0
+e;151553;'_FL:0';6;50
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+e;2983124;'_SW';36;50
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;555;'r_cooccurrence';'r_cooccurrence';co-occurences (non utilisée)
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;87758944;2197016;85728;0;29
+r;32851306;2197016;212235;4;60
+r;77695389;2197016;2935005;4;31
+r;323076601;2197016;2946892;4;25
+r;77695390;2197016;3094354;4;29
+r;77695388;2197016;3095206;4;31
+r;363606034;2197016;14270944;4;25
+r;363597802;2197016;14270946;4;25
+r;74650363;2197016;151553;12;30
+r;89500695;2197016;3575927;18;29
+r;90484126;2197016;3576104;18;31
+r;32851305;2197016;85728;19;57
+r;74071781;2197016;2983124;555;408
+// les relations entrantes : r;rid;node1;node2;type;w 

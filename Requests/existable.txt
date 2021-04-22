@@ -1,0 +1,72 @@
+<CODE>
+// DUMP pour le terme 'existable' (eid=243182)
+<def>
+<br />
+1. (Extrêmement rare) Qui peut exister.<br /> 
+ Inspirées par l'histoire ou le mythe, ses conceptions sont toujours peuplées par des personnages géométriquement établis et d'une indéniable vérité ; pour être marqués au sceau de sa vision, ils n'en sont pas moins existables et n'en portent pas moins, accusé par une indication de contour ou quelque mouvement, leur caractère de race voire même de modernité !    
+ (L'Ermitage: revue mensuelle de littérature, volume 2, page 142, 1891, Slatkine Reprints)  <br /> 
+ C'est quand il est séparé que l'enfant se sent potentiellement « existable ». Trop de maternage est néfaste. L'enfant doit être incité à l'exploration de l'espace environnant.    
+ (Michel H. Ledoux, Introduction à l'oeuvre de Françoise Dolto, page 189, 1990, Rivages)  <br />
+2. (Extrêmement rare) Ce qui peut exister.<br /> 
+ La vie, bulle infinie d'existable a décidé de se dépouiller de ses contenus. Ils n'étaient pas utiles : elle a pu s'en passer, pourtant, à un moment, elle s'est dit : quelques affaires pourraient bien me servir.    
+ (La Nouvelle revue française, n°274-276, page 53, 1975)  
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;4;'n_pos'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;444;'n_link'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;243182;'existable';1;50
+e;239128;'_COM';36;50
+e;972236;'existable>171870';1;0;'existable>Nom:'
+e;972237;'existable>171869';1;0;'existable>Adj:'
+e;146888;'Adj:Mas+SG';4;50
+e;2586627;'Gender:Mas';4;0
+e;2586628;'Gender:Fem';4;0
+e;2586629;'Number:Sing';4;0
+e;171869;'Adj:';4;50
+e;171870;'Nom:';4;50
+e;146894;'Adj:Fem+SG';4;50
+e;3576104;'Morpho:nospace';18;50
+e;3575927;'Morpho:min';18;50
+e;2580064;'Langage:rare';18;0
+e;251716;'_INFO-MONOSEMIC';36;50
+e;217817;'_INFO-POLYSEMIC';36;50
+e;273221;'_INFO-WIKI-NO';36;50
+e;243007;'_INFO-LRARE';36;50
+e;438949;'_INFO-POLYMORPHIC';36;50
+e;2585997;'_INFO-CNRTL-NO';36;50
+e;3838029;'dbnary:fra:__ws_1_existable__adj__1';444;0
+e;3876175;'dbnary:fra:__ws_2_existable__nom__1';444;0
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;2;'r_raff_morpho';'raffinement morphologique';Raffinement morphologique vers un usage particulier du terme source
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;444;'r_link';'r_link';Lien vers une ressource externe (WordNet, RadLex, UMLS, Wikipedia, etc...)
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;23977275;243182;239128;0;1000000
+r;20751226;243182;972236;2;60
+r;20751229;243182;972237;2;60
+r;373101537;243182;146888;4;26
+r;373104743;243182;2586627;4;26
+r;373106345;243182;2586628;4;26
+r;373107946;243182;2586629;4;26
+r;2368592;243182;171869;4;28
+r;2368593;243182;171870;4;30
+r;373103140;243182;146894;4;30
+r;90796634;243182;3576104;18;26
+r;89901606;243182;3575927;18;35
+r;52987637;243182;2580064;18;40
+r;310252944;243182;251716;36;-23
+r;396041789;243182;217817;36;25
+r;369982524;243182;273221;36;29
+r;2035160;243182;243007;36;42
+r;20751228;243182;438949;36;45
+r;77594442;243182;2585997;36;51
+r;94231724;243182;3838029;444;1
+r;94265697;243182;3876175;444;1
+// les relations entrantes : r;rid;node1;node2;type;w 

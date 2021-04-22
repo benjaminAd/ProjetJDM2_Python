@@ -1,0 +1,44 @@
+<CODE>
+// DUMP pour le terme 'mangement' (eid=2220920)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;2220920;'mangement';1;0
+e;2586627;'Gender:Mas';4;0
+e;2586629;'Number:Sing';4;0
+e;146885;'Nom:Mas+SG';4;50
+e;171870;'Nom:';4;50
+e;3576104;'Morpho:nospace';18;50
+e;3575927;'Morpho:min';18;50
+e;273221;'_INFO-WIKI-NO';36;50
+e;2585997;'_INFO-CNRTL-NO';36;50
+e;2983124;'_SW';36;50
+e;2220921;'mangements';2;0
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;555;'r_cooccurrence';'r_cooccurrence';co-occurences (non utilisée)
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;54165968;2220920;2586627;4;45
+r;54206073;2220920;2586629;4;45
+r;32897295;2220920;146885;4;53
+r;32897294;2220920;171870;4;60
+r;90459765;2220920;3576104;18;32
+r;89476655;2220920;3575927;18;34
+r;32897293;2220920;2220920;19;57
+r;216652543;2220920;273221;36;35
+r;80708883;2220920;2585997;36;57
+r;74130743;2220920;2983124;555;117
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;87777275;2220921;2220920;0;32
+r;32897296;2220921;2220920;19;51
+r;32897293;2220920;2220920;19;57

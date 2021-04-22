@@ -1,0 +1,43 @@
+<CODE>
+// DUMP pour le terme 'existerons' (eid=2197023)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;2197023;'existerons';2;0
+e;85728;'exister';1;116
+e;161727;'Ver:IFut+PL+P1';4;50
+e;212235;'Ver:';4;50
+e;2935007;'VerbalTime:Future';4;0
+e;2946892;'Ver:Conjug';4;0
+e;3093590;'VerbalMode:Indicatif';4;0
+e;14270942;'VerbalPers:P1';4;0
+e;14270946;'VerbalNumber:PL';4;0
+e;151553;'_FL:0';6;50
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;87758951;2197023;85728;0;31
+r;77695364;2197023;161727;4;32
+r;32851320;2197023;212235;4;51
+r;77695365;2197023;2935007;4;34
+r;77695366;2197023;2946892;4;28
+r;77695367;2197023;3093590;4;26
+r;363547137;2197023;14270942;4;25
+r;363538916;2197023;14270946;4;25
+r;74650371;2197023;151553;12;26
+r;89500688;2197023;3575927;18;26
+r;90484119;2197023;3576104;18;28
+r;32851319;2197023;85728;19;55
+// les relations entrantes : r;rid;node1;node2;type;w 

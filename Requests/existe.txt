@@ -1,0 +1,252 @@
+<CODE>
+// DUMP pour le terme 'existe' (eid=45446)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;200;'n_context'
+nt;777;'n_wikipedia'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;45446;'existe';1;62
+e;1961;'vit';1;72
+e;85728;'exister';1;116
+e;239128;'_COM';36;50
+e;14270798;'VerbalMode:Impératif';4;0
+e;14270847;'Ver:ImPre+SG+P2';4;0
+e;14270944;'VerbalPers:P3';4;0
+e;14270943;'VerbalPers:P2';4;0
+e;14270942;'VerbalPers:P1';4;0
+e;14270945;'VerbalNumber:SG';4;0
+e;150120;'Ver:SPre+SG+P3';4;50
+e;150119;'Ver:SPre+SG+P1';4;50
+e;150118;'Ver:IPre+SG+P3';4;50
+e;150117;'Ver:IPre+SG+P1';4;50
+e;3093590;'VerbalMode:Indicatif';4;0
+e;3093591;'VerbalMode:Subjonctif';4;0
+e;2935005;'VerbalTime:Present';4;0
+e;2946892;'Ver:Conjug';4;0
+e;212235;'Ver:';4;50
+e;161698;'Ver:IPre+SG+P1:IPre+SG+P3:SPre+SG+P1:SPre+SG+P3:ImPre+SG+P2';4;50
+e;78152;'demeurer';1;156
+e;13369;'être';1;1058
+e;112854;'habiter';1;1088
+e;90769;'subsister';1;64
+e;2442;'vivre';1;2378
+e;37229;'se trouver';1;54
+e;109402;'se rencontrer';1;80
+e;29663;'régner';1;364
+e;48160;'durer';1;128
+e;31641;'avoir';1;1041
+e;93939;'avoir cours';1;50
+e;80995;'compter';1;690
+e;120659;'continuer';1;196
+e;129646;'persister';1;92
+e;15376182;'Le yéti, ça n'existe pas.';1;0
+e;15489636;'Peut-être que Dieu existe.';1;0
+e;5837543;'n'existe plus';777;0
+e;5837419;'Il existe dans les sites de références de légères différences de dénomination concernant les noms des types de glycogénoses. Seule est importante la référence OMIM';777;0
+e;11350815;'Cet ordre n'existe pas';777;0
+e;11350872;'la famille des Trapaceae n'existe plus';777;0
+e;11350921;'La famille n'existe plus';777;0
+e;5838746;'Cette famille n'existe pas';777;0
+e;9944471;'cette sous-classe n'existe pas';777;0
+e;11151233;'cet ordre n'existe plus';777;0
+e;11501622;'cette sous-famille n'existe plus';777;0
+e;11008320;'Cet ordre n'existe plus';777;0
+e;14539464;'Il existe un ensemble sans élément';777;0
+e;14563458;'Il existe une fonction f solution du problème de Cauchy';777;0
+e;5553625;'il existe une infinité de nombres premiers';777;0
+e;15489630;'Dieu existe peut-être.';1;0
+e;15489638;'Il existe divers facteurs atténuants.';1;0
+e;15281409;'Il existe maintenant des machines pour mettre les olives en bocaux.';1;0
+e;15489640;'Il existe d'autres façons de voyager.';1;0
+e;15327671;'Ce manteau existe également en rose.';1;0
+e;15978853;'Il existe dans les sites de références de légères différences de dénomination concernant les noms des types de glycogéno';1;0
+e;1377686;'Il existe dans les sites de références de légères différences de dénomination concernant les noms des types de glycogénoses. Seule est importante la référence';777;0
+e;3225175;'cette famille n'existe pas';777;0
+e;2339496;'existe-t-il';1;0
+e;1526034;'prouver que Dieu existe';1;0
+e;3326067;'la famille n'existe pas';777;0
+e;3326092;'cette famille n'existe plus';777;0
+e;2948994;'il n'existe pas de';1;0
+e;140083;'L'éther n'existe pas';1;50
+e;140323;'Dieu n'existe pas';1;50
+e;294714;'cet ordre n'existe pas';777;50
+e;6834;'Dieu existe-t-il';1;50
+e;112348;'Dieu existe';1;50
+e;141830;'L'amour existe';1;50
+e;202025;'il existe';1;50
+e;279852;'Il existe dans les sites de références des légères différences de dénomination concernant les noms des types de glycogénoses. seul est important la référence';777;50
+e;9468;'qui existe';1;50
+e;151564;'_FL:5';6;50
+e;151553;'_FL:0';6;50
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+e;254878;'_POL-NEG_PC';36;50
+e;317329;'_POLIT_7NOPOL';36;50
+e;254877;'_POL-NEUTRE_PC';36;50
+e;273221;'_INFO-WIKI-NO';36;50
+e;223172;'_POL-NEG';36;50
+e;2585996;'_INFO-CNRTL-YES';36;50
+e;254876;'_POL-POS_PC';36;50
+e;241794;'_POL-NEUTRE';36;50
+e;223173;'_POL-POS';36;50
+e;2983124;'_SW';36;50
+e;15694389;'en:there are';1;0
+e;14943046;'en:there is';1;0
+e;12699214;'525c11eae859115e263e6505f08f65cc';200;0
+e;316571;'description définie';1;50
+e;123933;'entité';1;166
+e;10327258;'Entité';1;0
+e;11056297;'L'existentialisme est un humanisme';777;0
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;5;'r_syn';'synonyme';Il est demandé d'énumérer les synonymes ou quasi-synonymes de ce terme.
+rt;11;'r_locution';'locution';A partir d'un terme, il est demandé d'énumérer les locutions, expression ou mots composés en rapport avec ce terme. Par exemple, pour 'moulin', ou pourra avoir 'moulin à vent', 'moulin à eau', 'moulin à café'. Pour 'vendre', on pourra avoir 'vendre la peau de l'ours avant de l'avoir tué', 'vendre à perte', etc..
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;200;'r_context';'r_context';Relation de contexte entre un terme et un noeud contexte.
+rt;555;'r_cooccurrence';'r_cooccurrence';co-occurences (non utilisée)
+rt;777;'r_wiki';'r_wiki';Associations issues de wikipedia...
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;12361467;45446;1961;0;29
+r;87481466;45446;85728;0;34
+r;24040111;45446;239128;0;1000000
+r;361879338;45446;14270798;4;25
+r;363206420;45446;14270847;4;25
+r;363027446;45446;14270944;4;25
+r;363018449;45446;14270943;4;25
+r;363009494;45446;14270942;4;25
+r;363000628;45446;14270945;4;25
+r;362991709;45446;150120;4;25
+r;362982550;45446;150119;4;25
+r;362973532;45446;150118;4;25
+r;362964625;45446;150117;4;25
+r;77695294;45446;3093590;4;33
+r;77695295;45446;3093591;4;35
+r;72092034;45446;2935005;4;45
+r;72421219;45446;2946892;4;45
+r;12096146;45446;212235;4;53
+r;347729;45446;161698;4;59
+r;53891045;45446;78152;5;-50
+r;53891046;45446;13369;5;-50
+r;53891047;45446;112854;5;-50
+r;53891048;45446;90769;5;-50
+r;53891049;45446;2442;5;-50
+r;53891050;45446;37229;5;-50
+r;53891051;45446;109402;5;-50
+r;53891052;45446;29663;5;-50
+r;53891053;45446;48160;5;-50
+r;53891054;45446;31641;5;-50
+r;53891055;45446;93939;5;-50
+r;53891056;45446;80995;5;-50
+r;53891057;45446;120659;5;-50
+r;53891058;45446;129646;5;-50
+r;12174526;45446;1961;5;-33
+r;419494277;45446;15376182;11;25
+r;419524627;45446;15489636;11;25
+r;114015566;45446;5837543;11;32
+r;114015907;45446;5837419;11;33
+r;290909174;45446;11350815;11;33
+r;290910581;45446;11350872;11;33
+r;290914288;45446;11350921;11;33
+r;114011979;45446;5838746;11;35
+r;220266380;45446;9944471;11;36
+r;283485255;45446;11151233;11;38
+r;295341278;45446;11501622;11;38
+r;278660079;45446;11008320;11;42
+r;402106488;45446;14539464;11;42
+r;370135278;45446;14563458;11;43
+r;109886514;45446;5553625;11;47
+r;397139110;45446;15489630;11;50
+r;402106468;45446;15489638;11;50
+r;402106476;45446;15281409;11;50
+r;402106460;45446;15489640;11;50
+r;395012633;45446;15327671;11;50
+r;417022616;45446;15978853;11;50
+r;23378877;45446;1377686;11;51
+r;77646096;45446;3225175;11;53
+r;34301213;45446;2339496;11;55
+r;24943631;45446;1526034;11;56
+r;83866632;45446;3326067;11;56
+r;83864880;45446;3326092;11;58
+r;72593230;45446;2948994;11;63
+r;8873828;45446;140083;11;152
+r;8873881;45446;140323;11;153
+r;8884747;45446;294714;11;153
+r;8871419;45446;6834;11;158
+r;8608661;45446;112348;11;162
+r;8620320;45446;141830;11;162
+r;8671287;45446;202025;11;162
+r;8747274;45446;279852;11;162
+r;8573096;45446;9468;11;166
+r;2465070;45446;151564;12;12
+r;2199622;45446;151553;12;28
+r;90033275;45446;3575927;18;32
+r;90902847;45446;3576104;18;32
+r;301470;45446;85728;19;57
+r;27261210;45446;254878;36;10
+r;26069793;45446;317329;36;16
+r;11748784;45446;254877;36;21
+r;77811072;45446;273221;36;35
+r;26645728;45446;223172;36;40
+r;53891044;45446;2585996;36;56
+r;3216931;45446;254876;36;69
+r;9206594;45446;241794;36;81
+r;3139613;45446;223173;36;272
+r;73948620;45446;2983124;555;123303
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;419494278;15376182;45446;0;1
+r;419524628;15489636;45446;0;1
+r;114015567;5837543;45446;0;8
+r;114015908;5837419;45446;0;9
+r;290909176;11350815;45446;0;9
+r;290910582;11350872;45446;0;9
+r;290914290;11350921;45446;0;9
+r;220266381;9944471;45446;0;10
+r;283485256;11151233;45446;0;14
+r;295341279;11501622;45446;0;14
+r;109886515;5553625;45446;0;15
+r;278660080;11008320;45446;0;18
+r;402106489;14539464;45446;0;18
+r;370135279;14563458;45446;0;19
+r;12174525;1961;45446;0;23
+r;397139111;15489630;45446;0;50
+r;402106469;15489638;45446;0;50
+r;402106477;15281409;45446;0;50
+r;402106461;15489640;45446;0;50
+r;395012634;15327671;45446;0;50
+r;417022617;15978853;45446;0;50
+r;2199621;85728;45446;0;51
+r;83866633;3326067;45446;0;52
+r;77646097;3225175;45446;0;53
+r;114011980;5838746;45446;0;53
+r;34301214;2339496;45446;0;56
+r;24943632;1526034;45446;0;58
+r;83864881;3326092;45446;0;59
+r;23378878;1377686;45446;0;60
+r;72593231;2948994;45446;0;62
+r;404842157;15694389;45446;0;120
+r;404842169;14943046;45446;0;120
+r;9376300;6834;45446;0;143
+r;9377202;9468;45446;0;143
+r;9414008;112348;45446;0;144
+r;9426056;140083;45446;0;145
+r;9426212;140323;45446;0;145
+r;9427189;141830;45446;0;145
+r;9484453;202025;45446;0;147
+r;9560902;279852;45446;0;147
+r;9577462;294714;45446;0;147
+r;2465069;1961;45446;5;-71
+r;325506895;12699214;45446;200;1
+r;16399052;316571;45446;777;10
+r;22560933;123933;45446;777;10
+r;287981558;10327258;45446;777;10
+r;361124557;11056297;45446;777;10
