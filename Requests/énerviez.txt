@@ -1,0 +1,53 @@
+<CODE>
+// DUMP pour le terme 'Ã©nerviez' (eid=2033167)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;2033167;'énerviez';2;0
+e;104396;'énerver';1;436
+e;14270943;'VerbalPers:P2';4;0
+e;14270946;'VerbalNumber:PL';4;0
+e;14270842;'Ver:SPre+PL+P2';4;0
+e;14271094;'VerbalTime:Imparfait';4;0
+e;2935005;'VerbalTime:Present';4;0
+e;14270841;'Ver:IImp+PL+P2';4;0
+e;2935006;'VerbalTime:Past';4;0
+e;2946892;'Ver:Conjug';4;0
+e;3093590;'VerbalMode:Indicatif';4;0
+e;3093591;'VerbalMode:Subjonctif';4;0
+e;212235;'Ver:';4;50
+e;161752;'Ver:IImp+PL+P2:SPre+PL+P2';4;50
+e;151553;'_FL:0';6;50
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;87568423;2033167;104396;0;42
+r;363413050;2033167;14270943;4;25
+r;363405233;2033167;14270946;4;25
+r;363397414;2033167;14270842;4;25
+r;363389507;2033167;14271094;4;25
+r;363650640;2033167;2935005;4;25
+r;363767401;2033167;14270841;4;25
+r;72123965;2033167;2935006;4;45
+r;72460309;2033167;2946892;4;45
+r;75697883;2033167;3093590;4;45
+r;75697884;2033167;3093591;4;45
+r;32305657;2033167;212235;4;58
+r;32305652;2033167;161752;4;66
+r;74635803;2033167;151553;12;29
+r;89665105;2033167;3575927;18;28
+r;90648833;2033167;3576104;18;36
+r;32305647;2033167;104396;19;60
+// les relations entrantes : r;rid;node1;node2;type;w 

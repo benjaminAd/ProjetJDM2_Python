@@ -1,0 +1,135 @@
+<CODE>
+// DUMP pour le terme 'Ã©nerve' (eid=222841)
+<def>
+<br />
+(Botanique) Qui est sans nervure.
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;444;'n_link'
+nt;777;'n_wikipedia'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;222841;'énerve';1;50
+e;66228;'énervé';1;246
+e;104396;'énerver';1;436
+e;3674;'botanique';1;2220
+e;57835;'affect';1;88
+e;239128;'_COM';36;50
+e;14298617;'énerve>171869';1;0;'énerve>Adj:'
+e;14298616;'énerve>2946892';1;0;'énerve>Ver:Conjug'
+e;14270798;'VerbalMode:Impératif';4;0
+e;14270847;'Ver:ImPre+SG+P2';4;0
+e;14270944;'VerbalPers:P3';4;0
+e;14270943;'VerbalPers:P2';4;0
+e;14270942;'VerbalPers:P1';4;0
+e;14270945;'VerbalNumber:SG';4;0
+e;150120;'Ver:SPre+SG+P3';4;50
+e;150119;'Ver:SPre+SG+P1';4;50
+e;150118;'Ver:IPre+SG+P3';4;50
+e;150117;'Ver:IPre+SG+P1';4;50
+e;171869;'Adj:';4;50
+e;2935005;'VerbalTime:Present';4;0
+e;3093591;'VerbalMode:Subjonctif';4;0
+e;3093590;'VerbalMode:Indicatif';4;0
+e;161698;'Ver:IPre+SG+P1:IPre+SG+P3:SPre+SG+P1:SPre+SG+P3:ImPre+SG+P2';4;50
+e;212235;'Ver:';4;50
+e;2946892;'Ver:Conjug';4;0
+e;8118254;'Ça m'énerve';1;0
+e;15259030;'Ce bruit m'énerve.';1;0
+e;151553;'_FL:0';6;50
+e;3576104;'Morpho:nospace';18;50
+e;3575927;'Morpho:min';18;50
+e;7040874;'en:generalized anxiety disorder';1;0
+e;626;'peur';1;5290
+e;23114;'anxiété';1;822
+e;22264;'colère';1;2170
+e;254877;'_POL-NEUTRE_PC';36;50
+e;438949;'_INFO-POLYMORPHIC';36;50
+e;251716;'_INFO-MONOSEMIC';36;50
+e;273221;'_INFO-WIKI-NO';36;50
+e;254878;'_POL-NEG_PC';36;50
+e;241794;'_POL-NEUTRE';36;50
+e;223172;'_POL-NEG';36;50
+e;4254963;'dbnary:fra:__ws_1_énerve__adj__1';444;0
+e;2983124;'_SW';36;50
+e;37401;'impatientant';1;50
+e;42992;'calme';1;1918
+e;139791;'agace';1;50
+e;1856173;'trouble anxieux généralisé';777;0
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;2;'r_raff_morpho';'raffinement morphologique';Raffinement morphologique vers un usage particulier du terme source
+rt;3;'r_domain';'domaine';Il est demandé de fournir des domaines relatifs au mot cible. Par exemple, pour 'corner', on pourra donner les domaines 'football' ou 'sport'.
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;11;'r_locution';'locution';A partir d'un terme, il est demandé d'énumérer les locutions, expression ou mots composés en rapport avec ce terme. Par exemple, pour 'moulin', ou pourra avoir 'moulin à vent', 'moulin à eau', 'moulin à café'. Pour 'vendre', on pourra avoir 'vendre la peau de l'ours avant de l'avoir tué', 'vendre à perte', etc..
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;27;'r_domain-1';'domaine-1';inverse de r_domain : à un domaine, on associe des termes
+rt;32;'r_sentiment';'sentiment';Pour un terme donné, évoquer des mots liés à des SENTIMENTS ou des EMOTIONS que vous pourriez associer à ce terme. Par exemple, la joie, le plaisir, le dégoût, la peur, la haine, l'amour, l'indifférence, l'envie, avoir peur, horrible, etc.
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;115;'r_sentiment-1';'sentiment-1';Pour un SENTIMENT ou EMOTION donné, il est demandé dénumérer les termes que vous pourriez associer. Par exemple, pour 'joie', on aurait 'cadeau', 'naissance', 'bonne nouvelle', etc.
+rt;444;'r_link';'r_link';Lien vers une ressource externe (WordNet, RadLex, UMLS, Wikipedia, etc...)
+rt;555;'r_cooccurrence';'r_cooccurrence';co-occurences (non utilisée)
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;14467930;222841;66228;0;21
+r;87489350;222841;104396;0;29
+r;95623918;222841;3674;0;36
+r;9092115;222841;57835;0;40
+r;24162465;222841;239128;0;1000000
+r;363952627;222841;14298617;2;35
+r;363952623;222841;14298616;2;105
+r;95556582;222841;3674;3;32
+r;361881128;222841;14270798;4;25
+r;363204584;222841;14270847;4;25
+r;363025642;222841;14270944;4;25
+r;363016634;222841;14270943;4;25
+r;363007703;222841;14270942;4;25
+r;362998834;222841;14270945;4;25
+r;362989854;222841;150120;4;25
+r;362980736;222841;150119;4;25
+r;362971734;222841;150118;4;25
+r;362962830;222841;150117;4;25
+r;95536126;222841;171869;4;35
+r;72093922;222841;2935005;4;45
+r;75697872;222841;3093591;4;45
+r;75697871;222841;3093590;4;47
+r;12094723;222841;161698;4;55
+r;12094724;222841;212235;4;57
+r;72423243;222841;2946892;4;85
+r;136461059;222841;8118254;11;33
+r;395012495;222841;15259030;11;50
+r;1661269;222841;151553;12;14
+r;90800707;222841;3576104;18;26
+r;89910399;222841;3575927;18;32
+r;12094722;222841;104396;19;60
+r;386075057;222841;7040874;32;-25
+r;33793096;222841;626;32;10
+r;9092116;222841;23114;32;45
+r;9092117;222841;22264;32;45
+r;9326690;222841;254877;36;17
+r;363952626;222841;438949;36;26
+r;96230437;222841;251716;36;29
+r;6388667;222841;273221;36;49
+r;9089178;222841;254878;36;83
+r;9269355;222841;241794;36;84
+r;9089915;222841;223172;36;417
+r;94606120;222841;4254963;444;1
+r;74117567;222841;2983124;555;1048
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;95623917;3674;222841;0;2
+r;136461060;8118254;222841;0;9
+r;418144828;37401;222841;0;22
+r;14467931;66228;222841;0;23
+r;274815847;42992;222841;0;32
+r;395012496;15259030;222841;0;50
+r;1661268;139791;222841;0;60
+r;95623916;3674;222841;27;2
+r;25664943;23114;222841;115;30
+r;25664944;22264;222841;115;30
+r;161779192;7040874;222841;115;30
+r;400196377;1856173;222841;115;30

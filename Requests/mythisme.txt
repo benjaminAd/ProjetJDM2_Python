@@ -1,0 +1,76 @@
+<CODE>
+// DUMP pour le terme 'mythisme' (eid=2432574)
+<def>
+<br />
+1. (Par extension) Croyance au mythe et au merveilleux ; esprit irrationnel donnant la préférence au rêve plutôt qu'aux faits, dans l'explication d'un récit historique ou hagiographique.<br /> 
+ (?) le mythisme d'une religion. Modèle:cit_réf    
+ (Béguin, L'Âme romantique et le rêve,1939)  <br />
+2. Cette vision du monde, elle-même, telle que les récits nous la laissent entrevoir.<br /> 
+ Le jeune Chateaubriand commence par douter de la véracité de Moïse sur l'origine du monde, de quoi M. de Chateaubriand, l'annotateur, se colère grandement. Cela ne doit pas surprendre ; il a fait depuis le Génie du christianisme. Il n'y a plus que le noble pair qui soit tenu de croire à l'authenticité de la Genèse, en dépit du mythisme babylonien, de l'esprit des localités assyriennes, et des indications historiques qui en font attribuer la rédaction au grand-prêtre Helkias, au retour de la captivité.    
+ (Scipion Marin, Histoire de la vie et des ouvrages de M. de Chateaubriand, considéré comme poète, voyageur et homme d'État, avec l'analyse de ses ouvrages, 1832)  <br />
+3. (Péjoratif) Abus des interprétations par le mythe, dans l'explication des textes sacrés.<br />
+4. Théorie rapportant des récits religieux non à des faits avérés, authentiques, mais à la vision du monde qu'avaient leurs auteurs, exprimée de façon symbolique, sous forme d'allégories.<br /> 
+ Homère devait passer pour un poète individuel, avant que l'étude comparée des littératures eût révélé les faits si délicats du mythisme, de la légende primitive, de l'apocryphisme.    
+ (Renan, L'Avenir de la science, 1890)  <br />
+5. (Par extension) Croyance au mythe et au merveilleux ; esprit irrationnel donnant la préférence au rêve plutôt qu'aux faits, dans l'explication d'un récit historique ou hagiographique.<br /> 
+ (?) le mythisme d'une religion.    
+ (Béguin, L'Âme romantique et le rêve,1939)  
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;4;'n_pos'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;444;'n_link'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;2432574;'mythisme';1;0
+e;239128;'_COM';36;50
+e;2586629;'Number:Sing';4;0
+e;2586627;'Gender:Mas';4;0
+e;146885;'Nom:Mas+SG';4;50
+e;171870;'Nom:';4;50
+e;79846;'théorie';1;428
+e;3576104;'Morpho:nospace';18;50
+e;3575927;'Morpho:min';18;50
+e;187307;'Langage:péjoratif';18;50
+e;217817;'_INFO-POLYSEMIC';36;50
+e;273221;'_INFO-WIKI-NO';36;50
+e;2585997;'_INFO-CNRTL-NO';36;50
+e;254878;'_POL-NEG_PC';36;50
+e;223172;'_POL-NEG';36;50
+e;3896578;'dbnary:fra:__ws_4_mythisme__nom__1';444;0
+e;3979753;'dbnary:fra:__ws_2_mythisme__nom__1';444;0
+e;4191071;'dbnary:fra:__ws_3_mythisme__nom__1';444;0
+e;4273667;'dbnary:fra:__ws_1_mythisme__nom__1';444;0
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;6;'r_isa';'générique';Il est demandé d'énumérer les GENERIQUES/hyperonymes du terme. Par exemple, 'animal' et 'mammifère' sont des génériques de 'chat'.
+rt;8;'r_hypo';'spécifique';Il est demandé d'énumérer des SPECIFIQUES/hyponymes du terme. Par exemple, 'mouche', 'abeille', 'guêpe' pour 'insecte'.
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;444;'r_link';'r_link';Lien vers une ressource externe (WordNet, RadLex, UMLS, Wikipedia, etc...)
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;52744459;2432574;239128;0;1000000
+r;290829109;2432574;2586629;4;25
+r;290978996;2432574;2586627;4;25
+r;290783979;2432574;146885;4;30
+r;52298060;2432574;171870;4;49
+r;82548625;2432574;79846;6;34
+r;90296127;2432574;3576104;18;27
+r;89333932;2432574;3575927;18;31
+r;52637043;2432574;187307;18;149
+r;297404243;2432574;2432574;19;25
+r;396048676;2432574;217817;36;25
+r;375347868;2432574;273221;36;26
+r;55024460;2432574;2585997;36;56
+r;218108741;2432574;254878;36;100
+r;88765266;2432574;223172;36;229
+r;94283919;2432574;3896578;444;1
+r;94358057;2432574;3979753;444;1
+r;94548515;2432574;4191071;444;1
+r;94622988;2432574;4273667;444;1
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;243404075;79846;2432574;8;25
+r;297404243;2432574;2432574;19;25

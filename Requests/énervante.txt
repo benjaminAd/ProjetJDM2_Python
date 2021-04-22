@@ -1,0 +1,147 @@
+<CODE>
+// DUMP pour le terme 'Ã©nervante' (eid=249717)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;10;'n_relation'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;200;'n_context'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;249717;'énervante';1;18
+e;244204;'emmerdante';1;34
+e;14944521;'en:irritating';1;0
+e;319116;'agaçante';1;12
+e;130541;'énervant';1;328
+e;239128;'_COM';36;50
+e;2586628;'Gender:Fem';4;0
+e;2586629;'Number:Sing';4;0
+e;146894;'Adj:Fem+SG';4;50
+e;171869;'Adj:';4;50
+e;151564;'_FL:5';6;50
+e;152775;'_FL:23';6;50
+e;151553;'_FL:0';6;50
+e;14916413;'Langue:français';18;50
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+e;42794;'arnaque';1;316
+e;2443471;'arnache';1;0
+e;155481;'emmerdeuse';1;150
+e;61490;'femme';1;30492
+e;318941;'personne ennuyeuse';1;10
+e;2419952;'arnac';1;0
+e;5584;'sensiblerie';1;58
+e;60835;'terreur';1;770
+e;82489;'frustration';1;514
+e;22264;'colère';1;2170
+e;248198;'_SEX_NO';36;50
+e;273221;'_INFO-WIKI-NO';36;50
+e;254878;'_POL-NEG_PC';36;50
+e;223172;'_POL-NEG';36;50
+e;8568894;':r149316285';10;0
+e;12785167;'92802c1d6a973691bbfd4a2d370a88fd';200;0
+e;14048505;'5370a05f7cfc386fa25283525587208a';200;0
+e;14347126;'777883344500ab34d07dbe6563d40ffc';200;0
+e;15247123;'en:pissing off';1;0
+e;14935230;'en:tiresome';1;0
+e;320026;'jamais contente';1;2
+e;2033038;'énervantes';2;0
+e;321441;'prendre tout mal';1;50
+e;321442;'râler tout le temps';1;50
+e;153460;'chiante';1;160
+e;266353;'fille sotte';1;50
+e;266139;'personne insupportable';1;50
+e;319834;'horripilante';1;4
+e;15530938;'en:sob stuff';1;0
+e;163209;'capricieuse';1;70
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;5;'r_syn';'synonyme';Il est demandé d'énumérer les synonymes ou quasi-synonymes de ce terme.
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;17;'r_carac';'caractéristique';Pour un terme donné, souvent un objet, il est demandé d'en énumérer les CARACtéristiques (adjectifs) possibles/typiques. Par exemple, 'liquide', 'froide', 'chaude', pour 'eau'.
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;23;'r_carac-1';'caractéristique-1';Quels sont les objets (des noms) possédant typiquement/possiblement la caractérisque suivante ? Par exemple, 'soleil', 'feu', pour 'chaud'.
+rt;32;'r_sentiment';'sentiment';Pour un terme donné, évoquer des mots liés à des SENTIMENTS ou des EMOTIONS que vous pourriez associer à ce terme. Par exemple, la joie, le plaisir, le dégoût, la peur, la haine, l'amour, l'indifférence, l'envie, avoir peur, horrible, etc.
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;59;'r_masc';'équivalent masc';L'équivalent masculin du terme : lionne --> lion.
+rt;60;'r_fem';'équivalent fem';L'équivalent féminin du terme : lion --> lionne.
+rt;115;'r_sentiment-1';'sentiment-1';Pour un SENTIMENT ou EMOTION donné, il est demandé dénumérer les termes que vous pourriez associer. Par exemple, pour 'joie', on aurait 'cadeau', 'naissance', 'bonne nouvelle', etc.
+rt;128;'r_node2relnode';'r_node2relnode';Relation entre un noeud (quelconque) et un noeud de relation (type = 10) - permet de rendre le graphe connexe même avec les annotations de relations
+rt;200;'r_context';'r_context';Relation de contexte entre un terme et un noeud contexte.
+rt;333;'r_translation';'r_translation';Traduction vers une autre langue.
+rt;666;'r_aki';'r_aki';(TOTAKI) equivalent pour TOTAKI de l'association libre
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;25325112;249717;244204;0;23
+r;415871497;249717;14944521;0;25
+r;12365990;249717;319116;0;28
+r;87489349;249717;130541;0;34
+r;24180760;249717;239128;0;1000000
+r;53922365;249717;2586628;4;46
+r;54209109;249717;2586629;4;46
+r;12094720;249717;146894;4;54
+r;9045378;249717;171869;4;56
+r;12163530;249717;319116;5;34
+r;25304198;249717;244204;5;34
+r;9043967;249717;151564;12;15
+r;95367308;249717;152775;12;22
+r;12372766;249717;151553;12;26
+r;394273208;249717;14916413;18;25
+r;89898336;249717;3575927;18;29
+r;90795372;249717;3576104;18;34
+r;12094719;249717;130541;19;59
+r;88319035;249717;42794;23;22
+r;88910534;249717;2443471;23;23
+r;85403962;249717;155481;23;24
+r;149728204;249717;61490;23;26
+r;14745063;249717;318941;23;28
+r;88459474;249717;2419952;23;28
+r;95457546;249717;5584;23;35
+r;33755957;249717;60835;32;8
+r;33755958;249717;82489;32;8
+r;33468622;249717;22264;32;28
+r;212284355;249717;248198;36;1
+r;8431794;249717;273221;36;49
+r;9236717;249717;254878;36;103
+r;9156094;249717;223172;36;371
+r;105154771;249717;130541;59;35
+r;149316289;249717;8568894;128;2
+r;328042293;249717;12785167;200;1
+r;354981108;249717;14048505;200;2
+r;364787069;249717;14347126;200;2
+r;394273206;249717;14944521;333;25
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;399233527;15247123;249717;0;20
+r;405069070;14935230;249717;0;20
+r;415871496;14944521;249717;0;25
+r;9044832;320026;249717;0;28
+r;107308937;2033038;249717;0;28
+r;12163529;319116;249717;0;29
+r;25304197;244204;249717;0;29
+r;9069008;321441;249717;0;30
+r;9069091;321442;249717;0;35
+r;9045379;153460;249717;0;43
+r;210642456;266353;249717;0;51
+r;364531269;266139;249717;0;51
+r;98717271;319834;249717;0;53
+r;12372765;130541;249717;0;61
+r;25295716;244204;249717;5;29
+r;9039735;319116;249717;5;45
+r;411968022;15530938;249717;17;10
+r;9019692;318941;249717;17;31
+r;85403508;155481;249717;17;34
+r;88316150;42794;249717;17;45
+r;88320177;2419952;249717;17;45
+r;88346098;2443471;249717;17;45
+r;149316285;61490;249717;17;56
+r;95367306;5584;249717;17;61
+r;107311921;2033038;249717;19;31
+r;105154772;130541;249717;60;42
+r;385344154;22264;249717;115;25
+r;394273207;14944521;249717;333;25
+r;2228498;163209;249717;666;1

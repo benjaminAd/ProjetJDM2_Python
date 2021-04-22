@@ -1,0 +1,113 @@
+<CODE>
+// DUMP pour le terme 'charal' (eid=5797208)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;4;'n_pos'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;444;'n_link'
+nt;777;'n_wikipedia'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;5797208;'charal';777;0
+e;108659;'entreprises';1;56
+e;1925208;'monde de l'entreprise';1;6
+e;171870;'Nom:';4;50
+e;30030;'entreprise';1;1537
+e;224895;'entreprise>146272';1;192;'entreprise>société'
+e;3576104;'Morpho:nospace';18;50
+e;223172;'_POL-NEG';36;50
+e;241794;'_POL-NEUTRE';36;50
+e;223173;'_POL-POS';36;50
+e;254877;'_POL-NEUTRE_PC';36;50
+e;254878;'_POL-NEG_PC';36;50
+e;162762;'_INFO-SEM-ORGA';36;122
+e;276096;'_INFO-WIKI-YES';36;50
+e;2585997;'_INFO-CNRTL-NO';36;50
+e;254876;'_POL-POS_PC';36;50
+e;3228593;'wiki:@';444;0
+e;143063;'Entreprise';1;50
+e;87987;'France';1;3144
+e;146821;'française';1;560
+e;67537;'agroalimentaire';1;92
+e;113344;'abattage';1;80
+e;152685;'Animal';1;50
+e;71539;'animaux';1;1488
+e;400394;'viandes';1;122
+e;31579;'Cholet';1;50
+e;1798105;'crise de la vache folle';1;0
+e;13832;'Maine-et-Loire';1;58
+e;111599;'Flers';1;52
+e;38301;'Lisieux';1;54
+e;2536484;'Égletons';1;0
+e;88255;'Metz';1;56
+e;2414523;'Nozay';1;0
+e;7934;'Loire-Atlantique';1;108
+e;4389140;'L214';1;0
+e;97667;'Arte';1;90
+e;3767777;'Olivier de Kersauson';1;0
+e;310094;'Rue89';1;50
+e;5805813;'Viande';777;0
+e;683864;'entreprise>171870';1;0;'entreprise>Nom:'
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;3;'r_domain';'domaine';Il est demandé de fournir des domaines relatifs au mot cible. Par exemple, pour 'corner', on pourra donner les domaines 'football' ou 'sport'.
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;6;'r_isa';'générique';Il est demandé d'énumérer les GENERIQUES/hyperonymes du terme. Par exemple, 'animal' et 'mammifère' sont des génériques de 'chat'.
+rt;8;'r_hypo';'spécifique';Il est demandé d'énumérer des SPECIFIQUES/hyponymes du terme. Par exemple, 'mouche', 'abeille', 'guêpe' pour 'insecte'.
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;27;'r_domain-1';'domaine-1';inverse de r_domain : à un domaine, on associe des termes
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;444;'r_link';'r_link';Lien vers une ressource externe (WordNet, RadLex, UMLS, Wikipedia, etc...)
+rt;777;'r_wiki';'r_wiki';Associations issues de wikipedia...
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;113013718;5797208;108659;0;31
+r;113011848;5797208;1925208;0;36
+r;112906757;5797208;108659;3;27
+r;112907205;5797208;1925208;3;35
+r;112889966;5797208;171870;4;28
+r;112889967;5797208;30030;6;27
+r;112889968;5797208;224895;6;32
+r;424349651;5797208;3576104;18;25
+r;294340063;5797208;223172;36;1
+r;294340065;5797208;241794;36;1
+r;294340064;5797208;223173;36;7
+r;294340067;5797208;254877;36;11
+r;294340068;5797208;254878;36;11
+r;112889969;5797208;162762;36;30
+r;122124716;5797208;276096;36;37
+r;294340062;5797208;2585997;36;50
+r;294340066;5797208;254876;36;78
+r;113352756;5797208;3228593;444;26
+r;112889970;5797208;143063;777;10
+r;112889971;5797208;30030;777;10
+r;112889972;5797208;87987;777;10
+r;112889973;5797208;146821;777;10
+r;112889974;5797208;67537;777;10
+r;112889975;5797208;113344;777;10
+r;112889976;5797208;152685;777;10
+r;112889977;5797208;71539;777;10
+r;112889978;5797208;400394;777;10
+r;112889979;5797208;31579;777;10
+r;112889980;5797208;1798105;777;10
+r;112889981;5797208;13832;777;10
+r;112889982;5797208;111599;777;10
+r;112889983;5797208;38301;777;10
+r;112889989;5797208;2536484;777;10
+r;112889990;5797208;88255;777;10
+r;112889991;5797208;2414523;777;10
+r;112889992;5797208;7934;777;10
+r;112889993;5797208;4389140;777;10
+r;112889994;5797208;97667;777;10
+r;112889995;5797208;3767777;777;10
+r;112889996;5797208;310094;777;10
+r;113152343;5797208;5805813;777;10
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;113011847;1925208;5797208;0;20
+r;113013717;108659;5797208;0;20
+r;409851836;683864;5797208;8;15
+r;247034548;224895;5797208;8;25
+r;247055200;30030;5797208;8;25
+r;113011846;1925208;5797208;27;20
+r;113013716;108659;5797208;27;20

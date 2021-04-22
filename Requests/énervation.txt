@@ -1,0 +1,264 @@
+<CODE>
+// DUMP pour le terme 'Ã©nervation' (eid=24348)
+<def>
+<br />
+1. Supplice qui consistait à brûler au fer rouge les tendons des jarrets et des genoux.<br />
+2. Privation de l'usage des nerfs.<br /> 
+ Dans cet état d'énervation, état pitoyable, je sens que tôt ou tard le moment viendra où la vie et la raison m'abandonneront à la fois, dans quelque lutte inégale avec le sinistre fantôme : la peur !    
+ (Charles Baudelaire, traduction de La Chute de la maison Usher)  <br />
+3. (Boucherie) Ancienne technique d'abattage qui consistait en l'introduction d'un lame fine entre les premières vertèbres dans le but de sectionner la moelle épinière.<br />
+4. Abattement, perte des forces physiques ou morales.<br /> 
+ Dans cet état d'énervation, état pitoyable, je sens que tôt ou tard le moment viendra où la vie et la raison m'abandonneront à la fois, dans quelque lutte inégale avec le sinistre fantôme : la peur !    
+ (Charles Baudelaire, traduction de La Chute de la maison Usher)  <br />
+5. (Médecine vétérinaire) Section des tendons releveurs de la lèvre, chez le cheval.<br />
+6. (Médecine)Privation de l'usage des nerfs, ou ablation d'un nerf
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;444;'n_link'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;24348;'énervation';1;50
+e;83944;'nerf';1;846
+e;7178579;'en:enervation';1;0
+e;6849706;'en:excision';1;0
+e;239128;'_COM';36;50
+e;252531;'ablation>102206';1;62;'ablation>médecine'
+e;126167;'supplice';1;276
+e;118744;'énervement';1;794
+e;104396;'énerver';1;436
+e;270476;'supplice>251970';1;62;'supplice>punition corporelle'
+e;102206;'médecine';1;7140
+e;80808;'ablation';1;128
+e;64437;'boucherie';1;1108
+e;1926122;'ablations';1;0
+e;43729;'médecine vétérinaire';1;72
+e;9549;'chirurgie';1;1532
+e;12821;'affaiblissement';1;132
+e;17169;'ôter';1;230
+e;396725;'énervation>64437';1;50;'énervation>boucherie'
+e;396726;'énervation>12821';1;50;'énervation>affaiblissement'
+e;396723;'énervation>126167';1;50;'énervation>supplice'
+e;396724;'énervation>102206';1;50;'énervation>médecine'
+e;151903;'Chirurgie';1;100
+e;2586629;'Number:Sing';4;0
+e;2586628;'Gender:Fem';4;0
+e;146881;'Nom:Fem+SG';4;50
+e;171870;'Nom:';4;50
+e;116310;'excision';1;64
+e;6307461;'énervation percutanée d'une facette';1;0
+e;151553;'_FL:0';6;50
+e;14916413;'Langue:français';18;50
+e;3576104;'Morpho:nospace';18;50
+e;3575927;'Morpho:min';18;50
+e;4552;'inquiétude';1;836
+e;22264;'colère';1;2170
+e;49337;'crainte';1;1398
+e;103405;'indifférence';1;610
+e;626;'peur';1;5290
+e;144681;'angoisse';1;1836
+e;2585996;'_INFO-CNRTL-YES';36;50
+e;15991432;'_ANIME-NO';36;50
+e;273221;'_INFO-WIKI-NO';36;50
+e;254878;'_POL-NEG_PC';36;50
+e;254877;'_POL-NEUTRE_PC';36;50
+e;254876;'_POL-POS_PC';36;50
+e;191672;'_INFO-SEM-ACTION';36;36
+e;217817;'_INFO-POLYSEMIC';36;50
+e;223172;'_POL-NEG';36;50
+e;223173;'_POL-POS';36;50
+e;241794;'_POL-NEUTRE';36;50
+e;4052216;'dbnary:fra:__ws_3_énervation__nom__1';444;0
+e;4249002;'dbnary:fra:__ws_1_énervation__nom__1';444;0
+e;4149517;'dbnary:fra:__ws_4_énervation__nom__1';444;0
+e;3854441;'dbnary:fra:__ws_5_énervation__nom__1';444;0
+e;3840173;'dbnary:fra:__ws_2_énervation__nom__1';444;0
+e;252532;'ablation>76496';1;50;'ablation>matériaux'
+e;323397;'énervé>120536';1;50;'énervé>affaibli'
+e;252533;'ablation>92878';1;50;'ablation>géologie'
+e;252534;'ablation>37856';1;50;'ablation>horticulture'
+e;323396;'énervé>35486';1;72;'énervé>nervosité'
+e;9699366;'opération de chirurgie';1;0
+e;164673;'intervention chirurgicale';1;198
+e;69344;'exérèse';1;60
+e;7112986;'en:surgery';1;0
+e;165465;'opération chirurgicale';1;82
+e;15069992;'en:surgical operation';1;0
+e;6822922;'en:surgical procedure';1;0
+e;66228;'énervé';1;246
+e;599162;'énervé>171869';1;0;'énervé>Adj:'
+e;2033054;'énervations';2;0
+e;1925210;'énervé>161702';1;0;'énervé>Ver:PPas'
+e;323398;'énervé>113667';1;50;'énervé>supplicié'
+e;15196070;'en:chirurgia';1;0
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;1;'r_raff_sem';'raffinement sémantique';Raffinement sémantique vers un usage particulier du terme source
+rt;3;'r_domain';'domaine';Il est demandé de fournir des domaines relatifs au mot cible. Par exemple, pour 'corner', on pourra donner les domaines 'football' ou 'sport'.
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;5;'r_syn';'synonyme';Il est demandé d'énumérer les synonymes ou quasi-synonymes de ce terme.
+rt;6;'r_isa';'générique';Il est demandé d'énumérer les GENERIQUES/hyperonymes du terme. Par exemple, 'animal' et 'mammifère' sont des génériques de 'chat'.
+rt;8;'r_hypo';'spécifique';Il est demandé d'énumérer des SPECIFIQUES/hyponymes du terme. Par exemple, 'mouche', 'abeille', 'guêpe' pour 'insecte'.
+rt;11;'r_locution';'locution';A partir d'un terme, il est demandé d'énumérer les locutions, expression ou mots composés en rapport avec ce terme. Par exemple, pour 'moulin', ou pourra avoir 'moulin à vent', 'moulin à eau', 'moulin à café'. Pour 'vendre', on pourra avoir 'vendre la peau de l'ours avant de l'avoir tué', 'vendre à perte', etc..
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;27;'r_domain-1';'domaine-1';inverse de r_domain : à un domaine, on associe des termes
+rt;32;'r_sentiment';'sentiment';Pour un terme donné, évoquer des mots liés à des SENTIMENTS ou des EMOTIONS que vous pourriez associer à ce terme. Par exemple, la joie, le plaisir, le dégoût, la peur, la haine, l'amour, l'indifférence, l'envie, avoir peur, horrible, etc.
+rt;35;'r_meaning/glose';'glose/sens/signification';Quels SENS/SIGNIFICATIONS pouvez vous donner au terme proposé. Il s'agira de termes (des gloses) évoquant chacun des sens possibles, par exemple : 'forces de l'ordre', 'contrat d'assurance', 'police typographique', ... pour 'police'.
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;39;'r_verbe-action';'verbe>action';du verbe vers l'action. Par exemple, construire -> construction , jardiner -> jardinage . C'est un terme directement dérivé (ayant la même racine). Applicable que pour un verbe et inverse de la relation 40 (action vers verbe).
+rt;40;'r_action-verbe';'action>verbe';de l'action vers le verbe. Par exemple, construction -> construire, jardinage -> jardiner. C'est un terme directement dérivé (ayant la même racine). Applicable que pour un nom et inverse de la relation 39 (verbe vers action).
+rt;115;'r_sentiment-1';'sentiment-1';Pour un SENTIMENT ou EMOTION donné, il est demandé dénumérer les termes que vous pourriez associer. Par exemple, pour 'joie', on aurait 'cadeau', 'naissance', 'bonne nouvelle', etc.
+rt;333;'r_translation';'r_translation';Traduction vers une autre langue.
+rt;444;'r_link';'r_link';Lien vers une ressource externe (WordNet, RadLex, UMLS, Wikipedia, etc...)
+rt;999;'r_inhib';'r_inhib';relation d'inhibition, le terme inhibe les termes suivants... ce terme a tendance à exclure le terme associé.
+rt;2000;'r_raff_sem-1';'r_raff_sem-1';Inverse de r_raff_sem (automatique)
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;418082081;24348;83944;0;12
+r;416065587;24348;7178579;0;25
+r;312520526;24348;6849706;0;2
+r;24025529;24348;239128;0;1000000
+r;9828963;24348;252531;0;59
+r;1355423;24348;126167;0;48
+r;59254500;24348;118744;0;27
+r;11978682;24348;104396;0;35
+r;14200429;24348;270476;0;26
+r;14676762;24348;102206;0;49
+r;9828914;24348;80808;0;59
+r;14676761;24348;64437;0;35
+r;31190036;24348;1926122;0;35
+r;95653148;24348;43729;0;36
+r;1355424;24348;9549;0;30
+r;14676760;24348;12821;0;45
+r;418417332;24348;17169;0;11
+r;14200388;24348;396725;1;35
+r;14200390;24348;396726;1;45
+r;14200384;24348;396723;1;35
+r;14200386;24348;396724;1;45
+r;95546540;24348;43729;3;34
+r;31623521;24348;151903;3;-10
+r;31292034;24348;9549;3;26
+r;3016428;24348;102206;3;44
+r;31170224;24348;1926122;3;34
+r;98279045;24348;64437;3;30
+r;54054043;24348;2586629;4;45
+r;54023751;24348;2586628;4;45
+r;21437;24348;146881;4;58
+r;491966;24348;171870;4;80
+r;55147223;24348;118744;5;58
+r;54633876;24348;12821;5;53
+r;3016467;24348;252531;6;118
+r;14200377;24348;126167;6;60
+r;14200378;24348;270476;6;53
+r;312038509;24348;6849706;6;25
+r;377084209;24348;116310;6;25
+r;3016405;24348;80808;6;129
+r;328940349;24348;6307461;8;2
+r;319090243;24348;6307461;11;25
+r;74635782;24348;151553;12;36
+r;390239881;24348;14916413;18;25
+r;90919694;24348;3576104;18;34
+r;90047728;24348;3575927;18;34
+r;299074;24348;24348;19;55
+r;33725823;24348;4552;32;11
+r;76222234;24348;22264;32;28
+r;105815883;24348;49337;32;3
+r;98279046;24348;103405;32;24
+r;33527810;24348;626;32;12
+r;33725824;24348;144681;32;11
+r;14200381;24348;102206;35;45
+r;14200382;24348;64437;35;35
+r;14200380;24348;126167;35;45
+r;14200383;24348;12821;35;45
+r;55147222;24348;2585996;36;55
+r;418082080;24348;15991432;36;25
+r;6621626;24348;273221;36;44
+r;12122141;24348;254878;36;78
+r;27221695;24348;254877;36;9
+r;27221694;24348;254876;36;13
+r;11952657;24348;191672;36;41
+r;14200379;24348;217817;36;65
+r;12115410;24348;223172;36;594
+r;19331637;24348;223173;36;99
+r;26195763;24348;241794;36;68
+r;1062404;24348;104396;40;54
+r;390239878;24348;7178579;333;25
+r;94423059;24348;4052216;444;1
+r;94600738;24348;4249002;444;1
+r;94511142;24348;4149517;444;1
+r;94246358;24348;3854441;444;1
+r;94233627;24348;3840173;444;1
+r;32076665;24348;252532;999;7
+r;284316369;24348;323397;999;28
+r;32076767;24348;252533;999;7
+r;32076869;24348;252534;999;7
+r;284316344;24348;323396;999;28
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;319090244;6307461;24348;0;3
+r;423786049;9699366;24348;0;5
+r;414645115;164673;24348;0;10
+r;294289807;69344;24348;0;11
+r;95653147;43729;24348;0;12
+r;399123144;7112986;24348;0;20
+r;411438196;165465;24348;0;20
+r;412316520;15069992;24348;0;20
+r;412321195;6822922;24348;0;20
+r;31190035;1926122;24348;0;21
+r;416065586;7178579;24348;0;25
+r;15266729;102206;24348;0;26
+r;14376209;126167;24348;0;27
+r;14376210;270476;24348;0;27
+r;97362625;66228;24348;0;27
+r;11978681;104396;24348;0;28
+r;98385053;64437;24348;0;28
+r;54633875;12821;24348;0;30
+r;59512046;118744;24348;0;30
+r;212393439;116310;24348;0;31
+r;21610513;151903;24348;0;32
+r;97455466;599162;24348;0;32
+r;87568333;2033054;24348;0;35
+r;96659290;1925210;24348;0;35
+r;9191133;323398;24348;0;45
+r;10880157;80808;24348;0;54
+r;395927514;15196070;24348;0;115
+r;21119466;9549;24348;0;117
+r;10880134;252531;24348;0;429
+r;134698729;6849706;24348;0;433
+r;54609476;12821;24348;5;51
+r;54741591;118744;24348;5;55
+r;319090245;6307461;24348;6;26
+r;294290049;69344;24348;8;10
+r;14200431;126167;24348;8;27
+r;14200430;270476;24348;8;32
+r;212393440;116310;24348;8;33
+r;9828915;80808;24348;8;59
+r;9828964;252531;24348;8;429
+r;134698836;6849706;24348;8;432
+r;299074;24348;24348;19;55
+r;32305387;2033054;24348;19;57
+r;31449569;151903;24348;27;-29
+r;423786050;9699366;24348;27;5
+r;414645116;164673;24348;27;10
+r;95653146;43729;24348;27;12
+r;399123145;7112986;24348;27;20
+r;411440429;165465;24348;27;20
+r;412316521;15069992;24348;27;20
+r;412321196;6822922;24348;27;20
+r;31190034;1926122;24348;27;21
+r;98385052;64437;24348;27;27
+r;15132266;102206;24348;27;32
+r;395928686;15196070;24348;27;110
+r;31349178;9549;24348;27;113
+r;1062403;104396;24348;39;60
+r;375658188;103405;24348;115;25
+r;375676250;22264;24348;115;25
+r;390239879;7178579;24348;333;25
+r;289383829;396725;24348;2000;35
+r;289383831;396723;24348;2000;35
+r;289383828;396726;24348;2000;45
+r;289383830;396724;24348;2000;45

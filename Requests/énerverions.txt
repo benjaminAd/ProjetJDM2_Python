@@ -1,0 +1,43 @@
+<CODE>
+// DUMP pour le terme 'Ã©nerverions' (eid=2033143)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;2033143;'énerverions';2;0
+e;104396;'énerver';1;436
+e;2946892;'Ver:Conjug';4;0
+e;14270942;'VerbalPers:P1';4;0
+e;14270946;'VerbalNumber:PL';4;0
+e;2935005;'VerbalTime:Present';4;0
+e;3094354;'VerbalMode:Conditionnel';4;0
+e;3095164;'Ver:CPre+PL+P1';4;50
+e;212235;'Ver:';4;50
+e;151553;'_FL:0';6;50
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;87568403;2033143;104396;0;30
+r;323081173;2033143;2946892;4;25
+r;363647279;2033143;14270942;4;25
+r;363639050;2033143;14270946;4;25
+r;75697904;2033143;2935005;4;45
+r;75697905;2033143;3094354;4;45
+r;75079921;2033143;3095164;4;57
+r;32305584;2033143;212235;4;59
+r;74635797;2033143;151553;12;30
+r;89665129;2033143;3575927;18;27
+r;90648857;2033143;3576104;18;32
+r;32305580;2033143;104396;19;54
+// les relations entrantes : r;rid;node1;node2;type;w 

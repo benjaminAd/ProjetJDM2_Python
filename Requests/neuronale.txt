@@ -1,0 +1,375 @@
+<CODE>
+// DUMP pour le terme 'neuronale' (eid=398299)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;200;'n_context'
+nt;666;'n_AKI'
+nt;777;'n_wikipedia'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;398299;'neuronale';1;50
+e;61925;'neuronal';1;70
+e;14950832;'en:neuronal';1;0
+e;146894;'Adj:Fem+SG';4;50
+e;171869;'Adj:';4;50
+e;2586629;'Number:Sing';4;0
+e;2586628;'Gender:Fem';4;0
+e;6387022;'lipofuscinose céroïde neuronale';1;0
+e;6269180;'sensori-neuronale';1;0
+e;6384063;'dégénérescence cortico-basale avec achromasie neuronale';1;0
+e;6377867;'céroïde-lipofuchsinose neuronale juvénile';1;0
+e;6377610;'céroïde lipofuscinose neuronale';1;0
+e;6352578;'céroïde-lipofuscinose neuronale infantile tardive';1;0
+e;6344029;'protéines associées à la croissance neuronale';1;0
+e;6341687;'nitrique oxyde synthétase neuronale';1;0
+e;6340427;'céroïde-lipofuchsinose neuronale infantile tardive';1;0
+e;6339207;'trouble de la migration neuronale';1;0
+e;6336026;'céroïde-lipofuscinose neuronale juvénile';1;0
+e;6327067;'facteur de différenciation neuronale cholinergique';1;0
+e;6326930;'facteur de croissance neuronale';1;0
+e;6302123;'excitation neuronale';1;0
+e;6294173;'inclusion neuronale argentophile';1;0
+e;6287819;'inflammation neuronale';1;0
+e;6287436;'céroïde-lipofuchsinose neuronale';1;0
+e;15391996;'agénésie neuronale';1;0
+e;6442545;'céroïde lipofuscinose neuronale de l'adulte';1;0
+e;14536503;'dégénérescence neuronale spongieuse';1;0
+e;14154299;'Plasticité neuronale';777;0
+e;13797917;'amyotrophie de charcot-marie-tooth, forme neuronale';1;0
+e;13769948;'céroïde-lipofuchsinose neuronale, type infantile finnois';1;0
+e;12979342;'réponse neuronale';1;0
+e;12182639;'mesure de protéine neuronale';1;0
+e;12104689;'protéine neuronale';1;0
+e;6448951;'dépression à long terme de l'excitabilité neuronale';1;0
+e;6448899;'céroïde lipofuschinose neuronale de l'adulte';1;0
+e;6415786;'troubles de la migration neuronale';1;0
+e;6439412;'molécules d'adhérence cellulaire neuronale';1;0
+e;6437116;'protéine inhibitrice de l'apoptose neuronale';1;0
+e;6433890;'molécules d'adhésion cellulaire neuronale';1;0
+e;6432159;'céroïde-lipofuscinose neuronale de l'adulte';1;0
+e;6427724;'concentration neuronale gastro-intestinale';1;0
+e;6427061;'céroïde-lipofuchsinose neuronale adulte';1;0
+e;6426924;'céroïde-lipofuchsinose neuronale infantile';1;0
+e;6419951;'no synthétase neuronale';1;0
+e;6416052;'traçage de voie neuronale';1;0
+e;1843406;'régénération neuronale dans le cerveau adulte';1;0
+e;333879;'activité neuronale';1;50
+e;349071;'dégénérescence neuronale';1;50
+e;354130;'filière neuronale';1;50
+e;362526;'lésion neuronale';1;50
+e;375365;'raréfaction neuronale';1;50
+e;387377;'voie neuronale';1;50
+e;391380;'plasticité neuronale';1;52
+e;1817943;'céroïde lipofuscinose neuronale de type infantile tardive';1;0
+e;1817944;'céroïde lipofuscinose neuronale congénitale';1;0
+e;1819856;'lipofuscinose neuronale céroïde infantile finlandaise';1;0
+e;1822193;'céroïde-lipofuscinose neuronale';1;0
+e;1838981;'anomalies de la migration neuronale';1;0
+e;1849504;'céroïde lipofuscinose neuronale infantile finlandaise';1;0
+e;1849505;'céroïde lipofuscinose neuronale infantile précoce';1;0
+e;1851043;'lipofuscinose neuronale céroïde congénitale';1;0
+e;1974978;'connexion neuronale';1;0
+e;2549302;'physiologie neuronale';1;0
+e;318710;'interface neuronale directe';1;50
+e;2923741;'céroïde-lipofuscinose neuronale infantile';1;0
+e;2955198;'hétérotopie neuronale';1;0
+e;6266974;'anti-neuronale';1;0
+e;151553;'_FL:0';6;50
+e;3576104;'Morpho:nospace';18;50
+e;14916413;'Langue:français';18;50
+e;3575927;'Morpho:min';18;50
+e;47286;'perte';1;642
+e;79846;'théorie';1;428
+e;122864;'mort';1;7012
+e;178369;'hétérotopie';1;50
+e;273221;'_INFO-WIKI-NO';36;50
+e;223172;'_POL-NEG';36;50
+e;223173;'_POL-POS';36;50
+e;241794;'_POL-NEUTRE';36;50
+e;254876;'_POL-POS_PC';36;50
+e;254877;'_POL-NEUTRE_PC';36;50
+e;254878;'_POL-NEG_PC';36;50
+e;2585997;'_INFO-CNRTL-NO';36;50
+e;12690472;'c23d6f5b3f3f186c0732b1cf9d9e8ba6';200;0
+e;12772811;'b99e863a8b189a9c3c864dd9fe02a8bd';200;0
+e;12787762;'6e9e69be091c3e793dfbd26d4f5a61df';200;0
+e;2983124;'_SW';36;50
+e;16109567;'Leatherback';777;0
+e;64988;'neurohormone';1;52
+e;121851;'hémodynamique';1;50
+e;324397;'débit sanguin';1;50
+e;382569;'sémantique générale';1;50
+e;110393;'déjà-vu';1;58
+e;53008;'paramnésie';1;50
+e;349084;'déjà vu';1;6
+e;297783;'acide glutamique';777;54
+e;176124;'Glu';1;50
+e;297784;'Glx';777;50
+e;61651;'glutamate';1;66
+e;273398;'cannabinoïdes';777;64
+e;298116;'chromatophores';777;50
+e;1857276;'endocannabinoïde';1;10
+e;1876830;'biochimie inorganique';777;0
+e;1876829;'chimie bioinorganique';1;0
+e;1876831;'bioinorganique';1;0
+e;2205075;'glutamatergique';1;0
+e;3169353;'excitotoxicité';1;0
+e;3314875;'Neuromancien';1;0
+e;203342;'maladie de Carré';1;50
+e;1228670;'maladie du jeune chiot';777;0
+e;5679972;'xanthophores';777;0
+e;5679973;'érythrophores';777;0
+e;5679974;'iridophores';777;0
+e;5679975;'leucophores';777;0
+e;5679976;'mélanophores';777;0
+e;5679977;'cyanophores';777;0
+e;5830085;'mémantine';777;0
+e;5830333;'thiamylal';777;0
+e;5534759;'ton neutre';777;0
+e;5892290;'édaravone';777;0
+e;212549;'RoboCop';666;50
+e;6100826;'Alex James Murphy';777;0
+e;3204753;'glutamate monosodique';1;6
+e;3204757;'monosodium glutamate';777;2
+e;308224;'cerveau humain';1;52
+e;9967597;'War Machine';777;0
+e;10848025;'James Rupert Rhodes';777;0
+e;13664822;'Yves Agid';777;0
+e;13985999;'OCP Crime Prevention Unit 001';777;0
+e;271178;'prix Nobel de physiologie ou médecine';1;50
+e;14744485;'processus d'apprentissage et de mémorisation';777;0
+e;98628;'apoptose';1;60
+e;5536212;'Cette section ne cite pas suffisamment ses sources';777;0
+e;15685992;'Les récepteurs CB1';777;0
+e;15685993;'Les récepteurs CB2';777;0
+e;3245241;'neurosciences computationnelles';1;0
+e;14734121;'PRIME DIRECTIVES';777;0
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;11;'r_locution';'locution';A partir d'un terme, il est demandé d'énumérer les locutions, expression ou mots composés en rapport avec ce terme. Par exemple, pour 'moulin', ou pourra avoir 'moulin à vent', 'moulin à eau', 'moulin à café'. Pour 'vendre', on pourra avoir 'vendre la peau de l'ours avant de l'avoir tué', 'vendre à perte', etc..
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;17;'r_carac';'caractéristique';Pour un terme donné, souvent un objet, il est demandé d'en énumérer les CARACtéristiques (adjectifs) possibles/typiques. Par exemple, 'liquide', 'froide', 'chaude', pour 'eau'.
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;23;'r_carac-1';'caractéristique-1';Quels sont les objets (des noms) possédant typiquement/possiblement la caractérisque suivante ? Par exemple, 'soleil', 'feu', pour 'chaud'.
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;59;'r_masc';'équivalent masc';L'équivalent masculin du terme : lionne --> lion.
+rt;60;'r_fem';'équivalent fem';L'équivalent féminin du terme : lion --> lionne.
+rt;200;'r_context';'r_context';Relation de contexte entre un terme et un noeud contexte.
+rt;333;'r_translation';'r_translation';Traduction vers une autre langue.
+rt;555;'r_cooccurrence';'r_cooccurrence';co-occurences (non utilisée)
+rt;777;'r_wiki';'r_wiki';Associations issues de wikipedia...
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;87647233;398299;61925;0;34
+r;415604691;398299;14950832;0;25
+r;32613415;398299;146894;4;51
+r;32613414;398299;171869;4;69
+r;54212417;398299;2586629;4;46
+r;53932124;398299;2586628;4;46
+r;304479792;398299;6387022;11;25
+r;297210611;398299;6269180;11;26
+r;419810194;398299;6384063;11;25
+r;419757983;398299;6377867;11;25
+r;349331285;398299;6377610;11;25
+r;419758005;398299;6352578;11;25
+r;301515874;398299;6344029;11;26
+r;301485432;398299;6341687;11;25
+r;341080723;398299;6340427;11;26
+r;301450700;398299;6339207;11;26
+r;341045921;398299;6336026;11;26
+r;349244877;398299;6327067;11;25
+r;349191859;398299;6326930;11;25
+r;299270639;398299;6302123;11;25
+r;397138115;398299;6294173;11;25
+r;396616682;398299;6287819;11;26
+r;419757975;398299;6287436;11;25
+r;419582822;398299;15391996;11;25
+r;121505222;398299;6442545;11;31
+r;368767751;398299;14536503;11;26
+r;359341749;398299;14154299;11;25
+r;419592742;398299;13797917;11;25
+r;419757992;398299;13769948;11;25
+r;337351606;398299;12979342;11;26
+r;316608826;398299;12182639;11;25
+r;315529675;398299;12104689;11;28
+r;121057057;398299;6448951;11;40
+r;121057523;398299;6448899;11;49
+r;305669144;398299;6415786;11;27
+r;121533305;398299;6439412;11;32
+r;121553918;398299;6437116;11;32
+r;122662762;398299;6433890;11;33
+r;122678407;398299;6432159;11;27
+r;122713402;398299;6427724;11;36
+r;122718619;398299;6427061;11;29
+r;122719732;398299;6426924;11;33
+r;305704064;398299;6419951;11;25
+r;305681459;398299;6416052;11;25
+r;29893303;398299;1843406;11;63
+r;14216060;398299;333879;11;60
+r;14213298;398299;349071;11;54
+r;14212570;398299;354130;11;57
+r;14210898;398299;362526;11;57
+r;14208664;398299;375365;11;58
+r;14206438;398299;387377;11;57
+r;14205566;398299;391380;11;59
+r;29720580;398299;1817943;11;62
+r;29719136;398299;1817944;11;56
+r;29736351;398299;1819856;11;56
+r;29759373;398299;1822193;11;54
+r;30032378;398299;1838981;11;35
+r;29863426;398299;1849504;11;67
+r;29863416;398299;1849505;11;58
+r;29856079;398299;1851043;11;62
+r;31870149;398299;1974978;11;56
+r;52453080;398299;2549302;11;59
+r;14221507;398299;318710;11;55
+r;71589882;398299;2923741;11;60
+r;73134271;398299;2955198;11;61
+r;297192139;398299;6266974;11;27
+r;74708627;398299;151553;12;35
+r;90772139;398299;3576104;18;40
+r;394917411;398299;14916413;18;25
+r;89794059;398299;3575927;18;31
+r;32541110;398299;61925;19;60
+r;376073348;398299;47286;23;25
+r;376082553;398299;79846;23;25
+r;376073361;398299;122864;23;25
+r;76742731;398299;178369;23;24
+r;80936040;398299;273221;36;30
+r;26289766;398299;223172;36;79
+r;22025171;398299;223173;36;282
+r;26053812;398299;241794;36;143
+r;27358863;398299;254876;36;56
+r;27358864;398299;254877;36;28
+r;27358865;398299;254878;36;16
+r;80935990;398299;2585997;36;60
+r;105152051;398299;61925;59;29
+r;325130009;398299;12690472;200;2
+r;327739937;398299;12772811;200;1
+r;328102635;398299;12787762;200;5
+r;394917409;398299;14950832;333;26
+r;74002988;398299;2983124;555;1708
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;397138116;6294173;398299;0;1
+r;299270640;6302123;398299;0;1
+r;301485433;6341687;398299;0;1
+r;304479793;6387022;398299;0;1
+r;305681460;6416052;398299;0;1
+r;305704065;6419951;398299;0;1
+r;316608827;12182639;398299;0;1
+r;349191860;6326930;398299;0;1
+r;349244878;6327067;398299;0;1
+r;349331286;6377610;398299;0;1
+r;419582823;15391996;398299;0;1
+r;419592743;13797917;398299;0;1
+r;419757976;6287436;398299;0;1
+r;419757984;6377867;398299;0;1
+r;419757993;13769948;398299;0;1
+r;419758006;6352578;398299;0;1
+r;419810195;6384063;398299;0;1
+r;420442592;16109567;398299;0;1
+r;121553919;6437116;398299;0;2
+r;122678408;6432159;398299;0;2
+r;122718620;6427061;398299;0;2
+r;122719733;6426924;398299;0;2
+r;297210612;6269180;398299;0;2
+r;301450701;6339207;398299;0;2
+r;301515876;6344029;398299;0;2
+r;337351607;12979342;398299;0;2
+r;341080724;6340427;398299;0;2
+r;341045922;6336026;398299;0;2
+r;368767752;14536503;398299;0;2
+r;396616683;6287819;398299;0;2
+r;121505223;6442545;398299;0;3
+r;121533306;6439412;398299;0;3
+r;122662763;6433890;398299;0;3
+r;122713403;6427724;398299;0;3
+r;297192140;6266974;398299;0;3
+r;305669145;6415786;398299;0;3
+r;315529676;12104689;398299;0;4
+r;121057058;6448951;398299;0;9
+r;121057524;6448899;398299;0;9
+r;30032379;1838981;398299;0;11
+r;417807464;64988;398299;0;12
+r;415604690;14950832;398299;0;25
+r;29720581;1817943;398299;0;43
+r;29719137;1817944;398299;0;45
+r;29736352;1819856;398299;0;46
+r;52453081;2549302;398299;0;52
+r;14210899;362526;398299;0;55
+r;14213299;349071;398299;0;55
+r;71589883;2923741;398299;0;55
+r;14221508;318710;398299;0;56
+r;29856080;1851043;398299;0;56
+r;14206439;387377;398299;0;57
+r;14208665;375365;398299;0;58
+r;14212571;354130;398299;0;58
+r;14216061;333879;398299;0;58
+r;29759374;1822193;398299;0;59
+r;29893304;1843406;398299;0;60
+r;31870150;1974978;398299;0;60
+r;29863427;1849504;398299;0;61
+r;73134272;2955198;398299;0;65
+r;29863417;1849505;398299;0;70
+r;359341750;14154299;398299;0;416
+r;14205567;391380;398299;0;417
+r;374217825;122864;398299;17;25
+r;374217840;47286;398299;17;25
+r;76722290;178369;398299;17;30
+r;373046544;79846;398299;17;31
+r;105152052;61925;398299;60;35
+r;394917410;14950832;398299;333;26
+r;16463525;121851;398299;777;10
+r;16463526;324397;398299;777;10
+r;17174367;382569;398299;777;10
+r;18189973;110393;398299;777;10
+r;18189974;53008;398299;777;10
+r;18738987;349084;398299;777;10
+r;19040449;297783;398299;777;10
+r;19040450;176124;398299;777;10
+r;19040451;297784;398299;777;10
+r;19040452;61651;398299;777;10
+r;24250501;273398;398299;777;10
+r;28199419;298116;398299;777;10
+r;30145392;1857276;398299;777;10
+r;30354984;1876830;398299;777;10
+r;30354985;1876829;398299;777;10
+r;30355497;1876831;398299;777;10
+r;33087058;2205075;398299;777;10
+r;76167386;3169353;398299;777;10
+r;83462398;3314875;398299;777;10
+r;87291763;203342;398299;777;10
+r;87291764;1228670;398299;777;10
+r;111450809;5679972;398299;777;10
+r;111450810;5679973;398299;777;10
+r;111450811;5679974;398299;777;10
+r;111450812;5679975;398299;777;10
+r;111450813;5679976;398299;777;10
+r;111450814;5679977;398299;777;10
+r;113651144;5830085;398299;777;10
+r;113659012;5830333;398299;777;10
+r;113846071;5534759;398299;777;10
+r;114602677;5892290;398299;777;10
+r;119390524;212549;398299;777;10
+r;119390525;6100826;398299;777;10
+r;215153020;3204753;398299;777;10
+r;215153021;3204757;398299;777;10
+r;222209855;308224;398299;777;10
+r;271727170;9967597;398299;777;10
+r;271727171;10848025;398299;777;10
+r;347079181;13664822;398299;777;10
+r;352186082;13985999;398299;777;10
+r;360051408;271178;398299;777;10
+r;374825604;14744485;398299;777;10
+r;374825605;98628;398299;777;10
+r;403122727;5536212;398299;777;10
+r;403122728;15685992;398299;777;10
+r;403122729;15685993;398299;777;10
+r;423058515;3245241;398299;777;10
+r;428625061;14734121;398299;777;10

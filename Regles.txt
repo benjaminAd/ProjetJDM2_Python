@@ -200,3 +200,5 @@ Nom:;$;Nom:;ard;$
 Nom:;$;Nom:;arde;$
 Nom:;age;Ver:Inf;er;$
 Nom:;e;Nom:;eau;$
+Nom:;n;Nom:;nne;$
+Adj:;t;Adj:;te;$

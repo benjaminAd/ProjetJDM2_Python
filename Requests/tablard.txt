@@ -1,0 +1,75 @@
+<CODE>
+// DUMP pour le terme 'tablard' (eid=2392649)
+<def>
+<br />
+1. (Suisse) Variante orthographique de tablar.<br />
+2. (Suisse) Étagère.<br /> 
+ Posée sur un tablar, là depuis la nuit des temps, à prendre la poussière ! On ne la voit même plus.    
+ (La Potiche)  
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;4;'n_pos'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;444;'n_link'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;2392649;'tablard';1;0
+e;111172;'rayon';1;698
+e;128166;'tablar';1;50
+e;42045;'étagère';1;534
+e;133795;'mobilier';1;490
+e;239128;'_COM';36;50
+e;85413;'ameublement';1;138
+e;105302;'meubles';1;206
+e;146885;'Nom:Mas+SG';4;50
+e;171870;'Nom:';4;50
+e;2586629;'Number:Sing';4;0
+e;2586627;'Gender:Mas';4;0
+e;3576104;'Morpho:nospace';18;50
+e;3575927;'Morpho:min';18;50
+e;15991432;'_ANIME-NO';36;50
+e;2585997;'_INFO-CNRTL-NO';36;50
+e;273221;'_INFO-WIKI-NO';36;50
+e;254877;'_POL-NEUTRE_PC';36;50
+e;254876;'_POL-POS_PC';36;50
+e;251716;'_INFO-MONOSEMIC';36;50
+e;241794;'_POL-NEUTRE';36;50
+e;223173;'_POL-POS';36;50
+e;3797672;'dbnary:fra:__ws_1_tablard__nom__1';444;0
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;3;'r_domain';'domaine';Il est demandé de fournir des domaines relatifs au mot cible. Par exemple, pour 'corner', on pourra donner les domaines 'football' ou 'sport'.
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;71;'r_variante';'variante';Variantes du termes cible. Par exemple, yaourt, yahourt, ou encore évènement, événement.
+rt;444;'r_link';'r_link';Lien vers une ressource externe (WordNet, RadLex, UMLS, Wikipedia, etc...)
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;418346512;2392649;111172;0;12
+r;418346513;2392649;128166;0;22
+r;63292543;2392649;42045;0;25
+r;418346511;2392649;133795;0;25
+r;52691869;2392649;239128;0;1000000
+r;418506457;2392649;85413;3;25
+r;418500962;2392649;105302;3;25
+r;418346510;2392649;133795;3;25
+r;427959960;2392649;146885;4;25
+r;52258346;2392649;171870;4;45
+r;427974626;2392649;2586629;4;25
+r;418346508;2392649;2586627;4;25
+r;90332109;2392649;3576104;18;35
+r;89351428;2392649;3575927;18;31
+r;418346509;2392649;15991432;36;25
+r;313345279;2392649;2585997;36;50
+r;53154329;2392649;273221;36;40
+r;313345288;2392649;254877;36;40
+r;313345287;2392649;254876;36;60
+r;96195623;2392649;251716;36;31
+r;313345286;2392649;241794;36;2
+r;313345285;2392649;223173;36;3
+r;62505762;2392649;128166;71;45
+r;94195603;2392649;3797672;444;1
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;418346507;128166;2392649;0;22
+r;94138729;128166;2392649;71;31

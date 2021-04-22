@@ -1,0 +1,53 @@
+<CODE>
+// DUMP pour le terme 'envahissait' (eid=2192644)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;2192644;'envahissait';2;0
+e;5076;'envahir';1;180
+e;14270944;'VerbalPers:P3';4;0
+e;14270945;'VerbalNumber:SG';4;0
+e;14271094;'VerbalTime:Imparfait';4;0
+e;3093590;'VerbalMode:Indicatif';4;0
+e;2946892;'Ver:Conjug';4;0
+e;161747;'Ver:IImp+SG+P3';4;50
+e;2935006;'VerbalTime:Past';4;0
+e;212235;'Ver:';4;50
+e;15253261;'La gratitude l'envahissait.';1;0
+e;151553;'_FL:0';6;50
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+e;2983124;'_SW';36;50
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;11;'r_locution';'locution';A partir d'un terme, il est demandé d'énumérer les locutions, expression ou mots composés en rapport avec ce terme. Par exemple, pour 'moulin', ou pourra avoir 'moulin à vent', 'moulin à eau', 'moulin à café'. Pour 'vendre', on pourra avoir 'vendre la peau de l'ours avant de l'avoir tué', 'vendre à perte', etc..
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;555;'r_cooccurrence';'r_cooccurrence';co-occurences (non utilisée)
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;87755502;2192644;5076;0;32
+r;363312310;2192644;14270944;4;25
+r;363304049;2192644;14270945;4;25
+r;363295787;2192644;14271094;4;25
+r;363294038;2192644;3093590;4;25
+r;91486053;2192644;2946892;4;26
+r;91486054;2192644;161747;4;30
+r;91486052;2192644;2935006;4;31
+r;32843431;2192644;212235;4;58
+r;417032087;2192644;15253261;11;35
+r;74641384;2192644;151553;12;37
+r;89505062;2192644;3575927;18;27
+r;90488481;2192644;3576104;18;27
+r;32843430;2192644;5076;19;54
+r;74229741;2192644;2983124;555;179
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;417032088;15253261;2192644;0;11

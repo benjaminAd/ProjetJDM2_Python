@@ -1,0 +1,50 @@
+<CODE>
+// DUMP pour le terme 'charale' (eid=62215)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;4;'n_pos'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;62215;'charale';1;50
+e;54771;'ressemblance';1;214
+e;136076;'plantes';1;240
+e;239128;'_COM';36;50
+e;2509494;'chara';1;0
+e;16053063;'nitella';1;0
+e;3674;'botanique';1;2220
+e;146881;'Nom:Fem+SG';4;50
+e;171870;'Nom:';4;50
+e;2586628;'Gender:Fem';4;0
+e;2586629;'Number:Sing';4;0
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+e;273221;'_INFO-WIKI-NO';36;50
+e;2585997;'_INFO-CNRTL-NO';36;50
+e;15991432;'_ANIME-NO';36;50
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;3;'r_domain';'domaine';Il est demandé de fournir des domaines relatifs au mot cible. Par exemple, pour 'corner', on pourra donner les domaines 'football' ou 'sport'.
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;417777940;62215;54771;0;15
+r;417777939;62215;136076;0;25
+r;24052332;62215;239128;0;1000000
+r;417777941;62215;2509494;0;15
+r;418407032;62215;16053063;0;23
+r;418433255;62215;3674;3;27
+r;417777938;62215;136076;3;25
+r;427979580;62215;146881;4;25
+r;417777935;62215;171870;4;25
+r;417777936;62215;2586628;4;25
+r;427991889;62215;2586629;4;25
+r;90022144;62215;3575927;18;30
+r;90889841;62215;3576104;18;29
+r;364173840;62215;273221;36;26
+r;72694610;62215;2585997;36;53
+r;417777937;62215;15991432;36;25
+// les relations entrantes : r;rid;node1;node2;type;w 

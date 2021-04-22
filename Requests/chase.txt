@@ -1,0 +1,201 @@
+<CODE>
+// DUMP pour le terme 'chase' (eid=146998)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;200;'n_context'
+nt;444;'n_link'
+nt;777;'n_wikipedia'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;146998;'chase';1;50
+e;125903;'Chase';1;50
+e;14927497;'en:chase';1;0
+e;2586627;'Gender:Mas';4;0
+e;2586629;'Number:Sing';4;0
+e;146882;'Ver:Inf';4;50
+e;146885;'Nom:Mas+SG';4;50
+e;212235;'Ver:';4;50
+e;171870;'Nom:';4;50
+e;10144702;'chase films';777;0
+e;11773053;'Benjamin chase Harper';777;0
+e;298237;'Steeple chase';777;50
+e;6336992;'antigène chase';1;0
+e;5538581;'pulse-chase';1;0
+e;13540815;'grand steeple chase de Pardubice';777;0
+e;66567;'steeple-chase';1;50
+e;3575927;'Morpho:min';18;50
+e;7332979;'Langue:anglais';18;50
+e;3576104;'Morpho:nospace';18;50
+e;103405;'indifférence';1;610
+e;217817;'_INFO-POLYSEMIC';36;50
+e;2585997;'_INFO-CNRTL-NO';36;50
+e;438949;'_INFO-POLYMORPHIC';36;50
+e;276096;'_INFO-WIKI-YES';36;50
+e;254878;'_POL-NEG_PC';36;50
+e;254877;'_POL-NEUTRE_PC';36;50
+e;254876;'_POL-POS_PC';36;50
+e;241794;'_POL-NEUTRE';36;50
+e;223173;'_POL-POS';36;50
+e;223172;'_POL-NEG';36;50
+e;14153469;'3aff0d31317b8bb2e4108d86884be1a7';200;0
+e;13536837;'0cfe695910f63807b595175ff3f472fc';200;0
+e;14003405;'b30209d8c7166a766405c928460e5388';200;0
+e;13995101;'4b0c512714ef79a6f920fce180fab910';200;0
+e;13982187;'9691e8c68807572bb91e10f129d43a7d';200;0
+e;13595627;'3376cc8c15fd247f08de2d5a9d9e3913';200;0
+e;13595610;'f89c965daed909c4d2091a95e1d22945';200;0
+e;13595603;'563b0000b5645dab6f13b12f61bd8fb6';200;0
+e;16291487;'dda7047422d88248e1c1460850956e65';200;0
+e;14412261;'8089b170e1ae5b217b3e8ae6ff921baa';200;0
+e;14665970;'92e202b0ee5805c4ea7658030912cd8d';200;0
+e;14665972;'c435c133921ca2f4e7b3302ee8bbfa12';200;0
+e;14665981;'e192caa8dbd95f1cff1d052460d32276';200;0
+e;14665983;'b37df14fc012ea650f4b8a2c382bd695';200;0
+e;14766950;'55c39bddae2e47034638dcc650aeb7db';200;0
+e;14767123;'0b095408c0aeafa74909478f1452f0c1';200;0
+e;16291153;'3742041130107c8003e41c34e5ef2c80';200;0
+e;16291467;'4555fa0e668bc0f1feeb98ef823765fc';200;0
+e;13536755;'d3e1d48525fb4e15e68493822c460e71';200;0
+e;13536694;'d29101729c98465e2e20dd2c4c46eadc';200;0
+e;13527034;'8b60d795691a509d7687deac97c17fff';200;0
+e;12992956;'31cdc576057329891a0b3faa31e59251';200;0
+e;12882962;'db0aa7cab268044d1e87ebd198edc775';200;0
+e;12812889;'173e50e43a4164273442c2e375ab8018';200;0
+e;12793012;'9e5b72f3b3f46d1968d4ac48ed4b3266';200;0
+e;12772653;'8dd2f25fc29c16f325ee61ed91762f3d';200;0
+e;12772652;'8622322b51076ab4a0936525e6f91836';200;0
+e;13536827;'6500eb5b90fe6d4da464cafe2fc823fe';200;0
+e;3228593;'wiki:@';444;0
+e;2983124;'_SW';36;50
+e;170782;'James Hadley Chase';1;50
+e;166759;'Dr House';1;176
+e;151903;'Chirurgie';1;100
+e;127228;'Colombie-Britannique';1;50
+e;103082;'chirurgien';1;964
+e;228437;'Midnight Express';1;2
+e;99465;'cardiologue';1;172
+e;17946;'botaniste';1;150
+e;15747;'supernovae';1;50
+e;2690;'fox';1;54
+e;4116;'Impitoyable';1;52
+e;20423;'vadrouille';1;50
+e;109230;'bridger';1;50
+e;2143676;'chases';2;0
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;5;'r_syn';'synonyme';Il est demandé d'énumérer les synonymes ou quasi-synonymes de ce terme.
+rt;6;'r_isa';'générique';Il est demandé d'énumérer les GENERIQUES/hyperonymes du terme. Par exemple, 'animal' et 'mammifère' sont des génériques de 'chat'.
+rt;8;'r_hypo';'spécifique';Il est demandé d'énumérer des SPECIFIQUES/hyponymes du terme. Par exemple, 'mouche', 'abeille', 'guêpe' pour 'insecte'.
+rt;11;'r_locution';'locution';A partir d'un terme, il est demandé d'énumérer les locutions, expression ou mots composés en rapport avec ce terme. Par exemple, pour 'moulin', ou pourra avoir 'moulin à vent', 'moulin à eau', 'moulin à café'. Pour 'vendre', on pourra avoir 'vendre la peau de l'ours avant de l'avoir tué', 'vendre à perte', etc..
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;32;'r_sentiment';'sentiment';Pour un terme donné, évoquer des mots liés à des SENTIMENTS ou des EMOTIONS que vous pourriez associer à ce terme. Par exemple, la joie, le plaisir, le dégoût, la peur, la haine, l'amour, l'indifférence, l'envie, avoir peur, horrible, etc.
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;72;'r_syn_strict';'r_syn_strict';Termes strictement substituables, pour des termes hors du domaine général, et pour la plupart des noms (exemple : endométriose intra-utérine --> adénomyose)
+rt;200;'r_context';'r_context';Relation de contexte entre un terme et un noeud contexte.
+rt;333;'r_translation';'r_translation';Traduction vers une autre langue.
+rt;444;'r_link';'r_link';Lien vers une ressource externe (WordNet, RadLex, UMLS, Wikipedia, etc...)
+rt;555;'r_cooccurrence';'r_cooccurrence';co-occurences (non utilisée)
+rt;777;'r_wiki';'r_wiki';Associations issues de wikipedia...
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;14479069;146998;125903;0;44
+r;390936039;146998;14927497;0;26
+r;54129417;146998;2586627;4;45
+r;54168023;146998;2586629;4;45
+r;390142293;146998;146882;4;25
+r;4087;146998;146885;4;56
+r;390142294;146998;212235;4;25
+r;1945175;146998;171870;4;65
+r;390936040;146998;14927497;5;25
+r;242773543;146998;10144702;8;25
+r;302073875;146998;11773053;11;30
+r;8765102;146998;298237;11;163
+r;301416137;146998;6336992;11;25
+r;109669333;146998;5538581;11;37
+r;236656322;146998;10144702;11;45
+r;343113141;146998;13540815;11;26
+r;11868395;146998;66567;11;121
+r;89967080;146998;3575927;18;27
+r;390142290;146998;7332979;18;25
+r;90823654;146998;3576104;18;35
+r;288079;146998;146998;19;52
+r;72985956;146998;103405;32;1
+r;420356048;146998;217817;36;25
+r;78508706;146998;2585997;36;59
+r;420356901;146998;438949;36;27
+r;78508714;146998;276096;36;35
+r;214471258;146998;254878;36;1
+r;26793244;146998;254877;36;40
+r;26793243;146998;254876;36;60
+r;26546574;146998;241794;36;119
+r;26546573;146998;223173;36;178
+r;78508707;146998;223172;36;2
+r;390142291;146998;14927497;72;25
+r;359141060;146998;14153469;200;2
+r;342925093;146998;13536837;200;2
+r;353027265;146998;14003405;200;2
+r;352599896;146998;13995101;200;4
+r;352024308;146998;13982187;200;2
+r;344364061;146998;13595627;200;2
+r;344363698;146998;13595610;200;2
+r;344363549;146998;13595603;200;2
+r;427430726;146998;16291487;200;2
+r;366105881;146998;14412261;200;2
+r;372903118;146998;14665970;200;2
+r;372903177;146998;14665972;200;2
+r;372903401;146998;14665981;200;2
+r;372903489;146998;14665983;200;2
+r;375332990;146998;14766950;200;4
+r;375343294;146998;14767123;200;4
+r;427352845;146998;16291153;200;4
+r;427404061;146998;16291467;200;2
+r;342922158;146998;13536755;200;2
+r;342918525;146998;13536694;200;2
+r;342681870;146998;13527034;200;1
+r;334002524;146998;12992956;200;1
+r;329901127;146998;12882962;200;1
+r;329063596;146998;12812889;200;2
+r;328584498;146998;12793012;200;1
+r;327734255;146998;12772653;200;1
+r;327734217;146998;12772652;200;1
+r;342924826;146998;13536827;200;2
+r;390748601;146998;14927497;333;25
+r;78127291;146998;3228593;444;44
+r;74032550;146998;2983124;555;279
+r;7825973;146998;170782;777;10
+r;7825977;146998;166759;777;10
+r;7825979;146998;151903;777;10
+r;7825981;146998;127228;777;10
+r;7825975;146998;125903;777;10
+r;7825980;146998;103082;777;10
+r;7825976;146998;228437;777;10
+r;7825978;146998;99465;777;10
+r;7825974;146998;17946;777;10
+r;7825982;146998;15747;777;10
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;301416138;6336992;146998;0;1
+r;423008036;2690;146998;0;1
+r;423173619;4116;146998;0;1
+r;423707183;20423;146998;0;1
+r;428038251;109230;146998;0;1
+r;343113142;13540815;146998;0;2
+r;109669334;5538581;146998;0;4
+r;302073876;11773053;146998;0;6
+r;14479070;125903;146998;0;23
+r;391054550;14927497;146998;0;25
+r;236656323;10144702;146998;0;29
+r;87727495;2143676;146998;0;40
+r;11868396;66567;146998;0;106
+r;9580894;298237;146998;0;147
+r;391054551;14927497;146998;5;25
+r;236656327;10144702;146998;6;26
+r;32776127;2143676;146998;19;51
+r;288079;146998;146998;19;52
+r;390936041;14927497;146998;72;25
+r;390142292;14927497;146998;333;25

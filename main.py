@@ -116,13 +116,18 @@ class JDM:
         for rule in self.regles.regles:
             if self.mot[-len(rule.exception):] != rule.exception:
                 for relation in self.relations:
-                    if rule.baseType == relation.mot2.name.split("'")[1] or rule.baseType == "$":
-                        length = len(rule.endWord)
-                        endword = self.mot[-length:]
-                        newWord = self.mot[:(len(self.mot) - length)] + rule.transformation
-                        if endword == rule.endWord and self.checkIfWordExist(
-                                newWord, rule.transformType):
-                            self.addToDisplayTab(newWord, rule.transformType)
+                    if rule.baseType == relation.mot2.name.split("'")[1]:
+                        if rule.endWord == "$":
+                            newWord = self.mot + rule.transformation
+                            if self.checkIfWordExist(newWord, rule.transformType):
+                                self.addToDisplayTab(newWord, rule.transformType)
+                        else:
+                            length = len(rule.endWord)
+                            endword = self.mot[-length:]
+                            newWord = self.mot[:(len(self.mot) - length)] + rule.transformation
+                            if endword == rule.endWord and self.checkIfWordExist(
+                                    newWord, rule.transformType):
+                                self.addToDisplayTab(newWord, rule.transformType)
 
     def nettoyage(self):
         if os.path.isfile(self.nettoyerPath):

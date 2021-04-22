@@ -1,0 +1,62 @@
+<CODE>
+// DUMP pour le terme 'Ã©nerves' (eid=2033163)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;2033163;'énerves';2;0
+e;104396;'énerver';1;436
+e;14298369;'énerves>2946892';1;0;'énerves>Ver:Conjug'
+e;14298370;'énerves>171869';1;0;'énerves>Adj:'
+e;171869;'Adj:';4;50
+e;2586630;'Number:Plur';4;0
+e;14270943;'VerbalPers:P2';4;0
+e;14270945;'VerbalNumber:SG';4;0
+e;161718;'Ver:SPre+SG+P2';4;50
+e;161717;'Ver:IPre+SG+P2';4;50
+e;2935005;'VerbalTime:Present';4;0
+e;2946892;'Ver:Conjug';4;0
+e;3093590;'VerbalMode:Indicatif';4;0
+e;3093591;'VerbalMode:Subjonctif';4;0
+e;161710;'Ver:IPre+SG+P2:SPre+SG+P2';4;50
+e;212235;'Ver:';4;50
+e;151553;'_FL:0';6;50
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+e;438949;'_INFO-POLYMORPHIC';36;50
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;2;'r_raff_morpho';'raffinement morphologique';Raffinement morphologique vers un usage particulier du terme source
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;87568413;2033163;104396;0;31
+r;363951727;2033163;14298369;2;35
+r;363951731;2033163;14298370;2;35
+r;329860579;2033163;171869;4;25
+r;329860580;2033163;2586630;4;25
+r;362953885;2033163;14270943;4;25
+r;362945490;2033163;14270945;4;25
+r;362937016;2033163;161718;4;25
+r;362928552;2033163;161717;4;25
+r;72103983;2033163;2935005;4;45
+r;72460302;2033163;2946892;4;45
+r;75697873;2033163;3093590;4;45
+r;75697874;2033163;3093591;4;45
+r;32305617;2033163;161710;4;55
+r;32305620;2033163;212235;4;60
+r;74635800;2033163;151553;12;26
+r;89665109;2033163;3575927;18;26
+r;90648837;2033163;3576104;18;26
+r;32305611;2033163;104396;19;55
+r;363951730;2033163;438949;36;26
+// les relations entrantes : r;rid;node1;node2;type;w 

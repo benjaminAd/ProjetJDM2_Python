@@ -1,0 +1,3896 @@
+<CODE>
+// DUMP pour le terme 'neurone' (eid=123756)
+<def>
+<br />
+1. Cellule spécialisée du système nerveux, assurant la perception, la mémoire et la commande motrice en fonction de la diversité de leurs modes de connexion plutôt que de leur diversité, qui est très faible. [Dictionnaire médical de l'Académie de Médecine]<br />
+2. (Histologie) Type de cellule différenciée composant, avec les cellules gliales, le tissu nerveux. Ces cellules sont excitables et excitatrices, et elles conduisent l'influx nerveux. Le neurone possède un axone et des dendrites.<br /> 
+ Mais surtout, on a appris qu'en détruisant certains neurones dans le cerveau, on peut modifier définitivement les pensées d'un homme.    
+ (Olivier Bach, Dieu et les religions à l'épreuve des faits, 2009, livre numérique, [inlibroveritas.net], p. 196-197)  <br />
+3. Un neurone, ou une cellule nerveuse, est une cellule excitable constituant l'unité fonctionnelle de la base du système nerveux.<br />
+4. [noun] (cytology) neuron / neurone<br />
+5. [noun] (chiefly British) Alternative spelling of neuron
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;9;'n_question'
+nt;10;'n_relation'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;200;'n_context'
+nt;444;'n_link'
+nt;666;'n_AKI'
+nt;777;'n_wikipedia'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;123756;'neurone';1;364
+e;4020;'axone';1;80
+e;4112;'tissus vivants';1;52
+e;16747;'adn';1;164
+e;17559;'animal';1;13917
+e;18445;'corps cellulaire';1;52
+e;31526;'système';1;290
+e;34677;'neurones';1;152
+e;35143;'biologie';1;1956
+e;35767;'neurone moteur';1;64
+e;39031;'cerveau';1;1760
+e;45079;'cervelle';1;212
+e;46439;'nerveuse';1;70
+e;46728;'chimie';1;2778
+e;47550;'dendrite';1;60
+e;51442;'cytoplasme';1;144
+e;51691;'excitable';1;54
+e;56396;'histologie';1;74
+e;61925;'neuronal';1;70
+e;68467;'poisson';1;6991
+e;81803;'nerfs';1;230
+e;86561;'crâne';1;680
+e;87296;'neuronique';1;50
+e;103057;'cellule';1;1566
+e;103311;'système nerveux';1;270
+e;112609;'anatomie';1;3326
+e;114327;'acide désoxyribonucléique';1;140
+e;123422;'motoneurone';1;50
+e;131009;'cervelet';1;240
+e;135190;'lieu';1;1642
+e;139779;'ADN';1;716
+e;155570;'cellule nerveuse';1;56
+e;169791;'neure';1;50
+e;176189;'système nerveux central';1;80
+e;176469;'neurone artificiel';1;50
+e;198663;'deutéroneurone moteur';1;50
+e;203553;'membrane plasmique';1;68
+e;204369;'neurone tautomère';1;50
+e;215534;'cellule>35143';1;144;'cellule>biologie'
+e;233133;'animal>117095';1;818;'animal>zoologie'
+e;233453;'cerveau>112609';1;164;'cerveau>anatomie'
+e;234514;'neurone miroir';1;2
+e;239128;'_COM';36;50
+e;246412;'dendrite>35143';1;50;'dendrite>biologie'
+e;258343;'neurone sensitif';1;2
+e;264964;'neurone sensoriel';1;50
+e;270727;'neurone présynaptique';1;2
+e;273950;'neuron';777;50
+e;296808;'dendrites';777;52
+e;308224;'cerveau humain';1;52
+e;314016;'neurone formel';1;50
+e;366280;'neurone bipolaire';1;50
+e;366281;'neurone cérébral';1;50
+e;366282;'neurone moteur périphérique';1;50
+e;366283;'neurone spinal';1;50
+e;366284;'neurone unipolaire';1;50
+e;366285;'neurone cortical';1;50
+e;366286;'neurone embryonnaire';1;50
+e;366287;'neurone olfactif';1;50
+e;1700538;'neurone postganglionnaire';1;0
+e;1920349;'neurone efférent';1;0
+e;3602582;'cellules nerveuses';1;0
+e;6730817;'en:spheroplast';1;0
+e;6749511;'en:d(1b) dopamine receptor';1;0
+e;6749686;'en:synaptosomal-associated protein 25';1;0
+e;6754125;'en:gabaergic neurons';1;0
+e;6754414;'en:prespermatogonia';1;0
+e;6755173;'en:prokaryotic cell component';1;0
+e;6755299;'en:perinuclear region of cell';1;0
+e;6755300;'en:infranuclear region of polarized cell';1;0
+e;6755320;'en:histioblast';1;0
+e;6755324;'en:clear cell';1;0
+e;6755325;'en:cell of hensen';1;0
+e;6767077;'en:tyrosine 3/tryptophan 5-monooxygenase activation protein, theta polypeptide';1;0
+e;6774397;'en:structure of sensory nervous system';1;0
+e;6795318;'en:aspects of radiation effects';1;0
+e;6795321;'en:cellular secretion';1;0
+e;6795323;'en:drug effect';1;0
+e;6795330;'en:microbiological';1;0
+e;6795332;'en:pathological aspects';1;0
+e;6795339;'en:transplantation aspects';1;0
+e;6795341;'en:ultrastructure';1;0
+e;6795343;'en:viruses';1;0
+e;6795409;'en:aspects of radionuclide imaging';1;0
+e;6795411;'en:cellular aspects of';1;0
+e;6795413;'en:chemical aspects';1;0
+e;6795417;'en:enzymology';1;0
+e;6795419;'en:immunology aspects';1;0
+e;6795421;'en:metabolic aspects';1;0
+e;6795423;'en:parasitology';1;2
+e;6795425;'en:physiological aspects';1;0
+e;6795427;'en:roentgenographic';1;0
+e;6795434;'en:use of ultrasonography';1;0
+e;6796180;'en:renal cell';1;0
+e;6796753;'en:taxonomic';1;0
+e;6800353;'en:nervous system';1;0
+e;6821021;'en:neoplastic cell';1;0
+e;6821046;'en:epithelial cell';1;0
+e;6824252;'en:central nervous system';1;0
+e;6824668;'en:nerve';1;0
+e;6824669;'en:peripheral nervous system';1;0
+e;6825323;'en:adipocyte';1;0
+e;6825389;'en:alveolar cell';1;0
+e;6825470;'en:antibody-producing cell';1;0
+e;6825577;'en:autonomic nervous system';1;0
+e;6825697;'en:bone marrow blood-forming cell';1;0
+e;6825819;'en:cardiomyocyte';1;0
+e;6825849;'en:cd4-positive t-lymphocyte';1;0
+e;6825857;'en:cell';1;0
+e;6825862;'en:cell membrane structures';1;0
+e;6825863;'en:cell strain';1;0
+e;6825922;'en:chief cell of the stomach';1;0
+e;6825962;'en:chromaffin cell';1;0
+e;6825963;'en:chromaffin system';1;0
+e;6826060;'en:acinar cell';1;0
+e;6826105;'en:adrenergic neurons';1;0
+e;6826174;'en:amacrine cell';1;0
+e;6826180;'en:ameloblast';1;0
+e;6826247;'en:antigen presenting cell';1;0
+e;6826359;'en:axon';1;0
+e;6826630;'en:cells, immobilized';1;0
+e;6826635;'en:cell structure';1;0
+e;6826661;'en:cerebellum';1;0
+e;6826724;'en:cholinergic neurons';1;0
+e;6826742;'en:chromatophore';1;0
+e;6830969;'en:keratinocyte';1;0
+e;6832337;'en:skin cell';1;0
+e;6844192;'en:connective and soft tissue cell';1;0
+e;6844197;'en:neuron, neuroepithelial cell, and supporting cell of the nervous system';1;0
+e;6844665;'en:abnormal cell';1;0
+e;6849506;'en:embryonic cell';1;0
+e;6857779;'en:glial cell';1;0
+e;6860143;'en:myeloid cell';1;0
+e;6860200;'en:hematopoietic and lymphoid cell';1;0
+e;6863631;'en:reed-sternberg cell';1;0
+e;6863715;'en:fibroblast';1;0
+e;6863800;'en:neuroepithelial cell';1;0
+e;6863836;'en:ependymal cell';1;0
+e;6870958;'en:endometrial glandular cell';1;0
+e;6877398;'en:endothelial cell';1;0
+e;6887746;'en:germ cell';1;0
+e;6905442;'en:stellate';1;0
+e;6905670;'en:glioblast';1;0
+e;6905683;'en:lipoblast';1;0
+e;6905709;'en:zygote';1;0
+e;6912466;'en:cone';1;0
+e;6912627;'en:dopaminergic cell';1;0
+e;6912661;'en:efferent neuron';1;0
+e;6912707;'en:enteric nervous system';1;0
+e;6912740;'en:erythroid cells';1;0
+e;6912751;'en:eukaryotic cell';1;0
+e;6912921;'en:goblet cell';1;0
+e;6913105;'en:dendrite';1;0
+e;6913228;'en:endocrine cell';1;0
+e;6913409;'en:ganglion';1;0
+e;6913452;'en:giant cell';1;0
+e;6913489;'en:granulocyte';1;0
+e;6913491;'en:granulosa cell';1;0
+e;6913507;'en:hair cell';1;0
+e;6926903;'en:choline o-acetyltransferase';1;0
+e;6928842;'en:alpha-synuclein';1;0
+e;6929030;'en:neural cell adhesion molecule 1';1;0
+e;6935690;'en:myelinated nerve fiber';1;0
+e;6936525;'en:supranuclear region of polarized cell';1;0
+e;6939163;'en:muscle cell';1;0
+e;6939164;'en:neuromuscular system';1;0
+e;6939237;'en:skeletal fiber';1;0
+e;6939550;'en:entire nervous system';1;0
+e;6947501;'en:nerve net';1;0
+e;6947502;'en:neural analyzers';1;0
+e;6947503;'en:neural pathway';1;0
+e;6947504;'en:neuroendocrine system';1;0
+e;6947622;'en:postganglionic sympathetic fiber';1;0
+e;6948347;'en:nerve tissue';1;0
+e;6948408;'en:parasympathetic nervous system';1;0
+e;6948468;'en:postganglionic parasympathetic fiber';1;0
+e;6948524;'en:reticuloendothelial system';1;0
+e;6948566;'en:sense organs';1;0
+e;6948657;'en:sympathetic nervous system';1;0
+e;6991772;'en:neuron component';1;0
+e;6991789;'en:spermatogonium';1;0
+e;6991832;'en:subcellular structure';1;0
+e;6993904;'en:ankyrin-2';1;0
+e;6996143;'en:nerve conduction function';1;0
+e;6997625;'en:pericyte';1;0
+e;7000103;'en:synaptic vesicular amine transporter';1;0
+e;7003173;'en:rod';1;0
+e;7003182;'en:phagocytic cell';1;0
+e;7013227;'en:cyclin-dependent kinase 5';1;0
+e;7018903;'en:nerve fibers';1;0
+e;7018913;'en:unmyelinated nerve fiber';1;0
+e;7030091;'en:sensory neuron';1;0
+e;7038510;'en:lewy bodies';1;0
+e;7067091;'en:amphiphysin';1;0
+e;7067439;'en:cyclin-dependent kinase 5 activator 1';1;0
+e;7082014;'en:brain cell';1;0
+e;7082016;'en:ganglion cell';1;0
+e;7082017;'en:hepatocyte';1;0
+e;7082018;'en:leydig cell';1;0
+e;7082019;'en:peripheral blood cell';1;0
+e;7082020;'en:protoplast/spheroplast';1;0
+e;7082022;'en:sertoli cell';1;0
+e;7082023;'en:stem cell';1;0
+e;7082024;'en:cell of the epidermis';1;0
+e;7082039;'en:mastoid cells';1;0
+e;7082040;'en:myone';1;0
+e;7082042;'en:nucleated cell';1;0
+e;7082043;'en:set of apud cells';1;0
+e;7082045;'en:set of hemal cells';1;0
+e;7082047;'en:set of neural cells';1;0
+e;7082049;'en:set of tympanic cells';1;0
+e;7082050;'en:circulating tumor cell';1;0
+e;7082052;'en:melanocyte';1;0
+e;7082054;'en:oxyphil cell';1;0
+e;7082055;'en:paneth cell';1;0
+e;7082057;'en:protoplast';1;0
+e;7082058;'en:thymocyte';1;0
+e;7082060;'en:basal cell';1;0
+e;7082066;'en:fusiform cell';1;0
+e;7082069;'en:juxtaglomerular cell';1;0
+e;7082072;'en:mesothelial cell';1;0
+e;7082075;'en:pluripotent bronchial precursor cell';1;0
+e;7082077;'en:receptor cell';1;0
+e;7082085;'en:tooth cell';1;0
+e;7082087;'en:apical region of polarized cell';1;0
+e;7082088;'en:cell surface and/or associated structure';1;0
+e;7082090;'en:central region of cell';1;0
+e;7082091;'en:gametes';1;0
+e;7082092;'en:lateral region of polarized cell';1;0
+e;7082094;'en:primordial germ cell';1;0
+e;7082095;'en:red blood cell stroma';1;0
+e;7082099;'en:specialized cell structure';1;0
+e;7082101;'en:structure of endocervical glandular cell';1;0
+e;7082102;'en:structure of hilar cell of ovary';1;0
+e;7082113;'en:non-nucleated cell';1;0
+e;7082115;'en:set of aminergic cells';1;0
+e;7082116;'en:set of aminergic cells in reticular formation';1;0
+e;7082117;'en:set of cholinergic cells of dorsal tegmental area [ch5, ch6, ch8]';1;0
+e;7082119;'en:set of cholinergic cells of globus pallidus, accumbens nucleus and diagonal band [ch3]';1;0
+e;7082121;'en:set of cholinergic cells of medial septal nuclei [ch1]';1;0
+e;7082123;'en:set of dopaminergic cells in arcuate nucleus [a12]';1;0
+e;7082124;'en:set of dopaminergic cells in medial zone and anterior area of hypothalamus [a14]';1;0
+e;7082126;'en:set of dopaminergic cells in posterior hypothalamus [a11]';1;0
+e;7082127;'en:set of dopaminergic cells in ventral tegmental area';1;0
+e;7082129;'en:set of epinephric cells in area postrema and anterior reticular nucleus [c1, c2]';1;0
+e;7082131;'en:set of middle ethmoidal cells';1;0
+e;7082132;'en:set of noradrenergic cells in compact part of substantia nigra';1;0
+e;7082134;'en:set of noradrenergic cells in medulla [a1, a2]';1;0
+e;7082136;'en:set of noradrenergic cells in reticular formation';1;0
+e;7082138;'en:set of norepinephric cells in caudolateral pons [a5]';1;0
+e;7082140;'en:set of norepinephric cells in locus caeruleus [a6]';1;0
+e;7082142;'en:set of norepinephric cells in nucleus of lateral lemniscus [a7]';1;0
+e;7082144;'en:set of norepinephric cells in ventral tegmental area';1;0
+e;7082146;'en:set of serotoninergic cells in dorsal raphe nucleus [b7]';1;0
+e;7082148;'en:set of serotoninergic cells in median raphe nucleus [b6]';1;0
+e;7082150;'en:set of serotoninergic cells in pallidal raphe nucleus [b1]';1;0
+e;7082152;'en:set of tubal air cells';1;0
+e;7082153;'en:structure of anterior cells of ethmoid sinus';1;0
+e;7082162;'en:cell type';1;0
+e;7082164;'en:embryo/fetus cell/tissue';1;0
+e;7082166;'en:fiber cell';1;0
+e;7082168;'en:heart cell';1;0
+e;7082170;'en:neuron';1;0
+e;7082171;'en:prokaryote';1;0
+e;7082172;'en:spore';1;0
+e;7082173;'en:cellular component of blood';1;0
+e;7082182;'en:set of all cells';1;0
+e;7082184;'en:set of ethmoidal cells';1;0
+e;7082185;'en:set of muscle cells';1;0
+e;7082188;'en:hepatic stellate cells';1;0
+e;7082193;'en:mesophyll cells';1;0
+e;7082194;'en:pancreatic stellate cell';1;0
+e;7082195;'en:parietal cell';1;0
+e;7082196;'en:plant cells';1;0
+e;7082198;'en:supporting cell of organ of corti';1;0
+e;7082204;'en:decidual cell';1;0
+e;7082208;'en:follicular ovarian cell';1;0
+e;7082210;'en:interphase cell';1;0
+e;7082214;'en:meningothelial cell';1;0
+e;7082216;'en:myoepithelial cell';1;0
+e;7082217;'en:pillar cell';1;0
+e;7082220;'en:secretory cell';1;0
+e;7082223;'en:tubal air cells of eustachian tube';1;0
+e;7082225;'en:basal region of polarized cell';1;0
+e;7082226;'en:cell region';1;0
+e;7082228;'en:cell to cell relationship and/or extracellular structure';1;0
+e;7082231;'en:dividing cell structure';1;0
+e;7082233;'en:entire cell';1;0
+e;7082235;'en:glial fiber';1;0
+e;7082236;'en:hematoxylin body';1;0
+e;7082237;'en:parathyroid cell';1;0
+e;7082239;'en:peripheral region of cell';1;0
+e;7082240;'en:regenerating muscle fiber';1;0
+e;7082241;'en:spore structure';1;0
+e;7082242;'en:structure of corneal corpuscle';1;0
+e;7082243;'en:structure of granular polyhedral cells of breast';1;0
+e;7082244;'en:ultrastructural feature';1;0
+e;7082247;'en:cell, cholinergic';1;0
+e;7082250;'en:set of adrenergic cells in area postrema and anterior reticular nucleus [c1, c2]';1;0
+e;7082252;'en:set of aminergic cells in compact part of substantia nigra [a9]';1;0
+e;7082254;'en:set of aminergic cells in ventral tegmental area [a10]';1;0
+e;7082256;'en:set of cholinergic cells of epithalamus [ch7]';1;0
+e;7082258;'en:set of cholinergic cells of globus pallidus, accumbens nucleus and diagonal gyrus [ch2]';1;0
+e;7082260;'en:set of cholinergic cells of substantia innominata, basal nucleus, amygdaloid body and olfactory tubercle [ch4]';1;0
+e;7082262;'en:set of dopaminergic cells in compact part of substantia nigra';1;0
+e;7082264;'en:set of dopaminergic cells in olfactory bulb [a15]';1;0
+e;7082265;'en:set of dopaminergic cells in reticular formation';1;0
+e;7082267;'en:set of dopaminergic cells in zona incerta [a13]';1;0
+e;7082269;'en:set of noradrenergic cells in caudolateral pons [a5]';1;0
+e;7082271;'en:set of noradrenergic cells in locus caeruleus [a6]';1;0
+e;7082273;'en:set of noradrenergic cells in nucleus of lateral lemniscus [a7]';1;0
+e;7082275;'en:set of noradrenergic cells in ventral tegmental area';1;0
+e;7082277;'en:set of norepinephric cells in compact part of substantia nigra';1;0
+e;7082279;'en:set of norepinephric cells in medulla [a1, a2]';1;0
+e;7082281;'en:set of norepinephric cells in reticular formation';1;0
+e;7082283;'en:set of serotoninergic cells adjacent to medial vestibular nucleus and prepositus nucleus [b4]';1;0
+e;7082285;'en:set of serotoninergic cells in magnus raphe nucleus [b3]';1;0
+e;7082287;'en:set of serotoninergic cells in obscurus raphe nucleus [b2]';1;0
+e;7082289;'en:set of serotoninergic cells in pontine raphe nucleus [b5]';1;0
+e;7082291;'en:structure of posterior cells of ethmoid sinus';1;0
+e;7087223;'en:nerve growth factors';1;0
+e;7100237;'en:senile plaques';1;0
+e;7127544;'en:motor neuron';1;0
+e;7136860;'en:cd166 antigen';1;0
+e;7137101;'en:neural cell adhesion molecule 2';1;0
+e;7149200;'en:myelin';1;0
+e;7150383;'en:neuronal transmission';1;0
+e;7156292;'en:bone cell';1;0
+e;7157994;'en:lens fiber';1;0
+e;7179318;'en:macroglia';1;0
+e;7179320;'en:schwann cell';1;0
+e;7179321;'en:granule cell';1;0
+e;7179323;'en:pyramidal cell';1;0
+e;7179327;'en:neuropil';1;0
+e;7179328;'en:perineuronal satellite cell';1;0
+e;7179336;'en:purkinje cell';1;0
+e;7184157;'en:nervous system pathway structure';1;0
+e;7185909;'en:preganglionic autonomic fiber';1;0
+e;7185913;'en:peripheral nerve axis cylinder';1;0
+e;7185940;'en:neurites';1;0
+e;7185941;'en:central nervous system axis cylinder';1;0
+e;7185978;'en:somatic nervous system';1;0
+e;7185980;'en:neural development';1;0
+e;7185981;'en:nervous system disorders, general and nec';1;0
+e;7185993;'en:synapse';1;0
+e;7185996;'en:entire subdivision of nervous system';1;0
+e;7185998;'en:spinal cord, roots and ganglia structure';1;0
+e;7186022;'en:nervous system structures and components';1;0
+e;7186037;'en:extracellular space of nervous system';1;0
+e;7186038;'en:regional nervous structure';1;0
+e;7187706;'en:neuron part';1;0
+e;7187712;'en:interneuron';1;0
+e;7187713;'en:mossy fiber';1;0
+e;7187715;'en:neural stem cell';1;0
+e;7187716;'en:perikaryon';1;0
+e;7187721;'en:dense-core granulated cell';1;0
+e;7187793;'en:neurofibrils';1;0
+e;7187794;'en:nissl body';1;0
+e;7187798;'en:serotonergic neurons';1;0
+e;7187805;'en:nitrergic neuron';1;0
+e;7187836;'en:sheath of schwann';1;0
+e;7187854;'en:neuron type';1;0
+e;7187856;'en:horizontal cell';1;0
+e;7187858;'en:mauthner's neuron';1;0
+e;7187860;'en:neurofilament';1;0
+e;7187862;'en:retinal bipolar neuron';1;0
+e;7187930;'en:mirror neurons';1;0
+e;7187972;'en:synaptic membranes';1;0
+e;7194553;'en:immunologic cell';1;0
+e;7256837;'en:acid-sensing ion channel 2';1;0
+e;7266539;'en:solocyte';1;0
+e;7266542;'en:ectoderm cell';1;0
+e;7272296;'en:reticuloendothelial cell';1;0
+e;7272301;'en:satellite cell';1;0
+e;7272329;'en:cartilage cell';1;0
+e;7272331;'en:cell positive for cd11c antigen';1;0
+e;7272333;'en:cell positive for cd14 antigen';1;0
+e;7272335;'en:cell positive for cd20 antigen';1;0
+e;7272337;'en:cell positive for cd33 antigen';1;0
+e;7272339;'en:cell positive for cd38 antigen';1;0
+e;7272341;'en:cell positive for cd43 antigen';1;0
+e;7272343;'en:cell positive for cd5 antigen';1;0
+e;7272345;'en:cell positive for cd71 antigen';1;0
+e;7272347;'en:club cell';1;0
+e;7272348;'en:corpuscles of colostrum';1;0
+e;7272349;'en:desquamated fetal cells';1;0
+e;7272350;'en:entire endocervical glandular cell';1;0
+e;7272352;'en:entire granular polyhedral cells of breast';1;0
+e;7272354;'en:entire hilar cell of ovary';1;0
+e;7272356;'en:entire parathyroid chief cell';1;0
+e;7272358;'en:entire parathyroid transitional cell';1;0
+e;7272360;'en:entire sertoli cell';1;0
+e;7272362;'en:fibrocyte';1;0
+e;7272363;'en:gastric mucous gland neck cell';1;0
+e;7272365;'en:glycogenic cell';1;0
+e;7272366;'en:hepatic stellate cell';1;0
+e;7272367;'en:inflammatory cell';1;0
+e;7272369;'en:meiotic cell';1;0
+e;7272370;'en:mitotic cell';1;0
+e;7272371;'en:ootid';1;0
+e;7272372;'en:outer hair cell of the organ of the corti';1;0
+e;7272374;'en:parabasal body';1;0
+e;7272376;'en:perilymphatic cell';1;0
+e;7272377;'en:pyroninophilic lymphoid cell';1;0
+e;7272378;'en:supporting cell of carotid body';1;0
+e;7272379;'en:syncytial cell';1;0
+e;7272380;'en:type ii hair cell';1;0
+e;7272381;'en:umbrella cell';1;0
+e;7272382;'en:unidentified cell';1;0
+e;7272502;'en:cell positive for cd10 antigen';1;0
+e;7272504;'en:cell positive for cd13 antigen';1;0
+e;7272506;'en:cell positive for cd19 antigen';1;0
+e;7272508;'en:cell positive for cd23 antigen';1;0
+e;7272510;'en:cell positive for cd34 antigen';1;0
+e;7272512;'en:cell positive for cd3 antigen';1;0
+e;7272514;'en:cell positive for cd56 antigen';1;0
+e;7272516;'en:cell positive for cd61 antigen';1;0
+e;7272518;'en:cell positive for cd7 antigen';1;0
+e;7272520;'en:chondroblast';1;0
+e;7272521;'en:dividing cell';1;0
+e;7272522;'en:entire corneal corpuscle';1;0
+e;7272524;'en:entire endometrial glandular cell';1;0
+e;7272528;'en:entire interstitial cell of leydig';1;0
+e;7272530;'en:entire parathyroid oxyphil cell';1;0
+e;7272532;'en:entire primordial sex cell';1;0
+e;7272534;'en:entire zygote';1;0
+e;7272536;'en:fmc-7+ cell';1;0
+e;7272538;'en:glomus cell';1;0
+e;7272539;'en:hematopoietic precursor cell';1;0
+e;7272541;'en:mesangial cell';1;0
+e;7272542;'en:myofibroblast';1;0
+e;7272543;'en:nonhematic cell';1;0
+e;7272545;'en:phalangeal cell of cochlea';1;0
+e;7272546;'en:pinocytotic cell';1;0
+e;7272547;'en:reticular cell';1;0
+e;7272548;'en:synovial cell';1;0
+e;7272549;'en:type i hair cell';1;0
+e;7272550;'en:undifferentiated mesenchymal cell';1;0
+e;7277078;'en:retinal ganglion cell';1;0
+e;7313996;'en:neuron-specific calcium-binding protein hippocalcin';1;0
+e;7363471;'en:plasma membrane of neural cell';1;0
+e;7364395;'en:protoplasm of neuron';1;0
+e;7364561;'en:rna-binding protein nova-1';1;0
+e;7366760;'en:neurofilament-h';1;0
+e;7368103;'en:neurofilament-l';1;0
+e;7440106;'en:colligocyte';1;0
+e;7440295;'en:somatic cell';1;0
+e;7440296;'en:hemal cell';1;0
+e;7484849;'en:neuropil threads';1;0
+e;7559418;'en:proenkephalin-a';1;0
+e;7900397;'en:inhibitory nerve control';1;0
+e;8563672;'en:supporting cell of the nervous system';1;0
+e;8563674;'en:neure';1;0
+e;8563676;'en:plasma membrane of neuron';1;0
+e;8563678;'en:mouse brain neuron';1;0
+e;8563680;'en:neural cell line';1;0
+e;8563682;'en:surface of neuron';1;0
+e;9054073;'en:neurons';1;0
+e;15083592;'en:nerve cell';1;0
+e;15241997;'en:neurone';1;0
+e;15241998;'en:neurocyte';1;0
+e;15241999;'en:braincell';1;0
+e;102206;'médecine';1;7140
+e;104993;'informatique';1;3048
+e;201801;'histiologie';1;50
+e;7331401;'en:medicine';1;0
+e;14943824;'en:computer science';1;0
+e;146885;'Nom:Mas+SG';4;50
+e;171870;'Nom:';4;50
+e;2586627;'Gender:Mas';4;0
+e;2586629;'Number:Sing';4;0
+e;63936;'tissu';1;2084
+e;157284;'lieu>68467';1;58;'lieu>poisson'
+e;247061;'cellule somatique';1;6
+e;391559;'cellule excitable';1;50
+e;464752;'cell';1;50
+e;15063400;'en:vegetative cell';1;0
+e;44968;'chémorécepteur';1;50
+e;77495;'photorécepteur';1;52
+e;94641;'neuroblaste';1;50
+e;96090;'cellule de Purkinje';1;50
+e;204368;'neurone hétéromère';1;50
+e;223004;'cellule gliale';666;2
+e;270726;'neurone postsynaptique';1;2
+e;273432;'Cellule gliale';777;50
+e;566489;'cellule ganglionnaire de la rétine';777;50
+e;1182501;'interneurone';777;0
+e;1828670;'cellule à bâtonnet';1;0
+e;1829796;'cellule bipolaire';1;6
+e;5562406;'cellule chandelier';777;0
+e;5562430;'cellule de grille';777;0
+e;5685128;'neurone multipolaire';777;0
+e;5685130;'neurone pseudo-unipolaire';777;0
+e;6309102;'neurone de la corne ventrale';1;0
+e;6313468;'neurone de grande taille';1;0
+e;6326056;'neurone récepteur olfactif';1;0
+e;6332912;'cellule nerveuse embryonnaire';1;0
+e;6345381;'neurone piriforme';1;0
+e;6368260;'neurone de petite taille';1;0
+e;6375120;'neurone moteur supérieur';1;0
+e;6375804;'neurone nitrergique';1;0
+e;6382927;'neurone afférent';1;0
+e;6393061;'neurone intercalaire';1;0
+e;6393478;'neurone moteur central';1;0
+e;6414936;'neurone de taille moyenne';1;0
+e;6430278;'neurone moteur inférieur';1;0
+e;6876097;'en:neuroblast';1;0
+e;6905712;'en:primitive neuroblastic cell';1;0
+e;7151076;'en:neuroendocrine cell';1;0
+e;7186054;'en:visceral efferent neuron';1;0
+e;7187717;'en:autonomic ganglion neuron';1;0
+e;7187719;'en:cerebellar neuron';1;0
+e;7187722;'en:multipolar neuron';1;0
+e;7187724;'en:neuron of retina';1;0
+e;7187726;'en:peripheral neuron';1;0
+e;7187728;'en:unipolar neuron';1;0
+e;7187730;'en:vestibular hair cell';1;0
+e;7187826;'en:large neuron';1;0
+e;7187864;'en:bipolar neuron';1;0
+e;7187866;'en:central neuron';1;0
+e;7187868;'en:pseudo-unipolar neuron';1;0
+e;7187870;'en:retinal pigment epithelial cell';1;0
+e;7187936;'en:horizontal cell of cajal';1;0
+e;7187957;'en:medium sized neuron';1;0
+e;7187966;'en:partly differentiated neural cell';1;0
+e;7187967;'en:small neuron';1;0
+e;9939841;'neurone dopaminergique';1;0
+e;10251503;'neurone périphérique';1;0
+e;10662934;'neurone biologique';1;0
+e;12101670;'neurone noyau anticorps';1;0
+e;12101671;'neurone noyau anticorps igg';1;0
+e;12101672;'neurone noyau type 1 anticorps';1;0
+e;12101673;'neurone noyau type 2 anticorps';1;0
+e;12101674;'neurone noyau type 2 anticorps igg';1;0
+e;12101675;'neurone noyau type 3 anticorps';1;0
+e;12515338;'en:afferent neuron';1;0
+e;15206211;'en:Purkinje cell';1;0
+e;15241992;'en:esthesioneure';1;0
+e;20488;'péricaryon';1;50
+e;33919;'soma';1;62
+e;46735;'neurofilament';1;52
+e;212919;'membrane cellulaire';1;66
+e;6825858;'en:cell body';1;0
+e;6913084;'en:cytoplasm';1;0
+e;6991788;'en:plasma membrane';1;0
+e;7018935;'en:postganglionic autonomic fiber';1;0
+e;7185942;'en:entire axon';1;0
+e;7366762;'en:neurofilament-m';1;0
+e;12791689;'acide désoxyribo-nucléique';1;0
+e;15113976;'en:axone';1;0
+e;109785;'peau';1;3426
+e;119571;'moelle';1;140
+e;136507;'végétal';1;828
+e;15088586;'en:systema nervosum';1;0
+e;215340;'réseau de neurones';1;52
+e;2512131;'physiologie du neurone';1;0
+e;5476684;'modèle mathématique de neurone d'Hodgkin-Huxley';1;0
+e;5898617;'théorie du neurone';777;0
+e;6388955;'affections du neurone moteur';1;0
+e;6397506;'affections secondaires du neurone moteur';1;0
+e;6424265;'maladies du neurone moteur';1;0
+e;6428695;'affection du neurone moteur supérieur';1;0
+e;6441809;'molécules d'adhérence cellulaire entre neurone et glie';1;0
+e;12145059;'détermination de la présence de neurone noyau type 2 anticorps';1;0
+e;12171891;'mesure de neurone noyau anticorps';1;0
+e;12171896;'détermination de la présence de neurone noyau anticorps';1;0
+e;12171906;'mesure de neurone noyau anticorps igg';1;0
+e;12171911;'détermination de la présence de neurone noyau anticorps igg';1;0
+e;12171914;'mesure de neurone noyau type 1 anticorps';1;0
+e;12171917;'détermination de la présence de neurone noyau type 1 anticorps';1;0
+e;12171926;'mesure de neurone noyau type 2 anticorps';1;0
+e;12171943;'détermination de la présence de neurone noyau type 2 anticorps igg';1;0
+e;12171945;'détermination de la présence de neurone noyau type 3 anticorps';1;0
+e;12171947;'mesure de neurone noyau type 3 anticorps';1;0
+e;12236120;'mesure de neurone noyau anticorps | technique indéterminée | liquide céphalorachidien | ponctuel | résultat numérique | arbitraire/volume';1;0
+e;12236121;'mesure de neurone noyau anticorps | technique indéterminée | sérum | ponctuel | résultat numérique | arbitraire/volume';1;0
+e;12236122;'mesure de neurone noyau anticorps | immunoblot | sérum | ponctuel | résultat numérique | arbitraire/volume';1;0
+e;12236123;'mesure de neurone noyau anticorps | immunofluorescence | sérum | ponctuel | résultat numérique | arbitraire/volume';1;0
+e;12236124;'mesure de neurone noyau anticorps | technique indéterminée | liquide céphalorachidien | ponctuel | résultat numérique | titre';1;0
+e;12236125;'mesure de neurone noyau anticorps | technique indéterminée | sérum | ponctuel | résultat numérique | titre';1;0
+e;12236126;'mesure de neurone noyau anticorps | immunofluorescence | sérum | ponctuel | résultat numérique | titre';1;0
+e;12236127;'détermination de la présence de neurone noyau anticorps | technique indéterminée | liquide céphalorachidien | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;12236128;'détermination de la présence de neurone noyau anticorps | blot en ligne | liquide céphalorachidien | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;12236129;'détermination de la présence de neurone noyau anticorps | immunofluorescence | liquide céphalorachidien | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;12236130;'détermination de la présence de neurone noyau anticorps | technique indéterminée | sérum | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;12236131;'détermination de la présence de neurone noyau anticorps | immunoblot | sérum | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;12236132;'détermination de la présence de neurone noyau anticorps | immunofluorescence | sérum | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;12236133;'mesure de neurone noyau anticorps igg | technique indéterminée | liquide céphalorachidien | ponctuel | résultat numérique | arbitraire/volume';1;0
+e;12236134;'mesure de neurone noyau anticorps igg | technique indéterminée | sérum | ponctuel | résultat numérique | arbitraire/volume';1;0
+e;12236135;'mesure de neurone noyau anticorps igg | cytométrie de flux | sérum | ponctuel | résultat numérique | arbitraire/volume';1;0
+e;12236136;'mesure de neurone noyau anticorps igg | immunofluorescence | sérum | ponctuel | résultat numérique | arbitraire/volume';1;0
+e;12236137;'mesure de neurone noyau anticorps igg | immunofluorescence | sérum | ponctuel | résultat numérique | titre';1;0
+e;12236138;'mesure de neurone noyau type 1 anticorps | technique indéterminée | liquide céphalorachidien | ponctuel | résultat numérique | arbitraire/volume';1;0
+e;12236139;'mesure de neurone noyau type 1 anticorps | technique indéterminée | sérum | ponctuel | résultat numérique | arbitraire/volume';1;0
+e;12236140;'mesure de neurone noyau type 1 anticorps | technique indéterminée | liquide céphalorachidien | ponctuel | résultat numérique | titre';1;0
+e;12236141;'mesure de neurone noyau type 1 anticorps | immunoblot | liquide céphalorachidien | ponctuel | résultat numérique | titre';1;0
+e;12236142;'mesure de neurone noyau type 1 anticorps | immunofluorescence | liquide céphalorachidien | ponctuel | résultat numérique | titre';1;0
+e;12236143;'mesure de neurone noyau type 1 anticorps | technique indéterminée | sérum | ponctuel | résultat numérique | titre';1;0
+e;12236144;'détermination de la présence de neurone noyau type 1 anticorps | immunoblot | liquide céphalorachidien | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;12236145;'détermination de la présence de neurone noyau type 1 anticorps | immunofluorescence | liquide céphalorachidien | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;12236146;'détermination de la présence de neurone noyau type 1 anticorps | technique indéterminée | sérum | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;12236147;'détermination de la présence de neurone noyau type 1 anticorps | immunoblot | sérum | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;12236148;'mesure de neurone noyau type 2 anticorps | technique indéterminée | liquide céphalorachidien | ponctuel | résultat numérique | arbitraire/volume';1;0
+e;12236149;'mesure de neurone noyau type 2 anticorps | immunoanalyse | liquide céphalorachidien | ponctuel | résultat numérique | arbitraire/volume';1;0
+e;12236150;'mesure de neurone noyau type 2 anticorps | technique indéterminée | sérum | ponctuel | résultat numérique | arbitraire/volume';1;0
+e;12236151;'mesure de neurone noyau type 2 anticorps | immunofluorescence | sérum | ponctuel | résultat numérique | arbitraire/volume';1;0
+e;12236152;'mesure de neurone noyau type 2 anticorps | technique indéterminée | liquide céphalorachidien | ponctuel | résultat numérique | titre';1;0
+e;12236153;'mesure de neurone noyau type 2 anticorps | immunoblot | liquide céphalorachidien | ponctuel | résultat numérique | titre';1;0
+e;12236154;'mesure de neurone noyau type 2 anticorps | immunofluorescence | liquide céphalorachidien | ponctuel | résultat numérique | titre';1;0
+e;12236155;'mesure de neurone noyau type 2 anticorps | technique indéterminée | sérum | ponctuel | résultat numérique | titre';1;0
+e;12236156;'mesure de neurone noyau type 2 anticorps | immunofluorescence | sérum | ponctuel | résultat numérique | titre';1;0
+e;12236157;'mesure de neurone noyau type 3 anticorps | technique indéterminée | liquide céphalorachidien | ponctuel | résultat numérique | titre';1;0
+e;12236158;'mesure de neurone noyau type 3 anticorps | technique indéterminée | sérum | ponctuel | résultat numérique | titre';1;0
+e;13104603;'corps cellulaire du neurone';1;0
+e;13246699;'corps cellulaire du neurone périphérique';1;0
+e;13254651;'atteinte du corps cellulaire du neurone périphérique';1;0
+e;13779452;'a-23 maladies du neurone moteur';1;0
+e;14113078;'théorie du neurone grand-mère';777;0
+e;14113080;'neurone grand-mère';777;0
+e;15242003;'affection du neurone moteur';1;0
+e;15242004;'corps cellulaire d'un neurone';1;0
+e;151522;'_FL:9';6;50
+e;151553;'_FL:0';6;50
+e;151587;'_FL:10';6;50
+e;151663;'_FL:15';6;50
+e;152254;'_FL:22';6;50
+e;152813;'_FL:28';6;50
+e;152842;'_FL:25';6;50
+e;144846;'tête';1;5684
+e;33714;'inhibiteur';1;90
+e;44894;'fouetté';1;68
+e;55222;'petit';1;3512
+e;83461;'activé';1;62
+e;124214;'activateur';1;50
+e;152562;'humaine';1;426
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+e;14916413;'Langue:français';18;50
+e;39708;'névralgie';1;146
+e;41311;'neurologue';1;86
+e;75288;'neurologie';1;232
+e;83944;'nerf';1;846
+e;11329899;'se diviser par mitose';1;0
+e;132021;'raisonner';1;314
+e;21845;'pénétrer';1;254
+e;99884;'mémoire';1;1054
+e;391761;'lipofuscine';1;10
+e;1827158;'alpha-synucléine';1;0
+e;1842410;'protéine Tau';1;0
+e;3765901;'protéine tau';777;0
+e;7020083;'en:lipofuscin';1;0
+e;14330;'satisfaction';1;614
+e;28453;'bonheur';1;2180
+e;37298;'amour';1;7056
+e;57221;'joie';1;3888
+e;91691;'surprise';1;1186
+e;103405;'indifférence';1;610
+e;162759;'_INFO-SEM-PLACE';36;504
+e;191668;'_INFO-SEM-THING-NATURAL';36;112
+e;223172;'_POL-NEG';36;50
+e;223173;'_POL-POS';36;50
+e;241794;'_POL-NEUTRE';36;50
+e;251716;'_INFO-MONOSEMIC';36;50
+e;254876;'_POL-POS_PC';36;50
+e;254877;'_POL-NEUTRE_PC';36;50
+e;254878;'_POL-NEG_PC';36;50
+e;276096;'_INFO-WIKI-YES';36;50
+e;1900121;'_INFO-SEM-PLACE-ANATOMICAL';36;504
+e;2585996;'_INFO-CNRTL-YES';36;50
+e;15991432;'_ANIME-NO';36;50
+e;57917;'influx nerveux';1;64
+e;269561;'sans couleur';1;50
+e;438593;':r15781046';10;50
+e;443366;':r11359061';10;50
+e;1088717;':r14073802';10;0
+e;1156215;':r1619150';10;0
+e;1156216;':r630357';10;0
+e;1156217;':r15787319';10;0
+e;1741641;':r28602334';10;0
+e;1741710;':r28602405';10;0
+e;1741711;':r28602406';10;0
+e;1791449;':r28003521';10;0
+e;2590789;':r54661572';10;0
+e;2594878;':r1730820';10;0
+e;3344526;':r31005002';10;0
+e;4362142;':r98473284';10;0
+e;4371540;':r97414367';10;0
+e;8679843;':r10532333';10;0
+e;8679844;':r10530172';10;0
+e;8693305;':r165234464';10;0
+e;8739116;':r168437744';10;0
+e;8739117;':r168437745';10;0
+e;8739118;':r168437747';10;0
+e;8739119;':r168437748';10;0
+e;8739120;':r168437751';10;0
+e;8739121;':r168437753';10;0
+e;8739122;':r168437755';10;0
+e;8739123;':r168437757';10;0
+e;8873100;':r1988551';10;0
+e;9021143;':r82640452';10;0
+e;9595375;':r10003012';10;0
+e;9595376;':r10003014';10;0
+e;9595377;':r28603291';10;0
+e;9595378;':r28603147';10;0
+e;9595379;':r28603080';10;0
+e;9595380;':r28603010';10;0
+e;9595381;':r28602938';10;0
+e;9608752;':r412417';10;0
+e;9783793;':r214597272';10;0
+e;9943535;':r2430040';10;0
+e;11322945;':r289976413';10;0
+e;11322946;':r289976414';10;0
+e;11322947;':r289976415';10;0
+e;11322948;':r289976416';10;0
+e;11322949;':r289976417';10;0
+e;11322950;':r289976418';10;0
+e;11322951;':r289976419';10;0
+e;11322952;':r289976420';10;0
+e;11322953;':r289976421';10;0
+e;11322954;':r289976422';10;0
+e;11322955;':r289976423';10;0
+e;11322956;':r289976424';10;0
+e;11322957;':r289976425';10;0
+e;11322958;':r289976426';10;0
+e;11322959;':r289976427';10;0
+e;11322960;':r289976428';10;0
+e;11322961;':r289976429';10;0
+e;11322962;':r289976430';10;0
+e;11322963;':r289976431';10;0
+e;11322964;':r289976432';10;0
+e;11322965;':r289976433';10;0
+e;11330621;':r289976019';10;0
+e;11388497;':r98407141';10;0
+e;11388498;':r96709904';10;0
+e;11388499;':r24377649';10;0
+e;11388500;':r214591407';10;0
+e;11636289;':r289631267';10;0
+e;11636292;':r289631282';10;0
+e;11636293;':r289631281';10;0
+e;11636294;':r289631280';10;0
+e;11636295;':r289631278';10;0
+e;11636296;':r289631279';10;0
+e;11636297;':r289631315';10;0
+e;11636298;':r289631270';10;0
+e;11636299;':r289631291';10;0
+e;11636300;':r289631292';10;0
+e;11636301;':r289631295';10;0
+e;11636302;':r289631306';10;0
+e;11636303;':r289631290';10;0
+e;11636304;':r289631317';10;0
+e;11636305;':r289631318';10;0
+e;11636306;':r289631320';10;0
+e;11636307;':r289631316';10;0
+e;11787043;':r303466282';10;0
+e;13574473;':r330238648';10;0
+e;13986416;':r28601627';10;0
+e;13990716;':r334422626';10;0
+e;14596443;':r370034837';10;0
+e;14600739;':r332830902';10;0
+e;15538584;':r269551158';10;0
+e;15541346;':r3149536';10;0
+e;15606022;':r28601760';10;0
+e;15606080;':r352454532';10;0
+e;15606607;':r398739548';10;0
+e;15637290;':r294275718';10;0
+e;15637431;':r333111118';10;0
+e;15667862;':r398925922';10;0
+e;16346375;':r2430042';10;0
+e;16366482;':r10003016';10;0
+e;16385313;':r2430041';10;0
+e;219538;'activité électrique';1;50
+e;12662612;'47d578bb1b393e3dec95e9450d7a7cd7';200;0
+e;12663353;'e46aceda79ea74105bf04f48172756a4';200;0
+e;12663400;'21434c3332ee3ad48026639ce9541a20';200;0
+e;12665990;'b89d74e286f1d42a40fc44c161e45f61';200;0
+e;12666767;'6e95063ca395c510274f3b1fc3278612';200;0
+e;12668629;'36594ab1620c6943deb7edb6ecd44544';200;0
+e;12670524;'0954a4d2e5342634cb06003a1f02326c';200;0
+e;12678182;'bbdb2c46da8896ffa79996fe6a862ef0';200;0
+e;12681389;'46c29c54c2fd1fc0292325050be5c851';200;0
+e;12684477;'b738b88c6b1bce224ba98857782bc358';200;0
+e;12687259;'9e4abf17ec587355afbef01c76252e74';200;0
+e;12687260;'417bf92dec390c35ae8397ef45d769b5';200;0
+e;12687263;'03803117a3883ef74db92f2fb034feee';200;0
+e;12687782;'adfe04ee3a1f890f36bb08698437e7ce';200;0
+e;12687795;'90ae01c1d5f32ada0c1e40a82ce3bc24';200;0
+e;12688348;'16dfe489b8edd94fcdf810f6290c4c6b';200;0
+e;12688855;'876049d72cde8e60b3d64c9a13c861e6';200;0
+e;12689812;'2c0c034ec4d9309100cf1cf9e62afa50';200;0
+e;12693076;'3dda8cdf0b426f18a2baf17926b0c465';200;0
+e;12693221;'1748024172122ba91a88b5bd4c1300a7';200;0
+e;12699305;'dd7c664cfdd4281bf0838ec9c5be8362';200;0
+e;12699589;'b55c70c307f21f83e44c94c2dcd3a69b';200;0
+e;12699595;'5791821e64e0dff10577843fdd4b609c';200;0
+e;12699605;'7a9108eee1ffa4cb70f9968bd6041f70';200;0
+e;12702106;'31dc630f096d02cb1adebf0023ae1cfb';200;0
+e;12702236;'e81ea10d064cba9e9d61e962c554e3c9';200;0
+e;12702269;'bd38a8f8e27ea0d81e3a42d0d4aa553a';200;0
+e;12725886;'e8b481b9c0ee1b3c589b66bcb850783e';200;0
+e;12725896;'7715cd96c7050482822746c3ae226bf9';200;0
+e;12726325;'c8a958d3a1c3b7e3d4756f4d92884bfb';200;0
+e;12726330;'c253b11b7d7b3bcdf6a4ea35ad4d826b';200;0
+e;12726333;'0f1e44e1097c6e1ee826177b369d8986';200;0
+e;12726335;'4dd1fb4a35f56547565d3117c060f60f';200;0
+e;12726339;'4ac3e9029369309f177f13ba68d9553c';200;0
+e;12726342;'d249d9741c6ab73445c3b241cecddebd';200;0
+e;12726353;'fd3f33c79794bebe722b7df78358de7e';200;0
+e;12726411;'def575b8f7357544e09171af136e05e6';200;0
+e;12726595;'2ec284ca9e928af7ac6069af59711376';200;0
+e;12727002;'88501fe449e3eca384e6209e4cce65df';200;0
+e;12727577;'4f63bd93d118c560292ed915cd6477f8';200;0
+e;12727756;'b6ee54ab37ae69aa03c9094408923146';200;0
+e;12727757;'bda1d2500d586ae467ef2c4665c8ad77';200;0
+e;12727760;'eadb27e06eb59d12f6d2ed4e8df6f7d1';200;0
+e;12727764;'2393d91bf30576fd857457cce734cd2e';200;0
+e;12727765;'87c908528e5c5c66ed630bd919ea2451';200;0
+e;12727767;'c325be6fff86675b4e2a565318090274';200;0
+e;12727769;'e660c40290746a0c9f40e4faf259664d';200;0
+e;12727825;'500427d967d109b9821233f5f14cb1dc';200;0
+e;12727829;'2b4938d0949c83847ce5e109c5be0169';200;0
+e;12738181;'a21c8bd434e827b2f51c4024d89f57da';200;0
+e;12770118;'e1dfe6944d06a04cd4992a54e86e5325';200;0
+e;12772792;'58de024ad7668d2435d569086844d4f3';200;0
+e;12772811;'b99e863a8b189a9c3c864dd9fe02a8bd';200;0
+e;12772821;'b3a324bb511ed2cd72b2588da8d90116';200;0
+e;12772826;'2e4cdba5c47d4fcb667e4126cd4a039c';200;0
+e;12772828;'e9fb64edbb55118cbcf7bfd1e2783b54';200;0
+e;12773735;'48f3aeb6f9c6ae2c1da2d2451d111050';200;0
+e;12773742;'0969e7c8b49a81555febeae9fda1c425';200;0
+e;12773851;'9865447cd7cadb8eeb29ce2c2d7c880c';200;0
+e;12773855;'6da2dac0100c2c58905572a9c387bea1';200;0
+e;12773860;'c9dc9ae8b8f2ba1b8019c50ae5e1e523';200;0
+e;12773863;'ac6e824cb3b514326655ceedaa7e38ef';200;0
+e;12773866;'78b4e56fb0683f4d40939cfcd74d4034';200;0
+e;12773870;'4581ea7147f1539c00d3f7e6587b5ded';200;0
+e;12773873;'6a4a81bd49bd2babcbc3e3446b305726';200;0
+e;12773878;'eb16de9d1c9aa28efed16c8de2afe604';200;0
+e;12773881;'0cb422a11785e7dcbec649859573ba9c';200;0
+e;12774376;'b23f23fbe113dd5d47364fb10d365eb2';200;0
+e;12787233;'385ba5bc640d77429b69031151ea0854';200;0
+e;12787762;'6e9e69be091c3e793dfbd26d4f5a61df';200;0
+e;12787765;'4df2cc64c8ed03c54ae0b0807ca912c3';200;0
+e;12788181;'81ed84764d1dfe27dcf98cb5b12862ba';200;0
+e;12788218;'c7f174943215f13d9a98e2ead9a3cd56';200;0
+e;12788234;'898d437a1198b173cb44a0a400177bb0';200;0
+e;12788242;'6b05f459010fdbbf76ec59a416ee4665';200;0
+e;12788245;'20884d296025632c4bc9b1fa7941c977';200;0
+e;12788249;'98c995ab45ef201c24dadff314879c8d';200;0
+e;12788252;'9dfdec258959f4503bff30d8adfd54ea';200;0
+e;12788263;'7d067f0f95eb8c14bb202b9d396f0352';200;0
+e;12788274;'ecc07991ab11f29715d270882fbd2f29';200;0
+e;12788596;'e46588e7e23afc5f92039495b86ae76d';200;0
+e;12788610;'62da3cb452ba5b032379d40f735327da';200;0
+e;12788611;'f402a8ebb7bf30ad7bd09eafc9a4c2ad';200;0
+e;12788613;'9877eccc8fc5e69f279992d002ece950';200;0
+e;12788618;'e35c3dedf0993c6ebd16433d6d851cfa';200;0
+e;12788621;'2c1dae80759b5c2a891da122c851759a';200;0
+e;12788696;'3faf343a89c02deb60b820c44da348c3';200;0
+e;12788698;'de5947e6c2fe1e275d406c0237c0217b';200;0
+e;12788702;'be4bf3df78a717e836f07e05c2bbeb99';200;0
+e;12788707;'b16e401d350a0e813cb1435d45d96303';200;0
+e;12788729;'7eee75041f43377bbc0e0c51a539e987';200;0
+e;12788735;'b3303f0fd54460f8d335127dcd9fc5da';200;0
+e;12788737;'c38318523f8c44e9659b6f8a6272705c';200;0
+e;12788742;'10a25893d584202aaad2ceaa355c5340';200;0
+e;12788743;'b5965c2cb7ac67df603ae7784cc529a4';200;0
+e;12788747;'3704bb3ba430740560692ef010a359e2';200;0
+e;12788767;'477033fb3c043c910ad1c75d5c89da4d';200;0
+e;12788773;'508276022ba602cf197c8e9220ae0dbd';200;0
+e;12788777;'8c9b2e970201a0c546d58bff536f16d0';200;0
+e;12788812;'b48062cc79623ed2eb250be52c80fabe';200;0
+e;12788814;'52ee62b19f1773be2a938d333712a4b1';200;0
+e;12788819;'5ae833ba6be3629f07c519b69c82938d';200;0
+e;12790573;'53f1f6746c15a431bfefda82cad20600';200;0
+e;12826038;'1cbd1547dc1115b7a2a6adc84d492054';200;0
+e;12882593;'cdc97f9141d6f9e66882550348d5f60e';200;0
+e;12882600;'559c514826015daf539fa230acf746a3';200;0
+e;12979348;'cceb25a0478a055918373c68cef76e6b';200;0
+e;12979395;'4511ae0488decbee22c8eb9fb85d76a8';200;0
+e;12979418;'dda9135c466287bdecadaa6e39fc3d24';200;0
+e;12979453;'19c1c42721ff9064a1641ed75271647e';200;0
+e;13007390;'d4427c9c0a8ba247fe5f9fd87fce26b0';200;0
+e;13104507;'bb7d6a5f8cd99706f6d590246109944b';200;0
+e;13104521;'72b11805cf69e7b28d021b09d117e0de';200;0
+e;13104605;'6a71427177a4b6fbd83deb9c9997a521';200;0
+e;13104619;'1049885186edfa2f2d23599b35246084';200;0
+e;13320563;'acd2f139943804d5377f4633edda80da';200;0
+e;13320573;'8e50632201a76d7f62baa76e1706e720';200;0
+e;13320584;'68a62fd0075d959d8d0ba22c70f073c7';200;0
+e;13519409;'f05b5f6849d1d5d8a4bfaa2a12da7183';200;0
+e;13573404;'339af6ca14b66e2d1d8241fa4f671025';200;0
+e;13642383;'b59a0f8811870ee003588431867a1581';200;0
+e;13664825;'b0d6c5c3ef1765ef2fb657f6c02594b7';200;0
+e;13990229;'eacd9691933be94c2a1069931a7ea2c8';200;0
+e;13990235;'9eea3482a0433a94ea1751152f5502c2';200;0
+e;14095135;'21bea936e7b761b9ec606ee0431da457';200;0
+e;14095249;'dd89de8754aa403d0d1781a1d1339513';200;0
+e;14095738;'f438ff2b992440a1aeab7e842246a5e2';200;0
+e;14131274;'2db1188d7a9b4b9634ad18b2c129b424';200;0
+e;14143013;'d6b48634b5911d1ba74bc8e0e9413e8f';200;0
+e;14143534;'14cb34a8ac639022ae12dc1d31e788e3';200;0
+e;14167539;'c93dfb63cf1d789f40f1b9b1181c515c';200;0
+e;14168853;'dcf54801738fad8cf843c5d7414e03a0';200;0
+e;14168901;'5c587a48665a2fda1f2296672b95091e';200;0
+e;14168907;'ac310d5d2270b396b760785dbb7fb21e';200;0
+e;14168909;'1aa97b59c08e89bc7ea3106f74b355d2';200;0
+e;14168915;'67e4f79132fbf78572f9bc58321bbd75';200;0
+e;14168917;'7d6eece83803db25df7915eb863c0f08';200;0
+e;14168922;'25fee46a008a65e953a1d5ddde46e5e7';200;0
+e;14168924;'e2a3ef3042369241e010547a0495f557';200;0
+e;14168927;'d49dc3740135e9574438dd4bd551c9a3';200;0
+e;14168929;'0b02a4630868eaec854785d1430b5721';200;0
+e;14168930;'fec9817d8eb2905e1501bb06ce0fa8a5';200;0
+e;14168933;'7cc5dd9cac336b2632e64fa3f8285d02';200;0
+e;14169060;'5e6b4b434b98e774507d02391d5d26c4';200;0
+e;14169062;'285159044711d8def6b5ef61f33f87b9';200;0
+e;14169111;'03bfce34eb6710e610c6903c54a7db49';200;0
+e;14169120;'d5e4343524bc56dfabe4620e9e5270c4';200;0
+e;14258124;'06283c7b02b90fcf752d22cdbcc14970';200;0
+e;14258125;'268fdb4ffb501196cd60acdbe6c15be8';200;0
+e;14433705;'92dc0ae8baaaf021e5f26968355bd68d';200;0
+e;14463957;'cfcfd416a45ac2d21594a4456357705f';200;0
+e;14465394;'9d94d3896d3b4eba85789a7a4020fb65';200;0
+e;14465418;'8b855dc14c8c8a2bcf21800a2065117c';200;0
+e;14471543;'5a4bc7fea5d2de06a202f2e98ab52caf';200;0
+e;14636818;'2b6aea32bf4a2a6d099106317bdcdf68';200;0
+e;14733812;'178208ffdf2df329767b1e0205b9ca6d';200;0
+e;14733813;'18ad0c21912c9321abcc9efeb9e078fe';200;0
+e;14733815;'1e9bf57108477d026020a311e267d643';200;0
+e;14733816;'3adfad8c3e5fc3bd71a1c6c05faca266';200;0
+e;14733817;'722ef66c99950d6271ef14d7c756ba0e';200;0
+e;14733818;'8a80e965baca179a0a5fd300c774f687';200;0
+e;14733819;'f8dd32ac2f525e5b2e91a8f3bafe84d0';200;0
+e;15605530;'631888254c7f4d2df9f8d65034d57b7e';200;0
+e;15774233;'e2ccf7a0f359acc1c00df3c2946c109c';200;0
+e;15774253;'f3f36f635342535ce64087623c4e1820';200;0
+e;16381273;'7dfd725d15021f43971e36985504a6f5';200;0
+e;16381279;'6f8b3e46fb565fadef0a05d40efd5b08';200;0
+e;3228593;'wiki:@';444;0
+e;4011504;'dbnary:fra:__ws_1_neurone__nom__1';444;0
+e;6172268;'umls:C0521390';444;0
+e;6172269;'umls:C0027882';444;0
+e;8563675;'umls:C0684133';444;0
+e;8693058;'bn:00165148n';444;0
+e;8693059;'bn:01538883n';444;0
+e;2983124;'_SW';36;50
+e;1862;'acétylcholine';1;56
+e;7333;'accoutumance';1;108
+e;7477;'somatique';1;56
+e;13599;'cellulaire';1;96
+e;16140;'synapomorphie';1;50
+e;16741;'dépolarisation';1;54
+e;16865;'longueur';1;530
+e;20137;'enzyme';1;256
+e;22889;'intestin';1;596
+e;25934;'glycine';1;88
+e;27678;'trajet';1;312
+e;30696;'microtubules';1;54
+e;32206;'potassium';1;116
+e;32439;'syncytium';1;50
+e;36662;'transposition';1;50
+e;38700;'ions';1;70
+e;42842;'gaine';1;114
+e;43280;'tumeur';1;732
+e;44335;'organe';1;840
+e;46237;'centrifuge';1;64
+e;46994;'origine';1;464
+e;47142;'sodium';1;108
+e;47149;'neuroscience';1;60
+e;47201;'information';1;874
+e;49805;'fonctionnelle';1;56
+e;50898;'cortex';1;134
+e;51525;'sarcolemme';1;54
+e;57892;'sérotonine';1;94
+e;59638;'hippocampe';1;64
+e;59768;'faisceau';1;58
+e;60183;'oligodendrocytes';1;52
+e;61651;'glutamate';1;66
+e;62379;'neurotransmetteur';1;90
+e;66311;'neuropeptides';1;50
+e;67254;'tissulaire';1;58
+e;71081;'EEG';1;76
+e;73274;'Argent';1;64
+e;75854;'argentique';1;104
+e;76117;'localisation';1;158
+e;76147;'interactions';1;52
+e;76600;'neuromédiateur';1;54
+e;77315;'vitesse';1;1342
+e;77376;'Ion';1;50
+e;80490;'exocytose';1;56
+e;82179;'Paul Broca';1;50
+e;84992;'schizophrénie';1;124
+e;85304;'Camillo Golgi';1;50
+e;86662;'interphase';1;52
+e;87736;'neurotransmetteurs';1;54
+e;90832;'biosphère';1;98
+e;91052;'Jean-Pierre Changeux';1;50
+e;93081;'segment';1;136
+e;98628;'apoptose';1;60
+e;99671;'dopamine';1;80
+e;101505;'tractus';1;50
+e;108041;'choline';1;50
+e;108139;'leucocytes';1;50
+e;112208;'atomique';1;364
+e;115748;'ISSN';1;50
+e;116300;'cnidaire';1;96
+e;116725;'enzymatique';1;54
+e;120121;'intelligence artificielle';1;160
+e;125402;'morphologie';1;156
+e;125695;'nombre';1;4538
+e;125929;'synapse';1;138
+e;126405;'noyau';1;1206
+e;129289;'cytosquelette';1;50
+e;130958;'noradrénaline';1;56
+e;133712;'myéline';1;78
+e;139578;'muscle';1;2044
+e;142000;'forme';1;760
+e;142939;'ISBN';1;62
+e;145367;'cnidaires';1;58
+e;151850;'Anatomie';1;292
+e;153082;'Physiologie';1;124
+e;154334;'synapses';1;64
+e;156380;'cancer de la prostate';1;120
+e;163834;'cellule souche';1;80
+e;164374;'drogues';1;60
+e;165465;'opération chirurgicale';1;82
+e;180225;'maladie d'Alzheimer';1;166
+e;180232;'maladie de Parkinson';1;34
+e;187978;'microscope électronique';1;12
+e;195110;'Le Soir';1;50
+e;196014;'appareil de Golgi';1;74
+e;197173;'bulbe olfactif';1;52
+e;214733;'Milliard';1;50
+e;218730;'tissu nerveux';1;68
+e;229511;'France Culture';1;52
+e;234834;'apprentissage automatique';1;50
+e;235655;'Eric Kandel';1;50
+e;237210;'potentiel d'action';1;4
+e;246845;'appareils';1;52
+e;252543;'cellules de Schwann';1;6
+e;252758;'réticulum endoplasmique rugueux';1;14
+e;258346;'plaque motrice';1;6
+e;265247;'microscope électronique à balayage';1;52
+e;265470;'muscle squelettique';1;50
+e;273431;'cellules gliales';777;50
+e;273472;'Origine';777;50
+e;275215;'mutations ponctuelles';1;50
+e;276448;'éponges';777;50
+e;278604;'astrocytes';777;50
+e;285728;'DOI';1;2
+e;292126;'International Standard Book Number';777;56
+e;297783;'acide glutamique';777;54
+e;302545;'International Standard Serial Number';777;50
+e;319415;'microscopie optique';1;50
+e;342190;'cellule sensorielle';1;50
+e;391553;'potentiel de repos';1;50
+e;391556;'potentiel postsynaptique';1;50
+e;391653;'maladie neuromusculaire';1;50
+e;391656;'neurolyse';1;50
+e;391663;'phagocytée';1;50
+e;391759;'PMID';1;8
+e;394180;'canaux ioniques';1;50
+e;394433;'seconds messagers';777;50
+e;398435;'bipolaires';1;50
+e;401746;'Muscle';1;50
+e;402302;'Nombre';1;50
+e;402541;'Tumeur';1;52
+e;402557;'milliards';1;50
+e;403406;'Waldeyer';1;50
+e;404911;'Information';1;50
+e;406612;'Morphologie';1;50
+e;407371;'Noyau';1;50
+e;408616;'organismes';1;54
+e;409819;'MAO';1;50
+e;411477;'Cerveau';1;50
+e;413330;'Appareil';1;50
+e;413332;'Localisation';1;50
+e;415030;'mitochondries';1;74
+e;416055;'Cellule';1;50
+e;419807;'Synapse';1;50
+e;420616;'physiologiques';1;50
+e;425850;'Forme';1;50
+e;427311;'Psychopathologie';1;50
+e;427841;'Vitesse';1;50
+e;429375;'FNRS';1;60
+e;429720;'Tractus';1;50
+e;436498;'mitochondriales';1;50
+e;455409;'dendritiques';1;50
+e;572447;'Fonds national de la recherche scientifique';777;50
+e;1544304;'cellules souches';1;8
+e;1703462;'neurofibrilles';777;0
+e;1798383;'épilepsies';1;0
+e;1821257;'multipolaires';1;0
+e;1832747;'efflux';1;0
+e;1842541;'substance P';1;0
+e;1928324;'Élément transposable';1;0
+e;2033682;'enfilades';2;0
+e;2194794;'estimations';2;0
+e;2416208;'bouton synaptique';1;0
+e;2533990;'axoplasme';1;0
+e;2601931;'Jonction';1;0
+e;2932197;'Épilepsie';1;0
+e;3173591;'conduction saltatoire';1;0
+e;3182001;'Hippocampe';1;0
+e;3228640;'Neurolinguistique';777;0
+e;3229576;'Dopamine';777;0
+e;3322090;'Organisme';1;0
+e;3322469;'Glutamate';1;0
+e;3602041;'Porifera';1;0
+e;3602042;'Placozoa';1;0
+e;5162213;'Longueur';1;0
+e;5570573;'Organe';1;0
+e;5629046;'Enzyme';1;0
+e;5676159;'Estimation';1;0
+e;5686045;'potentiel postsynaptique excitateur';777;0
+e;5752870;'Cortex';1;0
+e;5785718;'Segment';1;0
+e;5880125;'PubMed';1;0
+e;5882135;'exopeptidases';1;0
+e;5898326;'arborisation terminale';777;0
+e;5899745;'Coloration de Golgi';777;0
+e;5937651;'zone sous-ventriculaire';777;0
+e;5965170;'Drogue';1;0
+e;5983216;'Charles Scott Sherrington';777;0
+e;6015536;'Centrifuge';1;0
+e;6084539;'endopeptidases';1;0
+e;6269897;'axonaux';1;0
+e;6278923;'myofibrilles';1;6
+e;6290938;'jonctions communicantes';1;0
+e;6294689;'cellule pyramidale';1;0
+e;6374513;'cellules musculaires';1;0
+e;6395212;'jonction communicante';1;0
+e;6563943;'Épithélium';1;0
+e;10001750;'Psychiatrie';1;0
+e;10822142;'Trajectoire';1;0
+e;10845747;'Nerf';1;0
+e;11647933;'Santiago Ramon y Cajal';1;0
+e;11695821;'Geoffrey Raisman';777;0
+e;11695822;'potentiel postsynaptique inhibiteur';777;0
+e;11807364;'Neurosciences';1;0
+e;11973190;'Fonds de la recherche scientifique';777;0
+e;12692879;'placozoaires';777;0
+e;12788626;'signal bioélectrique';1;0
+e;12788628;'neurofilaments';1;0
+e;12788630;'épines dendritiques';1;0
+e;12788791;'neurones unipolaires';1;0
+e;13288932;'Électrophysiologie';1;0
+e;14012788;'Tissu biologique';777;0
+e;14252694;'Claire Magnon';777;0
+e;14668798;'Transcription';777;0
+e;14722097;'Sodium';1;0
+e;15016123;'Neurone';1;0
+e;215538;'cellule>145258';1;4;'cellule>alvéole'
+e;244694;'cellule>125506';1;2;'cellule>électricité'
+e;244695;'cellule>87925';1;50;'cellule>aviation'
+e;244697;'cellule>126079';1;50;'cellule>électronique'
+e;244698;'cellule>220648';1;50;'cellule>organisation sociale'
+e;3229655;'cellule>96851';1;48;'cellule>pièce'
+e;3229658;'cellule>23235';1;2;'cellule>case'
+e;3229659;'cellule>124518';1;0;'cellule>météorologie'
+e;3229660;'cellule>70527';1;0;'cellule>musique'
+e;3229661;'cellule>52499';1;0;'cellule>entomologie'
+e;3229662;'cellule>12481';1;0;'cellule>téléphonie'
+e;154623;'moëlle';1;86
+e;10441;'neurotrope';1;50
+e;11910;'neuromusculaire';1;56
+e;11292;'membranaire';1;52
+e;83734;'hypothalamique';1;50
+e;21911;'communicant';1;56
+e;51253;'message';1;980
+e;50254;'axonal';1;50
+e;61983;'présynaptique';1;52
+e;174109;'NSC';1;50
+e;176600;'VIVO';1;50
+e;62629;'corticostérone';1;50
+e;81269;'holistique';1;50
+e;6991771;'en:protoplasm';1;0
+e;64988;'neurohormone';1;52
+e;241683;'cil vibratile';666;50
+e;6906983;'en:neurotransmitter';1;0
+e;6991828;'en:cellular membrane';1;0
+e;6904041;'en:neural';1;0
+e;15596296;'en:sympatic nerve';1;0
+e;14950834;'en:artificial neuron';1;0
+e;15100902;'en:visual area';1;0
+e;16034669;'neuronolyse';1;0
+e;61097;'neurofibrille';1;50
+e;6085519;'neurotendineux';1;0
+e;150227;'réticulée';1;50
+e;16030799;'péricarion';1;0
+e;16030800;'péricaryone';1;0
+e;16030806;'périkaryon';1;0
+e;16032224;'hétérosensoriel';1;0
+e;16034474;'hétérochronisme';1;0
+e;16037642;'hécatomère';1;0
+e;421531;'hétéromère';1;50
+e;86445;'hodologie';1;50
+e;2323285;'supra-optique';1;0
+e;9782;'dépresseur';1;52
+e;16037601;'deutoneurone';1;0
+e;6569;'glomérule';1;50
+e;13785044;'vitamine b6';1;0
+e;15490990;'pneumogastrique vagus';1;0
+e;15078190;'en:vitamin B6';1;0
+e;250280;'facultés intellectuelles';1;50
+e;1832256;'dixième nerf crânien';1;0
+e;223692;'hippocampe>39031';1;54;'hippocampe>cerveau'
+e;390793;'glomérule>112609';1;50;'glomérule>anatomie'
+e;462955;'hétérotopie de la substance grise';1;50
+e;22855;'parenchyme';1;54
+e;342178;'cellule mitrale';1;50
+e;14940750;'en:gristle';1;0
+e;15141250;'en:action potential';1;0
+e;264925;'poil sensoriel';1;2
+e;176220;'vitamine B6';1;54
+e;246802;'aire visuelle';1;18
+e;1843760;'rétinotopie';1;0
+e;358691;'impulsion nerveuse';1;50
+e;394149;'polymicrogyrie';1;50
+e;394144;'anomalies de développement du cortex cérébral';1;50
+e;394172;'plasticité synaptique';1;50
+e;6398271;'nerf crânien x';1;0
+e;4306946;'nerf cardiaque';777;0
+e;288796;'nerf cardio-pneumo-entérique';777;52
+e;4306945;'nerf sympathique';777;0
+e;15238721;'en:motor end-plate';1;0
+e;1707138;'MEG';1;2
+e;63316;'neurotransmission';1;54
+e;6342321;'nerf crânien 10';1;0
+e;15256329;'système central nerveux';1;0
+e;395026;'neurocytome';1;50
+e;4359;'glie';1;50
+e;6268421;'neuronopathique';1;0
+e;7021823;'en:connectome';1;0
+e;331229;'connectome';1;50
+e;266399;'cellule animale';1;50
+e;107;'neurobiochimique';1;50
+e;250729;'cortex visuel';1;2
+e;259013;'dépression majeure';1;50
+e;195319;'maladie neurologique';1;54
+e;260823;'gaine de myéline';1;4
+e;248716;'atteinte neurologique';1;50
+e;258721;'fonctionnement neuronal';1;50
+e;58;'micro-noyaux';1;50
+e;315004;'neurogenèse';1;56
+e;111573;'réseaux neuronaux';1;50
+e;20338;'glial';1;50
+e;1827985;'archipallium';1;0
+e;6934261;'en:serotonin';1;0
+e;117657;'archépallium';1;50
+e;438357;'barrière hémato-encéphalique';1;50
+e;7127540;'en:lower motor neuron';1;0
+e;220976;'aire cérébrale';1;78
+e;14593982;'s'aérer les neurones';1;0
+e;3245182;'barrière hématoencéphalique';1;0
+e;115992;'neural';1;50
+e;59692;'polysynaptique';1;50
+e;403722;'acetylcholine';1;50
+e;11962511;'en:neurological disorder';1;0
+e;6312941;'trouble du système nerveux';1;0
+e;1815813;'gangliosidose';1;0
+e;436454;'SNC';1;50
+e;7167436;'en:magnetoencephalography';1;0
+e;320939;'magnéto-encéphalographie';1;50
+e;91824;'magnétoencéphalographie';1;50
+e;263969;'nerf pneumogastrique';1;52
+e;6874491;'en:vagus nerve';1;0
+e;14918011;'en:DNA';1;0
+e;64351;'nerf vague';1;64
+e;29038;'névraxe';1;62
+e;14917526;'en:deoxyribonucleic acid';1;0
+e;314513;'maladie du système nerveux';1;50
+e;250601;'trouble neurologique';1;12
+e;6797073;'en:nervous system disorder';1;0
+e;1780056;'partie centrale du système nerveux';1;0
+e;6083669;'acétyl-choline';1;0
+e;6964842;'en:acetylcholine';1;0
+e;15077955;'en:rod cell';1;0
+e;342170;'cellule ganglionnaire';1;50
+e;596621;'dendrite>146881';1;0;'dendrite>Nom:Fem+SG'
+e;163301;'::>13:74860>29:42196>16';9;50;'Avec quoi un homme pourrait penser ?'
+e;190847;'accélérant';1;52
+e;147233;'activant';1;50
+e;15465970;'en:-activating';1;0
+e;15274101;'en:accelerating';1;0
+e;15465971;'en:enzyme activator';1;0
+e;15057493;'en:activating';1;0
+e;15465972;'en:that stimulates';1;0
+e;15087561;'en:activator';1;0
+e;15465973;'en:enabler';1;0
+e;129269;'cortex cérébral';1;104
+e;219356;'mémoire>39031';1;104;'mémoire>cerveau'
+e;15091081;'en:nervous impulse';1;0
+e;102345;'plaisir';1;3530
+e;13494936;'814cda5621f44b49235ea57db2b094e8';200;0
+e;14323529;'552f338923206119103eea5a19fced7e';200;0
+e;14463902;'b1716cfa84fcdc57727d89d09592f392';200;0
+e;14465651;'7bd7cb84692917984a98f6c555d14618';200;0
+e;14733803;'dbfbc05e4752b299b14c0c8b0c40c4e4';200;0
+e;14733808;'42882b5b5e4027618093eb0d6d60377d';200;0
+e;12970700;'27f08e72e58a368b898d43413843e8e2';200;0
+e;12684909;'d2c13a2dfcc016f2b2ba1690c019d41b';200;0
+e;12687957;'0741d783ba8dc57bdcb51a8bfb8a9005';200;0
+e;12698550;'04a050e051165f8dd1516c515e195d9c';200;0
+e;12732761;'e6ceb04145acde752cf9129ee0cc6289';200;0
+e;12733865;'f580a338427b567464c41016021ec2b4';200;0
+e;12769655;'fdbdf119e605998b285978a2c0bac145';200;0
+e;12990089;'ec44ff0015b5728f4cec403305b530fc';200;0
+e;13169787;'7e1b7f05c15655b75eb903152010fd76';200;0
+e;13205497;'cb3a893723f3c78008416e17d9b7229b';200;0
+e;12665162;'21f3d9c253ea84ad3aadf4cc1ea8104e';200;0
+e;12732362;'6ec6f0206e4b6e577479bd85f7562215';200;0
+e;12883261;'39847e4478e9e005a0026736e7c7a432';200;0
+e;13135725;'51ffd18d2f687bc7227077594652c425';200;0
+e;12662994;'575ca2f0fecdc0ff04ddc08fe49fe78a';200;0
+e;12675498;'a33430b5266bd9daf5e07da9d4519a47';200;0
+e;12676343;'1d11f55da46c2859bfd11b1c37adf213';200;0
+e;12693433;'c7ebf7c9237f9b55b5ad92ffd1eda776';200;0
+e;12889508;'d38c31e35544b49e618a339b8724ef9d';200;0
+e;12663565;'8edefcab159e4c9a1eb19d8f2e3dd391';200;0
+e;12693224;'1a6620eaba6d024ee511481bb2be28da';200;0
+e;12788617;'a2010ec77f420ed6ba2df184b88df406';200;0
+e;12788619;'a419b5251b98d6d6e3e30ecef78228ca';200;0
+e;12788713;'ed81569516a6049e40755829183ced62';200;0
+e;12788811;'459c6b60267d4eecbe8996bee9a8b000';200;0
+e;12882588;'f57a9aa791b1a2f8f4f02c8cefb852a4';200;0
+e;12726753;'792845ff574d091ff1eeed628e86158c';200;0
+e;12726757;'ac4ac7a8a7fc6d2254ade07611d1d883';200;0
+e;12788719;'e813f27865657914e9f6dfa906b748e5';200;0
+e;12788736;'1181cc767903c5926e6b4b5479a1c7f3';200;0
+e;12788800;'72994f358c8686ccddd7b9e2a731f148';200;0
+e;12788803;'237da1e0035e60ae27c8b22d07bea225';200;0
+e;12788235;'0f3f2ae70c4a055447c344c0b7016c14';200;0
+e;12788623;'ef30a773e57ffd728483051c280a27a8';200;0
+e;12788714;'e4b42bf861c2e4a7c82a095d9308a2e5';200;0
+e;12788594;'9b651b7f0a3e2538c9b162fc8ed3f3f4';200;0
+e;12788781;'90e6c2089a0c11d9b0cfaa1ea3dd6934';200;0
+e;14733810;'4e16670bfe46c4dabb34e01811a72823';200;0
+e;12788695;'367317314e7257a4bf5d19e0973579fe';200;0
+e;14465974;'91201409b0d0d9a23682b0feb6a92bed';200;0
+e;14168769;'449480b969cf13122e162f771c2fae31';200;0
+e;114903;'dégénérescence';1;82
+e;36497;'libre arbitre';1;56
+e;47170;'encéphalopathie spongiforme bovine';1;58
+e;33229;'ESB';1;86
+e;309706;'REG';1;50
+e;19596;'libre-arbitre';1;52
+e;137999;'marie-jeanne';1;56
+e;83512;'marihuana';1;50
+e;103791;'poumon';1;1034
+e;77008;'yeux';1;4150
+e;77424;'oeil';1;3212
+e;314017;'chambre chinoise';1;50
+e;48140;'noeud';1;310
+e;98560;'embryologie';1;102
+e;34163;'psychologie cognitive';1;64
+e;23838;'neurosciences';1;78
+e;123732;'apprentissage';1;554
+e;108177;'neurobiologie';1;52
+e;136169;'oncogènes';1;50
+e;272252;'acide ribonucléique messager';777;50
+e;180908;'ARN messager';1;66
+e;272253;'ARNm';777;50
+e;119233;'goût';1;836
+e;110335;'neuroleptiques';1;50
+e;8924;'psychologie';1;1244
+e;234887;'méthode scientifique';1;50
+e;234888;'démarche expérimentale';1;50
+e;273028;'acide 4-hydroxybutanoïque';777;50
+e;273029;'gamma-hydroxybutyrate';777;50
+e;178344;'GHB';1;4
+e;135591;'poil';1;2660
+e;152293;'Psychologie';1;118
+e;2546;'physiologie';1;352
+e;273288;'cils cellulaires';777;50
+e;267025;'glande endocrine';1;24
+e;41378;'glandes endocrines';1;54
+e;28487;'holisme';1;54
+e;94328;'audition';1;234
+e;273601;'Prix Nobel de physiologie ou médecine';777;50
+e;273725;'muscles striés';777;50
+e;80820;'cannabis';1;294
+e;273766;'chanvre récréatif';777;50
+e;39788;'marijuana';1;198
+e;227752;'fumette';1;68
+e;57965;'neuroendocrinologie';1;50
+e;38830;'dyscalculie';1;50
+e;10881;'bouton';1;986
+e;125939;'chimiorécepteur';1;50
+e;37028;'épilepsie';1;100
+e;30181;'épileptique';1;58
+e;28698;'néocortex';1;50
+e;18593;'isocortex';1;50
+e;27333;'thérapie génique';1;80
+e;250228;'odeur corporelle';1;178
+e;38186;'immortalité';1;76
+e;206355;'principe de plaisir';1;50
+e;200953;'fibre nerveuse';1;74
+e;49455;'physiologique';1;70
+e;280943;'synapse chimique';777;50
+e;280944;'synapse électrique';777;50
+e;60556;'antidépresseurs';1;54
+e;281885;'thymoanaleptiques';777;50
+e;134028;'anti-dépresseur';1;94
+e;270729;'fente synaptique';1;4
+e;282222;'citrate de clomiphène';777;50
+e;282223;'clomiphène';777;50
+e;117335;'clomifène';1;50
+e;107364;'dégustation';1;166
+e;270728;'transmission synaptique';1;50
+e;50649;'euphorie';1;196
+e;219964;'maladie de la vache folle';1;34
+e;37825;'euphorisant';1;56
+e;290267;'inhibiteurs sélectifs de la recapture de la sérotonine';777;50
+e;290268;'ISRS';777;50
+e;290269;'ssri';777;50
+e;136599;'neuropeptide';1;54
+e;24489;'peptide';1;74
+e;82652;'peptides';1;68
+e;107494;'benzodiazépines';1;86
+e;294875;'BZD';777;50
+e;2199;'RER';1;200
+e;46808;'granuleux';1;68
+e;33663;'ergastoplasme';1;52
+e;109195;'sapidité';1;72
+e;56968;'postsynaptique';1;50
+e;63413;'physiologiste';1;68
+e;78571;'neurite';1;50
+e;83951;'vache folle';1;112
+e;91405;'sapide';1;50
+e;114555;'adrénergique';1;50
+e;115947;'thymoanaleptique';1;50
+e;123251;'bon goût';1;68
+e;128041;'bromhidrose';1;50
+e;131380;'sélectivité';1;50
+e;132251;'hypothalamus';1;116
+e;159670;'corps calleux';1;60
+e;197997;'corps de Nissl';1;64
+e;203487;'mauvais goût';1;94
+e;223563;'centre nerveux';1;76
+e;229896;'inhibiteur sélectif de la recapture de la sérotonine';1;50
+e;234872;'démarche scientifique';1;50
+e;257927;'réticulum endoplasmique granuleux';1;50
+e;311427;'messages nerveux';777;50
+e;260080;'message nerveux';1;50
+e;311475;'organes électriques';777;50
+e;261994;'organe électrique';1;50
+e;224996;'sciences cognitives';1;32
+e;314010;'Science cognitive';777;50
+e;315582;'fibres nerveuses';777;52
+e;318710;'interface neuronale directe';1;50
+e;351960;'enquête scientifique';1;50
+e;391557;'PPS lents';777;50
+e;391558;'PPS rapides';777;50
+e;391868;'odeur personnelle';1;50
+e;394417;'paracrine';1;50
+e;394424;'signalisation cellulaire';1;50
+e;394439;'bicouche lipidique';1;50
+e;394440;'double couche lipidique';777;50
+e;341225;'canal sodium';1;50
+e;391536;'mésolobe';1;50
+e;376652;'rigueur scientifique';1;52
+e;399981;'neurorécepteur';1;50
+e;123954;'noeuds';1;64
+e;153396;'gout';1;52
+e;431840;'gustatives';1;50
+e;437902;'Immortalité';1;50
+e;405990;'Noeud';1;50
+e;581820;'psychoanaleptiques';777;0
+e;77249;'interneurones';1;50
+e;101371;'épigénétique';1;54
+e;1706265;'citrate de clomifène';777;0
+e;1754761;'canal sodique';1;0
+e;1798105;'crise de la vache folle';1;0
+e;1751490;'étude des changements de l'activité des gènes';777;0
+e;1751491;'modification de la séquence d'ADN';777;0
+e;1751492;'transmis lors des divisions cellulaires';777;0
+e;1751493;'les modifications épigénétiques sont réversibles';777;0
+e;1840277;'oligopeptide';1;0
+e;1848309;'voie lemniscale';1;0
+e;1859023;'voie cordonale postérieure';777;0
+e;1859024;'voie latérale';777;0
+e;95246;'gustation';1;50
+e;2321367;'saveur sucrée';777;0
+e;2341145;'tumeur neuroectodermique primitive';1;0
+e;2347039;'cortex somato-sensoriel';777;0
+e;1777693;'colliculus supérieur';1;0
+e;1780884;'colliculi supérieurs';777;0
+e;1780885;'tectum optique';777;0
+e;81251;'inconscient';1;172
+e;125284;'inconscience';1;190
+e;2587832;'corpuscule nerveux terminal';777;0
+e;2925409;'cône d'émergence de l'axone';777;0
+e;1848662;'zone gâchette';1;0
+e;5562385;'cellules pyramidales';777;0
+e;5567472;'GIRK';777;0
+e;150102;'rectifiant';1;50
+e;5573224;'acide quisqualique';777;0
+e;5534862;'Mise en garde médicale';777;0
+e;59442;'tétanos';1;76
+e;56221;'somatotopie';1;50
+e;5685122;'neuromorphologie';777;0
+e;5685801;'Heinrich Wilhelm Gottfried Waldeyer-Hartz';777;0
+e;5686046;'PPSE';777;0
+e;5744293;'réseau de neurones d'Hopfield';777;0
+e;2364840;'nordazépam';1;0
+e;5830123;'N-desméthyldiazépam';777;0
+e;5836298;'Warren Sturgis McCulloch';777;0
+e;5897161;'SNARE';777;0
+e;5898786;'principe de Dale';777;0
+e;5898788;'loi de Dale';777;0
+e;145237;'herpès';1;66
+e;236366;'herpès labial';1;54
+e;197119;'bouton de manchette';1;66
+e;9968688;'réflexe ipsilatéral de flexion';777;0
+e;9968689;'Domaine 1';777;0
+e;9968691;'Domaine 2';777;0
+e;5535114;'améliorez-le !';777;0
+e;6306609;'processus cognitifs';1;0
+e;23458;'Triton';1;52
+e;111835;'tritons';1;50
+e;579489;'10 000';777;0
+e;164664;'dix mille';1;54
+e;11033042;'post-humanisme';777;0
+e;4052780;'Petilla de Aragón';1;0
+e;1928083;'jonctions intercellulaires';1;0
+e;11695824;'élagage synaptique';777;0
+e;1858710;'virus neurotrope';777;0
+e;12300854;'virus neuroinvasif';777;0
+e;12300855;'virus neurovirulent';777;0
+e;13664821;'Pío del Río Hortega';777;0
+e;5538739;'Neuron';1;0
+e;14004571;'Herpès labial';777;0
+e;1852917;'Peptide';1;0
+e;12788530;'Warren McCulloch';1;0
+e;5536212;'Cette section ne cite pas suffisamment ses sources';777;0
+e;344391;'contact direct';1;50
+e;14482834;'régulateurs locaux';777;0
+e;84060;'endocrine';1;58
+e;1828404;'autocrine';1;0
+e;14485701;'flaveurs';777;0
+e;5913549;'pseudo-chaleur';777;0
+e;6801;'piquant';1;616
+e;132080;'fraîcheur';1;164
+e;290507;'système endocrinien';777;50
+e;116308;'synthèse';1;122
+e;16161593;'histoire de la neurologie';777;0
+e;1835664;'primo-infection herpétique';1;0
+e;14563525;'infection initiale non primaire';777;0
+e;2099975;'récurrences';2;0
+e;14563526;'excrétion virale asymptomatique';777;0
+e;2089180;'réactivations';2;0
+e;14581093;'10+4';777;0
+e;14581094;'la pyramide à 10 000 $';777;0
+e;14581272;'grosses vésicules à coeur dense LDCV';777;0
+e;176124;'Glu';1;50
+e;14744485;'processus d'apprentissage et de mémorisation';777;0
+e;14589479;'ENaC';777;0
+e;14589480;'Annual Review of Physiology';777;0
+e;14585356;'subdivision par modalités';777;0
+e;14585357;'L'aire 3a';777;0
+e;14585358;'informations proprioceptives';777;0
+e;14585359;'Les aires 3b et 1';777;0
+e;16154975;'Petites molécules';777;0
+e;16154976;'Sites de colocalisation';777;0
+e;16154977;'la modulation de l'activité synaptique';777;0
+e;1846035;'tétanospasmine';1;0
+e;253762;'La Guerre des boutons';1;14
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;3;'r_domain';'domaine';Il est demandé de fournir des domaines relatifs au mot cible. Par exemple, pour 'corner', on pourra donner les domaines 'football' ou 'sport'.
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;5;'r_syn';'synonyme';Il est demandé d'énumérer les synonymes ou quasi-synonymes de ce terme.
+rt;6;'r_isa';'générique';Il est demandé d'énumérer les GENERIQUES/hyperonymes du terme. Par exemple, 'animal' et 'mammifère' sont des génériques de 'chat'.
+rt;8;'r_hypo';'spécifique';Il est demandé d'énumérer des SPECIFIQUES/hyponymes du terme. Par exemple, 'mouche', 'abeille', 'guêpe' pour 'insecte'.
+rt;9;'r_has_part';'partie';Il faut donner des PARTIES/constituants/éléments (a pour méronymes) du mot cible. Par exemple, 'voiture' a comme parties : 'porte', 'roue', 'moteur', ...
+rt;10;'r_holo';'tout';Il est démandé d'énumérer des 'TOUT' (a pour holonymes)  de l'objet en question. Pour 'main', on aura 'bras', 'corps', 'personne', etc... Le tout est aussi l'ensemble comme 'classe' pour 'élève'.
+rt;11;'r_locution';'locution';A partir d'un terme, il est demandé d'énumérer les locutions, expression ou mots composés en rapport avec ce terme. Par exemple, pour 'moulin', ou pourra avoir 'moulin à vent', 'moulin à eau', 'moulin à café'. Pour 'vendre', on pourra avoir 'vendre la peau de l'ours avant de l'avoir tué', 'vendre à perte', etc..
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;14;'r_patient';'action>patient';Le patient (qu'on appelle aussi l'objet) est l'entité qui subit l'action. Par exemple dans - Le chat mange la souris -, le patient est la souris. Des patients typiques de manger peuvent être 'viande', 'légume', 'pain', ... (manger r_patient pain)
+rt;15;'r_lieu';'chose>lieu';Il est demandé d'énumérer les LIEUX typiques où peut se trouver le terme/objet en question. (carotte r_lieu potager)
+rt;16;'r_instr';'action>instrument';L'instrument est l'objet avec lequel on fait l'action. Dans - Il mange sa salade avec une fourchette -, fourchette est l'instrument. Des instruments typiques de 'tuer' peuvent être 'arme', 'pistolet', 'poison', ... (couper r_instr couteau)
+rt;17;'r_carac';'caractéristique';Pour un terme donné, souvent un objet, il est demandé d'en énumérer les CARACtéristiques (adjectifs) possibles/typiques. Par exemple, 'liquide', 'froide', 'chaude', pour 'eau'.
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;22;'r_family';'famille';Des mots de la même famille lexicale sont demandés (dérivation morphologique, par exemple). Par exemple, pour 'lait' on pourrait mettre 'laitier', 'laitage', 'laiterie', etc.
+rt;23;'r_carac-1';'caractéristique-1';Quels sont les objets (des noms) possédant typiquement/possiblement la caractérisque suivante ? Par exemple, 'soleil', 'feu', pour 'chaud'.
+rt;24;'r_agent-1';'agent typique-1';Que peut faire ce SUJET ? (par exemple chat => miauler, griffer, etc.) (chat r_agent-1 manger)
+rt;25;'r_instr-1';'instrument>action';L'instrument est l'objet avec lequel on fait l'action. Dans - Il mange sa salade avec une fourchette -, fourchette est l'instrument. On demande ici, ce qu'on peut faire avec un instrument donné... (scie r_instr-1 scier)
+rt;26;'r_patient-1';'patient-1';(inverse de r_patient) Que peut-on faire à cet OBJET. Pour 'pomme', on pourrait avoir 'manger', 'croquer', couper', 'éplucher',  etc. (pomme r_patient-1 manger)
+rt;27;'r_domain-1';'domaine-1';inverse de r_domain : à un domaine, on associe des termes
+rt;28;'r_lieu-1';'lieu>chose';A partir d'un lieu, il est demandé d'énumérer ce qui peut typiquement s'y trouver. Par exemple : Paris r_lieu-1 tour Eiffel
+rt;32;'r_sentiment';'sentiment';Pour un terme donné, évoquer des mots liés à des SENTIMENTS ou des EMOTIONS que vous pourriez associer à ce terme. Par exemple, la joie, le plaisir, le dégoût, la peur, la haine, l'amour, l'indifférence, l'envie, avoir peur, horrible, etc.
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;50;'r_object>mater';'objet>matiere';Quel est la ou les MATIERE/SUBSTANCE pouvant composer l'objet qui suit. Par exemple, 'bois' pour 'poutre'.
+rt;53;'r_make';'produit';Que peut PRODUIRE le terme ? (par exemple abeille -> miel, usine -> voiture, agriculteur -> blé,  moteur -> gaz carbonique ...)
+rt;54;'r_product_of';'est le produit de';Le terme est le RESULTAT/PRODUIT de qui/quoi ?
+rt;72;'r_syn_strict';'r_syn_strict';Termes strictement substituables, pour des termes hors du domaine général, et pour la plupart des noms (exemple : endométriose intra-utérine --> adénomyose)
+rt;106;'r_color';'couleur';A comme couleur(s)... chat r_color noir
+rt;115;'r_sentiment-1';'sentiment-1';Pour un SENTIMENT ou EMOTION donné, il est demandé dénumérer les termes que vous pourriez associer. Par exemple, pour 'joie', on aurait 'cadeau', 'naissance', 'bonne nouvelle', etc.
+rt;128;'r_node2relnode';'r_node2relnode';Relation entre un noeud (quelconque) et un noeud de relation (type = 10) - permet de rendre le graphe connexe même avec les annotations de relations
+rt;131;'r_is_concerned_by';'est concerné par';A peut être concerné par B. Par exemple, une personne a un rendez-vous a une maladie, une idée, une opinion, etc...
+rt;163;'r_concerning';'concernant';Qui concerne quelque chose ou quelqu'un. Par exemple: maladie r_concerning personne, ou disparition r_concerning emploi. (inverse de r_is_concerned_by)
+rt;200;'r_context';'r_context';Relation de contexte entre un terme et un noeud contexte.
+rt;333;'r_translation';'r_translation';Traduction vers une autre langue.
+rt;444;'r_link';'r_link';Lien vers une ressource externe (WordNet, RadLex, UMLS, Wikipedia, etc...)
+rt;555;'r_cooccurrence';'r_cooccurrence';co-occurences (non utilisée)
+rt;666;'r_aki';'r_aki';(TOTAKI) equivalent pour TOTAKI de l'association libre
+rt;777;'r_wiki';'r_wiki';Associations issues de wikipedia...
+rt;999;'r_inhib';'r_inhib';relation d'inhibition, le terme inhibe les termes suivants... ce terme a tendance à exclure le terme associé.
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;10003011;123756;4020;0;467
+r;1448842;123756;4112;0;356
+r;28603009;123756;16747;0;362
+r;98477894;123756;17559;0;361
+r;10003013;123756;18445;0;324
+r;417807503;123756;31526;0;12
+r;120424747;123756;34677;0;374
+r;31330875;123756;35143;0;104
+r;14427391;123756;35767;0;366
+r;10530171;123756;39031;0;260
+r;430975037;123756;45079;0;25
+r;408936000;123756;46439;0;10
+r;119438348;123756;46728;0;377
+r;10003015;123756;47550;0;11
+r;28603290;123756;51442;0;361
+r;394922286;123756;51691;0;215
+r;15371156;123756;56396;0;375
+r;120424748;123756;61925;0;51
+r;332873175;123756;68467;0;160
+r;1324466;123756;81803;0;360
+r;29328726;123756;86561;0;357
+r;147440472;123756;87296;0;364
+r;9667463;123756;103057;0;432
+r;188786229;123756;103311;0;596
+r;15420582;123756;112609;0;390
+r;28602937;123756;114327;0;354
+r;31100986;123756;123422;0;148
+r;397900801;123756;131009;0;20
+r;9642297;123756;135190;0;53
+r;28603079;123756;139779;0;361
+r;12193191;123756;155570;0;373
+r;406714968;123756;169791;0;45
+r;14427393;123756;176189;0;371
+r;9904899;123756;176469;0;53
+r;28021059;123756;198663;0;362
+r;28603146;123756;203553;0;360
+r;14060725;123756;204369;0;366
+r;9667465;123756;215534;0;53
+r;15791709;123756;233133;0;356
+r;397900802;123756;233453;0;20
+r;10602850;123756;234514;0;360
+r;23925566;123756;239128;0;1000000
+r;292466859;123756;246412;0;192
+r;14427392;123756;258343;0;366
+r;11622128;123756;264964;0;371
+r;14465324;123756;270727;0;357
+r;215233039;123756;273950;0;350
+r;394922289;123756;296808;0;165
+r;98638215;123756;308224;0;354
+r;14003517;123756;314016;0;78
+r;33884616;123756;366280;0;51
+r;14067839;123756;366281;0;369
+r;14123626;123756;366282;0;73
+r;33884689;123756;366283;0;1
+r;33884701;123756;366284;0;56
+r;33884880;123756;366285;0;51
+r;28773257;123756;366286;0;356
+r;33884704;123756;366287;0;51
+r;28029380;123756;1700538;0;361
+r;31100995;123756;1920349;0;148
+r;120424740;123756;3602582;0;374
+r;148718992;123756;6730817;0;363
+r;148719293;123756;6749511;0;358
+r;148719298;123756;6749686;0;358
+r;148718931;123756;6754125;0;68
+r;148719229;123756;6754414;0;363
+r;148719230;123756;6755173;0;73
+r;148719228;123756;6755299;0;363
+r;148719219;123756;6755300;0;363
+r;148719045;123756;6755320;0;73
+r;148719022;123756;6755324;0;358
+r;148719185;123756;6755325;0;358
+r;148719130;123756;6767077;0;363
+r;148719070;123756;6774397;0;358
+r;148719110;123756;6795318;0;358
+r;148719279;123756;6795321;0;368
+r;148719280;123756;6795323;0;363
+r;148719282;123756;6795330;0;53
+r;148719116;123756;6795332;0;358
+r;148719118;123756;6795339;0;363
+r;148719286;123756;6795341;0;68
+r;148719287;123756;6795343;0;358
+r;148719278;123756;6795409;0;358
+r;148719111;123756;6795411;0;363
+r;148719112;123756;6795413;0;363
+r;148719113;123756;6795417;0;73
+r;148719281;123756;6795419;0;358
+r;148719114;123756;6795421;0;358
+r;148719283;123756;6795423;0;358
+r;148719284;123756;6795425;0;73
+r;148719117;123756;6795427;0;358
+r;148719119;123756;6795434;0;68
+r;148718964;123756;6796180;0;73
+r;148719285;123756;6796753;0;363
+r;148718919;123756;6800353;0;358
+r;148719003;123756;6821021;0;363
+r;148718968;123756;6821046;0;363
+r;148718951;123756;6824252;0;358
+r;148718960;123756;6824668;0;68
+r;148718947;123756;6824669;0;358
+r;148719005;123756;6825323;0;358
+r;148719182;123756;6825389;0;53
+r;148719163;123756;6825470;0;363
+r;148718949;123756;6825577;0;363
+r;148719164;123756;6825697;0;358
+r;148719008;123756;6825819;0;358
+r;148719009;123756;6825849;0;358
+r;148718918;123756;6825857;0;363
+r;148719010;123756;6825862;0;358
+r;148719165;123756;6825863;0;358
+r;148719021;123756;6825922;0;358
+r;148718981;123756;6825962;0;358
+r;148718967;123756;6825963;0;358
+r;148718977;123756;6826060;0;358
+r;148718928;123756;6826105;0;358
+r;148718921;123756;6826174;0;358
+r;148718948;123756;6826180;0;363
+r;148718978;123756;6826247;0;73
+r;148719105;123756;6826359;0;358
+r;148718979;123756;6826630;0;358
+r;148718980;123756;6826635;0;358
+r;397900800;123756;6826661;0;20
+r;148718929;123756;6826724;0;358
+r;148718952;123756;6826742;0;358
+r;148719148;123756;6830969;0;358
+r;148719065;123756;6832337;0;358
+r;148718982;123756;6844192;0;358
+r;148719176;123756;6844197;0;363
+r;148719181;123756;6844665;0;363
+r;148719172;123756;6849506;0;358
+r;148718942;123756;6857779;0;358
+r;148718986;123756;6860143;0;358
+r;148719174;123756;6860200;0;358
+r;148719171;123756;6863631;0;358
+r;148719036;123756;6863715;0;363
+r;148718999;123756;6863800;0;363
+r;148719034;123756;6863836;0;363
+r;148719202;123756;6870958;0;363
+r;148719026;123756;6877398;0;358
+r;148718984;123756;6887746;0;358
+r;148719109;123756;6905442;0;68
+r;148719214;123756;6905670;0;363
+r;148719049;123756;6905683;0;358
+r;148719246;123756;6905709;0;68
+r;148718941;123756;6912466;0;73
+r;148718930;123756;6912627;0;358
+r;148719135;123756;6912661;0;363
+r;148719077;123756;6912707;0;358
+r;148719035;123756;6912740;0;358
+r;148718983;123756;6912751;0;73
+r;148719146;123756;6912921;0;73
+r;148719106;123756;6913105;0;358
+r;148719025;123756;6913228;0;358
+r;148719145;123756;6913409;0;358
+r;148719039;123756;6913452;0;358
+r;148719042;123756;6913489;0;358
+r;148718956;123756;6913491;0;358
+r;148719216;123756;6913507;0;368
+r;148719124;123756;6926903;0;68
+r;148719289;123756;6928842;0;363
+r;148719295;123756;6929030;0;363
+r;148718933;123756;6935690;0;53
+r;148719241;123756;6936525;0;363
+r;148719149;123756;6939163;0;68
+r;148719151;123756;6939164;0;363
+r;148719235;123756;6939237;0;363
+r;148719030;123756;6939550;0;363
+r;148719168;123756;6947501;0;363
+r;148718934;123756;6947502;0;363
+r;148718987;123756;6947503;0;363
+r;148718961;123756;6947504;0;358
+r;292466860;123756;6947622;0;192
+r;148718940;123756;6948347;0;73
+r;148719078;123756;6948408;0;358
+r;292466861;123756;6948468;0;192
+r;148718972;123756;6948524;0;358
+r;148719153;123756;6948566;0;358
+r;148719272;123756;6948657;0;358
+r;148719134;123756;6991772;0;358
+r;148719066;123756;6991789;0;358
+r;148719240;123756;6991832;0;358
+r;148719290;123756;6993904;0;363
+r;148719115;123756;6996143;0;358
+r;148718989;123756;6997625;0;363
+r;148719129;123756;7000103;0;358
+r;148718946;123756;7003173;0;358
+r;148719170;123756;7003182;0;363
+r;148719292;123756;7013227;0;68
+r;148719137;123756;7018903;0;73
+r;292466862;123756;7018913;0;192
+r;148718937;123756;7030091;0;363
+r;148718932;123756;7038510;0;363
+r;148719123;123756;7067091;0;358
+r;148719125;123756;7067439;0;358
+r;148718950;123756;7082014;0;73
+r;148718955;123756;7082016;0;358
+r;148718957;123756;7082017;0;358
+r;148718958;123756;7082018;0;53
+r;148718962;123756;7082019;0;53
+r;148719152;123756;7082020;0;358
+r;148718965;123756;7082022;0;358
+r;148718966;123756;7082023;0;363
+r;148718994;123756;7082024;0;358
+r;148718969;123756;7082039;0;358
+r;148719158;123756;7082040;0;368
+r;148719159;123756;7082042;0;358
+r;148718973;123756;7082043;0;358
+r;148718974;123756;7082045;0;363
+r;148718975;123756;7082047;0;358
+r;148718976;123756;7082049;0;358
+r;148719166;123756;7082050;0;363
+r;148719222;123756;7082052;0;358
+r;148718988;123756;7082054;0;73
+r;148719226;123756;7082055;0;358
+r;148718991;123756;7082057;0;358
+r;148718993;123756;7082058;0;363
+r;148719144;123756;7082060;0;358
+r;148719173;123756;7082066;0;68
+r;148719047;123756;7082069;0;73
+r;148719175;123756;7082072;0;358
+r;148719177;123756;7082075;0;358
+r;148719001;123756;7082077;0;368
+r;148719180;123756;7082085;0;363
+r;148719006;123756;7082087;0;363
+r;148719020;123756;7082088;0;363
+r;148719196;123756;7082090;0;358
+r;148719038;123756;7082091;0;358
+r;148719220;123756;7082092;0;358
+r;148719061;123756;7082094;0;363
+r;148719231;123756;7082095;0;358
+r;148719236;123756;7082099;0;53
+r;148719238;123756;7082101;0;68
+r;148719239;123756;7082102;0;363
+r;148718971;123756;7082113;0;358
+r;148719249;123756;7082115;0;358
+r;148719250;123756;7082116;0;358
+r;148719251;123756;7082117;0;363
+r;148719252;123756;7082119;0;358
+r;148719253;123756;7082121;0;368
+r;148719254;123756;7082123;0;358
+r;148719255;123756;7082124;0;358
+r;148719256;123756;7082126;0;358
+r;148719257;123756;7082127;0;73
+r;148719258;123756;7082129;0;363
+r;148719259;123756;7082131;0;358
+r;148719260;123756;7082132;0;363
+r;148719261;123756;7082134;0;68
+r;148719262;123756;7082136;0;53
+r;148719263;123756;7082138;0;363
+r;148719264;123756;7082140;0;68
+r;148719265;123756;7082142;0;363
+r;148719266;123756;7082144;0;68
+r;148719267;123756;7082146;0;358
+r;148719268;123756;7082148;0;358
+r;148719269;123756;7082150;0;358
+r;148719162;123756;7082152;0;358
+r;148719271;123756;7082153;0;363
+r;148718939;123756;7082162;0;363
+r;148718953;123756;7082164;0;358
+r;148718954;123756;7082166;0;358
+r;148719147;123756;7082168;0;358
+r;147440508;123756;7082170;0;45
+r;148718963;123756;7082171;0;73
+r;148719154;123756;7082172;0;363
+r;148719156;123756;7082173;0;53
+r;148719160;123756;7082182;0;358
+r;148719089;123756;7082184;0;358
+r;148719161;123756;7082185;0;358
+r;148719167;123756;7082188;0;363
+r;148718985;123756;7082193;0;68
+r;148719169;123756;7082194;0;358
+r;148719056;123756;7082195;0;363
+r;148718990;123756;7082196;0;358
+r;148719179;123756;7082198;0;358
+r;148718995;123756;7082204;0;363
+r;148718996;123756;7082208;0;358
+r;148718997;123756;7082210;0;358
+r;148718998;123756;7082214;0;358
+r;148718970;123756;7082216;0;53
+r;148719000;123756;7082217;0;358
+r;148719178;123756;7082220;0;358
+r;148719004;123756;7082223;0;363
+r;148719007;123756;7082225;0;73
+r;148719194;123756;7082226;0;358
+r;148719195;123756;7082228;0;73
+r;148719201;123756;7082231;0;68
+r;148719203;123756;7082233;0;358
+r;148719040;123756;7082235;0;358
+r;148719217;123756;7082236;0;358
+r;148719227;123756;7082237;0;68
+r;148719058;123756;7082239;0;363
+r;148719063;123756;7082240;0;358
+r;148719067;123756;7082241;0;73
+r;148719068;123756;7082242;0;73
+r;148719069;123756;7082243;0;358
+r;148719244;123756;7082244;0;363
+r;148719247;123756;7082247;0;363
+r;148719079;123756;7082250;0;358
+r;148719080;123756;7082252;0;358
+r;148719081;123756;7082254;0;358
+r;148719082;123756;7082256;0;68
+r;148719083;123756;7082258;0;358
+r;148719084;123756;7082260;0;363
+r;148719085;123756;7082262;0;358
+r;148719086;123756;7082264;0;73
+r;148719087;123756;7082265;0;68
+r;148719088;123756;7082267;0;358
+r;148719090;123756;7082269;0;358
+r;148719091;123756;7082271;0;73
+r;148719092;123756;7082273;0;358
+r;148719093;123756;7082275;0;358
+r;148719094;123756;7082277;0;73
+r;148719095;123756;7082279;0;358
+r;148719096;123756;7082281;0;358
+r;148719097;123756;7082283;0;358
+r;148719098;123756;7082285;0;358
+r;148719099;123756;7082287;0;363
+r;148719100;123756;7082289;0;363
+r;148719102;123756;7082291;0;358
+r;148719121;123756;7087223;0;358
+r;148719143;123756;7100237;0;368
+r;148718943;123756;7127544;0;358
+r;148719291;123756;7136860;0;73
+r;148719126;123756;7137101;0;73
+r;148718959;123756;7149200;0;358
+r;148719127;123756;7150383;0;358
+r;148719183;123756;7156292;0;363
+r;148719048;123756;7157994;0;53
+r;148719221;123756;7179318;0;358
+r;148719234;123756;7179320;0;358
+r;148718922;123756;7179321;0;53
+r;148718945;123756;7179323;0;358
+r;148719139;123756;7179327;0;368
+r;148719104;123756;7179328;0;53
+r;148718926;123756;7179336;0;358
+r;148719224;123756;7184157;0;368
+r;292466863;123756;7185909;0;192
+r;292466864;123756;7185913;0;192
+r;148719138;123756;7185940;0;363
+r;292466865;123756;7185941;0;197
+r;148719101;123756;7185978;0;358
+r;148719150;123756;7185980;0;358
+r;148719155;123756;7185981;0;363
+r;148719072;123756;7185993;0;358
+r;148719033;123756;7185996;0;358
+r;148719237;123756;7185998;0;73
+r;148718938;123756;7186022;0;363
+r;148719211;123756;7186037;0;358
+r;148719232;123756;7186038;0;358
+r;148718920;123756;7187706;0;363
+r;148718923;123756;7187712;0;358
+r;148718924;123756;7187713;0;363
+r;148718925;123756;7187715;0;358
+r;148719108;123756;7187716;0;363
+r;148719023;123756;7187721;0;363
+r;148718935;123756;7187793;0;358
+r;148718936;123756;7187794;0;53
+r;148719141;123756;7187798;0;358
+r;148719140;123756;7187805;0;363
+r;148719276;123756;7187836;0;363
+r;148719131;123756;7187854;0;363
+r;148719132;123756;7187856;0;68
+r;148719133;123756;7187858;0;358
+r;292466866;123756;7187860;0;192
+r;148718927;123756;7187862;0;68
+r;148719136;123756;7187930;0;368
+r;292466867;123756;7187972;0;192
+r;148719218;123756;7194553;0;363
+r;148719122;123756;7256837;0;358
+r;148719270;123756;7266539;0;358
+r;148719107;123756;7266542;0;53
+r;148719233;123756;7272296;0;363
+r;148719288;123756;7272301;0;358
+r;148719184;123756;7272329;0;368
+r;148719186;123756;7272331;0;358
+r;148719187;123756;7272333;0;358
+r;148719188;123756;7272335;0;73
+r;148719189;123756;7272337;0;358
+r;148719190;123756;7272339;0;358
+r;148719191;123756;7272341;0;358
+r;148719192;123756;7272343;0;358
+r;148719193;123756;7272345;0;363
+r;148719198;123756;7272347;0;358
+r;148719199;123756;7272348;0;363
+r;148719200;123756;7272349;0;358
+r;148719204;123756;7272350;0;358
+r;148719205;123756;7272352;0;363
+r;148719029;123756;7272354;0;358
+r;148719207;123756;7272356;0;358
+r;148719208;123756;7272358;0;358
+r;148719209;123756;7272360;0;363
+r;148719212;123756;7272362;0;73
+r;148719213;123756;7272363;0;358
+r;148719215;123756;7272365;0;358
+r;148719044;123756;7272366;0;358
+r;148719046;123756;7272367;0;358
+r;148719050;123756;7272369;0;358
+r;148719223;123756;7272370;0;358
+r;148719225;123756;7272371;0;363
+r;148719054;123756;7272372;0;363
+r;148719055;123756;7272374;0;73
+r;148719057;123756;7272376;0;363
+r;148719062;123756;7272377;0;363
+r;148719071;123756;7272378;0;363
+r;148719242;123756;7272379;0;363
+r;148719243;123756;7272380;0;363
+r;148719075;123756;7272381;0;358
+r;148719076;123756;7272382;0;358
+r;148719011;123756;7272502;0;73
+r;148719012;123756;7272504;0;358
+r;148719013;123756;7272506;0;358
+r;148719014;123756;7272508;0;68
+r;148719015;123756;7272510;0;358
+r;148719016;123756;7272512;0;358
+r;148719017;123756;7272514;0;358
+r;148719018;123756;7272516;0;358
+r;148719019;123756;7272518;0;73
+r;148719197;123756;7272520;0;358
+r;148719024;123756;7272521;0;68
+r;148719027;123756;7272522;0;363
+r;148719028;123756;7272524;0;358
+r;148719206;123756;7272528;0;363
+r;148719031;123756;7272530;0;363
+r;148719032;123756;7272532;0;363
+r;148719210;123756;7272534;0;358
+r;148719037;123756;7272536;0;358
+r;148719041;123756;7272538;0;363
+r;148719043;123756;7272539;0;368
+r;148719051;123756;7272541;0;73
+r;148719052;123756;7272542;0;363
+r;148719053;123756;7272543;0;53
+r;148719059;123756;7272545;0;363
+r;148719060;123756;7272546;0;358
+r;148719064;123756;7272547;0;358
+r;148719073;123756;7272548;0;358
+r;148719074;123756;7272549;0;358
+r;148719245;123756;7272550;0;368
+r;148719142;123756;7277078;0;363
+r;148719296;123756;7313996;0;358
+r;292466868;123756;7363471;0;192
+r;148719275;123756;7364395;0;363
+r;148719297;123756;7364561;0;363
+r;292466869;123756;7366760;0;192
+r;292466870;123756;7368103;0;197
+r;148719248;123756;7440106;0;358
+r;290350469;123756;7440295;0;6
+r;148719157;123756;7440296;0;358
+r;148718944;123756;7484849;0;358
+r;148719128;123756;7559418;0;73
+r;148719294;123756;7900397;0;358
+r;148719002;123756;8563672;0;363
+r;148719103;123756;8563674;0;358
+r;148719274;123756;8563676;0;68
+r;148719120;123756;8563678;0;358
+r;148719273;123756;8563680;0;358
+r;148719277;123756;8563682;0;363
+r;218143177;123756;9054073;0;85
+r;416537098;123756;15083592;0;20
+r;415880750;123756;15241997;0;25
+r;415880748;123756;15241998;0;25
+r;415880746;123756;15241999;0;25
+r;31298796;123756;35143;3;359
+r;119438349;123756;46728;3;365
+r;504802;123756;56396;3;360
+r;396756863;123756;102206;3;25
+r;396756865;123756;104993;3;25
+r;456156;123756;112609;3;382
+r;103314714;123756;201801;3;10
+r;406714966;123756;7331401;3;25
+r;397900804;123756;14943824;3;25
+r;39355;123756;146885;4;53
+r;639639;123756;171870;4;96
+r;54138244;123756;2586627;4;45
+r;54177379;123756;2586629;4;45
+r;54699854;123756;103057;5;377
+r;1730820;123756;155570;5;372
+r;406714969;123756;169791;5;-35
+r;215233041;123756;273950;5;349
+r;215167818;123756;7082170;5;35
+r;393273942;123756;15083592;5;25
+r;1708398;123756;63936;6;-2
+r;1619151;123756;103057;6;379
+r;630357;123756;135190;6;366
+r;2305688;123756;155570;6;1
+r;11946668;123756;157284;6;-25
+r;1619152;123756;215534;6;377
+r;377058118;123756;247061;6;25
+r;108396061;123756;391559;6;53
+r;377086471;123756;464752;6;25
+r;377033408;123756;6825857;6;25
+r;289631272;123756;6844197;6;50
+r;148719299;123756;7440295;6;68
+r;393273941;123756;15063400;6;25
+r;14427520;123756;35767;8;357
+r;408935999;123756;44968;8;10
+r;243412984;123756;77495;8;25
+r;289631266;123756;94641;8;40
+r;204564258;123756;96090;8;345
+r;31010627;123756;123422;8;364
+r;1619144;123756;176469;8;381
+r;28005390;123756;198663;8;367
+r;243260022;123756;204368;8;25
+r;14045752;123756;204369;8;362
+r;427914540;123756;223004;8;1
+r;9687587;123756;234514;8;364
+r;14427521;123756;258343;8;360
+r;11470347;123756;264964;8;73
+r;243261685;123756;270726;8;25
+r;14427519;123756;270727;8;357
+r;390909814;123756;273432;8;25
+r;13953045;123756;314016;8;73
+r;33778304;123756;366280;8;359
+r;14063664;123756;366281;8;365
+r;14073857;123756;366282;8;360
+r;33778396;123756;366283;8;357
+r;33778408;123756;366284;8;73
+r;33778149;123756;366285;8;362
+r;28746955;123756;366286;8;357
+r;33778411;123756;366287;8;364
+r;246707421;123756;566489;8;25
+r;248640378;123756;1182501;8;25
+r;28015936;123756;1700538;8;359
+r;243412986;123756;1828670;8;25
+r;246608292;123756;1829796;8;25
+r;31010557;123756;1920349;8;360
+r;246805143;123756;5562406;8;25
+r;246814013;123756;5562430;8;25
+r;246882522;123756;5685128;8;25
+r;246882520;123756;5685130;8;25
+r;299686356;123756;6309102;8;136
+r;289631268;123756;6313468;8;45
+r;300302991;123756;6326056;8;148
+r;305817746;123756;6332912;8;180
+r;301564984;123756;6345381;8;146
+r;304350352;123756;6368260;8;15
+r;304073486;123756;6375120;8;25
+r;304016474;123756;6375804;8;146
+r;304004485;123756;6382927;8;146
+r;307963680;123756;6393061;8;149
+r;304904424;123756;6393478;8;25
+r;307897183;123756;6414936;8;149
+r;248555749;123756;6430278;8;25
+r;289631269;123756;6754125;8;310
+r;289631271;123756;6826724;8;50
+r;289631273;123756;6857779;8;55
+r;289631274;123756;6876097;8;35
+r;289631275;123756;6905670;8;310
+r;289631276;123756;6905712;8;310
+r;243507537;123756;6912627;8;325
+r;289631277;123756;6912661;8;55
+r;289631284;123756;7030091;8;315
+r;289631285;123756;7082016;8;35
+r;289631286;123756;7127544;8;30
+r;289631287;123756;7151076;8;310
+r;289631288;123756;7179323;8;310
+r;289631289;123756;7179336;8;310
+r;289631294;123756;7186054;8;310
+r;289631296;123756;7187717;8;310
+r;289631297;123756;7187719;8;310
+r;289631298;123756;7187721;8;310
+r;289631299;123756;7187722;8;310
+r;289631300;123756;7187724;8;310
+r;289631301;123756;7187726;8;310
+r;289631302;123756;7187728;8;315
+r;289631303;123756;7187730;8;310
+r;289631304;123756;7187805;8;310
+r;289631305;123756;7187826;8;50
+r;289631307;123756;7187864;8;50
+r;289631308;123756;7187866;8;35
+r;289631309;123756;7187868;8;310
+r;289631310;123756;7187870;8;310
+r;289631311;123756;7187936;8;310
+r;289631312;123756;7187957;8;310
+r;289631313;123756;7187966;8;315
+r;289631314;123756;7187967;8;35
+r;243403711;123756;9939841;8;25
+r;244743645;123756;10251503;8;25
+r;271297181;123756;10662934;8;1
+r;346603476;123756;12101670;8;1
+r;346603475;123756;12101671;8;1
+r;346603474;123756;12101672;8;1
+r;346603473;123756;12101673;8;1
+r;346603472;123756;12101674;8;1
+r;346603471;123756;12101675;8;1
+r;397900803;123756;12515338;8;20
+r;419334578;123756;15206211;8;5
+r;420044114;123756;15241992;8;3
+r;2430040;123756;4020;9;366
+r;28601925;123756;16747;9;363
+r;2430041;123756;18445;9;361
+r;377667186;123756;20488;9;25
+r;10532530;123756;33919;9;9
+r;370034837;123756;46735;9;25
+r;2430042;123756;47550;9;54
+r;28601627;123756;51442;9;367
+r;2452140;123756;103057;9;1
+r;28601961;123756;114327;9;79
+r;28601855;123756;139779;9;366
+r;2452141;123756;155570;9;1
+r;28601760;123756;203553;9;360
+r;352454532;123756;212919;9;52
+r;289631267;123756;246412;9;316
+r;432856869;123756;6825858;9;1
+r;289631270;123756;6826359;9;310
+r;352200524;123756;6913084;9;1
+r;289631278;123756;6913105;9;310
+r;289631279;123756;6935690;9;315
+r;289631280;123756;6947622;9;310
+r;289631281;123756;6948468;9;310
+r;334422626;123756;6991788;9;25
+r;289631282;123756;7018913;9;310
+r;289631283;123756;7018935;9;50
+r;289631290;123756;7185909;9;315
+r;289631291;123756;7185913;9;310
+r;289631292;123756;7185941;9;310
+r;289631293;123756;7185942;9;50
+r;289631295;123756;7187716;9;315
+r;289631306;123756;7187860;9;310
+r;289631315;123756;7187972;9;310
+r;289631316;123756;7363471;9;315
+r;289631317;123756;7364395;9;315
+r;289631318;123756;7366760;9;315
+r;289631319;123756;7366762;9;50
+r;289631320;123756;7368103;9;315
+r;289631321;123756;8563676;9;50
+r;377783494;123756;12791689;9;25
+r;393273946;123756;15113976;9;25
+r;97414367;123756;17559;10;362
+r;1619150;123756;39031;10;73
+r;11024637;123756;45079;10;367
+r;24392321;123756;68467;10;362
+r;9985593;123756;86561;10;357
+r;1708699;123756;109785;10;-5
+r;9978777;123756;119571;10;4
+r;214597272;123756;131009;10;339
+r;8268895;123756;136507;10;-13
+r;15787319;123756;233133;10;360
+r;1988551;123756;233453;10;369
+r;98473284;123756;308224;10;359
+r;393273944;123756;6800353;10;25
+r;289976019;123756;6826661;10;194
+r;393273943;123756;15088586;10;25
+r;8581882;123756;35767;11;163
+r;8635432;123756;176469;11;163
+r;8675270;123756;204368;11;163
+r;8675271;123756;204369;11;163
+r;1563730;123756;215340;11;34
+r;8702108;123756;234514;11;161
+r;8723909;123756;258343;11;161
+r;8732593;123756;264964;11;163
+r;8738253;123756;270726;11;163
+r;8738255;123756;270727;11;163
+r;8818416;123756;314016;11;159
+r;12637103;123756;366280;11;102
+r;12637099;123756;366281;11;104
+r;12637091;123756;366282;11;109
+r;12637087;123756;366283;11;108
+r;12637083;123756;366284;11;106
+r;12637079;123756;366285;11;102
+r;12637075;123756;366286;11;107
+r;12637071;123756;366287;11;108
+r;28003523;123756;1700538;11;56
+r;31005039;123756;1920349;11;58
+r;52470704;123756;2512131;11;53
+r;107901611;123756;5476684;11;52
+r;112200698;123756;5685128;11;29
+r;112200689;123756;5685130;11;29
+r;115104163;123756;5898617;11;43
+r;299574374;123756;6309102;11;25
+r;300196064;123756;6326056;11;25
+r;301560358;123756;6345381;11;25
+r;302956906;123756;6368260;11;25
+r;303466280;123756;6375120;11;25
+r;303626903;123756;6375804;11;25
+r;303979416;123756;6382927;11;25
+r;304552162;123756;6388955;11;26
+r;304859839;123756;6393061;11;25
+r;304877967;123756;6393478;11;25
+r;305057453;123756;6397506;11;26
+r;305634814;123756;6414936;11;25
+r;122740182;123756;6424265;11;26
+r;122705778;123756;6428695;11;32
+r;122693633;123756;6430278;11;29
+r;121511878;123756;6441809;11;37
+r;220002653;123756;9939841;11;34
+r;244522939;123756;10251503;11;36
+r;267330210;123756;10662934;11;28
+r;315560151;123756;12101670;11;28
+r;315560139;123756;12101671;11;28
+r;315560130;123756;12101672;11;28
+r;315560121;123756;12101673;11;28
+r;315560107;123756;12101674;11;28
+r;315560098;123756;12101675;11;28
+r;316741296;123756;12145059;11;25
+r;316654107;123756;12171891;11;25
+r;316654098;123756;12171896;11;25
+r;316654082;123756;12171906;11;25
+r;316654068;123756;12171911;11;25
+r;316654055;123756;12171914;11;25
+r;316654044;123756;12171917;11;25
+r;316654031;123756;12171926;11;25
+r;316654015;123756;12171943;11;25
+r;316654002;123756;12171945;11;25
+r;316653989;123756;12171947;11;25
+r;318587797;123756;12236120;11;26
+r;318587775;123756;12236121;11;26
+r;318587755;123756;12236122;11;26
+r;318587735;123756;12236123;11;26
+r;318587709;123756;12236124;11;26
+r;318587685;123756;12236125;11;26
+r;318587663;123756;12236126;11;26
+r;318587639;123756;12236127;11;26
+r;318587613;123756;12236128;11;26
+r;318587589;123756;12236129;11;26
+r;318587565;123756;12236130;11;26
+r;318587543;123756;12236131;11;26
+r;318587521;123756;12236132;11;26
+r;318587490;123756;12236133;11;26
+r;318587463;123756;12236134;11;26
+r;318587436;123756;12236135;11;26
+r;318587411;123756;12236136;11;26
+r;318587384;123756;12236137;11;26
+r;318587358;123756;12236138;11;26
+r;318587334;123756;12236139;11;26
+r;318587306;123756;12236140;11;26
+r;318587280;123756;12236141;11;26
+r;318587254;123756;12236142;11;26
+r;318587228;123756;12236143;11;26
+r;318587204;123756;12236144;11;26
+r;318587178;123756;12236145;11;26
+r;318587152;123756;12236146;11;26
+r;318587128;123756;12236147;11;26
+r;318587100;123756;12236148;11;26
+r;318587076;123756;12236149;11;26
+r;318587052;123756;12236150;11;26
+r;318587030;123756;12236151;11;26
+r;318587002;123756;12236152;11;26
+r;318586976;123756;12236153;11;26
+r;318586950;123756;12236154;11;26
+r;318586924;123756;12236155;11;26
+r;318586900;123756;12236156;11;26
+r;318586872;123756;12236157;11;26
+r;318586846;123756;12236158;11;26
+r;335245241;123756;13104603;11;34
+r;337272852;123756;13246699;11;43
+r;337419791;123756;13254651;11;43
+r;419565341;123756;13779452;11;25
+r;357317978;123756;14113078;11;25
+r;357318280;123756;14113080;11;25
+r;419579742;123756;15242003;11;25
+r;419741042;123756;15242004;11;25
+r;167842;123756;151522;12;22
+r;109285;123756;151553;12;15
+r;167843;123756;151587;12;28
+r;152576;123756;151663;12;46
+r;1626031;123756;152254;12;26
+r;196278;123756;152813;12;22
+r;1623510;123756;152842;12;22
+r;11359061;123756;39031;15;73
+r;11358508;123756;144846;15;73
+r;1619141;123756;33714;17;366
+r;372654635;123756;44894;17;56
+r;8500150;123756;55222;17;-14
+r;165234464;123756;83461;17;361
+r;1619142;123756;124214;17;372
+r;8556810;123756;152562;17;5
+r;89980860;123756;3575927;18;30
+r;90840850;123756;3576104;18;26
+r;390376765;123756;14916413;18;25
+r;318591;123756;123756;19;59
+r;1626032;123756;34677;22;60
+r;1634372;123756;39708;22;51
+r;1634374;123756;41311;22;54
+r;1626033;123756;61925;22;54
+r;1634375;123756;75288;22;56
+r;1634373;123756;83944;22;54
+r;290217347;123756;11329899;24;-25
+r;376181744;123756;132021;25;25
+r;374220009;123756;21845;26;51
+r;28601889;123756;16747;28;362
+r;11346714;123756;99884;28;73
+r;28601999;123756;114327;28;362
+r;28602036;123756;139779;28;73
+r;13097809;123756;391761;28;366
+r;30373076;123756;1827158;28;362
+r;380297173;123756;1842410;28;25
+r;375739889;123756;3765901;28;25
+r;308207511;123756;7020083;28;1
+r;375738488;123756;12791689;28;25
+r;33979120;123756;14330;32;307
+r;33347199;123756;28453;32;279
+r;33347198;123756;37298;32;-5
+r;33303673;123756;57221;32;-5
+r;33746757;123756;91691;32;268
+r;72960718;123756;103405;32;365
+r;667613;123756;162759;36;45
+r;1564907;123756;191668;36;57
+r;2018136;123756;223172;36;47
+r;2239578;123756;223173;36;341
+r;9098242;123756;241794;36;478
+r;96145361;123756;251716;36;30
+r;2404825;123756;254876;36;39
+r;9107192;123756;254877;36;55
+r;2404826;123756;254878;36;5
+r;433680097;123756;276096;36;25
+r;394922284;123756;1900121;36;25
+r;54938932;123756;2585996;36;52
+r;417807502;123756;15991432;36;25
+r;376990377;123756;57917;53;25
+r;394922293;123756;34677;72;-25
+r;394922294;123756;61925;72;-25
+r;295209938;123756;87296;72;-25
+r;394922290;123756;155570;72;25
+r;218803011;123756;273950;72;28
+r;394922295;123756;3602582;72;-25
+r;215153774;123756;7082170;72;28
+r;394922292;123756;9054073;72;-25
+r;13683511;123756;269561;106;1
+r;15781050;123756;438593;128;2
+r;15961202;123756;443366;128;5
+r;21557868;123756;1088717;128;6
+r;21983276;123756;1156215;128;119
+r;21983280;123756;1156216;128;1
+r;21983285;123756;1156217;128;1
+r;28626045;123756;1741641;128;2
+r;28626321;123756;1741710;128;2
+r;28626325;123756;1741711;128;2
+r;29377110;123756;1791449;128;3
+r;54661606;123756;2590789;128;3
+r;54938935;123756;2594878;128;56
+r;85711271;123756;3344526;128;2
+r;99197298;123756;4362142;128;169
+r;99235233;123756;4371540;128;56
+r;161666537;123756;8679843;128;8
+r;161666541;123756;8679844;128;2
+r;165234469;123756;8693305;128;3
+r;195486100;123756;8739116;128;70
+r;195486101;123756;8739117;128;69
+r;195486102;123756;8739118;128;70
+r;195486103;123756;8739119;128;68
+r;195486104;123756;8739120;128;63
+r;195486105;123756;8739121;128;70
+r;195486106;123756;8739122;128;67
+r;195486107;123756;8739123;128;63
+r;190776362;123756;8873100;128;117
+r;195490644;123756;9021143;128;1
+r;215852247;123756;9595375;128;455
+r;215852253;123756;9595376;128;447
+r;215852259;123756;9595377;128;468
+r;215852265;123756;9595378;128;462
+r;215852271;123756;9595379;128;465
+r;215852277;123756;9595380;128;469
+r;215852283;123756;9595381;128;82
+r;216479539;123756;9608752;128;6
+r;218505229;123756;9783793;128;323.5
+r;220113393;123756;9943535;128;5
+r;290012429;123756;11322945;128;390
+r;290012435;123756;11322946;128;390
+r;290012441;123756;11322947;128;390
+r;290012447;123756;11322948;128;24
+r;290012453;123756;11322949;128;390
+r;290012459;123756;11322950;128;390
+r;290012465;123756;11322951;128;390
+r;290012471;123756;11322952;128;411
+r;290012477;123756;11322953;128;390
+r;290012483;123756;11322954;128;390
+r;290012489;123756;11322955;128;24
+r;290012495;123756;11322956;128;390
+r;290012501;123756;11322957;128;28
+r;290012507;123756;11322958;128;388
+r;290012513;123756;11322959;128;390
+r;290012519;123756;11322960;128;390
+r;290012525;123756;11322961;128;390
+r;290012531;123756;11322962;128;390
+r;290012537;123756;11322963;128;390
+r;290012543;123756;11322964;128;390
+r;290012549;123756;11322965;128;28
+r;290269358;123756;11330621;128;349
+r;292407839;123756;11388497;128;3
+r;292407843;123756;11388498;128;3
+r;292407847;123756;11388499;128;3
+r;292407851;123756;11388500;128;8
+r;298142662;123756;11636289;128;9
+r;298142677;123756;11636292;128;9
+r;298142683;123756;11636293;128;9
+r;298142689;123756;11636294;128;9
+r;298142695;123756;11636295;128;9
+r;298142701;123756;11636296;128;9
+r;298142707;123756;11636297;128;9
+r;298142713;123756;11636298;128;9
+r;298142719;123756;11636299;128;9
+r;298142725;123756;11636300;128;9
+r;298142731;123756;11636301;128;9
+r;298142737;123756;11636302;128;9
+r;298142743;123756;11636303;128;9
+r;298142749;123756;11636304;128;9
+r;298142755;123756;11636305;128;9
+r;298142761;123756;11636306;128;9
+r;298142767;123756;11636307;128;9
+r;303466420;123756;11787043;128;1
+r;343985189;123756;13574473;128;1
+r;352200382;123756;13986416;128;5
+r;352454317;123756;13990716;128;33
+r;370895017;123756;14596443;128;57
+r;371062840;123756;14600739;128;10
+r;398250920;123756;15538584;128;6
+r;398372224;123756;15541346;128;1
+r;400359767;123756;15606022;128;119
+r;400360190;123756;15606080;128;119
+r;400388745;123756;15606607;128;1
+r;401317409;123756;15637290;128;114
+r;401318569;123756;15637431;128;159
+r;402617422;123756;15667862;128;1
+r;431877205;123756;16346375;128;59
+r;432167898;123756;16366482;128;24
+r;432856877;123756;16385313;128;5
+r;289986867;123756;219538;131;60
+r;324028802;123756;12662612;200;2
+r;324064622;123756;12663353;200;1
+r;324065870;123756;12663400;200;6
+r;324172811;123756;12665990;200;4
+r;324202185;123756;12666767;200;2
+r;324269979;123756;12668629;200;4
+r;324344859;123756;12670524;200;1
+r;324632200;123756;12678182;200;1
+r;324758645;123756;12681389;200;3
+r;324885321;123756;12684477;200;1
+r;324974515;123756;12687259;200;1
+r;324974559;123756;12687260;200;1
+r;324974759;123756;12687263;200;1
+r;324990182;123756;12687782;200;1
+r;324990585;123756;12687795;200;1
+r;325018178;123756;12688348;200;1
+r;325044734;123756;12688855;200;1
+r;325101706;123756;12689812;200;1
+r;325252472;123756;12693076;200;1
+r;325258030;123756;12693221;200;2
+r;325509943;123756;12699305;200;1
+r;325529045;123756;12699589;200;3
+r;325529342;123756;12699595;200;3
+r;325529627;123756;12699605;200;3
+r;325791290;123756;12702106;200;2
+r;325796214;123756;12702236;200;2
+r;325797601;123756;12702269;200;1
+r;326762930;123756;12725886;200;1
+r;326763241;123756;12725896;200;1
+r;326779287;123756;12726325;200;3
+r;326779444;123756;12726330;200;3
+r;326779557;123756;12726333;200;3
+r;326779755;123756;12726335;200;3
+r;326779978;123756;12726339;200;3
+r;326780048;123756;12726342;200;3
+r;326780576;123756;12726353;200;3
+r;326783557;123756;12726411;200;4
+r;326792553;123756;12726595;200;1
+r;326808369;123756;12727002;200;1
+r;326832537;123756;12727577;200;3
+r;326847887;123756;12727756;200;7
+r;326847936;123756;12727757;200;6
+r;326848028;123756;12727760;200;6
+r;326848149;123756;12727764;200;6
+r;326848214;123756;12727765;200;7
+r;326848309;123756;12727767;200;7
+r;326848388;123756;12727769;200;6
+r;326850273;123756;12727825;200;7
+r;326850562;123756;12727829;200;7
+r;327288816;123756;12738181;200;2
+r;327595918;123756;12770118;200;2
+r;327739099;123756;12772792;200;1
+r;327739907;123756;12772811;200;1
+r;327740299;123756;12772821;200;1
+r;327740494;123756;12772826;200;1
+r;327740545;123756;12772828;200;1
+r;327777805;123756;12773735;200;1
+r;327777995;123756;12773742;200;1
+r;327783531;123756;12773851;200;1
+r;327783801;123756;12773855;200;1
+r;327784221;123756;12773860;200;2
+r;327784334;123756;12773863;200;1
+r;327784457;123756;12773866;200;1
+r;327784593;123756;12773870;200;1
+r;327784659;123756;12773873;200;1
+r;327784927;123756;12773878;200;1
+r;327785021;123756;12773881;200;1
+r;327818931;123756;12774376;200;1
+r;328075881;123756;12787233;200;6
+r;328102615;123756;12787762;200;5
+r;328102786;123756;12787765;200;6
+r;328123147;123756;12788181;200;2
+r;328124036;123756;12788218;200;3
+r;328124561;123756;12788234;200;3
+r;328124989;123756;12788242;200;3
+r;328125168;123756;12788245;200;3
+r;328125317;123756;12788249;200;3
+r;328125459;123756;12788252;200;3
+r;328125591;123756;12788263;200;3
+r;328126077;123756;12788274;200;3
+r;328140061;123756;12788596;200;1
+r;328140961;123756;12788610;200;68
+r;328140976;123756;12788611;200;5
+r;328141025;123756;12788613;200;1
+r;360096927;123756;12788618;200;4
+r;328141576;123756;12788621;200;68
+r;328142160;123756;12788696;200;1
+r;328142344;123756;12788698;200;1
+r;328142484;123756;12788702;200;4
+r;328142597;123756;12788707;200;67
+r;328143297;123756;12788729;200;67
+r;328143518;123756;12788735;200;1
+r;328143784;123756;12788737;200;2
+r;328143990;123756;12788742;200;1
+r;328144028;123756;12788743;200;1
+r;328144132;123756;12788747;200;1
+r;328144357;123756;12788767;200;1
+r;360096474;123756;12788773;200;4
+r;328144719;123756;12788777;200;66
+r;360097075;123756;12788812;200;4
+r;360096972;123756;12788814;200;4
+r;328147151;123756;12788819;200;2
+r;328219844;123756;12790573;200;1
+r;329133242;123756;12826038;200;2
+r;329875497;123756;12882593;200;1
+r;329876487;123756;12882600;200;1
+r;333218810;123756;12979348;200;2
+r;333222286;123756;12979395;200;143
+r;333222588;123756;12979418;200;2
+r;333224928;123756;12979453;200;9
+r;334143555;123756;13007390;200;2
+r;335239779;123756;13104507;200;1
+r;335240233;123756;13104521;200;1
+r;335242671;123756;13104605;200;1
+r;335243639;123756;13104619;200;1
+r;338559086;123756;13320563;200;3
+r;338559513;123756;13320573;200;3
+r;338559972;123756;13320584;200;3
+r;342465395;123756;13519409;200;1
+r;343837729;123756;13573404;200;4
+r;346170901;123756;13642383;200;4
+r;347079367;123756;13664825;200;6
+r;352412598;123756;13990229;200;4
+r;352413014;123756;13990235;200;4
+r;356563703;123756;14095135;200;4
+r;356570406;123756;14095249;200;2
+r;356605983;123756;14095738;200;2
+r;358075206;123756;14131274;200;2
+r;358817062;123756;14143013;200;4
+r;358827913;123756;14143534;200;4
+r;360031748;123756;14167539;200;2
+r;360093143;123756;14168853;200;4
+r;360094782;123756;14168901;200;8
+r;360095514;123756;14168907;200;4
+r;360095682;123756;14168909;200;8
+r;360096106;123756;14168915;200;4
+r;360096259;123756;14168917;200;8
+r;360096517;123756;14168922;200;4
+r;360096656;123756;14168924;200;4
+r;360096791;123756;14168927;200;8
+r;360096950;123756;14168929;200;4
+r;360096966;123756;14168930;200;4
+r;360097071;123756;14168933;200;4
+r;360098576;123756;14169060;200;2
+r;360098696;123756;14169062;200;2
+r;360099295;123756;14169111;200;2
+r;360099629;123756;14169120;200;2
+r;361559650;123756;14258124;200;2
+r;361559723;123756;14258125;200;2
+r;366493375;123756;14433705;200;52
+r;366972330;123756;14463957;200;8
+r;367023479;123756;14465394;200;2
+r;367024279;123756;14465418;200;2
+r;367306467;123756;14471543;200;2
+r;371811280;123756;14636818;200;2
+r;374595989;123756;14733812;200;2
+r;374596109;123756;14733813;200;2
+r;374596169;123756;14733815;200;2
+r;374596216;123756;14733816;200;2
+r;374596275;123756;14733817;200;2
+r;374596425;123756;14733818;200;2
+r;374596519;123756;14733819;200;2
+r;400244012;123756;15605530;200;2
+r;406427287;123756;15774233;200;2
+r;406427888;123756;15774253;200;2
+r;432696802;123756;16381273;200;2
+r;432697290;123756;16381279;200;6
+r;145931674;123756;7082170;333;39
+r;394249027;123756;8563674;333;38
+r;394249030;123756;15241997;333;38
+r;394249034;123756;15241998;333;38
+r;394249038;123756;15241999;333;38
+r;78066092;123756;3228593;444;367
+r;94386533;123756;4011504;444;1
+r;119438347;123756;6172268;444;361
+r;119438350;123756;6172269;444;71
+r;406714967;123756;8563675;444;35
+r;215233042;123756;8693058;444;67
+r;215233043;123756;8693059;444;347
+r;73957412;123756;2983124;555;17348
+r;3217364;123756;4020;666;1
+r;1804382;123756;39031;666;3
+r;1804383;123756;103057;666;2
+r;1804384;123756;155570;666;1
+r;4416191;123756;1862;777;9
+r;4416127;123756;4020;777;9
+r;374594354;123756;7333;777;10
+r;220703574;123756;7477;777;9
+r;4416291;123756;13599;777;9
+r;278286541;123756;16140;777;9
+r;4416175;123756;16741;777;9
+r;278286493;123756;16865;777;9
+r;374594369;123756;20137;777;10
+r;4416123;123756;20488;777;9
+r;18520312;123756;22889;777;9
+r;4416195;123756;25934;777;9
+r;278286503;123756;27678;777;9
+r;4416147;123756;30696;777;9
+r;4416179;123756;32206;777;9
+r;374594265;123756;32439;777;10
+r;220703569;123756;36662;777;9
+r;4416164;123756;38700;777;9
+r;4416111;123756;39031;777;9
+r;278286516;123756;42842;777;9
+r;342914987;123756;43280;777;10
+r;278286463;123756;44335;777;9
+r;313968054;123756;46237;777;10
+r;278286497;123756;46994;777;9
+r;4416171;123756;47142;777;9
+r;18520341;123756;47149;777;9
+r;278286523;123756;47201;777;9
+r;374594244;123756;49805;777;10
+r;4416243;123756;50898;777;9
+r;4416139;123756;51442;777;9
+r;374594357;123756;51525;777;10
+r;4416211;123756;57892;777;9
+r;4416095;123756;57917;777;9
+r;4416235;123756;59638;777;9
+r;278286490;123756;59768;777;9
+r;4416159;123756;60183;777;9
+r;374594379;123756;61651;777;10
+r;109974442;123756;62379;777;9
+r;374594297;123756;66311;777;10
+r;4416295;123756;67254;777;9
+r;4416259;123756;71081;777;9
+r;374594274;123756;73274;777;10
+r;374594275;123756;75854;777;10
+r;278286475;123756;76117;777;9
+r;4416299;123756;76147;777;9
+r;4416187;123756;76600;777;9
+r;278286519;123756;77315;777;9
+r;4416163;123756;77376;777;9
+r;374594309;123756;80490;777;10
+r;4416303;123756;82179;777;9
+r;4416247;123756;84992;777;9
+r;374594271;123756;85304;777;10
+r;4416135;123756;86662;777;9
+r;4416199;123756;87736;777;9
+r;4416283;123756;90832;777;9
+r;4416307;123756;91052;777;9
+r;278286510;123756;93081;777;9
+r;374594257;123756;96090;777;10
+r;4416263;123756;98628;777;9
+r;4416207;123756;99671;777;9
+r;278286527;123756;101505;777;9
+r;4416087;123756;103057;777;9
+r;4416091;123756;103311;777;9
+r;374594345;123756;108041;777;10
+r;4416267;123756;108139;777;9
+r;4416287;123756;112208;777;9
+r;220703579;123756;115748;777;9
+r;278286533;123756;116300;777;9
+r;374594340;123756;116725;777;10
+r;4416279;123756;120121;777;9
+r;278286471;123756;125402;777;9
+r;278286479;123756;125695;777;9
+r;4416183;123756;125929;777;9
+r;278286487;123756;126405;777;9
+r;374594300;123756;129289;777;10
+r;4416203;123756;130958;777;9
+r;4416151;123756;133712;777;9
+r;374594415;123756;139578;777;10
+r;278286483;123756;142000;777;9
+r;18520338;123756;142939;777;9
+r;278286543;123756;145367;777;9
+r;296538337;123756;151850;777;9
+r;278286458;123756;153082;777;9
+r;4416219;123756;154334;777;9
+r;342914984;123756;156380;777;10
+r;4416255;123756;163834;777;9
+r;374594349;123756;164374;777;10
+r;4416271;123756;165465;777;9
+r;4416231;123756;180225;777;9
+r;4416227;123756;180232;777;9
+r;4416223;123756;187978;777;9
+r;4416251;123756;195110;777;9
+r;374594289;123756;196014;777;10
+r;4416239;123756;197173;777;9
+r;4416115;123756;214733;777;9
+r;4416107;123756;218730;777;9
+r;83310899;123756;229511;777;9
+r;4416275;123756;234834;777;9
+r;4416311;123756;235655;777;9
+r;4416131;123756;237210;777;9
+r;374594404;123756;246845;777;10
+r;4416215;123756;247061;777;9
+r;4416155;123756;252543;777;9
+r;4416143;123756;252758;777;9
+r;374594294;123756;258346;777;10
+r;4416119;123756;265247;777;9
+r;374594366;123756;265470;777;10
+r;4416100;123756;273431;777;9
+r;4416099;123756;273432;777;9
+r;278286496;123756;273472;777;9
+r;220703572;123756;275215;777;9
+r;278286536;123756;276448;777;9
+r;18520316;123756;278604;777;9
+r;220703582;123756;285728;777;9
+r;18520337;123756;292126;777;9
+r;7054947;123756;296808;777;9
+r;7054995;123756;297783;777;9
+r;220703578;123756;302545;777;9
+r;329873920;123756;319415;777;10
+r;374594411;123756;342190;777;10
+r;18520319;123756;391553;777;9
+r;374594322;123756;391556;777;10
+r;370736809;123756;391559;777;10
+r;374594384;123756;391653;777;10
+r;18520331;123756;391656;777;9
+r;18520333;123756;391663;777;9
+r;220703585;123756;391759;777;9
+r;18520321;123756;394180;777;9
+r;374594315;123756;394433;777;10
+r;414971270;123756;398435;777;10
+r;374594414;123756;401746;777;10
+r;278286478;123756;402302;777;9
+r;342914986;123756;402541;777;10
+r;18520310;123756;402557;777;9
+r;374594268;123756;403406;777;10
+r;278286522;123756;404911;777;9
+r;278286470;123756;406612;777;9
+r;278286486;123756;407371;777;9
+r;18520335;123756;408616;777;9
+r;374594333;123756;409819;777;10
+r;18520308;123756;411477;777;9
+r;374594403;123756;413330;777;10
+r;278286474;123756;413332;777;9
+r;18520314;123756;415030;777;9
+r;18520306;123756;416055;777;9
+r;18520323;123756;419807;777;9
+r;278286459;123756;420616;777;9
+r;278286482;123756;425850;777;9
+r;29578910;123756;427311;777;9
+r;278286518;123756;427841;777;9
+r;18520328;123756;429375;777;9
+r;278286526;123756;429720;777;9
+r;374594336;123756;436498;777;10
+r;329873924;123756;455409;777;10
+r;18520327;123756;572447;777;9
+r;25167620;123756;1544304;777;9
+r;29578900;123756;1703462;777;9
+r;29578907;123756;1798383;777;9
+r;414971277;123756;1821257;777;10
+r;231897378;123756;1832747;777;9
+r;83310891;123756;1842541;777;9
+r;220703568;123756;1928324;777;9
+r;278286506;123756;2033682;777;9
+r;278286467;123756;2194794;777;9
+r;83310885;123756;2416208;777;9
+r;83310887;123756;2533990;777;9
+r;374594363;123756;2601931;777;10
+r;83310897;123756;2932197;777;9
+r;83310889;123756;3173591;777;9
+r;83310895;123756;3182001;777;9
+r;374594439;123756;3228640;777;10
+r;83310893;123756;3229576;777;9
+r;374594387;123756;3322090;777;10
+r;374594378;123756;3322469;777;10
+r;278286535;123756;3602041;777;9
+r;278286539;123756;3602042;777;9
+r;278286492;123756;5162213;777;9
+r;278286462;123756;5570573;777;9
+r;374594339;123756;5629046;777;10
+r;278286466;123756;5676159;777;9
+r;374594325;123756;5686045;777;10
+r;114904106;123756;5752870;777;9
+r;278286509;123756;5785718;777;9
+r;220703584;123756;5880125;777;9
+r;374594303;123756;5882135;777;10
+r;115880139;123756;5898326;777;9
+r;374594280;123756;5899745;777;10
+r;342914982;123756;5937651;777;10
+r;374594348;123756;5965170;777;10
+r;329873930;123756;5983216;777;10
+r;313968053;123756;6015536;777;10
+r;374594306;123756;6084539;777;10
+r;329873926;123756;6269897;777;10
+r;374594360;123756;6278923;777;10
+r;374594372;123756;6290938;777;10
+r;374594254;123756;6294689;777;10
+r;374594251;123756;6374513;777;10
+r;220703576;123756;6395212;777;9
+r;374594375;123756;6563943;777;10
+r;374594436;123756;10001750;777;10
+r;278286502;123756;10822142;777;9
+r;278286530;123756;10845747;777;9
+r;329873922;123756;11647933;777;10
+r;374594312;123756;11695821;777;10
+r;374594328;123756;11695822;777;10
+r;374594433;123756;11807364;777;10
+r;312883827;123756;11973190;777;10
+r;327458342;123756;12692879;777;10
+r;328144216;123756;12788626;777;10
+r;328144219;123756;12788628;777;10
+r;328144221;123756;12788630;777;10
+r;393765820;123756;12788791;777;10
+r;374594430;123756;13288932;777;10
+r;374594396;123756;14012788;777;10
+r;361559257;123756;14252694;777;10
+r;374594319;123756;14668798;777;10
+r;393765829;123756;14722097;777;10
+r;406426689;123756;15016123;777;10
+r;285458791;123756;215538;999;1
+r;285465025;123756;244694;999;1
+r;285463751;123756;244695;999;1
+r;285462615;123756;244697;999;1
+r;285466288;123756;244698;999;1
+r;285467487;123756;3229655;999;1
+r;285454977;123756;3229658;999;1
+r;285456253;123756;3229659;999;1
+r;285457529;123756;3229660;999;1
+r;285460065;123756;3229661;999;1
+r;285461341;123756;3229662;999;1
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;10675031;154623;123756;0;1
+r;122693634;6430278;123756;0;1
+r;122705779;6428695;123756;0;1
+r;122740183;6424265;123756;0;1
+r;423472920;10441;123756;0;1
+r;316653990;12171947;123756;0;1
+r;316654003;12171945;123756;0;1
+r;316654016;12171943;123756;0;1
+r;316654032;12171926;123756;0;1
+r;316654045;12171917;123756;0;1
+r;316654056;12171914;123756;0;1
+r;316654069;12171911;123756;0;1
+r;316654083;12171906;123756;0;1
+r;316654099;12171896;123756;0;1
+r;316654108;12171891;123756;0;1
+r;316741297;12145059;123756;0;1
+r;357317979;14113078;123756;0;1
+r;357318281;14113080;123756;0;1
+r;423528819;11910;123756;0;1
+r;423487567;11292;123756;0;1
+r;427307751;83734;123756;0;1
+r;419565342;13779452;123756;0;1
+r;419579743;15242003;123756;0;1
+r;419741043;15242004;123756;0;1
+r;423721332;21911;123756;0;1
+r;424018178;51253;123756;0;1
+r;425199541;50254;123756;0;1
+r;426619814;61983;123756;0;1
+r;428947260;174109;123756;0;1
+r;428991106;176600;123756;0;1
+r;432856868;6825858;123756;0;1
+r;12961568;18445;123756;0;2
+r;304552163;6388955;123756;0;2
+r;305057454;6397506;123756;0;2
+r;318586847;12236158;123756;0;2
+r;318586873;12236157;123756;0;2
+r;318586901;12236156;123756;0;2
+r;318586925;12236155;123756;0;2
+r;318586951;12236154;123756;0;2
+r;318586977;12236153;123756;0;2
+r;318587003;12236152;123756;0;2
+r;318587031;12236151;123756;0;2
+r;318587053;12236150;123756;0;2
+r;318587077;12236149;123756;0;2
+r;318587101;12236148;123756;0;2
+r;318587129;12236147;123756;0;2
+r;318587153;12236146;123756;0;2
+r;318587179;12236145;123756;0;2
+r;318587205;12236144;123756;0;2
+r;318587229;12236143;123756;0;2
+r;318587255;12236142;123756;0;2
+r;318587281;12236141;123756;0;2
+r;318587307;12236140;123756;0;2
+r;318587335;12236139;123756;0;2
+r;318587359;12236138;123756;0;2
+r;318587385;12236137;123756;0;2
+r;318587412;12236136;123756;0;2
+r;318587437;12236135;123756;0;2
+r;318587464;12236134;123756;0;2
+r;318587491;12236133;123756;0;2
+r;318587522;12236132;123756;0;2
+r;318587544;12236131;123756;0;2
+r;318587566;12236130;123756;0;2
+r;318587590;12236129;123756;0;2
+r;318587614;12236128;123756;0;2
+r;318587640;12236127;123756;0;2
+r;318587664;12236126;123756;0;2
+r;318587686;12236125;123756;0;2
+r;318587710;12236124;123756;0;2
+r;318587736;12236123;123756;0;2
+r;318587756;12236122;123756;0;2
+r;318587776;12236121;123756;0;2
+r;318587798;12236120;123756;0;2
+r;423641999;16741;123756;0;2
+r;426637310;62629;123756;0;2
+r;427244288;81269;123756;0;2
+r;112200690;5685130;123756;0;3
+r;112200699;5685128;123756;0;3
+r;426750995;66311;123756;0;3
+r;121511879;6441809;123756;0;4
+r;9978776;119571;123756;0;5
+r;267330211;10662934;123756;0;5
+r;304859840;6393061;123756;0;5
+r;305634815;6414936;123756;0;5
+r;315560099;12101675;123756;0;5
+r;315560108;12101674;123756;0;5
+r;315560122;12101673;123756;0;5
+r;315560131;12101672;123756;0;5
+r;315560140;12101671;123756;0;5
+r;315560152;12101670;123756;0;5
+r;352124407;6991771;123756;0;5
+r;419334577;15206211;123756;0;5
+r;426741966;64988;123756;0;5
+r;304877968;6393478;123756;0;6
+r;248640376;1182501;123756;0;6
+r;302956907;6368260;123756;0;6
+r;425073962;241683;123756;0;6
+r;299574375;6309102;123756;0;7
+r;301560359;6345381;123756;0;7
+r;303466281;6375120;123756;0;7
+r;303626904;6375804;123756;0;7
+r;303979417;6382927;123756;0;7
+r;115104164;5898617;123756;0;8
+r;10532529;33919;123756;0;9
+r;215860972;46728;123756;0;9
+r;248770720;96090;123756;0;9
+r;300196065;6326056;123756;0;9
+r;419138061;7179336;123756;0;9
+r;396929672;6906983;123756;0;10
+r;335245242;13104603;123756;0;10
+r;399364216;6991828;123756;0;10
+r;401832640;6904041;123756;0;10
+r;408935991;7030091;123756;0;10
+r;430761173;15596296;123756;0;10
+r;430975068;14950834;123756;0;10
+r;432537500;15100902;123756;0;10
+r;417807511;16034669;123756;0;12
+r;417905255;61097;123756;0;12
+r;417905288;6085519;123756;0;12
+r;417905969;150227;123756;0;12
+r;244522940;10251503;123756;0;13
+r;417714014;16030799;123756;0;13
+r;417714025;20488;123756;0;13
+r;417714033;16030800;123756;0;13
+r;417714254;16030806;123756;0;13
+r;417746165;16032224;123756;0;13
+r;417803587;16034474;123756;0;13
+r;417903485;16037642;123756;0;13
+r;417903626;421531;123756;0;13
+r;417903713;86445;123756;0;13
+r;417906573;2323285;123756;0;13
+r;418052934;9782;123756;0;13
+r;417901784;16037601;123756;0;14
+r;96931039;6569;123756;0;15
+r;97141977;59638;123756;0;15
+r;220002654;9939841;123756;0;17
+r;293160268;6912627;123756;0;17
+r;337272853;13246699;123756;0;19
+r;337419792;13254651;123756;0;19
+r;369361771;13785044;123756;0;20
+r;428013788;15490990;123756;0;20
+r;429070465;15078190;123756;0;20
+r;31330874;35143;123756;0;21
+r;125354039;87296;123756;0;25
+r;415880745;15241999;123756;0;25
+r;415880747;15241998;123756;0;25
+r;415880749;15241997;123756;0;25
+r;415880751;8563674;123756;0;25
+r;2425808;250280;123756;0;26
+r;330510113;1832256;123756;0;26
+r;13071385;391656;123756;0;27
+r;28179533;223692;123756;0;27
+r;120424739;3602582;123756;0;27
+r;10593423;103057;123756;0;28
+r;13185185;390793;123756;0;28
+r;15304643;56396;123756;0;28
+r;15420581;112609;123756;0;28
+r;61546900;201801;123756;0;28
+r;1563727;215340;123756;0;29
+r;28288310;462955;123756;0;29
+r;28625527;16747;123756;0;29
+r;28625561;139779;123756;0;29
+r;77229759;22855;123756;0;29
+r;213710820;342178;123756;0;29
+r;216331078;6913084;123756;0;30
+r;330086529;12791689;123756;0;30
+r;396201730;14940750;123756;0;30
+r;401960088;15141250;123756;0;30
+r;28625486;51442;123756;0;31
+r;120424749;61925;123756;0;31
+r;218143176;9054073;123756;0;31
+r;3035286;264925;123756;0;32
+r;21112491;81803;123756;0;32
+r;28003515;198663;123756;0;32
+r;1368948;176220;123756;0;34
+r;2348822;246802;123756;0;34
+r;87483750;34677;123756;0;34
+r;95361697;1843760;123756;0;34
+r;8914036;258346;123756;0;35
+r;13063712;358691;123756;0;35
+r;13695443;394149;123756;0;35
+r;13695520;394144;123756;0;35
+r;13696381;394172;123756;0;35
+r;29739412;62379;123756;0;35
+r;31004145;123422;123756;0;35
+r;292712619;6332912;123756;0;35
+r;330507498;6398271;123756;0;35
+r;330597932;6905712;123756;0;35
+r;330721581;4306946;123756;0;35
+r;330723246;288796;123756;0;35
+r;330724541;4306945;123756;0;35
+r;401062588;15238721;123756;0;35
+r;28198157;1707138;123756;0;37
+r;1988049;63316;123756;0;38
+r;28625595;203553;123756;0;40
+r;294275700;6991788;123756;0;40
+r;330508808;6342321;123756;0;40
+r;400275820;15256329;123756;0;40
+r;13929329;395026;123756;0;41
+r;107901612;5476684;123756;0;41
+r;57999109;4359;123756;0;42
+r;121790336;6268421;123756;0;42
+r;333111101;212919;123756;0;42
+r;1855909;223004;123756;0;45
+r;84989947;273432;123756;0;45
+r;212487839;7021823;123756;0;45
+r;212562735;464752;123756;0;45
+r;255624585;7020083;123756;0;45
+r;10593424;215534;123756;0;48
+r;148271865;6825857;123756;0;48
+r;13077705;391761;123756;0;49
+r;31870137;331229;123756;0;49
+r;423551315;266399;123756;0;50
+r;2204003;107;123756;0;51
+r;2464696;250729;123756;0;51
+r;11281099;237210;123756;0;51
+r;13073956;391556;123756;0;51
+r;15809395;259013;123756;0;51
+r;17941233;195319;123756;0;51
+r;24991890;260823;123756;0;51
+r;28003524;1700538;123756;0;51
+r;373028712;248716;123756;0;51
+r;375399924;258721;123756;0;51
+r;2207755;58;123756;0;52
+r;1847377;60183;123756;0;53
+r;148732236;7185993;123756;0;53
+r;73938834;315004;123756;0;55
+r;159150;83944;123756;0;57
+r;624990;125929;123756;0;57
+r;10582454;135190;123756;0;57
+r;429168;111573;123756;0;58
+r;1590739;20338;123756;0;58
+r;91212351;1827985;123756;0;58
+r;215708373;6934261;123756;0;58
+r;2165685;117657;123756;0;60
+r;2259918;87736;123756;0;60
+r;24832043;438357;123756;0;60
+r;52470705;2512131;123756;0;60
+r;397901010;7127540;123756;0;60
+r;2187632;220976;123756;0;61
+r;370779692;14593982;123756;0;61
+r;215849719;3245182;123756;0;63
+r;212178185;273950;123756;0;64
+r;31005040;1920349;123756;0;66
+r;405173;115992;123756;0;70
+r;360989822;308224;123756;0;71
+r;129229;46735;123756;0;74
+r;212097276;7187860;123756;0;76
+r;190093;59692;123756;0;80
+r;397900994;15241992;123756;0;80
+r;397900841;7127544;123756;0;82
+r;29027376;403722;123756;0;87
+r;396541972;11962511;123756;0;90
+r;398606099;6312941;123756;0;90
+r;193442009;6876097;123756;0;92
+r;193483195;94641;123756;0;96
+r;398544171;15083592;123756;0;100
+r;147440506;7082170;123756;0;102
+r;12354270;155570;123756;0;103
+r;12637080;366285;123756;0;104
+r;12637084;366284;123756;0;105
+r;424001395;1815813;123756;0;105
+r;12637072;366287;123756;0;106
+r;12637076;366286;123756;0;106
+r;12637092;366282;123756;0;106
+r;12637100;366281;123756;0;106
+r;12637088;366283;123756;0;107
+r;12637104;366280;123756;0;109
+r;14471187;436454;123756;0;109
+r;1604697;57892;123756;0;110
+r;214218602;7167436;123756;0;110
+r;214497930;320939;123756;0;110
+r;28198113;91824;123756;0;112
+r;220184007;263969;123756;0;124
+r;219086306;6874491;123756;0;124
+r;398783153;14918011;123756;0;125
+r;77594974;64351;123756;0;127
+r;13397306;29038;123756;0;130
+r;398331944;14917526;123756;0;130
+r;28625491;114327;123756;0;134
+r;9386243;35767;123756;0;143
+r;8937798;258343;123756;0;147
+r;9488500;204368;123756;0;147
+r;9488501;204369;123756;0;147
+r;9550873;270726;123756;0;147
+r;9068179;270727;123756;0;148
+r;9599739;314016;123756;0;148
+r;214597271;131009;123756;0;158
+r;269551114;6826661;123756;0;160
+r;9446061;176469;123756;0;165
+r;109284;39031;123756;0;171
+r;9545094;264964;123756;0;181
+r;289629686;314513;123756;0;186
+r;290230241;6857779;123756;0;186
+r;2432751;250601;123756;0;190
+r;166163459;6797073;123756;0;190
+r;166082099;1780056;123756;0;208
+r;1891154;234514;123756;0;259
+r;154191422;6824252;123756;0;327
+r;1604732;176189;123756;0;330
+r;216202558;6083669;123756;0;450
+r;213805739;1862;123756;0;655.5
+r;212756205;6964842;123756;0;656.25
+r;416491402;169791;123756;5;-15
+r;54661572;103057;123756;5;54
+r;216244915;273950;123756;5;57
+r;12193192;155570;123756;5;60
+r;215167817;7082170;123756;5;60
+r;398544181;15083592;123756;5;60
+r;397782102;15077955;123756;6;10
+r;430837591;342170;123756;6;10
+r;430975053;14950834;123756;6;10
+r;9904900;176469;123756;6;13
+r;377189699;6313468;123756;6;25
+r;377189701;6754125;123756;6;25
+r;377189703;6826724;123756;6;25
+r;377189705;6857779;123756;6;25
+r;377189707;6876097;123756;6;25
+r;377189708;6905670;123756;6;25
+r;377189710;6905712;123756;6;25
+r;377189712;6912661;123756;6;25
+r;377189715;7082016;123756;6;25
+r;377189719;7151076;123756;6;25
+r;377189721;7179323;123756;6;25
+r;377189724;7186054;123756;6;25
+r;377189726;7187717;123756;6;25
+r;377189728;7187719;123756;6;25
+r;377189729;7187721;123756;6;25
+r;377189731;7187722;123756;6;25
+r;377189733;7187724;123756;6;25
+r;377189734;7187726;123756;6;25
+r;377189736;7187728;123756;6;25
+r;377189738;7187730;123756;6;25
+r;377189740;7187805;123756;6;25
+r;377189741;7187826;123756;6;25
+r;377189743;7187864;123756;6;25
+r;377189744;7187866;123756;6;25
+r;377189746;7187868;123756;6;25
+r;377189748;7187870;123756;6;25
+r;377189749;7187936;123756;6;25
+r;377189751;7187957;123756;6;25
+r;377189753;7187966;123756;6;25
+r;377189754;7187967;123756;6;25
+r;377307982;6332912;123756;6;25
+r;391380695;273432;123756;6;25
+r;71574982;270726;123756;6;26
+r;76210044;204368;123756;6;26
+r;108383371;1829796;123756;6;26
+r;244522941;10251503;123756;6;26
+r;267330212;10662934;123756;6;26
+r;299574376;6309102;123756;6;26
+r;300196066;6326056;123756;6;26
+r;301560360;6345381;123756;6;26
+r;302956908;6368260;123756;6;26
+r;303626905;6375804;123756;6;26
+r;303979418;6382927;123756;6;26
+r;304859841;6393061;123756;6;26
+r;305634816;6414936;123756;6;26
+r;315560100;12101675;123756;6;26
+r;315560109;12101674;123756;6;26
+r;315560123;12101673;123756;6;26
+r;315560132;12101672;123756;6;26
+r;315560141;12101671;123756;6;26
+r;315560153;12101670;123756;6;26
+r;33771096;366287;123756;6;27
+r;33771125;366284;123756;6;27
+r;33771181;366283;123756;6;27
+r;33772033;366280;123756;6;27
+r;33773017;366285;123756;6;27
+r;111652280;5685130;123756;6;27
+r;122693635;6430278;123756;6;27
+r;303466282;6375120;123756;6;31
+r;304877970;6393478;123756;6;31
+r;31005041;1920349;123756;6;34
+r;111652282;5685128;123756;6;34
+r;108378677;566489;123756;6;35
+r;377189714;7030091;123756;6;35
+r;82640455;1828670;123756;6;40
+r;220002655;9939841;123756;6;40
+r;28015143;1700538;123756;6;41
+r;28745517;366286;123756;6;41
+r;82640453;77495;123756;6;41
+r;109976301;5562406;123756;6;41
+r;14427205;270727;123756;6;42
+r;109976281;5562430;123756;6;42
+r;220022241;6912627;123756;6;42
+r;28003521;198663;123756;6;47
+r;82640452;1182501;123756;6;53
+r;31005002;123422;123756;6;54
+r;377189697;94641;123756;6;55
+r;377189722;7179336;123756;6;55
+r;397901016;7127540;123756;6;60
+r;397900999;15241992;123756;6;65
+r;14427201;258343;123756;6;67
+r;377189717;7127544;123756;6;75
+r;14427202;35767;123756;6;77
+r;1891747;234514;123756;6;83
+r;395789174;223004;123756;6;84
+r;399192568;15206211;123756;6;85
+r;14073802;366282;123756;6;86
+r;14063589;366281;123756;6;94
+r;14045734;204369;123756;6;98
+r;13950647;314016;123756;6;99
+r;82640454;96090;123756;6;99
+r;11367088;264964;123756;6;273
+r;290321514;6844197;123756;8;12
+r;246709311;391559;123756;8;25
+r;9642298;135190;123756;8;34
+r;9667466;215534;123756;8;36
+r;148272017;6825857;123756;8;36
+r;212564077;464752;123756;8;36
+r;9667464;103057;123756;8;40
+r;269571772;247061;123756;8;122
+r;249765913;7440295;123756;8;125
+r;10675032;154623;123756;9;1
+r;96709904;17559;123756;9;30
+r;167841;119571;123756;9;31
+r;24377649;68467;123756;9;34
+r;412417;86561;123756;9;53
+r;15781046;233133;123756;9;53
+r;98407141;308224;123756;9;58
+r;3149536;45079;123756;9;71
+r;10530172;39031;123756;9;110
+r;10532333;233453;123756;9;153
+r;214591407;131009;123756;9;176
+r;269551158;6826661;123756;9;180
+r;352124508;6991771;123756;10;5
+r;399364177;6991828;123756;10;10
+r;289976416;7185942;123756;10;11
+r;289976423;7366762;123756;10;11
+r;289976425;8563676;123756;10;13
+r;289976433;7018935;123756;10;13
+r;295387702;596621;123756;10;15
+r;10003016;47550;123756;10;25
+r;289976413;7185909;123756;10;25
+r;289976414;7185913;123756;10;25
+r;289976415;7185941;123756;10;25
+r;289976418;7187860;123756;10;25
+r;289976419;7187972;123756;10;25
+r;289976420;7363471;123756;10;25
+r;289976421;7364395;123756;10;25
+r;289976422;7366760;123756;10;25
+r;289976424;7368103;123756;10;25
+r;289976426;246412;123756;10;25
+r;289976427;6826359;123756;10;25
+r;289976428;6913105;123756;10;25
+r;289976429;6935690;123756;10;25
+r;289976430;6947622;123756;10;25
+r;289976431;6948468;123756;10;25
+r;289976432;7018913;123756;10;25
+r;332830902;46735;123756;10;25
+r;330189591;12791689;123756;10;30
+r;28602938;114327;123756;10;35
+r;28603010;16747;123756;10;35
+r;28603080;139779;123756;10;35
+r;216331201;6913084;123756;10;35
+r;398690125;14917526;123756;10;35
+r;398873079;14918011;123756;10;35
+r;28603291;51442;123756;10;37
+r;333111118;212919;123756;10;45
+r;28603147;203553;123756;10;52
+r;10003012;4020;123756;10;53
+r;294275718;6991788;123756;10;55
+r;400342281;6825858;123756;10;65
+r;10003014;18445;123756;10;67
+r;2041079;33919;123756;10;75
+r;308952879;20488;123756;10;86
+r;289976417;7187716;123756;10;90
+r;374217779;21845;123756;14;31
+r;323654068;3765901;123756;15;25
+r;368892709;1842410;123756;15;27
+r;30372258;1827158;123756;15;29
+r;330238648;12791689;123756;15;30
+r;28602334;139779;123756;15;31
+r;28602406;16747;123756;15;31
+r;255624639;7020083;123756;15;50
+r;13077706;391761;123756;15;51
+r;196277;99884;123756;15;88
+r;398925922;14918011;123756;15;120
+r;398739548;14917526;123756;15;125
+r;28602405;114327;123756;15;126
+r;8546508;163301;123756;16;-4
+r;1623509;132021;123756;16;60
+r;318592;34677;123756;19;55
+r;318591;123756;123756;19;59
+r;372671089;44894;123756;23;2
+r;399212621;190847;123756;23;10
+r;397640612;147233;123756;23;20
+r;170474850;83461;123756;23;30
+r;395923197;15465970;123756;23;30
+r;395923258;15274101;123756;23;30
+r;395923319;15465971;123756;23;30
+r;395923380;15057493;123756;23;30
+r;395923461;15465972;123756;23;30
+r;395923557;15087561;123756;23;30
+r;395923622;15465973;123756;23;30
+r;1619140;33714;123756;23;32
+r;1619143;124214;123756;23;32
+r;215860971;46728;123756;27;9
+r;15174688;56396;123756;27;26
+r;61546951;201801;123756;27;26
+r;15205605;112609;123756;27;30
+r;31330872;35143;123756;27;30
+r;8312185;129269;123756;28;-10
+r;225729;144846;123756;28;249
+r;152575;39031;123756;28;549
+r;13929328;395026;123756;50;-25
+r;29006786;219356;123756;54;-5
+r;426248249;15091081;123756;54;10
+r;2298031;57917;123756;54;55
+r;295133913;87296;123756;72;-25
+r;394922291;155570;123756;72;25
+r;218803010;273950;123756;72;28
+r;215153773;7082170;123756;72;28
+r;34631437;102345;123756;115;1
+r;34631438;28453;123756;115;1
+r;385386907;91691;123756;115;25
+r;385415086;14330;123756;115;25
+r;385454063;103405;123756;115;25
+r;289986866;219538;123756;163;61
+r;345731102;13494936;123756;200;-1
+r;343837747;13573404;123756;200;-1
+r;352412627;13990229;123756;200;-1
+r;360098598;14169060;123756;200;-1
+r;360098761;14169062;123756;200;-1
+r;360099661;14169120;123756;200;-1
+r;361559671;14258124;123756;200;-1
+r;364503192;14323529;123756;200;-1
+r;366969564;14463902;123756;200;-1
+r;367041354;14465651;123756;200;-1
+r;374595478;14733803;123756;200;-1
+r;374595727;14733808;123756;200;-1
+r;374596041;14733812;123756;200;-1
+r;374596127;14733813;123756;200;-1
+r;374596189;14733815;123756;200;-1
+r;374596233;14733816;123756;200;-1
+r;374596318;14733817;123756;200;-1
+r;400244087;15605530;123756;200;-1
+r;406427337;15774233;123756;200;-1
+r;406427925;15774253;123756;200;-1
+r;340357505;12970700;123756;200;0
+r;340357511;12684909;123756;200;1
+r;340357510;12687957;123756;200;1
+r;340357509;12698550;123756;200;1
+r;340357508;12732761;123756;200;1
+r;340357507;12733865;123756;200;1
+r;340357506;12769655;123756;200;1
+r;340357504;12990089;123756;200;1
+r;340357503;13169787;123756;200;1
+r;340357502;13205497;123756;200;1
+r;340357501;12665162;123756;200;1
+r;340357500;12732362;123756;200;1
+r;340357499;12883261;123756;200;1
+r;340357498;13135725;123756;200;1
+r;340357497;12662994;123756;200;1
+r;340357496;12675498;123756;200;1
+r;340357495;12676343;123756;200;1
+r;340357494;12693433;123756;200;1
+r;340357493;12889508;123756;200;1
+r;340357492;12663565;123756;200;1
+r;325044790;12688855;123756;200;1
+r;325101723;12689812;123756;200;1
+r;325258150;12693224;123756;200;1
+r;326762963;12725886;123756;200;1
+r;326763284;12725896;123756;200;1
+r;326792618;12726595;123756;200;1
+r;327739128;12772792;123756;200;1
+r;327739990;12772811;123756;200;1
+r;327777854;12773735;123756;200;1
+r;327778051;12773742;123756;200;1
+r;327783829;12773855;123756;200;1
+r;327785048;12773881;123756;200;1
+r;327818960;12774376;123756;200;1
+r;328141031;12788613;123756;200;1
+r;328141311;12788617;123756;200;1
+r;328141422;12788619;123756;200;1
+r;328142168;12788696;123756;200;1
+r;328142379;12788698;123756;200;1
+r;328142792;12788713;123756;200;1
+r;328143552;12788735;123756;200;1
+r;328144013;12788742;123756;200;1
+r;328146388;12788811;123756;200;1
+r;328219861;12790573;123756;200;1
+r;329133257;12826038;123756;200;1
+r;329875276;12882588;123756;200;1
+r;335239800;13104507;123756;200;1
+r;335242693;13104605;123756;200;1
+r;342465422;13519409;123756;200;1
+r;356570479;14095249;123756;200;1
+r;367024371;14465418;123756;200;1
+r;371811306;14636818;123756;200;1
+r;324028847;12662612;123756;200;2
+r;325791308;12702106;123756;200;2
+r;326797825;12726753;123756;200;2
+r;326798084;12726757;123756;200;2
+r;327288862;12738181;123756;200;2
+r;328142954;12788719;123756;200;2
+r;328143676;12788736;123756;200;2
+r;328143800;12788737;123756;200;2
+r;328145722;12788800;123756;200;2
+r;328146067;12788803;123756;200;2
+r;328147183;12788819;123756;200;2
+r;358827943;14143534;123756;200;2
+r;367023507;14465394;123756;200;2
+r;325529068;12699589;123756;200;3
+r;326779474;12726330;123756;200;3
+r;326779769;12726335;123756;200;3
+r;328124053;12788218;123756;200;3
+r;328124620;12788235;123756;200;3
+r;328141725;12788623;123756;200;3
+r;328142825;12788714;123756;200;3
+r;347079396;13664825;123756;200;3
+r;352413069;13990235;123756;200;3
+r;356563719;14095135;123756;200;3
+r;358817088;14143013;123756;200;3
+r;327595923;12770118;123756;200;4
+r;328139933;12788594;123756;200;4
+r;328142496;12788702;123756;200;4
+r;328144890;12788781;123756;200;4
+r;356606029;14095738;123756;200;4
+r;374595862;14733810;123756;200;4
+r;328140982;12788611;123756;200;5
+r;328142124;12788695;123756;200;6
+r;346170934;13642383;123756;200;6
+r;360094787;14168901;123756;200;6
+r;360095515;14168907;123756;200;6
+r;360095704;14168909;123756;200;6
+r;360096275;14168917;123756;200;6
+r;360096657;14168924;123756;200;6
+r;360096824;14168927;123756;200;6
+r;360096951;14168929;123756;200;6
+r;328146792;12788812;123756;200;7
+r;360093154;14168853;123756;200;7
+r;360096518;14168922;123756;200;7
+r;360097072;14168933;123756;200;7
+r;367058345;14465974;123756;200;7
+r;328144589;12788773;123756;200;8
+r;360096107;14168915;123756;200;8
+r;360096967;14168930;123756;200;8
+r;328144727;12788777;123756;200;9
+r;360089432;14168769;123756;200;9
+r;328143304;12788729;123756;200;10
+r;328146864;12788814;123756;200;10
+r;328140968;12788610;123756;200;11
+r;328141375;12788618;123756;200;11
+r;328141603;12788621;123756;200;11
+r;328142604;12788707;123756;200;11
+r;366972342;14463957;123756;200;12
+r;374596445;14733818;123756;200;23
+r;374596530;14733819;123756;200;23
+r;145911071;7082170;123756;333;37
+r;394249028;8563674;123756;333;38
+r;394249031;15241997;123756;333;38
+r;394249035;15241998;123756;333;38
+r;394249039;15241999;123756;333;38
+r;1700152;114903;123756;666;1
+r;1794422;39031;123756;666;2
+r;3712544;36497;123756;777;1
+r;5248308;47170;123756;777;1
+r;5248313;33229;123756;777;1
+r;6843476;252758;123756;777;1
+r;8454898;309706;123756;777;1
+r;11519181;19596;123756;777;1
+r;13454175;137999;123756;777;1
+r;13454297;83512;123756;777;1
+r;3382174;103791;123756;777;5
+r;13397441;176189;123756;777;6
+r;3263298;77008;123756;777;8
+r;3412700;77424;123756;777;8
+r;8816470;314017;123756;777;8
+r;6959567;48140;123756;777;9
+r;3247470;98560;123756;777;10
+r;3280456;103311;123756;777;10
+r;3292586;34163;123756;777;10
+r;3318858;23838;123756;777;10
+r;3322823;123732;123756;777;10
+r;3334458;108177;123756;777;10
+r;3334711;29038;123756;777;10
+r;3358822;136169;123756;777;10
+r;3370688;272252;123756;777;10
+r;3370711;180908;123756;777;10
+r;3370737;272253;123756;777;10
+r;3379015;119233;123756;777;10
+r;3379643;81803;123756;777;10
+r;3392292;110335;123756;777;10
+r;3412292;8924;123756;777;10
+r;3441018;234887;123756;777;10
+r;3441027;234888;123756;777;10
+r;3499531;84992;123756;777;10
+r;3520780;273028;123756;777;10
+r;3520782;273029;123756;777;10
+r;3520784;178344;123756;777;10
+r;3551929;135591;123756;777;10
+r;3561882;152293;123756;777;10
+r;3563199;2546;123756;777;10
+r;3563200;153082;123756;777;10
+r;3572114;273288;123756;777;10
+r;3572116;241683;123756;777;10
+r;3582364;267025;123756;777;10
+r;3582366;41378;123756;777;10
+r;3594411;28487;123756;777;10
+r;3594413;81269;123756;777;10
+r;3601571;94328;123756;777;10
+r;3602302;30696;123756;777;10
+r;3603885;273431;123756;777;10
+r;3603887;273432;123756;777;10
+r;3625127;273601;123756;777;10
+r;3640280;273725;123756;777;10
+r;3648210;80820;123756;777;10
+r;3648212;273766;123756;777;10
+r;3648214;39788;123756;777;10
+r;3648216;227752;123756;777;10
+r;3671279;57965;123756;777;10
+r;3678750;38830;123756;777;10
+r;3682107;10881;123756;777;10
+r;3683009;44968;123756;777;10
+r;3683011;125939;123756;777;10
+r;3700821;37028;123756;777;10
+r;3700823;30181;123756;777;10
+r;3805709;28698;123756;777;10
+r;3805711;18593;123756;777;10
+r;3812605;27333;123756;777;10
+r;3908848;77495;123756;777;10
+r;3913329;250228;123756;777;10
+r;3937444;38186;123756;777;10
+r;4160504;206355;123756;777;10
+r;4191646;4020;123756;777;10
+r;4191647;200953;123756;777;10
+r;4444154;20488;123756;777;10
+r;4444157;33919;123756;777;10
+r;4444158;18445;123756;777;10
+r;4546738;49455;123756;777;10
+r;4593866;280943;123756;777;10
+r;4593868;280944;123756;777;10
+r;4593869;154334;123756;777;10
+r;4714660;60556;123756;777;10
+r;4714663;281885;123756;777;10
+r;4714664;134028;123756;777;10
+r;4727240;270729;123756;777;10
+r;4754280;282222;123756;777;10
+r;4754281;282223;123756;777;10
+r;4754282;117335;123756;777;10
+r;4968023;107364;123756;777;10
+r;4978720;237210;123756;777;10
+r;5065649;270728;123756;777;10
+r;5105880;50649;123756;777;10
+r;5248312;219964;123756;777;10
+r;6244300;37825;123756;777;10
+r;6303710;290267;123756;777;10
+r;6303711;290268;123756;777;10
+r;6303712;290269;123756;777;10
+r;6349245;136599;123756;777;10
+r;6595140;24489;123756;777;10
+r;6595141;82652;123756;777;10
+r;6692487;16741;123756;777;10
+r;6760315;107494;123756;777;10
+r;6760316;294875;123756;777;10
+r;6843477;2199;123756;777;10
+r;6843478;46808;123756;777;10
+r;6843479;33663;123756;777;10
+r;7004599;109195;123756;777;10
+r;7007771;56968;123756;777;10
+r;7070509;63413;123756;777;10
+r;7083284;64988;123756;777;10
+r;7208072;78571;123756;777;10
+r;7255223;83951;123756;777;10
+r;7316681;91405;123756;777;10
+r;7524379;114555;123756;777;10
+r;7545227;115947;123756;777;10
+r;7638030;123251;123756;777;10
+r;7677598;128041;123756;777;10
+r;7712522;131380;123756;777;10
+r;7721920;132251;123756;777;10
+r;7985024;159670;123756;777;10
+r;8049151;197997;123756;777;10
+r;8067603;203487;123756;777;10
+r;8119756;223563;123756;777;10
+r;8379986;229896;123756;777;10
+r;8382576;234872;123756;777;10
+r;8448742;218730;123756;777;10
+r;8454899;257927;123756;777;10
+r;8459684;311427;123756;777;10
+r;8459685;260080;123756;777;10
+r;8464322;311475;123756;777;10
+r;8464323;261994;123756;777;10
+r;8816362;224996;123756;777;10
+r;8816363;314010;123756;777;10
+r;8816445;314016;123756;777;10
+r;8834706;315004;123756;777;10
+r;8843358;315582;123756;777;10
+r;9006992;318710;123756;777;10
+r;16996849;351960;123756;777;10
+r;13062979;391556;123756;777;10
+r;13062980;391557;123756;777;10
+r;13062981;391558;123756;777;10
+r;13083636;391868;123756;777;10
+r;13708230;394417;123756;777;10
+r;13708321;394424;123756;777;10
+r;13708563;394439;123756;777;10
+r;13708564;394440;123756;777;10
+r;16951394;342170;123756;777;10
+r;16951393;566489;123756;777;10
+r;16946913;341225;123756;777;10
+r;17216717;391536;123756;777;10
+r;17145176;376652;123756;777;10
+r;17278080;399981;123756;777;10
+r;17300611;123954;123756;777;10
+r;17471047;153396;123756;777;10
+r;17513556;419807;123756;777;10
+r;17523549;420616;123756;777;10
+r;17642233;431840;123756;777;10
+r;17677634;437902;123756;777;10
+r;18949580;405990;123756;777;10
+r;20757840;273950;123756;777;10
+r;22163314;581820;123756;777;10
+r;22199128;1182501;123756;777;10
+r;22199129;77249;123756;777;10
+r;25056084;101371;123756;777;10
+r;28572758;1706265;123756;777;10
+r;28873325;1754761;123756;777;10
+r;29455026;1798105;123756;777;10
+r;29775572;1751490;123756;777;10
+r;29775573;1751491;123756;777;10
+r;29775574;1751492;123756;777;10
+r;29775575;1751493;123756;777;10
+r;30043306;1840277;123756;777;10
+r;30100713;1848309;123756;777;10
+r;30100714;1859023;123756;777;10
+r;30100715;1859024;123756;777;10
+r;33281189;95246;123756;777;10
+r;33281190;2321367;123756;777;10
+r;34372376;2341145;123756;777;10
+r;34513175;66311;123756;777;10
+r;34541835;2347039;123756;777;10
+r;34718856;1777693;123756;777;10
+r;34718857;1780884;123756;777;10
+r;34718858;1780885;123756;777;10
+r;54339743;81251;123756;777;10
+r;54339750;125284;123756;777;10
+r;54380567;2416208;123756;777;10
+r;54380568;2587832;123756;777;10
+r;71684843;2925409;123756;777;10
+r;71684844;1848662;123756;777;10
+r;98021262;1829796;123756;777;10
+r;109972252;5562385;123756;777;10
+r;109972943;5562406;123756;777;10
+r;109973568;5562430;123756;777;10
+r;110161015;5567472;123756;777;10
+r;110161016;150102;123756;777;10
+r;110227786;5573224;123756;777;10
+r;110264105;5534862;123756;777;10
+r;110264106;59442;123756;777;10
+r;111452740;56221;123756;777;10
+r;111644996;5685122;123756;777;10
+r;111645117;5685128;123756;777;10
+r;111645174;5685130;123756;777;10
+r;111668347;5685801;123756;777;10
+r;111675122;5686045;123756;777;10
+r;111675123;5686046;123756;777;10
+r;112371837;5744293;123756;777;10
+r;113652134;2364840;123756;777;10
+r;113652135;5830123;123756;777;10
+r;113848577;5836298;123756;777;10
+r;114821947;5897161;123756;777;10
+r;114915662;5898326;123756;777;10
+r;114937203;5898786;123756;777;10
+r;114937204;5898788;123756;777;10
+r;220372981;145237;123756;777;10
+r;220372980;236366;123756;777;10
+r;211563503;197119;123756;777;10
+r;221157714;9968688;123756;777;10
+r;221157819;9968689;123756;777;10
+r;221157821;9968691;123756;777;10
+r;228084664;5535114;123756;777;10
+r;228778527;6306609;123756;777;10
+r;232121882;23458;123756;777;10
+r;232121883;111835;123756;777;10
+r;278319909;579489;123756;777;10
+r;278319910;164664;123756;777;10
+r;279676006;11033042;123756;777;10
+r;283350937;4052780;123756;777;10
+r;283965164;1928083;123756;777;10
+r;300204561;11695824;123756;777;10
+r;319437950;1858710;123756;777;10
+r;319437951;12300854;123756;777;10
+r;319437952;12300855;123756;777;10
+r;347079050;13664821;123756;777;10
+r;352754252;5538739;123756;777;10
+r;353101155;14004571;123756;777;10
+r;355524408;6294689;123756;777;10
+r;359752216;1852917;123756;777;10
+r;359923216;12788530;123756;777;10
+r;367969975;5536212;123756;777;10
+r;367969976;344391;123756;777;10
+r;367969977;14482834;123756;777;10
+r;367969978;84060;123756;777;10
+r;367969979;1828404;123756;777;10
+r;368112095;14485701;123756;777;10
+r;368112096;5913549;123756;777;10
+r;368112097;6801;123756;777;10
+r;368112098;132080;123756;777;10
+r;368419595;290507;123756;777;10
+r;368634327;116308;123756;777;10
+r;423476323;16161593;123756;777;10
+r;370040680;1835664;123756;777;10
+r;370040681;14563525;123756;777;10
+r;370040682;2099975;123756;777;10
+r;370040683;14563526;123756;777;10
+r;370040684;2089180;123756;777;10
+r;370477483;14581093;123756;777;10
+r;370477484;14581094;123756;777;10
+r;370504621;14581272;123756;777;10
+r;374825626;297783;123756;777;10
+r;374825627;176124;123756;777;10
+r;374825628;61651;123756;777;10
+r;374825629;14744485;123756;777;10
+r;374825630;98628;123756;777;10
+r;410757438;14589479;123756;777;10
+r;410757440;14589480;123756;777;10
+r;414379599;14585356;123756;777;10
+r;414379600;14585357;123756;777;10
+r;414379601;14585358;123756;777;10
+r;414379602;14585359;123756;777;10
+r;423056588;16154975;123756;777;10
+r;423056590;16154976;123756;777;10
+r;423056592;16154977;123756;777;10
+r;427343567;1846035;123756;777;10
+r;433206307;253762;123756;777;10

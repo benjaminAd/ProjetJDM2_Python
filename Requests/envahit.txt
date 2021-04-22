@@ -1,0 +1,93 @@
+<CODE>
+// DUMP pour le terme 'envahit' (eid=2192656)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;200;'n_context'
+nt;777;'n_wikipedia'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;2192656;'envahit';2;0
+e;5076;'envahir';1;180
+e;14270944;'VerbalPers:P3';4;0
+e;14270945;'VerbalNumber:SG';4;0
+e;150118;'Ver:IPre+SG+P3';4;50
+e;161713;'Ver:IPSim+SG+P3';4;50
+e;14271095;'VerbalTime:PasséSimple';4;0
+e;161723;'Ver:IPre+SG+P3:IPSim+SG+P3';4;50
+e;3093590;'VerbalMode:Indicatif';4;0
+e;2935006;'VerbalTime:Past';4;0
+e;2946892;'Ver:Conjug';4;0
+e;2935005;'VerbalTime:Present';4;0
+e;212235;'Ver:';4;50
+e;14590456;'essaim de criquets pèlerins envahit l'Afrique de l'Est';777;0
+e;151553;'_FL:0';6;50
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+e;2983124;'_SW';36;50
+e;12668872;'6951e46736f8a689caedd4a39fa18fb5';200;0
+e;12982217;'7e8eb4cebfe4ff322deb658ad458fee6';200;0
+e;188607;'Édouard VIII';1;50
+e;3159084;'Edward Albert Christian George Andrew Patrick David';777;0
+e;212360;'régime de Vichy';1;6
+e;68034;'État français';1;54
+e;271268;'gouvernement de Vichy';1;50
+e;2950350;'France de Vichy';777;0
+e;145271;'Vichy';1;112
+e;10917199;'Max Rufus Mosley';777;0
+e;9944526;'IIe millénaire av. J.-C';777;0
+e;10741792;'XIe siècle av. J.-C';777;0
+e;11813952;'gouvernement à Vichy';777;0
+e;13997286;'Max Mosley';777;0
+e;14013298;'Tibet depuis 1950';777;0
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;11;'r_locution';'locution';A partir d'un terme, il est demandé d'énumérer les locutions, expression ou mots composés en rapport avec ce terme. Par exemple, pour 'moulin', ou pourra avoir 'moulin à vent', 'moulin à eau', 'moulin à café'. Pour 'vendre', on pourra avoir 'vendre la peau de l'ours avant de l'avoir tué', 'vendre à perte', etc..
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;200;'r_context';'r_context';Relation de contexte entre un terme et un noeud contexte.
+rt;555;'r_cooccurrence';'r_cooccurrence';co-occurences (non utilisée)
+rt;777;'r_wiki';'r_wiki';Associations issues de wikipedia...
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;87661004;2192656;5076;0;29
+r;362921282;2192656;14270944;4;25
+r;362920884;2192656;14270945;4;25
+r;362920547;2192656;150118;4;25
+r;363810855;2192656;161713;4;25
+r;363811167;2192656;14271095;4;25
+r;91486036;2192656;161723;4;27
+r;91486032;2192656;3093590;4;28
+r;91486034;2192656;2935006;4;30
+r;91486035;2192656;2946892;4;32
+r;91486033;2192656;2935005;4;38
+r;32593110;2192656;212235;4;60
+r;370769892;2192656;14590456;11;25
+r;74641398;2192656;151553;12;34
+r;89505050;2192656;3575927;18;27
+r;90488469;2192656;3576104;18;29
+r;32593109;2192656;5076;19;53
+r;73999523;2192656;2983124;555;8134
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;370769893;14590456;2192656;0;1
+r;324281724;12668872;2192656;200;2
+r;333391119;12982217;2192656;200;2
+r;75963283;188607;2192656;777;10
+r;75963284;3159084;2192656;777;10
+r;78598692;212360;2192656;777;10
+r;78598693;68034;2192656;777;10
+r;78598694;271268;2192656;777;10
+r;78598695;2950350;2192656;777;10
+r;78598696;145271;2192656;777;10
+r;274536536;10917199;2192656;777;10
+r;295321927;9944526;2192656;777;10
+r;295321928;10741792;2192656;777;10
+r;304814044;11813952;2192656;777;10
+r;352660882;13997286;2192656;777;10
+r;353559389;14013298;2192656;777;10

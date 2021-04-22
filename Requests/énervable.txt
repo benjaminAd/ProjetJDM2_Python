@@ -1,0 +1,48 @@
+<CODE>
+// DUMP pour le terme 'Ã©nervable' (eid=2517083)
+<def>
+<br />
+Qui peut s'énerver.<br /> 
+ Elle dit qu'elle n'a aucun goût au travail et qu'elle se trouve très nerveuse, très énervable et qu'elle répond très facilement à son mari.    
+ (Léon Chertok, Féminité et maternité, 1966)  
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;4;'n_pos'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;444;'n_link'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;2517083;'énervable';1;0
+e;239128;'_COM';36;50
+e;146888;'Adj:Mas+SG';4;50
+e;2586627;'Gender:Mas';4;0
+e;2586628;'Gender:Fem';4;0
+e;2586629;'Number:Sing';4;0
+e;146894;'Adj:Fem+SG';4;50
+e;171869;'Adj:';4;50
+e;3576104;'Morpho:nospace';18;50
+e;3575927;'Morpho:min';18;50
+e;251716;'_INFO-MONOSEMIC';36;50
+e;2585997;'_INFO-CNRTL-NO';36;50
+e;4120307;'dbnary:fra:__ws_1_énervable__adj__1';444;0
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;444;'r_link';'r_link';Lien vers une ressource externe (WordNet, RadLex, UMLS, Wikipedia, etc...)
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;52862176;2517083;239128;0;1000000
+r;373102654;2517083;146888;4;26
+r;373105860;2517083;2586627;4;26
+r;373107461;2517083;2586628;4;26
+r;373109062;2517083;2586629;4;26
+r;373104257;2517083;146894;4;30
+r;52382458;2517083;171869;4;45
+r;90220040;2517083;3576104;18;27
+r;89296982;2517083;3575927;18;32
+r;96248190;2517083;251716;36;35
+r;71060972;2517083;2585997;36;63
+r;94484705;2517083;4120307;444;1
+// les relations entrantes : r;rid;node1;node2;type;w 
