@@ -1,6 +1,7 @@
 import os.path
 
 import requests
+import time
 
 
 class Regle:
@@ -96,7 +97,7 @@ class JDM:
 
     def checkIfWordExist(self, mot, typeMot):
         jdm2 = JDM(mot)
-        if os.path.isfile(self.nettoyerPath):
+        if os.path.isfile(jdm2.nettoyerPath):
             jdm2.nettoyage()
             return jdm2.checkSemantique(typeMot)
         else:
@@ -258,5 +259,7 @@ class JDM:
 
 
 if __name__ == '__main__':
-    jdm = JDM("assister")
+    starttime = time.time()
+    jdm = JDM("transformer")
     jdm.start()
+    print("vous avez obtenus ces résultats en", (time.time() - starttime), "secondes.")

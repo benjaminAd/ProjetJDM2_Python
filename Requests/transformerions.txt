@@ -1,0 +1,43 @@
+<CODE>
+// DUMP pour le terme 'transformerions' (eid=2099931)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;2099931;'transformerions';2;0
+e;20379;'transformer';1;224
+e;212235;'Ver:';4;50
+e;2935005;'VerbalTime:Present';4;0
+e;2946892;'Ver:Conjug';4;0
+e;3094354;'VerbalMode:Conditionnel';4;0
+e;3095164;'Ver:CPre+PL+P1';4;50
+e;14270942;'VerbalPers:P1';4;0
+e;14270946;'VerbalNumber:PL';4;0
+e;151553;'_FL:0';6;50
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;87617576;2099931;20379;0;35
+r;32442874;2099931;212235;4;58
+r;75925678;2099931;2935005;4;45
+r;323078886;2099931;2946892;4;25
+r;75925679;2099931;3094354;4;45
+r;75102181;2099931;3095164;4;63
+r;363647655;2099931;14270942;4;25
+r;363639426;2099931;14270946;4;25
+r;74796484;2099931;151553;12;29
+r;89597885;2099931;3575927;18;36
+r;90581012;2099931;3576104;18;29
+r;32442870;2099931;20379;19;59
+// les relations entrantes : r;rid;node1;node2;type;w 
