@@ -1,0 +1,42 @@
+<CODE>
+// DUMP pour le terme 'rangette' (eid=2551153)
+<def>
+<br />
+(Vieilli) Nom d'un jeu de billes à l'usage des enfants.<br /> 
+ La rangette. ? Les billes formant l'enjeu de chaque joueur sont mises sur une ligne droite tracée sur le sol dans l'intérieur d'une figure géométrique quelconque (soit ici un triangle ? fig. 3). Les joueurs, en nombre indéfini, mais non supérieur à six, déterminent d'abord qui sera premier. Pour cela, ils lancent une bille, un peu plus grosse que les autres, le plus près possible d'une ligne tracée sur le sol. Chacun alors, dans l'ordre assigné par son adresse, se place à une distance de trois mètres de la figure géométrique, et essaye de faire sortir les billes qui s'y trouvent. Toutes celles qui sortent lui appartiennent. Quand toutes les billes ont été enlevées, le jeu recommence de la même façon.    
+ (Auguste Omont, Les jeux de l'enfance à l'école et dans la famille, Ière partie, chapitre 1er, § 4 ; Librairie classique internationale A. Fouraut, Paris, 1894, page 10.)  
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;4;'n_pos'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;444;'n_link'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;2551153;'rangette';1;0
+e;239128;'_COM';36;50
+e;171870;'Nom:';4;50
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+e;2578964;'Langage:vieilli';18;0
+e;273221;'_INFO-WIKI-NO';36;50
+e;251716;'_INFO-MONOSEMIC';36;50
+e;2585997;'_INFO-CNRTL-NO';36;50
+e;4216198;'dbnary:fra:__ws_1_rangette__nom__1';444;0
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;444;'r_link';'r_link';Lien vers une ressource externe (WordNet, RadLex, UMLS, Wikipedia, etc...)
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;52907219;2551153;239128;0;1000000
+r;52416864;2551153;171870;4;45
+r;89281986;2551153;3575927;18;32
+r;90189544;2551153;3576104;18;32
+r;52638557;2551153;2578964;18;40
+r;381945810;2551153;273221;36;29
+r;96147315;2551153;251716;36;32
+r;77562026;2551153;2585997;36;59
+r;94571008;2551153;4216198;444;1
+// les relations entrantes : r;rid;node1;node2;type;w 

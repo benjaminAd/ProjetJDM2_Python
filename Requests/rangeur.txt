@@ -1,0 +1,48 @@
+<CODE>
+// DUMP pour le terme 'rangeur' (eid=2438452)
+<def>
+<br />
+Qui range.
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;4;'n_pos'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;444;'n_link'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;2438452;'rangeur';1;0
+e;111868;'ordonné';1;120
+e;8924;'psychologie';1;1244
+e;239128;'_COM';36;50
+e;2586627;'Gender:Mas';4;0
+e;2586628;'Gender:Fem';4;0
+e;171869;'Adj:';4;50
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+e;251716;'_INFO-MONOSEMIC';36;50
+e;273221;'_INFO-WIKI-NO';36;50
+e;2585997;'_INFO-CNRTL-NO';36;50
+e;3911681;'dbnary:fra:__ws_1_rangeur__adj__1';444;0
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;3;'r_domain';'domaine';Il est demandé de fournir des domaines relatifs au mot cible. Par exemple, pour 'corner', on pourra donner les domaines 'football' ou 'sport'.
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;444;'r_link';'r_link';Lien vers une ressource externe (WordNet, RadLex, UMLS, Wikipedia, etc...)
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;417766963;2438452;111868;0;13
+r;417766962;2438452;8924;0;25
+r;52756963;2438452;239128;0;1000000
+r;417766961;2438452;8924;3;25
+r;417766959;2438452;2586627;4;25
+r;417766960;2438452;2586628;4;25
+r;52303917;2438452;171869;4;45
+r;89331297;2438452;3575927;18;31
+r;90290897;2438452;3576104;18;31
+r;96121333;2438452;251716;36;29
+r;375367690;2438452;273221;36;32
+r;55205170;2438452;2585997;36;57
+r;94297421;2438452;3911681;444;1
+// les relations entrantes : r;rid;node1;node2;type;w 

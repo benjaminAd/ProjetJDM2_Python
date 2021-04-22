@@ -1,0 +1,43 @@
+<CODE>
+// DUMP pour le terme 'terrifierons' (eid=2089513)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;2089513;'terrifierons';2;0
+e;44228;'terrifier';1;108
+e;14270942;'VerbalPers:P1';4;0
+e;14270946;'VerbalNumber:PL';4;0
+e;3093590;'VerbalMode:Indicatif';4;0
+e;2935007;'VerbalTime:Future';4;0
+e;2946892;'Ver:Conjug';4;0
+e;161727;'Ver:IFut+PL+P1';4;50
+e;212235;'Ver:';4;50
+e;151553;'_FL:0';6;50
+e;3576104;'Morpho:nospace';18;50
+e;3575927;'Morpho:min';18;50
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;87604066;2089513;44228;0;30
+r;363550975;2089513;14270942;4;25
+r;363542754;2089513;14270946;4;25
+r;75446450;2089513;3093590;4;32
+r;72147181;2089513;2935007;4;45
+r;72479888;2089513;2946892;4;45
+r;32404838;2089513;161727;4;54
+r;32404841;2089513;212235;4;54
+r;74791763;2089513;151553;12;28
+r;90591675;2089513;3576104;18;31
+r;89608322;2089513;3575927;18;34
+r;32404835;2089513;44228;19;61
+// les relations entrantes : r;rid;node1;node2;type;w 

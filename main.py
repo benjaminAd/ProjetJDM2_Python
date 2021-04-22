@@ -95,11 +95,15 @@ class JDM:
         self.AfficherVer = []
 
     def checkIfWordExist(self, mot, typeMot):
-        jdm = JDM(mot)
-        if jdm.checkIfNeology(jdm.requestToJDM()):
-            return jdm.checkSemantique(typeMot)
+        jdm2 = JDM(mot)
+        if os.path.isfile(self.nettoyerPath):
+            jdm2.nettoyage()
+            return jdm2.checkSemantique(typeMot)
         else:
-            return False
+            if jdm2.checkIfNeology(jdm2.requestToJDM()):
+                return jdm2.checkSemantique(typeMot)
+            else:
+                return False
 
     def checkSemantique(self, typeMot):
         for relation in self.relations:
@@ -108,7 +112,6 @@ class JDM:
         return False
 
     def checkRule(self):
-        createdWord = []
         for rule in self.regles.regles:
             if self.mot[-len(rule.exception):] != rule.exception:
                 for relation in self.relations:
@@ -244,9 +247,16 @@ class JDM:
                 print(nom)
             print("\n")
 
+    def start(self):
+        if os.path.isfile(self.nettoyerPath):
+            self.nettoyage()
+            self.checkRule()
+        else:
+            self.separateData(self.requestToJDM())
+            self.checkRule()
+        self.display()
+
 
 if __name__ == '__main__':
-    jdm = JDM("laver")
-    jdm.separateData(jdm.requestToJDM())
-    jdm.checkRule()
-    jdm.display()
+    jdm = JDM("assister")
+    jdm.start()
