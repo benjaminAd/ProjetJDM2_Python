@@ -117,18 +117,42 @@ class JDM:
         return createdWord
 
     def nettoyage(self):
-        BaseTerm = None
-        for term in self.termsList:
-            if self.mot == term.name.split("'")[1]:
-                BaseTerm = term
-            if "Nom:" in term.name or "Adj:" in term.name or "Ver:" in term.name or "Adv:" in term.name:
-                self.termsListImp.append(term)
-
-        for termImp in self.termsListImp:
-            for relation in self.relationsSortantesList:
-                if relation.node1 == BaseTerm.id and relation.node2 == termImp.id and (
-                        relation.type == "4" or relation.type == "6"):
-                    self.relations.append(Relation(BaseTerm, relation, termImp))
+        if os.path.isfile(self.nettoyerPath):
+            file = open(self.nettoyerPath, "r")
+            try:
+                with file as reader:
+                    line = reader.readline()
+                    while line != '':
+                        dataSplit = line.split(";")
+                        term = dataSplit[0].split(",")
+                        relation = dataSplit[1].split(",")
+                        term2 = dataSplit[2].split(",")
+                        self.relations.append(Relation(Terms(term[0], term[1], term[2], term[3]),
+                                                       RelationSortante(relation[0], relation[1], relation[2],
+                                                                        relation[3], relation[4]),
+                                                       Terms(term2[0], term2[1], term2[2], term2[3].replace("\n", ""))))
+                        line = reader.readline()
+            finally:
+                file.close()
+        else:
+            BaseTerm = None
+            for term in self.termsList:
+                if self.mot == term.name.split("'")[1]:
+                    BaseTerm = term
+                if "Nom:" in term.name or "Adj:" in term.name or "Ver:" in term.name or "Adv:" in term.name:
+                    self.termsListImp.append(term)
+            if BaseTerm is not None and len(self.termsListImp) != 0:
+                file = open(self.nettoyerPath, "w")
+                for termImp in self.termsListImp:
+                    for relation in self.relationsSortantesList:
+                        if relation.node1 == BaseTerm.id and relation.node2 == termImp.id and (
+                                relation.type == "4" or relation.type == "6"):
+                            file.write(BaseTerm.id + "," + BaseTerm.name + "," + BaseTerm.type + "," + BaseTerm.w + ";")
+                            file.write(
+                                relation.id + "," + relation.node1 + "," + relation.node2 + "," + relation.type + "," + relation.w + ";")
+                            file.write(termImp.id + "," + termImp.name + "," + termImp.type + "," + termImp.w + "\n")
+                            self.relations.append(Relation(BaseTerm, relation, termImp))
+                file.close()
 
     def separateData(self, Data):
         if Data == None:
@@ -185,7 +209,7 @@ class JDM:
 
 
 if __name__ == '__main__':
-    jdm = JDM("évident")
+    jdm = JDM("servant")
     jdm.separateData(jdm.requestToJDM())
     derivation = jdm.checkRule()
 
