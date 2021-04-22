@@ -6,9 +6,9 @@ import requests
 class Regle:
     def __init__(self, baseType, endWord, transformType, transformation, exception):
         self.baseType = baseType
-        self.endWord = endWord
+        self.endWord = endWord.replace('"', '')
         self.transformType = transformType
-        self.transformation = transformation
+        self.transformation = transformation.replace('"', '')
         self.exception = exception
 
     def toString(self):
@@ -89,6 +89,10 @@ class JDM:
         self.regles = Regles()
         self.termsListImp = []
         self.relations = []
+        self.AfficherNom = []
+        self.AfficherAdj = []
+        self.AfficherAdv = []
+        self.AfficherVer = []
 
     def checkIfWordExist(self, mot, typeMot):
         jdm = JDM(mot)
@@ -111,9 +115,10 @@ class JDM:
                     if rule.baseType == relation.mot2.name.split("'")[1] or rule.baseType == "$":
                         length = len(rule.endWord)
                         endword = self.mot[-length:]
+                        newWord = self.mot[:(len(self.mot) - length)] + rule.transformation
                         if endword == rule.endWord and self.checkIfWordExist(
-                                self.mot.replace(endword, rule.transformation), rule.transformType):
-                            createdWord.append(self.mot.replace(endword, rule.transformation))
+                                newWord, rule.transformType):
+                            createdWord.append(newWord)
         return createdWord
 
     def nettoyage(self):
@@ -209,7 +214,7 @@ class JDM:
 
 
 if __name__ == '__main__':
-    jdm = JDM("servant")
+    jdm = JDM("manger")
     jdm.separateData(jdm.requestToJDM())
     derivation = jdm.checkRule()
 

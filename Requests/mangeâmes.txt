@@ -1,0 +1,49 @@
+<CODE>
+// DUMP pour le terme 'mangeÃ¢mes' (eid=2220979)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;2220979;'mangeâmes';2;0
+e;130164;'manger';1;10180
+e;14270942;'VerbalPers:P1';4;0
+e;14270946;'VerbalNumber:PL';4;0
+e;14271095;'VerbalTime:PasséSimple';4;0
+e;3093590;'VerbalMode:Indicatif';4;0
+e;2935006;'VerbalTime:Past';4;0
+e;2946892;'Ver:Conjug';4;0
+e;212235;'Ver:';4;50
+e;3108979;'Ver:IPSim+PL+P1';4;50
+e;3043759;'entre-mangeâmes';1;0
+e;151553;'_FL:0';6;50
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;11;'r_locution';'locution';A partir d'un terme, il est demandé d'énumérer les locutions, expression ou mots composés en rapport avec ce terme. Par exemple, pour 'moulin', ou pourra avoir 'moulin à vent', 'moulin à eau', 'moulin à café'. Pour 'vendre', on pourra avoir 'vendre la peau de l'ours avant de l'avoir tué', 'vendre à perte', etc..
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;87699862;2220979;130164;0;35
+r;363290166;2220979;14270942;4;25
+r;363281925;2220979;14270946;4;25
+r;363273684;2220979;14271095;4;25
+r;363268553;2220979;3093590;4;25
+r;122541709;2220979;2935006;4;35
+r;122533548;2220979;2946892;4;37
+r;32696186;2220979;212235;4;54
+r;75189104;2220979;3108979;4;57
+r;74947991;2220979;3043759;11;57
+r;74695905;2220979;151553;12;32
+r;89476596;2220979;3575927;18;27
+r;90459706;2220979;3576104;18;27
+r;32696184;2220979;130164;19;55
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;74947992;3043759;2220979;0;55

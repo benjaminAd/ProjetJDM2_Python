@@ -100,8 +100,8 @@ Ver:Inf;quer;Nom:;quage;$
 Ver:Inf;dir;Nom:;d;$
 Ver:Inf;lir;Nom:;lissage;$
 Ver:Inf;ller;Nom:;l;$
-Ver:Inf;” “;Nom:;iteur;$
-Ver:Inf;” “;Nom:;ateur;$
+Ver:Inf;"";Nom:;iteur;$
+Ver:Inf;"";Nom:;ateur;$
 Nom:;r;Nom:;se;$
 Nom:;ier;Ver:Inf;er;$
 Nom:;ier;Nom:;ière;$
@@ -133,7 +133,7 @@ Nom:;eur;Nom:;euse;$
 Nom:;er;Nom:;ance;$
 Nom:;ale;Nom:;ales;$
 Nom:;al;Nom:;aux;$
-Adj:;” ”;Adv:;ante;$
+Adj:;"";Adv:;ante;$
 Adj:;ant;Adv:;amment;$
 Adj:;ante;Adv:;amment;$
 Adj:;ent;Adv:;emment;$

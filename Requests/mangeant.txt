@@ -1,0 +1,120 @@
+<CODE>
+// DUMP pour le terme 'mangeant' (eid=421156)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;200;'n_context'
+nt;777;'n_wikipedia'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;421156;'mangeant';1;50
+e;130164;'manger';1;10180
+e;161697;'Ver:PPre';4;50
+e;212235;'Ver:';4;50
+e;13884916;'en mangeant';777;0
+e;211086;'l'appétit vient en mangeant';1;50
+e;14594482;'parler en mangeant';1;2
+e;15444060;'L'appétit vient en mangeant';1;0
+e;11790028;'Jeune Femme mangeant des huîtres';777;0
+e;11157482;'boire en mangeant';1;0
+e;5801414;'Deux vieillards mangeant de la soupe';777;0
+e;151553;'_FL:0';6;50
+e;3576104;'Morpho:nospace';18;50
+e;3575927;'Morpho:min';18;50
+e;273221;'_INFO-WIKI-NO';36;50
+e;254878;'_POL-NEG_PC';36;50
+e;254877;'_POL-NEUTRE_PC';36;50
+e;254876;'_POL-POS_PC';36;50
+e;241794;'_POL-NEUTRE';36;50
+e;223173;'_POL-POS';36;50
+e;223172;'_POL-NEG';36;50
+e;15166013;'8f62d9736cbd0e10f402a2caca9575a6';200;0
+e;14381503;'a71cd218a69a42df846f38a1dcf616d6';200;0
+e;14095474;'896ad89d6047935a8cf0038a6ec80289';200;0
+e;15835209;'bbf9ca7c5c57fdbd0465f9fd0ef21366';200;0
+e;13681532;'6ed87a01506b337c9087eb342bbe4599';200;0
+e;12985564;'2b066cec3468db469456c89b5bf0fde7';200;0
+e;12862704;'f23d66e8b9673ed9a382af757307bf8a';200;0
+e;12790541;'88bb27d94cb883addfcfbacef49a0e8b';200;0
+e;12736711;'b6a981b0c595e90859822a0087eb304a';200;0
+e;12729581;'2e7718ec6020e68f30619a881082cc5e';200;0
+e;12727540;'c85e97115537cf1e5c8390cf679bded8';200;0
+e;12710145;'a41f9f21f3c9291a252232cb7706eddf';200;0
+e;12700306;'f76ed3c57d90232868b39172fee8ddb0';200;0
+e;12693928;'cb6d2a1bb7b54bbabdd204d0e7f5ca13';200;0
+e;12687511;'ea39e2b64b171445afb5d0475bd29287';200;0
+e;12670268;'8eb6a2241778f4794adefcb2434b82b2';200;0
+e;2983124;'_SW';36;50
+e;15742657;'en:more you want to do';1;0
+e;15742656;'en:more you do';1;0
+e;15519968;'en:the more you want to do';1;0
+e;15519967;'en:the more you do';1;0
+e;15444061;'en:action precedes desire';1;0
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;11;'r_locution';'locution';A partir d'un terme, il est demandé d'énumérer les locutions, expression ou mots composés en rapport avec ce terme. Par exemple, pour 'moulin', ou pourra avoir 'moulin à vent', 'moulin à eau', 'moulin à café'. Pour 'vendre', on pourra avoir 'vendre la peau de l'ours avant de l'avoir tué', 'vendre à perte', etc..
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;79;'r_verb_ppre';'r_verb_ppre';Le participe présent(au masculin singulier) du verbe infinitif. Par exemple, pour manger => mangeant
+rt;200;'r_context';'r_context';Relation de contexte entre un terme et un noeud contexte.
+rt;555;'r_cooccurrence';'r_cooccurrence';co-occurences (non utilisée)
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;87496231;421156;130164;0;26
+r;14356600;421156;161697;4;108
+r;14356601;421156;212235;4;55
+r;351460018;421156;13884916;11;25
+r;14277499;421156;211086;11;60
+r;370811855;421156;14594482;11;26
+r;414847595;421156;15444060;11;42
+r;303812823;421156;11790028;11;33
+r;283857345;421156;11157482;11;43
+r;113309965;421156;5801414;11;36
+r;74695906;421156;151553;12;32
+r;90748644;421156;3576104;18;28
+r;89785054;421156;3575927;18;34
+r;14356599;421156;130164;19;56
+r;72074840;421156;273221;36;40
+r;27147352;421156;254878;36;16
+r;27147351;421156;254877;36;21
+r;27147350;421156;254876;36;64
+r;26554816;421156;241794;36;46
+r;26554815;421156;223173;36;149
+r;26688298;421156;223172;36;37
+r;393636961;421156;15166013;200;2
+r;365250842;421156;14381503;200;2
+r;356585499;421156;14095474;200;2
+r;412671891;421156;15835209;200;2
+r;347336678;421156;13681532;200;2
+r;333559912;421156;12985564;200;3
+r;329452092;421156;12862704;200;1
+r;328218366;421156;12790541;200;5
+r;327218734;421156;12736711;200;6
+r;326912099;421156;12729581;200;8
+r;326831075;421156;12727540;200;3
+r;326001605;421156;12710145;200;1
+r;325568303;421156;12700306;200;1
+r;325282918;421156;12693928;200;1
+r;324979947;421156;12687511;200;2
+r;324336393;421156;12670268;200;1
+r;73954975;421156;2983124;555;2811
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;351460019;13884916;421156;0;1
+r;370811856;14594482;421156;0;2
+r;113309968;5801414;421156;0;6
+r;303812824;11790028;421156;0;9
+r;283857346;11157482;421156;0;19
+r;431098961;15742657;421156;0;30
+r;431098971;15742656;421156;0;30
+r;431099108;15519968;421156;0;30
+r;431099118;15519967;421156;0;30
+r;431099128;15444061;421156;0;30
+r;414847596;15444060;421156;0;58
+r;14277500;211086;421156;0;60
+r;85730758;130164;421156;79;27
