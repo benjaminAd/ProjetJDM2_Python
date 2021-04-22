@@ -82,6 +82,7 @@ class JDM:
     def __init__(self, mot):
         self.mot = mot
         self.path = "Requests/" + self.mot + ".txt"
+        self.nettoyerPath = "Nettoyes/" + self.mot + ".txt"
         self.termsList = []
         self.relationsSortantesList = []
         self.typeRelationsList = []
@@ -184,7 +185,7 @@ class JDM:
 
 
 if __name__ == '__main__':
-    jdm = JDM("assister")
+    jdm = JDM("évident")
     jdm.separateData(jdm.requestToJDM())
     derivation = jdm.checkRule()
 

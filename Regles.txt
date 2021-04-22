@@ -136,6 +136,7 @@ Nom:;al;Nom:;aux;$
 Adj:;” ”;Adv:;ante;$
 Adj:;ant;Adv:;amment;$
 Adj:;ante;Adv:;amment;$
+Adj:;ent;Adv:;emment;$
 Adj:;tif;Nom:;tivité;$
 Adv:;ant;Nom:;ance;$
 Adv:;ante;Nom:;ance;$
