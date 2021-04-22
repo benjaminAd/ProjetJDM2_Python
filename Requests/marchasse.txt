@@ -1,0 +1,45 @@
+<CODE>
+// DUMP pour le terme 'marchasse' (eid=2221812)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;2221812;'marchasse';2;0
+e;16964;'marcher';1;2528
+e;14270942;'VerbalPers:P1';4;0
+e;14270945;'VerbalNumber:SG';4;0
+e;14271094;'VerbalTime:Imparfait';4;0
+e;2946892;'Ver:Conjug';4;0
+e;3093591;'VerbalMode:Subjonctif';4;0
+e;2935006;'VerbalTime:Past';4;0
+e;161725;'Ver:SImp+SG+P1';4;50
+e;212235;'Ver:';4;50
+e;151553;'_FL:0';6;50
+e;3576104;'Morpho:nospace';18;50
+e;3575927;'Morpho:min';18;50
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;87700884;2221812;16964;0;27
+r;362863700;2221812;14270942;4;25
+r;362855738;2221812;14270945;4;25
+r;363709879;2221812;14271094;4;25
+r;72507546;2221812;2946892;4;45
+r;75966102;2221812;3093591;4;45
+r;75966103;2221812;2935006;4;45
+r;32699263;2221812;161725;4;55
+r;32699264;2221812;212235;4;60
+r;74696801;2221812;151553;12;31
+r;90458874;2221812;3576104;18;26
+r;89475765;2221812;3575927;18;27
+r;32699262;2221812;16964;19;56
+// les relations entrantes : r;rid;node1;node2;type;w 

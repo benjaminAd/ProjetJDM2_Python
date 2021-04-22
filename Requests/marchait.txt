@@ -1,0 +1,116 @@
+<CODE>
+// DUMP pour le terme 'marchait' (eid=421053)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;666;'n_AKI'
+nt;777;'n_wikipedia'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;421053;'marchait';1;50
+e;16964;'marcher';1;2528
+e;14270944;'VerbalPers:P3';4;0
+e;14270945;'VerbalNumber:SG';4;0
+e;14271094;'VerbalTime:Imparfait';4;0
+e;2935006;'VerbalTime:Past';4;0
+e;2946892;'Ver:Conjug';4;0
+e;3093590;'VerbalMode:Indicatif';4;0
+e;161747;'Ver:IImp+SG+P3';4;50
+e;212235;'Ver:';4;50
+e;15772418;'Que faisaient les femmes pendant que l'homme marchait sur la Lune';777;0
+e;15295051;'Un bataillon écossais marchait au pas dans la rue.';1;0
+e;15365392;'Le convoi marchait à vive allure.';1;0
+e;10178597;'Il marchait dans la nuit';777;0
+e;15484900;'Elle marchait devant.';1;0
+e;15484911;'Il marchait d'un pas mal assuré.';1;0
+e;15484898;'Il marchait d'un pas rapide.';1;0
+e;15329699;'Il marchait doucement en prenant son temps.';1;0
+e;15484916;'Il marchait sur le gazon en pataugeant.';1;0
+e;15369347;'Il marchait à longues enjambées.';1;0
+e;15484909;'Il marchait à vive allure.';1;0
+e;15484907;'Il marchait en plastronnant.';1;0
+e;15484913;'Il marchait le long de la rivière.';1;0
+e;29201;'il marchait';1;50
+e;5503240;'La Vieille qui marchait dans la mer>29592';1;0;'La Vieille qui marchait dans la mer>film'
+e;212855;'La vieille qui marchait dans la mer';666;50
+e;3170584;'La Vieille qui marchait dans la mer';777;0
+e;5503241;'La Vieille qui marchait dans la mer>100640';1;0;'La Vieille qui marchait dans la mer>roman'
+e;151553;'_FL:0';6;50
+e;3576104;'Morpho:nospace';18;50
+e;3575927;'Morpho:min';18;50
+e;273221;'_INFO-WIKI-NO';36;50
+e;254877;'_POL-NEUTRE_PC';36;50
+e;254876;'_POL-POS_PC';36;50
+e;241794;'_POL-NEUTRE';36;50
+e;223173;'_POL-POS';36;50
+e;2983124;'_SW';36;50
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;11;'r_locution';'locution';A partir d'un terme, il est demandé d'énumérer les locutions, expression ou mots composés en rapport avec ce terme. Par exemple, pour 'moulin', ou pourra avoir 'moulin à vent', 'moulin à eau', 'moulin à café'. Pour 'vendre', on pourra avoir 'vendre la peau de l'ours avant de l'avoir tué', 'vendre à perte', etc..
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;555;'r_cooccurrence';'r_cooccurrence';co-occurences (non utilisée)
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;87496250;421053;16964;0;26
+r;363316548;421053;14270944;4;25
+r;363308287;421053;14270945;4;25
+r;363300026;421053;14271094;4;25
+r;72116283;421053;2935006;4;45
+r;72423983;421053;2946892;4;45
+r;75966072;421053;3093590;4;45
+r;14356662;421053;161747;4;56
+r;14356663;421053;212235;4;60
+r;419531236;421053;15772418;11;25
+r;419557445;421053;15295051;11;25
+r;419491493;421053;15365392;11;26
+r;238920512;421053;10178597;11;43
+r;397499357;421053;15484900;11;50
+r;402107876;421053;15484911;11;50
+r;402107882;421053;15484898;11;50
+r;402107886;421053;15329699;11;50
+r;402107904;421053;15484916;11;50
+r;402107910;421053;15369347;11;50
+r;402107916;421053;15484909;11;50
+r;402107894;421053;15484907;11;50
+r;402107898;421053;15484913;11;50
+r;14324249;421053;29201;11;53
+r;108178730;421053;5503240;11;53
+r;14276991;421053;212855;11;59
+r;76243186;421053;3170584;11;59
+r;108178718;421053;5503241;11;60
+r;74696755;421053;151553;12;26
+r;90748737;421053;3576104;18;27
+r;89785092;421053;3575927;18;30
+r;14356661;421053;16964;19;57
+r;72073964;421053;273221;36;40
+r;26771670;421053;254877;36;48
+r;26771669;421053;254876;36;52
+r;26554332;421053;241794;36;142
+r;21827573;421053;223173;36;155
+r;73983083;421053;2983124;555;932
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;419531237;15772418;421053;0;1
+r;419557446;15295051;421053;0;1
+r;419491494;15365392;421053;0;2
+r;238920513;10178597;421053;0;19
+r;108178719;5503241;421053;0;30
+r;108178731;5503240;421053;0;33
+r;14324250;29201;421053;0;49
+r;14276992;212855;421053;0;50
+r;397499358;15484900;421053;0;50
+r;402107877;15484911;421053;0;50
+r;402107883;15484898;421053;0;50
+r;402107887;15329699;421053;0;50
+r;402107905;15484916;421053;0;50
+r;402107911;15369347;421053;0;50
+r;402107917;15484909;421053;0;50
+r;402107895;15484907;421053;0;50
+r;402107899;15484913;421053;0;50
+r;76243187;3170584;421053;0;69

@@ -1,0 +1,135 @@
+<CODE>
+// DUMP pour le terme 'marchette' (eid=97485)
+<def>
+<br />
+1. Petit bâton qui soutient le piège d'un oiseleur et sur lequel les oiseaux ne peuvent marcher sans détendre la machine et sans se trouver pris.<br />
+2. Un déambulateur, cadre de marche, gadot, tintébin en Suisse, tribune en Belgique ou marchette au Québec, est un accessoire para-médical constitué d'une armature métallique offrant quatre points d'appui, qui permet aux personnes ayant des difficultés à marcher même avec l'appui d'une canne de se déplacer de façon autonome.
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;4;'n_pos'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;444;'n_link'
+nt;777;'n_wikipedia'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;97485;'marchette';1;50
+e;15354773;'partir à';1;0
+e;226932;'à tisser';1;52
+e;49679;'part';1;250
+e;161263;'métier à tisser';1;120
+e;105216;'tisser';1;330
+e;63219;'déambulateur';1;56
+e;94609;'textile';1;494
+e;291188;'cadre de marche';777;50
+e;237;'objet';1;1960
+e;7322446;'en:walkers';1;0
+e;5811148;'walkers';777;0
+e;291190;'tintébin';777;50
+e;125905;'tribune';1;134
+e;6429496;'cadres de marche';1;0
+e;291189;'gadot';777;50
+e;239128;'_COM';36;50
+e;2586628;'Gender:Fem';4;0
+e;146881;'Nom:Fem+SG';4;50
+e;2586629;'Number:Sing';4;0
+e;171870;'Nom:';4;50
+e;122299;'accessoire';1;404
+e;6384639;'instructions pour utilisation de marchette';1;0
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+e;254878;'_POL-NEG_PC';36;50
+e;254876;'_POL-POS_PC';36;50
+e;15991432;'_ANIME-NO';36;50
+e;276096;'_INFO-WIKI-YES';36;50
+e;251716;'_INFO-MONOSEMIC';36;50
+e;223172;'_POL-NEG';36;50
+e;223173;'_POL-POS';36;50
+e;254877;'_POL-NEUTRE_PC';36;50
+e;241794;'_POL-NEUTRE';36;50
+e;2585997;'_INFO-CNRTL-NO';36;50
+e;4103087;'dbnary:fra:__ws_1_marchette__nom__1';444;0
+e;3228593;'wiki:@';444;0
+e;6110112;'umls:C0043016';444;0
+e;143431;'Suisse';1;302
+e;83522;'Belgique';1;606
+e;144267;'canne';1;370
+e;404317;'Handicap';1;50
+e;73715;'handicap';1;342
+e;2575012;'Canne';1;0
+e;14956792;'en:walker';1;0
+e;7322681;'en:walking frame';1;0
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;3;'r_domain';'domaine';Il est demandé de fournir des domaines relatifs au mot cible. Par exemple, pour 'corner', on pourra donner les domaines 'football' ou 'sport'.
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;5;'r_syn';'synonyme';Il est demandé d'énumérer les synonymes ou quasi-synonymes de ce terme.
+rt;6;'r_isa';'générique';Il est demandé d'énumérer les GENERIQUES/hyperonymes du terme. Par exemple, 'animal' et 'mammifère' sont des génériques de 'chat'.
+rt;8;'r_hypo';'spécifique';Il est demandé d'énumérer des SPECIFIQUES/hyponymes du terme. Par exemple, 'mouche', 'abeille', 'guêpe' pour 'insecte'.
+rt;11;'r_locution';'locution';A partir d'un terme, il est demandé d'énumérer les locutions, expression ou mots composés en rapport avec ce terme. Par exemple, pour 'moulin', ou pourra avoir 'moulin à vent', 'moulin à eau', 'moulin à café'. Pour 'vendre', on pourra avoir 'vendre la peau de l'ours avant de l'avoir tué', 'vendre à perte', etc..
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;444;'r_link';'r_link';Lien vers une ressource externe (WordNet, RadLex, UMLS, Wikipedia, etc...)
+rt;777;'r_wiki';'r_wiki';Associations issues de wikipedia...
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;417827212;97485;15354773;0;11
+r;417827215;97485;226932;0;11
+r;417827211;97485;49679;0;13
+r;417827213;97485;161263;0;13
+r;417827214;97485;105216;0;13
+r;12349499;97485;63219;0;22
+r;417827209;97485;94609;0;25
+r;191726372;97485;291188;0;26
+r;121174341;97485;237;0;28
+r;218231704;97485;7322446;0;32
+r;218231706;97485;5811148;0;32
+r;191726374;97485;291190;0;33
+r;191726375;97485;125905;0;33
+r;120508929;97485;6429496;0;34
+r;191726373;97485;291189;0;34
+r;24077504;97485;239128;0;1000000
+r;417827208;97485;94609;3;25
+r;417827206;97485;2586628;4;25
+r;427980908;97485;146881;4;25
+r;427993217;97485;2586629;4;25
+r;1842268;97485;171870;4;29
+r;12206023;97485;63219;5;31
+r;109951315;97485;122299;6;29
+r;303994427;97485;6384639;11;25
+r;89998404;97485;3575927;18;26
+r;90861259;97485;3576104;18;28
+r;26799661;97485;254878;36;12
+r;26799660;97485;254876;36;16
+r;417827207;97485;15991432;36;25
+r;218231781;97485;276096;36;30
+r;96114410;97485;251716;36;30
+r;26564911;97485;223172;36;37
+r;26223368;97485;223173;36;50
+r;12073037;97485;254877;36;73
+r;9311193;97485;241794;36;231
+r;55010232;97485;2585997;36;250
+r;94469131;97485;4103087;444;1
+r;78088167;97485;3228593;444;26
+r;119479565;97485;6110112;444;27
+r;6397887;97485;143431;777;10
+r;6397893;97485;83522;777;10
+r;6397898;97485;144267;777;10
+r;84400833;97485;404317;777;10
+r;84400834;97485;73715;777;10
+r;84400840;97485;2575012;777;10
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;303994428;6384639;97485;0;1
+r;398962001;14956792;97485;0;10
+r;398962035;7322681;97485;0;10
+r;191726366;291190;97485;0;27
+r;12206022;63219;97485;0;28
+r;191726356;291188;97485;0;28
+r;191726361;291189;97485;0;28
+r;191726371;125905;97485;0;30
+r;120508928;6429496;97485;0;33
+r;218231707;5811148;97485;0;33
+r;218231705;7322446;97485;0;35
+r;398962004;14956792;97485;5;10
+r;398962038;7322681;97485;5;10
+r;1553080;63219;97485;5;32
+r;246793638;122299;97485;8;25

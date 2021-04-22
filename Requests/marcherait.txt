@@ -1,0 +1,47 @@
+<CODE>
+// DUMP pour le terme 'marcherait' (eid=2221823)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;2221823;'marcherait';2;0
+e;16964;'marcher';1;2528
+e;161770;'Ver:CPre+SG+P3';4;50
+e;212235;'Ver:';4;50
+e;2935005;'VerbalTime:Present';4;0
+e;2946892;'Ver:Conjug';4;0
+e;3094354;'VerbalMode:Conditionnel';4;0
+e;14270944;'VerbalPers:P3';4;0
+e;14270945;'VerbalNumber:SG';4;0
+e;151553;'_FL:0';6;50
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+e;2983124;'_SW';36;50
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;555;'r_cooccurrence';'r_cooccurrence';co-occurences (non utilisée)
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;87700901;2221823;16964;0;31
+r;32699311;2221823;161770;4;59
+r;32699312;2221823;212235;4;57
+r;75966094;2221823;2935005;4;45
+r;72507556;2221823;2946892;4;45
+r;75966095;2221823;3094354;4;45
+r;363569316;2221823;14270944;4;25
+r;363561080;2221823;14270945;4;25
+r;74696816;2221823;151553;12;32
+r;89475754;2221823;3575927;18;29
+r;90458863;2221823;3576104;18;28
+r;32699309;2221823;16964;19;57
+r;74139582;2221823;2983124;555;101
+// les relations entrantes : r;rid;node1;node2;type;w 

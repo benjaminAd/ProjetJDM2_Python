@@ -1,0 +1,77 @@
+<CODE>
+// DUMP pour le terme 'marchante' (eid=401478)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;401478;'marchante';1;50
+e;16964;'marcher';1;2528
+e;79935;'marchant';1;62
+e;2586628;'Gender:Fem';4;0
+e;146894;'Adj:Fem+SG';4;50
+e;171869;'Adj:';4;50
+e;2586629;'Number:Sing';4;0
+e;212235;'Ver:';4;50
+e;161734;'Ver:PPre+Fem+SG';4;50
+e;334544;'aile marchante';1;50
+e;151553;'_FL:0';6;50
+e;3576104;'Morpho:nospace';18;50
+e;3575927;'Morpho:min';18;50
+e;223172;'_POL-NEG';36;50
+e;254878;'_POL-NEG_PC';36;50
+e;241794;'_POL-NEUTRE';36;50
+e;438949;'_INFO-POLYMORPHIC';36;50
+e;273221;'_INFO-WIKI-NO';36;50
+e;223173;'_POL-POS';36;50
+e;254877;'_POL-NEUTRE_PC';36;50
+e;254876;'_POL-POS_PC';36;50
+e;2585997;'_INFO-CNRTL-NO';36;50
+e;2314416;'marchantes';2;0
+e;15330172;'en:wheeling flank';1;0
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;11;'r_locution';'locution';A partir d'un terme, il est demandé d'énumérer les locutions, expression ou mots composés en rapport avec ce terme. Par exemple, pour 'moulin', ou pourra avoir 'moulin à vent', 'moulin à eau', 'moulin à café'. Pour 'vendre', on pourra avoir 'vendre la peau de l'ours avant de l'avoir tué', 'vendre à perte', etc..
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;59;'r_masc';'équivalent masc';L'équivalent masculin du terme : lionne --> lion.
+rt;60;'r_fem';'équivalent fem';L'équivalent féminin du terme : lion --> lionne.
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;87496251;401478;16964;0;26
+r;130822363;401478;79935;0;26
+r;107345781;401478;2586628;4;27
+r;107312815;401478;146894;4;28
+r;107345554;401478;171869;4;30
+r;107345990;401478;2586629;4;32
+r;14356666;401478;212235;4;53
+r;14356665;401478;161734;4;57
+r;14215898;401478;334544;11;57
+r;74696796;401478;151553;12;27
+r;90768987;401478;3576104;18;26
+r;89790917;401478;3575927;18;35
+r;107312817;401478;79935;19;32
+r;14356664;401478;16964;19;55
+r;98480011;401478;223172;36;1
+r;98480012;401478;254878;36;2
+r;28816467;401478;241794;36;24
+r;427373478;401478;438949;36;25
+r;98480021;401478;273221;36;29
+r;28816466;401478;223173;36;30
+r;28816469;401478;254877;36;44
+r;28816468;401478;254876;36;55
+r;71999738;401478;2585997;36;55
+r;107309914;401478;79935;59;34
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;107309912;2314416;401478;0;26
+r;399268706;15330172;401478;0;40
+r;14215899;334544;401478;0;59
+r;107312819;2314416;401478;19;26
+r;107309913;79935;401478;60;28

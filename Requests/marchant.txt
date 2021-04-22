@@ -1,0 +1,360 @@
+<CODE>
+// DUMP pour le terme 'marchant' (eid=79935)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;200;'n_context'
+nt;444;'n_link'
+nt;666;'n_AKI'
+nt;777;'n_wikipedia'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;79935;'marchant';1;62
+e;112929;'action';1;1076
+e;1856762;'walking';1;0
+e;6996114;'en:cell motility';1;0
+e;7329859;'en:resting state';1;0
+e;7335323;'en:sports by physical environment';1;0
+e;7003142;'en:locomotion';1;0
+e;7335317;'en:amateur and professional sports';1;0
+e;7335319;'en:aodu by athlete';1;0
+e;45705;'marche';1;1006
+e;48604;'convenant';1;50
+e;155548;'se promenant';1;50
+e;151207;'vadrouillant';1;50
+e;588479;'allant>171869';1;0;'allant>Adj:'
+e;149680;'piétinant';1;50
+e;14906;'ambulatoire';1;54
+e;113897;'clopinant';1;50
+e;15228876;'en:perambulating';1;0
+e;7024676;'en:walking';1;0
+e;15249694;'en:treading';1;0
+e;15212336;'en:stepping';1;0
+e;118203;'corps humain';1;252
+e;151208;'vagabondant';1;60
+e;22016;'foulant';1;50
+e;70318;'allant';1;90
+e;172566;'alan';1;50
+e;2438466;'allain';1;0
+e;144850;'armée';1;2656
+e;42774;'armement';1;226
+e;16964;'marcher';1;2528
+e;239128;'_COM';36;50
+e;6862909;'en:technique';1;0
+e;7331401;'en:medicine';1;0
+e;102206;'médecine';1;7140
+e;2586627;'Gender:Mas';4;0
+e;2586629;'Number:Sing';4;0
+e;146888;'Adj:Mas+SG';4;50
+e;161697;'Ver:PPre';4;50
+e;171869;'Adj:';4;50
+e;212235;'Ver:';4;50
+e;14922697;'en:walk';1;0
+e;7290856;'en:travel';1;0
+e;10152571;'en:prowl';1;0
+e;15060529;'en:plodding';1;0
+e;14932221;'en:march';1;0
+e;14961883;'en:somnambulism';1;0
+e;14961879;'en:somnambulation';1;0
+e;14923324;'en:shuffle';1;0
+e;5960766;'Emil Herrmann';777;0
+e;14919124;'en:pace';1;0
+e;14921073;'en:stride';1;0
+e;14938998;'en:tread';1;0
+e;6419252;'heurt contre un mur en marchant';1;0
+e;15570153;'Sam balançait son parapluie en marchant.';1;0
+e;14670154;'parler en marchant';1;4
+e;15481196;'Ils faisaient de petits sauts en marchant.';1;0
+e;15570155;'Ils faisaient de petits bonds en marchant.';1;0
+e;160447;'en marchant';1;52
+e;163982;'marchant droit';1;50
+e;208419;'soutènement marchant';1;50
+e;287453;'Jésus marchant sur les eaux';777;50
+e;151553;'_FL:0';6;50
+e;151566;'_FL:7';6;50
+e;14916413;'Langue:français';18;50
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+e;76583;'volant';1;1294
+e;254877;'_POL-NEUTRE_PC';36;50
+e;438949;'_INFO-POLYMORPHIC';36;50
+e;254878;'_POL-NEG_PC';36;50
+e;276096;'_INFO-WIKI-YES';36;50
+e;254876;'_POL-POS_PC';36;50
+e;241794;'_POL-NEUTRE';36;50
+e;223172;'_POL-NEG';36;50
+e;2585997;'_INFO-CNRTL-NO';36;50
+e;223173;'_POL-POS';36;50
+e;401478;'marchante';1;50
+e;12662570;'4c3211d32b45102d8c4bd10467edc8a1';200;0
+e;12662571;'c5fa20275101bd67dad9281f5eeddf5f';200;0
+e;12666791;'e209fd392bfde65d9af3012d61b5388f';200;0
+e;12693615;'9d9410c35b6f4c166cf6b89161782afd';200;0
+e;12693790;'6a262030efadbae60a6d5b8f0dc3db98';200;0
+e;12781117;'f44a50db8e4ef9a25fab86babc47c864';200;0
+e;12682173;'e0fe20081e8b4db7b7560b50f3b538f0';200;0
+e;13405200;'2c2ee6a5106495210d5041ed2926801a';200;0
+e;13614980;'71db98ab8b47d7e91f71d46f00fb4da2';200;0
+e;13855556;'ba37996df892e210d6c7b8ef35786f6c';200;0
+e;13856183;'5ddcdd13c334925733bd169c4d099e8e';200;0
+e;14062380;'26c4e5b2f39fb47e36dc74de1a03a9aa';200;0
+e;14137111;'bc88a79fa8c2520fc35b99b7c68915ed';200;0
+e;14894953;'dc9a125f5c527b9ce942d8c99a07b55e';200;0
+e;12678151;'1b5f36d45b9e2856379cb4b5886604aa';200;0
+e;12669160;'506b02235d05c28e5b2297dcf2f76244';200;0
+e;12702340;'9db7e03a02dd1169f56832da2c03721a';200;0
+e;12772265;'697ea2c638044905c33b25fc702e7b4e';200;0
+e;13535314;'38465cd2af3c07f861ac59f618ccf340';200;0
+e;12727857;'03607d003ffb944000706e7c10f33b53';200;0
+e;14767242;'d65ce800513e389622b92b2577f37d27';200;0
+e;7024677;'umls:C0080331';444;0
+e;3228593;'wiki:@';444;0
+e;2983124;'_SW';36;50
+e;138196;'Marchand';1;50
+e;21560;'Tudor';1;66
+e;14109;'encerclement';1;58
+e;30277;'poudreux';1;64
+e;32528;'vers';1;878
+e;42990;'ganter';1;58
+e;231383;'Grogner';666;50
+e;156072;'marche à pied';1;94
+e;2477573;'alano';1;0
+e;3046954;'marchants';1;0
+e;2314416;'marchantes';2;0
+e;7038233;'en:immobile';1;0
+e;131800;'immobile';1;296
+e;6344695;'non mobile';1;0
+e;8086;'boitillant';1;52
+e;146274;'marché';1;1114
+e;132838;'mort-vivant';1;228
+e;34604;'piéton';1;526
+e;191094;'Piéton';1;50
+e;152352;'piétons';1;106
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;3;'r_domain';'domaine';Il est demandé de fournir des domaines relatifs au mot cible. Par exemple, pour 'corner', on pourra donner les domaines 'football' ou 'sport'.
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;5;'r_syn';'synonyme';Il est demandé d'énumérer les synonymes ou quasi-synonymes de ce terme.
+rt;6;'r_isa';'générique';Il est demandé d'énumérer les GENERIQUES/hyperonymes du terme. Par exemple, 'animal' et 'mammifère' sont des génériques de 'chat'.
+rt;7;'r_anto';'contraire';Il est demandé d'énumérer des contraires du terme. Par exemple, 'chaud' est le contraire de 'froid'.
+rt;8;'r_hypo';'spécifique';Il est demandé d'énumérer des SPECIFIQUES/hyponymes du terme. Par exemple, 'mouche', 'abeille', 'guêpe' pour 'insecte'.
+rt;9;'r_has_part';'partie';Il faut donner des PARTIES/constituants/éléments (a pour méronymes) du mot cible. Par exemple, 'voiture' a comme parties : 'porte', 'roue', 'moteur', ...
+rt;11;'r_locution';'locution';A partir d'un terme, il est demandé d'énumérer les locutions, expression ou mots composés en rapport avec ce terme. Par exemple, pour 'moulin', ou pourra avoir 'moulin à vent', 'moulin à eau', 'moulin à café'. Pour 'vendre', on pourra avoir 'vendre la peau de l'ours avant de l'avoir tué', 'vendre à perte', etc..
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;20;'r_has_magn';'magn';La magnification ou amplification, par exemple - forte fièvre - ou - fièvre de cheval - pour fièvre. Ou encore - amour fou - pour amour, - peur bleue - pour peur.
+rt;21;'r_has_antimagn';'antimagn';L'inverse de la magnification, par exemple - bruine - pour pluie.
+rt;22;'r_family';'famille';Des mots de la même famille lexicale sont demandés (dérivation morphologique, par exemple). Par exemple, pour 'lait' on pourrait mettre 'laitier', 'laitage', 'laiterie', etc.
+rt;27;'r_domain-1';'domaine-1';inverse de r_domain : à un domaine, on associe des termes
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;59;'r_masc';'équivalent masc';L'équivalent masculin du terme : lionne --> lion.
+rt;60;'r_fem';'équivalent fem';L'équivalent féminin du terme : lion --> lionne.
+rt;79;'r_verb_ppre';'r_verb_ppre';Le participe présent(au masculin singulier) du verbe infinitif. Par exemple, pour manger => mangeant
+rt;200;'r_context';'r_context';Relation de contexte entre un terme et un noeud contexte.
+rt;333;'r_translation';'r_translation';Traduction vers une autre langue.
+rt;444;'r_link';'r_link';Lien vers une ressource externe (WordNet, RadLex, UMLS, Wikipedia, etc...)
+rt;555;'r_cooccurrence';'r_cooccurrence';co-occurences (non utilisée)
+rt;666;'r_aki';'r_aki';(TOTAKI) equivalent pour TOTAKI de l'association libre
+rt;777;'r_wiki';'r_wiki';Associations issues de wikipedia...
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;399268805;79935;112929;0;10
+r;399268806;79935;1856762;0;10
+r;399268823;79935;6996114;0;10
+r;399268824;79935;7329859;0;10
+r;399268826;79935;7335323;0;10
+r;399268827;79935;7003142;0;10
+r;399268828;79935;7335317;0;10
+r;399268829;79935;7335319;0;10
+r;417746851;79935;45705;0;13
+r;927068;79935;48604;0;21
+r;12232830;79935;155548;0;21
+r;12232832;79935;151207;0;21
+r;332128961;79935;588479;0;22
+r;12232834;79935;149680;0;23
+r;927069;79935;14906;0;24
+r;12232833;79935;113897;0;24
+r;415605927;79935;15228876;0;25
+r;415605929;79935;7024676;0;25
+r;415605931;79935;15249694;0;25
+r;415605933;79935;15212336;0;25
+r;417746850;79935;118203;0;25
+r;12232831;79935;151208;0;28
+r;12232835;79935;22016;0;28
+r;12232836;79935;70318;0;29
+r;71491266;79935;172566;0;30
+r;72534378;79935;2438466;0;30
+r;15424303;79935;144850;0;34
+r;15423571;79935;42774;0;35
+r;87483282;79935;16964;0;36
+r;24064855;79935;239128;0;1000000
+r;399268737;79935;6862909;3;10
+r;399268822;79935;7331401;3;10
+r;399149274;79935;102206;3;25
+r;417746849;79935;118203;3;25
+r;453398;79935;144850;3;31
+r;453772;79935;42774;3;34
+r;53967975;79935;2586627;4;45
+r;53982374;79935;2586629;4;45
+r;36053;79935;146888;4;52
+r;350272;79935;161697;4;55
+r;1954080;79935;171869;4;56
+r;12101236;79935;212235;4;59
+r;707291;79935;155548;5;-34
+r;68544149;79935;172566;5;-25
+r;71048253;79935;2438466;5;-25
+r;399268804;79935;14922697;5;10
+r;399268807;79935;1856762;5;10
+r;310127300;79935;588479;5;25
+r;707288;79935;113897;5;27
+r;707285;79935;70318;5;28
+r;707289;79935;151207;5;28
+r;707287;79935;149680;5;29
+r;707290;79935;151208;5;30
+r;707286;79935;22016;5;35
+r;399268802;79935;7290856;6;10
+r;399268803;79935;7003142;6;10
+r;399268812;79935;10152571;8;10
+r;399268813;79935;15060529;8;10
+r;399268815;79935;14932221;8;10
+r;399268817;79935;14961883;8;10
+r;399268818;79935;14961879;8;10
+r;399268820;79935;14923324;8;10
+r;247253597;79935;5960766;8;25
+r;399268808;79935;14919124;9;10
+r;399268809;79935;14921073;9;10
+r;399268810;79935;14938998;9;10
+r;305698458;79935;6419252;11;25
+r;419542489;79935;15570153;11;25
+r;373013093;79935;14670154;11;26
+r;402111715;79935;15481196;11;50
+r;402111705;79935;15570155;11;50
+r;8626896;79935;160447;11;161
+r;8628702;79935;163982;11;162
+r;8681912;79935;208419;11;162
+r;8755098;79935;287453;11;163
+r;74696795;79935;151553;12;27
+r;260653;79935;151566;12;75
+r;394914761;79935;14916413;18;25
+r;90010188;79935;3575927;18;29
+r;90875656;79935;3576104;18;34
+r;315065;79935;16964;19;52
+r;315064;79935;79935;19;55
+r;377022326;79935;76583;20;25
+r;26786905;79935;254877;36;22
+r;427389873;79935;438949;36;25
+r;26786906;79935;254878;36;28
+r;34272720;79935;276096;36;40
+r;9265894;79935;254876;36;50
+r;26146709;79935;241794;36;57
+r;26271551;79935;223172;36;71
+r;54865339;79935;2585997;36;103
+r;9232988;79935;223173;36;128
+r;107309913;79935;401478;60;28
+r;324025426;79935;12662570;200;1
+r;324025491;79935;12662571;200;1
+r;324202996;79935;12666791;200;1
+r;325271806;79935;12693615;200;1
+r;325278415;79935;12693790;200;1
+r;327943570;79935;12781117;200;1
+r;324792229;79935;12682173;200;2
+r;339849107;79935;13405200;200;2
+r;345193848;79935;13614980;200;2
+r;350212863;79935;13855556;200;2
+r;350252189;79935;13856183;200;2
+r;355466544;79935;14062380;200;2
+r;358546376;79935;14137111;200;2
+r;389595902;79935;14894953;200;2
+r;324630255;79935;12678151;200;3
+r;324294854;79935;12669160;200;4
+r;325800435;79935;12702340;200;4
+r;327718467;79935;12772265;200;4
+r;342820346;79935;13535314;200;4
+r;326851641;79935;12727857;200;8
+r;375346743;79935;14767242;200;10
+r;394914759;79935;15212336;333;26
+r;394914762;79935;15249694;333;26
+r;394914764;79935;7024676;333;26
+r;394914766;79935;15228876;333;26
+r;399268825;79935;7024677;444;10
+r;78091372;79935;3228593;444;34
+r;74059794;79935;2983124;555;2211
+r;6530009;79935;138196;777;10
+r;6530012;79935;21560;777;10
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;423594091;14109;79935;0;1
+r;305698459;6419252;79935;0;1
+r;419542490;15570153;79935;0;1
+r;423872599;30277;79935;0;1
+r;423933823;32528;79935;0;1
+r;424889083;42990;79935;0;1
+r;373013094;14670154;79935;0;2
+r;423846798;231383;79935;0;3
+r;432403765;156072;79935;0;10
+r;15423570;42774;79935;0;21
+r;15424302;144850;79935;0;21
+r;310127299;588479;79935;0;21
+r;12207922;151208;79935;0;22
+r;12219453;113897;79935;0;23
+r;756471;14906;79935;0;24
+r;12257342;22016;79935;0;24
+r;415605926;15228876;79935;0;25
+r;415605928;7024676;79935;0;25
+r;415605930;15249694;79935;0;25
+r;415605932;15212336;79935;0;25
+r;814530;48604;79935;0;26
+r;130822363;401478;79935;0;26
+r;12207933;151207;79935;0;27
+r;12207525;155548;79935;0;28
+r;12208164;149680;79935;0;30
+r;12272267;70318;79935;0;30
+r;63291517;172566;79935;0;30
+r;68231478;2438466;79935;0;30
+r;95761523;2477573;79935;0;30
+r;75853409;3046954;79935;0;35
+r;107309911;2314416;79935;0;35
+r;402111716;15481196;79935;0;50
+r;402111706;15570155;79935;0;50
+r;9436126;160447;79935;0;145
+r;9438627;163982;79935;0;145
+r;9495554;208419;79935;0;147
+r;9569677;287453;79935;0;147
+r;736219;155548;79935;5;-30
+r;63291516;172566;79935;5;-27
+r;68231542;2438466;79935;5;-27
+r;735818;151208;79935;5;26
+r;653427;70318;79935;5;27
+r;735810;151207;79935;5;29
+r;722599;113897;79935;5;31
+r;309288757;588479;79935;5;33
+r;735591;149680;79935;5;34
+r;679451;22016;79935;5;35
+r;116480265;5960766;79935;6;30
+r;395791879;7038233;79935;7;10
+r;260652;131800;79935;7;55
+r;290040923;6344695;79935;7;55
+r;379363;8086;79935;7;58
+r;358118570;3046954;79935;19;25
+r;107312817;401478;79935;19;32
+r;107312818;2314416;79935;19;34
+r;315064;79935;79935;19;55
+r;374756689;76583;79935;21;51
+r;1582115;146274;79935;22;57
+r;151480;16964;79935;22;60
+r;15207641;144850;79935;27;22
+r;15207267;42774;79935;27;23
+r;107309914;401478;79935;59;34
+r;85731285;16964;79935;79;34
+r;394914760;15212336;79935;333;26
+r;394914763;15249694;79935;333;26
+r;394914765;7024676;79935;333;26
+r;394914767;15228876;79935;333;26
+r;2219557;132838;79935;666;2
+r;4894044;34604;79935;777;9
+r;4894046;191094;79935;777;10
+r;7541391;152352;79935;777;10

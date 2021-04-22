@@ -1,0 +1,45 @@
+<CODE>
+// DUMP pour le terme 'marchoir' (eid=59275)
+<def>
+<br />
+1. Atelier où l'on prépare la terre à briques.<br />
+2. Atelier où l'on prépare la terre à briques.<br /> 
+ Exemple manquant. ([SERVER/w/index.php?title=Marchoir&action=edit Ajouter])  
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;4;'n_pos'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;444;'n_link'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;59275;'marchoir';1;50
+e;239128;'_COM';36;50
+e;171870;'Nom:';4;50
+e;145738;'atelier';1;830
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+e;251716;'_INFO-MONOSEMIC';36;50
+e;273221;'_INFO-WIKI-NO';36;50
+e;2585997;'_INFO-CNRTL-NO';36;50
+e;4240817;'dbnary:fra:__ws_1_marchoir__nom__1';444;0
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;6;'r_isa';'générique';Il est demandé d'énumérer les GENERIQUES/hyperonymes du terme. Par exemple, 'animal' et 'mammifère' sont des génériques de 'chat'.
+rt;8;'r_hypo';'spécifique';Il est demandé d'énumérer des SPECIFIQUES/hyponymes du terme. Par exemple, 'mouche', 'abeille', 'guêpe' pour 'insecte'.
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;444;'r_link';'r_link';Lien vers une ressource externe (WordNet, RadLex, UMLS, Wikipedia, etc...)
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;24050180;59275;239128;0;1000000
+r;544229;59275;171870;4;27
+r;82791887;59275;145738;6;29
+r;90024080;59275;3575927;18;28
+r;90892242;59275;3576104;18;32
+r;95994665;59275;251716;36;31
+r;426069230;59275;273221;36;25
+r;72687055;59275;2585997;36;66
+r;94593415;59275;4240817;444;1
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;243422378;145738;59275;8;25

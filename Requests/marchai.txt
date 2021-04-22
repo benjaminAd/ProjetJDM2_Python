@@ -1,0 +1,45 @@
+<CODE>
+// DUMP pour le terme 'marchai' (eid=2221732)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;2221732;'marchai';2;0
+e;16964;'marcher';1;2528
+e;161738;'Ver:IPSim+SG+P1';4;50
+e;212235;'Ver:';4;50
+e;2935006;'VerbalTime:Past';4;0
+e;2946892;'Ver:Conjug';4;0
+e;3093590;'VerbalMode:Indicatif';4;0
+e;14270942;'VerbalPers:P1';4;0
+e;14270945;'VerbalNumber:SG';4;0
+e;14271095;'VerbalTime:PasséSimple';4;0
+e;151553;'_FL:0';6;50
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;87700810;2221732;16964;0;26
+r;32699049;2221732;161738;4;54
+r;32699051;2221732;212235;4;55
+r;72166146;2221732;2935006;4;45
+r;72507489;2221732;2946892;4;45
+r;75966078;2221732;3093590;4;45
+r;363184032;2221732;14270942;4;25
+r;363176295;2221732;14270945;4;25
+r;363168420;2221732;14271095;4;25
+r;74696752;2221732;151553;12;29
+r;89475845;2221732;3575927;18;28
+r;90458954;2221732;3576104;18;41
+r;32699047;2221732;16964;19;55
+// les relations entrantes : r;rid;node1;node2;type;w 

@@ -1,0 +1,61 @@
+<CODE>
+// DUMP pour le terme 'marchent' (eid=2221817)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;777;'n_wikipedia'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;2221817;'marchent';2;0
+e;16964;'marcher';1;2528
+e;14270944;'VerbalPers:P3';4;0
+e;14270946;'VerbalNumber:PL';4;0
+e;161707;'Ver:SPre+PL+P3';4;50
+e;161706;'Ver:IPre+PL+P3';4;50
+e;2935005;'VerbalTime:Present';4;0
+e;2946892;'Ver:Conjug';4;0
+e;3093590;'VerbalMode:Indicatif';4;0
+e;3093591;'VerbalMode:Subjonctif';4;0
+e;212235;'Ver:';4;50
+e;161711;'Ver:IPre+PL+P3:SPre+PL+P3';4;50
+e;15387473;'Est-ce que les affaires marchent actuellement?';1;0
+e;15692474;'Ceux qui marchent debout';777;0
+e;151553;'_FL:0';6;50
+e;3576104;'Morpho:nospace';18;50
+e;3575927;'Morpho:min';18;50
+e;2983124;'_SW';36;50
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;11;'r_locution';'locution';A partir d'un terme, il est demandé d'énumérer les locutions, expression ou mots composés en rapport avec ce terme. Par exemple, pour 'moulin', ou pourra avoir 'moulin à vent', 'moulin à eau', 'moulin à café'. Pour 'vendre', on pourra avoir 'vendre la peau de l'ours avant de l'avoir tué', 'vendre à perte', etc..
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;555;'r_cooccurrence';'r_cooccurrence';co-occurences (non utilisée)
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;87700894;2221817;16964;0;31
+r;363059952;2221817;14270944;4;25
+r;363052493;2221817;14270946;4;25
+r;363044865;2221817;161707;4;25
+r;363037347;2221817;161706;4;25
+r;72113309;2221817;2935005;4;45
+r;72507553;2221817;2946892;4;45
+r;75966069;2221817;3093590;4;45
+r;75966070;2221817;3093591;4;45
+r;32699291;2221817;212235;4;55
+r;32699290;2221817;161711;4;56
+r;397503060;2221817;15387473;11;50
+r;405572170;2221817;15692474;11;50
+r;74696810;2221817;151553;12;27
+r;90458869;2221817;3576104;18;30
+r;89475760;2221817;3575927;18;32
+r;32699289;2221817;16964;19;58
+r;73969602;2221817;2983124;555;2612
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;397503061;15387473;2221817;0;50
+r;405572171;15692474;2221817;0;50

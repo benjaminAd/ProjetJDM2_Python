@@ -1,0 +1,37 @@
+<CODE>
+// DUMP pour le terme 'marchable' (eid=3845534)
+<def>
+<br />
+Parcourable à pied.<br /> 
+ La question n'est pas de savoir si la ville de demain sera ou non marchable, mais plutôt comment favoriser cette marchabilité ?  
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;4;'n_pos'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;444;'n_link'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;3845534;'marchable';1;0
+e;239128;'_COM';36;50
+e;171869;'Adj:';4;50
+e;3576104;'Morpho:nospace';18;50
+e;251716;'_INFO-MONOSEMIC';36;50
+e;273221;'_INFO-WIKI-NO';36;50
+e;2585997;'_INFO-CNRTL-NO';36;50
+e;3845533;'dbnary:fra:__ws_1_marchable__adj__1';444;0
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;444;'r_link';'r_link';Lien vers une ressource externe (WordNet, RadLex, UMLS, Wikipedia, etc...)
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;95366031;3845534;239128;0;1000000
+r;95300754;3845534;171869;4;29
+r;424292584;3845534;3576104;18;25
+r;96064114;3845534;251716;36;42
+r;391865640;3845534;273221;36;25
+r;95300749;3845534;2585997;36;52
+r;95294932;3845534;3845533;444;29
+// les relations entrantes : r;rid;node1;node2;type;w 
