@@ -1,0 +1,43 @@
+<CODE>
+// DUMP pour le terme 'assisteraient' (eid=1991970)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;1991970;'assisteraient';2;0
+e;34835;'assister';1;194
+e;2946892;'Ver:Conjug';4;0
+e;14270944;'VerbalPers:P3';4;0
+e;14270946;'VerbalNumber:PL';4;0
+e;2935005;'VerbalTime:Present';4;0
+e;3094354;'VerbalMode:Conditionnel';4;0
+e;212235;'Ver:';4;50
+e;3095206;'Ver:CPre+PL+P3';4;50
+e;151553;'_FL:0';6;50
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;87512628;1991970;34835;0;30
+r;323069550;1991970;2946892;4;25
+r;363613007;1991970;14270944;4;25
+r;363604775;1991970;14270946;4;25
+r;75245638;1991970;2935005;4;30
+r;75245639;1991970;3094354;4;39
+r;32144267;1991970;212235;4;58
+r;75086128;1991970;3095206;4;67
+r;74543853;1991970;151553;12;30
+r;89706578;1991970;3575927;18;28
+r;90691612;1991970;3576104;18;30
+r;32144266;1991970;34835;19;53
+// les relations entrantes : r;rid;node1;node2;type;w 

@@ -92,7 +92,7 @@ class JDM:
     def checkIfWordExist(self, mot, typeMot):
         jdm = JDM(mot)
         if jdm.checkIfNeology(jdm.requestToJDM()):
-            return self.checkSemantique(typeMot)
+            return jdm.checkSemantique(typeMot)
         else:
             return False
 
@@ -184,7 +184,7 @@ class JDM:
 
 
 if __name__ == '__main__':
-    jdm = JDM("banane")
+    jdm = JDM("assister")
     jdm.separateData(jdm.requestToJDM())
     derivation = jdm.checkRule()
 

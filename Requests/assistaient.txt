@@ -1,0 +1,53 @@
+<CODE>
+// DUMP pour le terme 'assistaient' (eid=1991953)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;1991953;'assistaient';2;0
+e;34835;'assister';1;194
+e;14270944;'VerbalPers:P3';4;0
+e;14270946;'VerbalNumber:PL';4;0
+e;14271094;'VerbalTime:Imparfait';4;0
+e;3093590;'VerbalMode:Indicatif';4;0
+e;2935006;'VerbalTime:Past';4;0
+e;2946892;'Ver:Conjug';4;0
+e;161764;'Ver:IImp+PL+P3';4;50
+e;212235;'Ver:';4;50
+e;15366460;'Peu de gens assistaient aux réunions.';1;0
+e;151553;'_FL:0';6;50
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+e;2983124;'_SW';36;50
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;11;'r_locution';'locution';A partir d'un terme, il est demandé d'énumérer les locutions, expression ou mots composés en rapport avec ce terme. Par exemple, pour 'moulin', ou pourra avoir 'moulin à vent', 'moulin à eau', 'moulin à café'. Pour 'vendre', on pourra avoir 'vendre la peau de l'ours avant de l'avoir tué', 'vendre à perte', etc..
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;555;'r_cooccurrence';'r_cooccurrence';co-occurences (non utilisée)
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;87512612;1991953;34835;0;28
+r;363375950;1991953;14270944;4;25
+r;363367684;1991953;14270946;4;25
+r;363359418;1991953;14271094;4;25
+r;75245615;1991953;3093590;4;38
+r;72117815;1991953;2935006;4;45
+r;72431347;1991953;2946892;4;45
+r;32144221;1991953;161764;4;55
+r;32144222;1991953;212235;4;58
+r;419524567;1991953;15366460;11;25
+r;74543833;1991953;151553;12;27
+r;89706595;1991953;3575927;18;30
+r;90691629;1991953;3576104;18;30
+r;32144220;1991953;34835;19;51
+r;74239285;1991953;2983124;555;285
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;419524568;15366460;1991953;0;1
