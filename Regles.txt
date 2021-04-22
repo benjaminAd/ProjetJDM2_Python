@@ -85,6 +85,7 @@ Ver:Inf;er;Nom:;aille;ger
 Ver:Inf;ger;Nom:;geail;$
 Ver:Inf;ger;Nom:;geaille;$
 Ver:Inf;er;Nom:;ation;ger
+Ver:Inf;er;Nom:;ament;ger
 Ver:Inf;ger;Nom:;geation;$
 Ver:Inf;er;Nom:;ant;$
 Ver:Inf;er;Adj:;able;ger

@@ -226,27 +226,31 @@ class JDM:
             self.AfficherAdj.append(newWord)
 
     def display(self):
-        print("Voici les mots que vous avez produit à partir de " + self.mot + ":")
-        if len(self.AfficherNom) > 0:
-            print("Voici les noms générés:")
-            for nom in self.AfficherNom:
-                print(nom)
-            print("\n")
-        if len(self.AfficherVer) > 0:
-            print("Voici les verbes générés:")
-            for nom in self.AfficherVer:
-                print(nom)
-            print("\n")
-        if len(self.AfficherAdj) > 0:
-            print("Voici les adjectifs générés:")
-            for nom in self.AfficherAdj:
-                print(nom)
-            print("\n")
-        if len(self.AfficherAdv) > 0:
-            print("Voici les adverbes générés:")
-            for nom in self.AfficherAdv:
-                print(nom)
-            print("\n")
+        if len(self.AfficherNom) > 0 or len(self.AfficherVer) > 0 or len(self.AfficherAdj) > 0 or len(
+                self.AfficherAdv) > 0:
+            print("Voici les mots que vous avez produit à partir de " + self.mot + ":")
+            if len(self.AfficherNom) > 0:
+                print("Voici les noms générés:")
+                for nom in self.AfficherNom:
+                    print(nom)
+                print("\n")
+            if len(self.AfficherVer) > 0:
+                print("Voici les verbes générés:")
+                for nom in self.AfficherVer:
+                    print(nom)
+                print("\n")
+            if len(self.AfficherAdj) > 0:
+                print("Voici les adjectifs générés:")
+                for nom in self.AfficherAdj:
+                    print(nom)
+                print("\n")
+            if len(self.AfficherAdv) > 0:
+                print("Voici les adverbes générés:")
+                for nom in self.AfficherAdv:
+                    print(nom)
+                print("\n")
+        else:
+            print("Votre mot n'est pas dérivable avec l'ensemble des règles actuelles")
 
     def start(self):
         if os.path.isfile(self.nettoyerPath):
@@ -259,7 +263,12 @@ class JDM:
 
 
 if __name__ == '__main__':
-    starttime = time.time()
-    jdm = JDM("transformer")
-    jdm.start()
-    print("vous avez obtenus ces résultats en", (time.time() - starttime), "secondes.")
+    while True:
+        mot = input("Entre un mot ou exit.\n")
+        if mot == "exit.":
+            break
+        else:
+            starttime = time.time()
+            jdm = JDM(mot)
+            jdm.start()
+            print("vous avez obtenus ces résultats en", (time.time() - starttime), "secondes.\n")

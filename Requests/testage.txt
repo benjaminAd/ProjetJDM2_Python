@@ -1,0 +1,92 @@
+<CODE>
+// DUMP pour le terme 'testage' (eid=150958)
+<def>
+<br />
+Sélection des animaux reproducteurs ou des cultivars par observation, contrôle des qualités de leurs premiers descendants et de leurs produits.<br /> 
+ Le testage in-vitro des plants de tomate.  
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;444;'n_link'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;150958;'testage';1;52
+e;136189;'contrôler';1;410
+e;139536;'contrôle';1;460
+e;20219;'descendance';1;292
+e;117095;'zoologie';1;1864
+e;81196;'tester';1;268
+e;239128;'_COM';36;50
+e;2586627;'Gender:Mas';4;0
+e;2586629;'Number:Sing';4;0
+e;146885;'Nom:Mas+SG';4;50
+e;171870;'Nom:';4;50
+e;151553;'_FL:0';6;50
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+e;254878;'_POL-NEG_PC';36;50
+e;254877;'_POL-NEUTRE_PC';36;50
+e;273221;'_INFO-WIKI-NO';36;50
+e;15991432;'_ANIME-NO';36;50
+e;251716;'_INFO-MONOSEMIC';36;50
+e;223172;'_POL-NEG';36;50
+e;191672;'_INFO-SEM-ACTION';36;36
+e;2585997;'_INFO-CNRTL-NO';36;50
+e;254876;'_POL-POS_PC';36;50
+e;241794;'_POL-NEUTRE';36;50
+e;223173;'_POL-POS';36;50
+e;4170245;'dbnary:fra:__ws_1_testage__nom__1';444;0
+e;2089751;'testages';2;0
+e;14358;'test';1;608
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;3;'r_domain';'domaine';Il est demandé de fournir des domaines relatifs au mot cible. Par exemple, pour 'corner', on pourra donner les domaines 'football' ou 'sport'.
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;22;'r_family';'famille';Des mots de la même famille lexicale sont demandés (dérivation morphologique, par exemple). Par exemple, pour 'lait' on pourrait mettre 'laitier', 'laitage', 'laiterie', etc.
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;39;'r_verbe-action';'verbe>action';du verbe vers l'action. Par exemple, construire -> construction , jardiner -> jardinage . C'est un terme directement dérivé (ayant la même racine). Applicable que pour un verbe et inverse de la relation 40 (action vers verbe).
+rt;40;'r_action-verbe';'action>verbe';de l'action vers le verbe. Par exemple, construction -> construire, jardinage -> jardiner. C'est un terme directement dérivé (ayant la même racine). Applicable que pour un nom et inverse de la relation 39 (verbe vers action).
+rt;444;'r_link';'r_link';Lien vers une ressource externe (WordNet, RadLex, UMLS, Wikipedia, etc...)
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;418352406;150958;136189;0;10
+r;418352405;150958;139536;0;12
+r;418352407;150958;20219;0;12
+r;418352404;150958;117095;0;25
+r;11991292;150958;81196;0;35
+r;24113857;150958;239128;0;1000000
+r;418352403;150958;117095;3;25
+r;54142749;150958;2586627;4;45
+r;54181856;150958;2586629;4;45
+r;56605;150958;146885;4;60
+r;625033;150958;171870;4;65
+r;74791915;150958;151553;12;30
+r;89963136;150958;3575927;18;26
+r;90819702;150958;3576104;18;26
+r;337266;150958;150958;19;58
+r;27055375;150958;254878;36;8
+r;27055374;150958;254877;36;20
+r;428843292;150958;273221;36;25
+r;418352402;150958;15991432;36;25
+r;96043499;150958;251716;36;28
+r;26682546;150958;223172;36;39
+r;11955873;150958;191672;36;41
+r;78530656;150958;2585997;36;53
+r;27055373;150958;254876;36;71
+r;26373094;150958;241794;36;94
+r;18366810;150958;223173;36;328
+r;1069070;150958;81196;40;54
+r;94529698;150958;4170245;444;1
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;87604644;2089751;150958;0;29
+r;11991291;81196;150958;0;37
+r;32406427;2089751;150958;19;57
+r;337266;150958;150958;19;58
+r;275950;14358;150958;22;54
+r;1069069;81196;150958;39;55

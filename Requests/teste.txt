@@ -1,0 +1,77 @@
+<CODE>
+// DUMP pour le terme 'teste' (eid=2089846)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;777;'n_wikipedia'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;2089846;'teste';2;0
+e;81196;'tester';1;268
+e;14270798;'VerbalMode:Impératif';4;0
+e;14270847;'Ver:ImPre+SG+P2';4;0
+e;14270944;'VerbalPers:P3';4;0
+e;14270943;'VerbalPers:P2';4;0
+e;14270942;'VerbalPers:P1';4;0
+e;14270945;'VerbalNumber:SG';4;0
+e;150120;'Ver:SPre+SG+P3';4;50
+e;150119;'Ver:SPre+SG+P1';4;50
+e;150118;'Ver:IPre+SG+P3';4;50
+e;150117;'Ver:IPre+SG+P1';4;50
+e;3093591;'VerbalMode:Subjonctif';4;0
+e;3093590;'VerbalMode:Indicatif';4;0
+e;2935005;'VerbalTime:Present';4;0
+e;2946892;'Ver:Conjug';4;0
+e;161698;'Ver:IPre+SG+P1:IPre+SG+P3:SPre+SG+P1:SPre+SG+P3:ImPre+SG+P2';4;50
+e;212235;'Ver:';4;50
+e;15521964;'Elle teste des logiciels.';1;0
+e;151553;'_FL:0';6;50
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+e;2983124;'_SW';36;50
+e;2541370;'Cornod';1;2
+e;2424378;'Trancault';1;0
+e;750240;'Histogramme de l'évolution démographique';777;0
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;11;'r_locution';'locution';A partir d'un terme, il est demandé d'énumérer les locutions, expression ou mots composés en rapport avec ce terme. Par exemple, pour 'moulin', ou pourra avoir 'moulin à vent', 'moulin à eau', 'moulin à café'. Pour 'vendre', on pourra avoir 'vendre la peau de l'ours avant de l'avoir tué', 'vendre à perte', etc..
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;555;'r_cooccurrence';'r_cooccurrence';co-occurences (non utilisée)
+rt;777;'r_wiki';'r_wiki';Associations issues de wikipedia...
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;87604845;2089846;81196;0;32
+r;361880202;2089846;14270798;4;25
+r;363205510;2089846;14270847;4;25
+r;363026568;2089846;14270944;4;25
+r;363017583;2089846;14270943;4;25
+r;363008627;2089846;14270942;4;25
+r;362999767;2089846;14270945;4;25
+r;362990804;2089846;150120;4;25
+r;362981668;2089846;150119;4;25
+r;362972661;2089846;150118;4;25
+r;362963759;2089846;150117;4;25
+r;76578976;2089846;3093591;4;31
+r;76578977;2089846;3093590;4;37
+r;72107940;2089846;2935005;4;45
+r;72480313;2089846;2946892;4;45
+r;32406980;2089846;161698;4;57
+r;32406983;2089846;212235;4;62
+r;397848538;2089846;15521964;11;50
+r;74791937;2089846;151553;12;40
+r;89607988;2089846;3575927;18;27
+r;90591209;2089846;3576104;18;37
+r;32406974;2089846;81196;19;51
+r;74006132;2089846;2983124;555;2171
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;397848539;15521964;2089846;0;50
+r;70300429;2541370;2089846;777;10
+r;415074614;2424378;2089846;777;10
+r;415074616;750240;2089846;777;10
