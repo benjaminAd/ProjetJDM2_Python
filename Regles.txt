@@ -62,6 +62,9 @@ Ver:Inf;er;Ver:;asses;ger
 Ver:Inf;er;Ver:;assions;ger
 Ver:Inf;er;Ver:;assiez;ger
 Ver:Inf;er;Ver:;assent;ger
+Ver:Inf;er;Nom:;age;ger
+Ver:Ing;ier;Nom:;age;$
+Ver:Inf;er;Nom:;ement;$
 Ver:Inf;ger;Ver:;geai;$
 Ver:Inf;ger;Ver:;gea;$
 Ver:Inf;ger;Ver:;geas;$

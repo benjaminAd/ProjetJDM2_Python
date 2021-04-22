@@ -1,0 +1,323 @@
+<CODE>
+// DUMP pour le terme 'lavant' (eid=79730)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;200;'n_context'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;79730;'lavant';1;104
+e;2727;'purifiant';1;58
+e;9035;'mouillant';1;86
+e;24915;'dégraissant';1;70
+e;31504;'détachant';1;132
+e;96480;'récurant';1;50
+e;108579;'blanchissant';1;76
+e;113616;'nettoyant';1;74
+e;143876;'laver';1;2460
+e;163409;'baignant';1;54
+e;239128;'_COM';36;50
+e;440971;'détachant>171869';1;50;'détachant>Adj:'
+e;588516;'nettoyant>171869';1;0;'nettoyant>Adj:'
+e;590181;'mouillant>171869';1;0;'mouillant>Adj:'
+e;591379;'dégraissant>171869';1;0;'dégraissant>Adj:'
+e;595941;'blanchissant>171869';1;0;'blanchissant>Adj:'
+e;7592564;'en:washing';1;0
+e;15226446;'en:cleaning off';1;0
+e;15328698;'en:washing down';1;0
+e;13701;'technique';1;642
+e;146888;'Adj:Mas+SG';4;50
+e;161697;'Ver:PPre';4;50
+e;171869;'Adj:';4;50
+e;212235;'Ver:';4;50
+e;2586627;'Gender:Mas';4;0
+e;2586629;'Number:Sing';4;0
+e;1335;'venger';1;62
+e;1851;'ablutionner';1;50
+e;2344;'mouiller';1;658
+e;7427;'frotter';1;472
+e;8788;'décharger';1;342
+e;10744;'purger';1;62
+e;11237;'effacer';1;436
+e;11882;'étuver';1;58
+e;17165;'échauder';1;100
+e;18426;'abluer';1;50
+e;24553;'baigner';1;162
+e;28108;'passer';1;514
+e;29253;'absterger';1;50
+e;33408;'sablonner';1;50
+e;34603;'purifier';1;108
+e;35067;'essanger';1;50
+e;37265;'aiguayer';1;50
+e;45036;'décrasser';1;84
+e;46009;'délaver';1;150
+e;52504;'déterger';1;50
+e;54438;'vendre';1;1416
+e;55842;'blanchir';1;324
+e;61460;'disculper';1;114
+e;62971;'bassiner';1;60
+e;65104;'dégraisser';1;120
+e;67803;'arroser';1;620
+e;76083;'détacher';1;238
+e;81643;'lessiver';1;138
+e;82345;'enlever';1;668
+e;85286;'nettoyer';1;2440
+e;87528;'faire';1;1646
+e;92096;'se revancher';1;50
+e;96006;'réhabiliter';1;98
+e;98213;'toiletter';1;56
+e;99820;'doucher';1;110
+e;100484;'innocenter';1;146
+e;100768;'lotionner';1;50
+e;102952;'décrotter';1;58
+e;103940;'excuser';1;108
+e;104197;'radier';1;74
+e;107633;'délayer';1;50
+e;114741;'se nettoyer';1;60
+e;115944;'récurer';1;190
+e;116047;'débarbouiller';1;58
+e;116638;'relaver';1;98
+e;117283;'rincer';1;286
+e;128054;'guéer';1;50
+e;128091;'savonner';1;148
+e;130260;'justifier';1;186
+e;17873;'calomnier';1;90
+e;27636;'salir';1;308
+e;29904;'accuser';1;210
+e;45748;'éclabousser';1;102
+e;87579;'contaminer';1;206
+e;106727;'crotter';1;86
+e;110259;'souiller';1;94
+e;129974;'imputer';1;50
+e;133039;'barbouiller';1;136
+e;145644;'tacher';1;174
+e;15234802;'WC lavant';1;0
+e;151553;'_FL:0';6;50
+e;151564;'_FL:5';6;50
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+e;14916413;'Langue:français';18;50
+e;28453;'bonheur';1;2180
+e;223172;'_POL-NEG';36;50
+e;223173;'_POL-POS';36;50
+e;241794;'_POL-NEUTRE';36;50
+e;248198;'_SEX_NO';36;50
+e;254876;'_POL-POS_PC';36;50
+e;254877;'_POL-NEUTRE_PC';36;50
+e;254878;'_POL-NEG_PC';36;50
+e;273221;'_INFO-WIKI-NO';36;50
+e;438949;'_INFO-POLYMORPHIC';36;50
+e;2585997;'_INFO-CNRTL-NO';36;50
+e;189874;'lavante';1;86
+e;12668146;'d7687267e0eb8f075b3491cdd0884f7c';200;0
+e;12668164;'dc7844340317b2366b3c3f74c42e1766';200;0
+e;12696732;'dedff2693825cc25c6b46c90fcbe4eb2';200;0
+e;13866758;'7dfb6526ae580822e544d6bbf5f4d6bd';200;0
+e;14040611;'644ab6f64fb88641a4a13423006a8acf';200;0
+e;14599786;'0fb3c43465137c26f4bd1f97a51a8558';200;0
+e;16357788;'c5e1c305af5be188eb82a3c8877e3f53';200;0
+e;2983124;'_SW';36;50
+e;77871;'détergent';1;240
+e;332667;'produit de lavage';1;50
+e;116505;'abluant';1;50
+e;90053;'lavabo';1;712
+e;140975;'lave';1;722
+e;154195;'rideau de douche';1;68
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;3;'r_domain';'domaine';Il est demandé de fournir des domaines relatifs au mot cible. Par exemple, pour 'corner', on pourra donner les domaines 'football' ou 'sport'.
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;5;'r_syn';'synonyme';Il est demandé d'énumérer les synonymes ou quasi-synonymes de ce terme.
+rt;7;'r_anto';'contraire';Il est demandé d'énumérer des contraires du terme. Par exemple, 'chaud' est le contraire de 'froid'.
+rt;11;'r_locution';'locution';A partir d'un terme, il est demandé d'énumérer les locutions, expression ou mots composés en rapport avec ce terme. Par exemple, pour 'moulin', ou pourra avoir 'moulin à vent', 'moulin à eau', 'moulin à café'. Pour 'vendre', on pourra avoir 'vendre la peau de l'ours avant de l'avoir tué', 'vendre à perte', etc..
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;22;'r_family';'famille';Des mots de la même famille lexicale sont demandés (dérivation morphologique, par exemple). Par exemple, pour 'lait' on pourrait mettre 'laitier', 'laitage', 'laiterie', etc.
+rt;32;'r_sentiment';'sentiment';Pour un terme donné, évoquer des mots liés à des SENTIMENTS ou des EMOTIONS que vous pourriez associer à ce terme. Par exemple, la joie, le plaisir, le dégoût, la peur, la haine, l'amour, l'indifférence, l'envie, avoir peur, horrible, etc.
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;59;'r_masc';'équivalent masc';L'équivalent masculin du terme : lionne --> lion.
+rt;60;'r_fem';'équivalent fem';L'équivalent féminin du terme : lion --> lionne.
+rt;79;'r_verb_ppre';'r_verb_ppre';Le participe présent(au masculin singulier) du verbe infinitif. Par exemple, pour manger => mangeant
+rt;200;'r_context';'r_context';Relation de contexte entre un terme et un noeud contexte.
+rt;333;'r_translation';'r_translation';Traduction vers une autre langue.
+rt;555;'r_cooccurrence';'r_cooccurrence';co-occurences (non utilisée)
+rt;777;'r_wiki';'r_wiki';Associations issues de wikipedia...
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;12232918;79730;2727;0;30
+r;12232915;79730;9035;0;22
+r;12232914;79730;24915;0;35
+r;12232919;79730;31504;0;32
+r;12232916;79730;96480;0;21
+r;12232917;79730;108579;0;23
+r;12232913;79730;113616;0;26
+r;87482979;79730;143876;0;27
+r;12232921;79730;163409;0;28
+r;24064718;79730;239128;0;1000000
+r;341549236;79730;440971;0;26
+r;311569696;79730;588516;0;30
+r;335778507;79730;590181;0;28
+r;335786885;79730;591379;0;25
+r;311567801;79730;595941;0;21
+r;415678643;79730;7592564;0;25
+r;415721681;79730;15226446;0;25
+r;415721683;79730;15328698;0;25
+r;399614428;79730;13701;3;25
+r;33985;79730;146888;4;59
+r;349821;79730;161697;4;60
+r;1954020;79730;171869;4;66
+r;12100453;79730;212235;4;56
+r;53967763;79730;2586627;4;45
+r;53982162;79730;2586629;4;45
+r;85748519;79730;1335;5;-27
+r;85748482;79730;1851;5;-28
+r;85748475;79730;2344;5;-28
+r;707197;79730;2727;5;35
+r;85748473;79730;7427;5;-26
+r;85748488;79730;8788;5;-28
+r;707200;79730;9035;5;35
+r;85748508;79730;10744;5;-28
+r;85748479;79730;11237;5;-29
+r;85748501;79730;11882;5;-28
+r;85748498;79730;17165;5;-29
+r;85748481;79730;18426;5;-29
+r;85748476;79730;24553;5;-30
+r;707201;79730;24915;5;27
+r;85748480;79730;28108;5;-27
+r;85748483;79730;29253;5;-28
+r;707196;79730;31504;5;39
+r;85748513;79730;33408;5;-25
+r;85748477;79730;34603;5;-27
+r;85748500;79730;35067;5;-28
+r;85748484;79730;37265;5;-30
+r;85748489;79730;45036;5;-27
+r;85748492;79730;46009;5;-30
+r;85748495;79730;52504;5;-28
+r;85748518;79730;54438;5;-28
+r;85748474;79730;55842;5;-27
+r;85748496;79730;61460;5;-26
+r;85748486;79730;62971;5;-28
+r;85748491;79730;65104;5;-25
+r;85748485;79730;67803;5;-29
+r;85748494;79730;76083;5;-27
+r;85748506;79730;81643;5;-26
+r;85748499;79730;82345;5;-28
+r;85748471;79730;85286;5;-26
+r;85748502;79730;87528;5;-29
+r;85748516;79730;92096;5;-30
+r;85748510;79730;96006;5;-27
+r;707199;79730;96480;5;40
+r;85748517;79730;98213;5;-26
+r;85748497;79730;99820;5;-28
+r;85748504;79730;100484;5;-29
+r;85748507;79730;100768;5;-29
+r;85748490;79730;102952;5;-28
+r;85748478;79730;103940;5;-26
+r;85748509;79730;104197;5;-28
+r;85748493;79730;107633;5;-28
+r;707198;79730;108579;5;30
+r;707202;79730;113616;5;31
+r;85748515;79730;114741;5;-26
+r;85748472;79730;115944;5;-25
+r;85748487;79730;116047;5;-26
+r;85748511;79730;116638;5;-25
+r;85748512;79730;117283;5;-26
+r;85748503;79730;128054;5;-28
+r;85748514;79730;128091;5;-28
+r;85748505;79730;130260;5;-26
+r;707195;79730;163409;5;34
+r;331689915;79730;440971;5;15
+r;310126641;79730;588516;5;25
+r;310116063;79730;590181;5;15
+r;310109596;79730;591379;5;24
+r;310068934;79730;595941;5;25
+r;85748463;79730;17873;7;-26
+r;85748468;79730;27636;7;-26
+r;85748461;79730;29904;7;-28
+r;85748466;79730;45748;7;-25
+r;85748464;79730;87579;7;-28
+r;85748465;79730;106727;7;-29
+r;85748469;79730;110259;7;-25
+r;85748467;79730;129974;7;-26
+r;85748462;79730;133039;7;-30
+r;85748470;79730;145644;7;-29
+r;419562614;79730;15234802;11;25
+r;74690043;79730;151553;12;31
+r;424333;79730;151564;12;8
+r;90010336;79730;3575927;18;28
+r;90875820;79730;3576104;18;32
+r;394608231;79730;14916413;18;25
+r;312786;79730;79730;19;54
+r;312787;79730;143876;19;54
+r;33793876;79730;28453;32;9
+r;26488458;79730;223172;36;52
+r;9171060;79730;223173;36;375
+r;9184192;79730;241794;36;67
+r;34507386;79730;248198;36;16
+r;11783091;79730;254876;36;76
+r;11783092;79730;254877;36;14
+r;27389635;79730;254878;36;11
+r;82792707;79730;273221;36;34
+r;427402044;79730;438949;36;25
+r;54865108;79730;2585997;36;151
+r;423731419;79730;189874;60;25
+r;324251345;79730;12668146;200;2
+r;324251998;79730;12668164;200;2
+r;325404672;79730;12696732;200;1
+r;350443615;79730;13866758;200;2
+r;354632439;79730;14040611;200;8
+r;371014128;79730;14599786;200;2
+r;431976805;79730;16357788;200;2
+r;394705893;79730;7592564;333;26
+r;394608233;79730;15226446;333;28
+r;394608229;79730;15328698;333;29
+r;74141072;79730;2983124;555;1157
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;419562615;15234802;79730;0;1
+r;331689914;440971;79730;0;15
+r;310116062;590181;79730;0;16
+r;12348292;31504;79730;0;21
+r;310109595;591379;79730;0;21
+r;12207029;163409;79730;0;22
+r;310126640;588516;79730;0;24
+r;415678642;7592564;79730;0;25
+r;415721680;15226446;79730;0;25
+r;415721682;15328698;79730;0;25
+r;12219587;113616;79730;0;29
+r;12226493;96480;79730;0;29
+r;12313975;2727;79730;0;29
+r;310068933;595941;79730;0;29
+r;12221623;108579;79730;0;30
+r;12256295;24915;79730;0;30
+r;12262216;9035;79730;0;30
+r;12461543;77871;79730;0;35
+r;107874072;189874;79730;0;35
+r;12456724;332667;79730;0;45
+r;1863;116505;79730;0;57
+r;714555;96480;79730;5;26
+r;722449;113616;79730;5;27
+r;680663;24915;79730;5;28
+r;720142;108579;79730;5;29
+r;736724;163409;79730;5;31
+r;309237489;440971;79730;5;33
+r;309289015;588516;79730;5;33
+r;309297598;590181;79730;5;33
+r;309304193;591379;79730;5;33
+r;309335971;595941;79730;5;33
+r;673926;9035;79730;5;34
+r;12232920;31504;79730;5;39
+r;424332;2727;79730;5;80
+r;312786;79730;79730;19;54
+r;1775660;90053;79730;22;60
+r;623469;140975;79730;22;90
+r;1777197;143876;79730;22;190
+r;107874073;189874;79730;59;45
+r;85730977;143876;79730;79;31
+r;394705894;7592564;79730;333;26
+r;394608234;15226446;79730;333;28
+r;394608230;15328698;79730;333;29
+r;7584342;154195;79730;777;10

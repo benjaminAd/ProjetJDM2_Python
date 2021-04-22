@@ -1,0 +1,43 @@
+<CODE>
+// DUMP pour le terme 'laverez' (eid=2061224)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;2061224;'laverez';2;0
+e;143876;'laver';1;2460
+e;212235;'Ver:';4;50
+e;2935007;'VerbalTime:Future';4;0
+e;2946892;'Ver:Conjug';4;0
+e;3093590;'VerbalMode:Indicatif';4;0
+e;3095166;'Ver:IFut+PL+P2';4;50
+e;14270943;'VerbalPers:P2';4;0
+e;14270946;'VerbalNumber:PL';4;0
+e;151553;'_FL:0';6;50
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;87576057;2061224;143876;0;31
+r;32326298;2061224;212235;4;56
+r;75854572;2061224;2935007;4;45
+r;363800184;2061224;2946892;4;25
+r;75854571;2061224;3093590;4;45
+r;75089047;2061224;3095166;4;61
+r;363534798;2061224;14270943;4;25
+r;363526580;2061224;14270946;4;25
+r;74690068;2061224;151553;12;42
+r;89636825;2061224;3575927;18;26
+r;90620454;2061224;3576104;18;30
+r;32326293;2061224;143876;19;58
+// les relations entrantes : r;rid;node1;node2;type;w 

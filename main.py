@@ -118,8 +118,7 @@ class JDM:
                         newWord = self.mot[:(len(self.mot) - length)] + rule.transformation
                         if endword == rule.endWord and self.checkIfWordExist(
                                 newWord, rule.transformType):
-                            createdWord.append(newWord)
-        return createdWord
+                            self.addToDisplayTab(newWord, rule.transformType)
 
     def nettoyage(self):
         if os.path.isfile(self.nettoyerPath):
@@ -212,11 +211,42 @@ class JDM:
                 if flag and j != '// END\n' and j != '\n':
                     code += j
 
+    def addToDisplayTab(self, newWord, transformType):
+        if "Ver:" in transformType:
+            self.AfficherVer.append(newWord)
+        if "Nom:" in transformType:
+            self.AfficherNom.append(newWord)
+        if "Adv:" in transformType:
+            self.AfficherAdv.append(newWord)
+        if "Adj:" in transformType:
+            self.AfficherAdj.append(newWord)
+
+    def display(self):
+        print("Voici les mots que vous avez produit à partir de " + self.mot + ":")
+        if len(self.AfficherNom) > 0:
+            print("Voici les noms générés:")
+            for nom in self.AfficherNom:
+                print(nom)
+            print("\n")
+        if len(self.AfficherVer) > 0:
+            print("Voici les verbes générés:")
+            for nom in self.AfficherVer:
+                print(nom)
+            print("\n")
+        if len(self.AfficherAdj) > 0:
+            print("Voici les adjectifs générés:")
+            for nom in self.AfficherAdj:
+                print(nom)
+            print("\n")
+        if len(self.AfficherAdv) > 0:
+            print("Voici les adverbes générés:")
+            for nom in self.AfficherAdv:
+                print(nom)
+            print("\n")
+
 
 if __name__ == '__main__':
-    jdm = JDM("manger")
+    jdm = JDM("laver")
     jdm.separateData(jdm.requestToJDM())
-    derivation = jdm.checkRule()
-
-    for mot in derivation:
-        print(mot)
+    jdm.checkRule()
+    jdm.display()

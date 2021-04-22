@@ -1,0 +1,222 @@
+<CODE>
+// DUMP pour le terme 'lava' (eid=148872)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;200;'n_context'
+nt;444;'n_link'
+nt;777;'n_wikipedia'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;148872;'lava';1;50
+e;14945987;'en:lava';1;0
+e;143876;'laver';1;2460
+e;239128;'_COM';36;50
+e;14289763;'lava>2946892';1;0;'lava>Ver:Conjug'
+e;14289764;'lava>171870';1;0;'lava>Nom:'
+e;14270944;'VerbalPers:P3';4;0
+e;14270945;'VerbalNumber:SG';4;0
+e;14271095;'VerbalTime:PasséSimple';4;0
+e;2586628;'Gender:Fem';4;0
+e;2586629;'Number:Sing';4;0
+e;2935006;'VerbalTime:Past';4;0
+e;2946892;'Ver:Conjug';4;0
+e;3093590;'VerbalMode:Indicatif';4;0
+e;161713;'Ver:IPSim+SG+P3';4;50
+e;146881;'Nom:Fem+SG';4;50
+e;212235;'Ver:';4;50
+e;171870;'Nom:';4;50
+e;14547911;'lava beds national monument';777;0
+e;11350539;'lava tree';777;0
+e;2493624;'pillow lava';1;0
+e;151553;'_FL:0';6;50
+e;7332979;'Langue:anglais';18;50
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+e;223172;'_POL-NEG';36;50
+e;241794;'_POL-NEUTRE';36;50
+e;223173;'_POL-POS';36;50
+e;254877;'_POL-NEUTRE_PC';36;50
+e;254878;'_POL-NEG_PC';36;50
+e;438949;'_INFO-POLYMORPHIC';36;50
+e;276096;'_INFO-WIKI-YES';36;50
+e;2585997;'_INFO-CNRTL-NO';36;50
+e;254876;'_POL-POS_PC';36;50
+e;13640400;'3957ba9eaf32d09a9efd0acb3bfd8e16';200;0
+e;13538346;'70d541f5ce2700b02f8855f2b9feb2b8';200;0
+e;13538407;'14ce8e7a3c8291684db5a4d98e3efc36';200;0
+e;3228593;'wiki:@';444;0
+e;2983124;'_SW';36;50
+e;65586;'espagnol';1;566
+e;172976;'Basque';1;52
+e;86112;'basque';1;98
+e;103604;'Espagne';1;966
+e;9993;'Biscaye';1;50
+e;277616;'Guipuscoa';777;50
+e;145403;'enclave';1;64
+e;59818;'fors';1;50
+e;214360;'Pays basque';1;80
+e;90578;'euskara';1;50
+e;25233;'biscayen';1;50
+e;78741;'écoles';1;84
+e;6059;'Samaniego';1;50
+e;106859;'Labourd';1;50
+e;4000;'Soule';1;52
+e;115989;'Asturies';1;50
+e;88606;'Badajoz';1;50
+e;60446;'Barcelone';1;186
+e;85744;'Burgos';1;50
+e;69277;'Cadix';1;52
+e;103618;'Ciudad Real';1;50
+e;98142;'Cordoue';1;52
+e;70;'Cuenca';1;50
+e;137196;'Grenade';1;60
+e;58782;'Guadalajara';1;50
+e;49898;'Huelva';1;50
+e;71974;'Huesca';1;50
+e;70818;'Lugo';1;50
+e;232576;'Malaga';1;50
+e;121493;'Palencia';1;50
+e;31224;'Las Palmas';1;62
+e;48417;'Pontevedra';1;50
+e;102469;'Salamanque';1;50
+e;44250;'Saragosse';1;56
+e;10427;'Soria';1;50
+e;33509;'Tarragone';1;50
+e;135621;'Teruel';1;50
+e;140394;'Valence';1;54
+e;273206;'Province de Valladolid';777;50
+e;111042;'Valladolid';1;58
+e;114297;'Zamora';1;50
+e;2061125;'lavas';2;0
+e;16311663;'volcano';777;0
+e;146297;'active';1;78
+e;97869;'dormant';1;138
+e;9041909;'extinct';777;0
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;2;'r_raff_morpho';'raffinement morphologique';Raffinement morphologique vers un usage particulier du terme source
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;5;'r_syn';'synonyme';Il est demandé d'énumérer les synonymes ou quasi-synonymes de ce terme.
+rt;6;'r_isa';'générique';Il est demandé d'énumérer les GENERIQUES/hyperonymes du terme. Par exemple, 'animal' et 'mammifère' sont des génériques de 'chat'.
+rt;8;'r_hypo';'spécifique';Il est demandé d'énumérer des SPECIFIQUES/hyponymes du terme. Par exemple, 'mouche', 'abeille', 'guêpe' pour 'insecte'.
+rt;11;'r_locution';'locution';A partir d'un terme, il est demandé d'énumérer les locutions, expression ou mots composés en rapport avec ce terme. Par exemple, pour 'moulin', ou pourra avoir 'moulin à vent', 'moulin à eau', 'moulin à café'. Pour 'vendre', on pourra avoir 'vendre la peau de l'ours avant de l'avoir tué', 'vendre à perte', etc..
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;72;'r_syn_strict';'r_syn_strict';Termes strictement substituables, pour des termes hors du domaine général, et pour la plupart des noms (exemple : endométriose intra-utérine --> adénomyose)
+rt;200;'r_context';'r_context';Relation de contexte entre un terme et un noeud contexte.
+rt;333;'r_translation';'r_translation';Traduction vers une autre langue.
+rt;444;'r_link';'r_link';Lien vers une ressource externe (WordNet, RadLex, UMLS, Wikipedia, etc...)
+rt;555;'r_cooccurrence';'r_cooccurrence';co-occurences (non utilisée)
+rt;777;'r_wiki';'r_wiki';Associations issues de wikipedia...
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;390954488;148872;14945987;0;23
+r;87482978;148872;143876;0;58
+r;24112377;148872;239128;0;1000000
+r;363920682;148872;14289763;2;45
+r;363920686;148872;14289764;2;45
+r;363133905;148872;14270944;4;25
+r;363125688;148872;14270945;4;25
+r;363117445;148872;14271095;4;25
+r;54026476;148872;2586628;4;45
+r;54056918;148872;2586629;4;45
+r;72154781;148872;2935006;4;45
+r;72421673;148872;2946892;4;45
+r;75854563;148872;3093590;4;45
+r;349820;148872;161713;4;52
+r;33979;148872;146881;4;57
+r;12100450;148872;212235;4;57
+r;1949775;148872;171870;4;65
+r;390954489;148872;14945987;5;25
+r;370076941;148872;14547911;8;25
+r;293193939;148872;11350539;8;51
+r;369776286;148872;14547911;11;25
+r;291214669;148872;11350539;11;32
+r;52479367;148872;2493624;11;53
+r;74690028;148872;151553;12;32
+r;390333654;148872;7332979;18;25
+r;89965219;148872;3575927;18;26
+r;90821803;148872;3576104;18;26
+r;312781;148872;143876;19;55
+r;312780;148872;148872;19;60
+r;212853595;148872;223172;36;1
+r;212853597;148872;241794;36;1
+r;212853596;148872;223173;36;3
+r;212853599;148872;254877;36;23
+r;212853600;148872;254878;36;24
+r;363920685;148872;438949;36;26
+r;77930905;148872;276096;36;27
+r;212853594;148872;2585997;36;50
+r;212853598;148872;254876;36;60
+r;390333655;148872;14945987;72;25
+r;346056015;148872;13640400;200;2
+r;343028729;148872;13538346;200;4
+r;343033231;148872;13538407;200;6
+r;390734722;148872;14945987;333;25
+r;78011084;148872;3228593;444;57
+r;74008543;148872;2983124;555;828
+r;6951984;148872;65586;777;10
+r;6951989;148872;172976;777;10
+r;6951990;148872;86112;777;10
+r;6951993;148872;103604;777;10
+r;6951996;148872;9993;777;10
+r;6951999;148872;277616;777;10
+r;6952002;148872;145403;777;10
+r;6952005;148872;59818;777;10
+r;6952008;148872;214360;777;10
+r;6952013;148872;90578;777;10
+r;6952042;148872;25233;777;10
+r;6952049;148872;78741;777;10
+r;6952207;148872;6059;777;10
+r;6952221;148872;106859;777;10
+r;6952224;148872;4000;777;10
+r;6952227;148872;115989;777;10
+r;6952230;148872;88606;777;10
+r;6952233;148872;60446;777;10
+r;6952236;148872;85744;777;10
+r;6952239;148872;69277;777;10
+r;6952242;148872;103618;777;10
+r;6952245;148872;98142;777;10
+r;6952248;148872;70;777;10
+r;6952251;148872;137196;777;10
+r;6952254;148872;58782;777;10
+r;6952257;148872;49898;777;10
+r;6952262;148872;71974;777;10
+r;6952267;148872;70818;777;10
+r;6952270;148872;232576;777;10
+r;6952273;148872;121493;777;10
+r;6952280;148872;31224;777;10
+r;6952283;148872;48417;777;10
+r;6952289;148872;102469;777;10
+r;6952292;148872;44250;777;10
+r;6952298;148872;10427;777;10
+r;6952301;148872;33509;777;10
+r;6952304;148872;135621;777;10
+r;6952307;148872;140394;777;10
+r;6952312;148872;273206;777;10
+r;6952313;148872;111042;777;10
+r;6952322;148872;114297;777;10
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;369776287;14547911;148872;0;10
+r;291214670;11350539;148872;0;14
+r;391048555;14945987;148872;0;22
+r;87575956;2061125;148872;0;26
+r;52479368;2493624;148872;0;52
+r;391048556;14945987;148872;5;25
+r;291214673;11350539;148872;6;26
+r;369776288;14547911;148872;6;26
+r;32326008;2061125;148872;19;56
+r;312780;148872;148872;19;60
+r;390954490;14945987;148872;72;25
+r;390333656;14945987;148872;333;25
+r;428432379;16311663;148872;777;10
+r;428432381;146297;148872;777;10
+r;428432383;97869;148872;777;10
+r;428432385;9041909;148872;777;10

@@ -1,0 +1,67 @@
+<CODE>
+// DUMP pour le terme 'lavasses' (eid=2061144)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;2061144;'lavasses';2;0
+e;143876;'laver';1;2460
+e;32866;'lavasse';1;66
+e;14294631;'lavasses>171870';1;0;'lavasses>Nom:'
+e;14294630;'lavasses>2946892';1;0;'lavasses>Ver:Conjug'
+e;2586628;'Gender:Fem';4;0
+e;14271094;'VerbalTime:Imparfait';4;0
+e;14270945;'VerbalNumber:SG';4;0
+e;14270943;'VerbalPers:P2';4;0
+e;3093591;'VerbalMode:Subjonctif';4;0
+e;2946892;'Ver:Conjug';4;0
+e;2935006;'VerbalTime:Past';4;0
+e;2586630;'Number:Plur';4;0
+e;212235;'Ver:';4;50
+e;171870;'Nom:';4;50
+e;161741;'Ver:SImp+SG+P2';4;50
+e;146893;'Nom:Fem+PL';4;50
+e;151553;'_FL:0';6;50
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+e;1912917;'_INFO-COUNTABLE-YES';36;0
+e;438949;'_INFO-POLYMORPHIC';36;50
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;2;'r_raff_morpho';'raffinement morphologique';Raffinement morphologique vers un usage particulier du terme source
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;87519682;2061144;143876;0;34
+r;87575971;2061144;32866;0;30
+r;363937654;2061144;14294631;2;45
+r;363937650;2061144;14294630;2;45
+r;53991776;2061144;2586628;4;45
+r;363700579;2061144;14271094;4;25
+r;362839894;2061144;14270945;4;25
+r;362847906;2061144;14270943;4;25
+r;75854588;2061144;3093591;4;45
+r;72434096;2061144;2946892;4;45
+r;75854587;2061144;2935006;4;45
+r;54007943;2061144;2586630;4;45
+r;32168182;2061144;212235;4;55
+r;32326057;2061144;171870;4;53
+r;32168181;2061144;161741;4;56
+r;32326053;2061144;146893;4;53
+r;74690049;2061144;151553;12;28
+r;89636905;2061144;3575927;18;27
+r;90620534;2061144;3576104;18;35
+r;32168180;2061144;143876;19;60
+r;32326047;2061144;32866;19;51
+r;32937532;2061144;1912917;36;40
+r;363937653;2061144;438949;36;26
+// les relations entrantes : r;rid;node1;node2;type;w 

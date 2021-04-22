@@ -1,0 +1,186 @@
+<CODE>
+// DUMP pour le terme 'lavasse' (eid=32866)
+<def>
+<br />
+(Familier) Soupe, sauce ou boisson où l'eau est en excès.<br /> 
+ Cette soupe ne vaut rien du tout, ce n'est qu'une lavasse, que de la lavasse.  
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;444;'n_link'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;32866;'lavasse';1;66
+e;103255;'breuvage';1;166
+e;128382;'insipide';1;104
+e;158158;'café>146885';1;62;'café>Nom:Mas+SG'
+e;2228;'terne';1;200
+e;6343;'délavé';1;146
+e;40056;'couleur';1;4816
+e;103016;'rinçure';1;50
+e;243473;'lavure>53555';1;10;'lavure>eau de vaisselle'
+e;2975;'lavure';1;62
+e;66324;'café';1;3800
+e;113547;'boisson';1;3942
+e;93138;'potage';1;528
+e;143876;'laver';1;2460
+e;91046;'pluie';1;3268
+e;239128;'_COM';36;50
+e;16167733;'lavasse>171869';1;0;'lavasse>Adj:'
+e;14289765;'lavasse>2946892';1;0;'lavasse>Ver:Conjug'
+e;14289766;'lavasse>171870';1;0;'lavasse>Nom:'
+e;14269;'boissons';1;114
+e;132338;'couleurs';1;230
+e;14270942;'VerbalPers:P1';4;0
+e;14270945;'VerbalNumber:SG';4;0
+e;14271094;'VerbalTime:Imparfait';4;0
+e;171869;'Adj:';4;50
+e;2586628;'Gender:Fem';4;0
+e;2586629;'Number:Sing';4;0
+e;2946892;'Ver:Conjug';4;0
+e;3093591;'VerbalMode:Subjonctif';4;0
+e;2935006;'VerbalTime:Past';4;0
+e;161725;'Ver:SImp+SG+P1';4;50
+e;146881;'Nom:Fem+SG';4;50
+e;212235;'Ver:';4;50
+e;171870;'Nom:';4;50
+e;117152;'soupe';1;1526
+e;151553;'_FL:0';6;50
+e;3576104;'Morpho:nospace';18;50
+e;3575927;'Morpho:min';18;50
+e;172435;'Langage:familier';18;50
+e;143378;'thé';1;1658
+e;57221;'joie';1;3888
+e;14330;'satisfaction';1;614
+e;91691;'surprise';1;1186
+e;28453;'bonheur';1;2180
+e;251716;'_INFO-MONOSEMIC';36;50
+e;254878;'_POL-NEG_PC';36;50
+e;254877;'_POL-NEUTRE_PC';36;50
+e;273221;'_INFO-WIKI-NO';36;50
+e;217817;'_INFO-POLYSEMIC';36;50
+e;15991432;'_ANIME-NO';36;50
+e;438949;'_INFO-POLYMORPHIC';36;50
+e;223172;'_POL-NEG';36;50
+e;2585996;'_INFO-CNRTL-YES';36;50
+e;254876;'_POL-POS_PC';36;50
+e;241794;'_POL-NEUTRE';36;50
+e;223173;'_POL-POS';36;50
+e;4047026;'dbnary:fra:__ws_1_lavasse__nom__1';444;0
+e;4189;'serré';1;176
+e;607832;'serré>171869';1;0;'serré>Adj:'
+e;1703260;'serré>54186';1;0;'serré>fort'
+e;2061144;'lavasses';2;0
+e;140975;'lave';1;722
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;2;'r_raff_morpho';'raffinement morphologique';Raffinement morphologique vers un usage particulier du terme source
+rt;3;'r_domain';'domaine';Il est demandé de fournir des domaines relatifs au mot cible. Par exemple, pour 'corner', on pourra donner les domaines 'football' ou 'sport'.
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;5;'r_syn';'synonyme';Il est demandé d'énumérer les synonymes ou quasi-synonymes de ce terme.
+rt;6;'r_isa';'générique';Il est demandé d'énumérer les GENERIQUES/hyperonymes du terme. Par exemple, 'animal' et 'mammifère' sont des génériques de 'chat'.
+rt;8;'r_hypo';'spécifique';Il est demandé d'énumérer des SPECIFIQUES/hyponymes du terme. Par exemple, 'mouche', 'abeille', 'guêpe' pour 'insecte'.
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;20;'r_has_magn';'magn';La magnification ou amplification, par exemple - forte fièvre - ou - fièvre de cheval - pour fièvre. Ou encore - amour fou - pour amour, - peur bleue - pour peur.
+rt;21;'r_has_antimagn';'antimagn';L'inverse de la magnification, par exemple - bruine - pour pluie.
+rt;22;'r_family';'famille';Des mots de la même famille lexicale sont demandés (dérivation morphologique, par exemple). Par exemple, pour 'lait' on pourrait mettre 'laitier', 'laitage', 'laiterie', etc.
+rt;27;'r_domain-1';'domaine-1';inverse de r_domain : à un domaine, on associe des termes
+rt;32;'r_sentiment';'sentiment';Pour un terme donné, évoquer des mots liés à des SENTIMENTS ou des EMOTIONS que vous pourriez associer à ce terme. Par exemple, la joie, le plaisir, le dégoût, la peur, la haine, l'amour, l'indifférence, l'envie, avoir peur, horrible, etc.
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;444;'r_link';'r_link';Lien vers une ressource externe (WordNet, RadLex, UMLS, Wikipedia, etc...)
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;418182679;32866;103255;0;12
+r;418182680;32866;128382;0;12
+r;329903694;32866;158158;0;22
+r;418182684;32866;2228;0;22
+r;418182685;32866;6343;0;22
+r;418182683;32866;40056;0;25
+r;916619;32866;103016;0;27
+r;2044744;32866;243473;0;27
+r;916618;32866;2975;0;28
+r;55059320;32866;66324;0;29
+r;1317483;32866;113547;0;30
+r;12362396;32866;93138;0;30
+r;87482980;32866;143876;0;31
+r;1317484;32866;91046;0;35
+r;24031373;32866;239128;0;1000000
+r;423890451;32866;16167733;2;25
+r;363920689;32866;14289765;2;50
+r;363920693;32866;14289766;2;50
+r;418182678;32866;14269;3;25
+r;418182682;32866;132338;3;25
+r;31433865;32866;91046;3;30
+r;362862689;32866;14270942;4;25
+r;362854731;32866;14270945;4;25
+r;363708854;32866;14271094;4;25
+r;418182681;32866;171869;4;25
+r;54026479;32866;2586628;4;45
+r;54056921;32866;2586629;4;45
+r;72421674;32866;2946892;4;45
+r;75854585;32866;3093591;4;45
+r;75854586;32866;2935006;4;45
+r;349822;32866;161725;4;53
+r;33987;32866;146881;4;55
+r;12100454;32866;212235;4;57
+r;612469;32866;171870;4;76
+r;310205768;32866;158158;5;25
+r;54696936;32866;91046;5;52
+r;54991086;32866;66324;5;58
+r;53743181;32866;2975;5;66
+r;12172526;32866;93138;5;78
+r;82818554;32866;117152;6;27
+r;74690047;32866;151553;12;35
+r;90912747;32866;3576104;18;27
+r;90042079;32866;3575927;18;37
+r;60377400;32866;172435;18;40
+r;312790;32866;143876;19;52
+r;312789;32866;32866;19;56
+r;377018709;32866;143378;20;25
+r;33457932;32866;57221;32;-5
+r;33923534;32866;14330;32;14
+r;33770601;32866;91691;32;15
+r;33551022;32866;28453;32;18
+r;95953314;32866;251716;36;-39
+r;27384102;32866;254878;36;10
+r;27384101;32866;254877;36;21
+r;423890454;32866;273221;36;25
+r;418182676;32866;217817;36;25
+r;418182677;32866;15991432;36;25
+r;363920692;32866;438949;36;29
+r;26476377;32866;223172;36;37
+r;54991085;32866;2585996;36;55
+r;27384100;32866;254876;36;68
+r;26351855;32866;241794;36;75
+r;18546170;32866;223173;36;243
+r;94418391;32866;4047026;444;1
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;97373785;4189;32866;0;15
+r;97450862;607832;32866;0;15
+r;12172525;93138;32866;0;21
+r;310205767;158158;32866;0;22
+r;916701;2975;32866;0;27
+r;21106663;91046;32866;0;27
+r;28108466;1703260;32866;0;27
+r;2044747;243473;32866;0;28
+r;991185;103016;32866;0;29
+r;21162483;113547;32866;0;29
+r;87575971;2061144;32866;0;30
+r;59518425;66324;32866;0;32
+r;309225026;158158;32866;5;33
+r;54666623;91046;32866;5;52
+r;54724246;66324;32866;5;53
+r;53608410;2975;32866;5;54
+r;3093479;93138;32866;5;83
+r;243426572;117152;32866;8;25
+r;32326047;2061144;32866;19;51
+r;312789;32866;32866;19;56
+r;9323472;143378;32866;21;51
+r;2097711;140975;32866;22;60
+r;1777198;143876;32866;22;108
+r;31449743;91046;32866;27;26
