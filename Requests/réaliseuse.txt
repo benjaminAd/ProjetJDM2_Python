@@ -1,0 +1,34 @@
+<CODE>
+// DUMP pour le terme 'rÃ©aliseuse' (eid=4209223)
+<def>
+<br />
+(Désuet) Réaliste, celle qui met à nu la réalité.
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;4;'n_pos'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;444;'n_link'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;4209223;'réaliseuse';1;0
+e;239128;'_COM';36;50
+e;171870;'Nom:';4;50
+e;3576104;'Morpho:nospace';18;50
+e;251716;'_INFO-MONOSEMIC';36;50
+e;2585997;'_INFO-CNRTL-NO';36;50
+e;4209222;'dbnary:fra:__ws_1_réaliseuse__nom__1';444;0
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;444;'r_link';'r_link';Lien vers une ressource externe (WordNet, RadLex, UMLS, Wikipedia, etc...)
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;95526467;4209223;239128;0;1000000
+r;95526468;4209223;171870;4;26
+r;424307580;4209223;3576104;18;25
+r;96257564;4209223;251716;36;31
+r;283668406;4209223;2585997;36;50
+r;95318658;4209223;4209222;444;34
+// les relations entrantes : r;rid;node1;node2;type;w 

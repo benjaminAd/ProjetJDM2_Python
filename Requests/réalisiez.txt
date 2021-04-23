@@ -1,0 +1,53 @@
+<CODE>
+// DUMP pour le terme 'rÃ©alisiez' (eid=2090107)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;2090107;'réalisiez';2;0
+e;4528;'réaliser';1;434
+e;14270943;'VerbalPers:P2';4;0
+e;14270946;'VerbalNumber:PL';4;0
+e;14270842;'Ver:SPre+PL+P2';4;0
+e;14271094;'VerbalTime:Imparfait';4;0
+e;2935005;'VerbalTime:Present';4;0
+e;14270841;'Ver:IImp+PL+P2';4;0
+e;2935006;'VerbalTime:Past';4;0
+e;2946892;'Ver:Conjug';4;0
+e;3093590;'VerbalMode:Indicatif';4;0
+e;3093591;'VerbalMode:Subjonctif';4;0
+e;161752;'Ver:IImp+PL+P2:SPre+PL+P2';4;50
+e;212235;'Ver:';4;50
+e;151553;'_FL:0';6;50
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;87610620;2090107;4528;0;34
+r;363412782;2090107;14270943;4;25
+r;363404965;2090107;14270946;4;25
+r;363397143;2090107;14270842;4;25
+r;363389236;2090107;14271094;4;25
+r;363650909;2090107;2935005;4;25
+r;363767130;2090107;14270841;4;25
+r;72129366;2090107;2935006;4;45
+r;72483391;2090107;2946892;4;45
+r;75737686;2090107;3093590;4;45
+r;75737687;2090107;3093591;4;45
+r;32423183;2090107;161752;4;63
+r;32423184;2090107;212235;4;63
+r;74744093;2090107;151553;12;34
+r;89607725;2090107;3575927;18;27
+r;90590892;2090107;3576104;18;40
+r;32423178;2090107;4528;19;59
+// les relations entrantes : r;rid;node1;node2;type;w 

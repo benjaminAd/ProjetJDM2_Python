@@ -1,0 +1,122 @@
+<CODE>
+// DUMP pour le terme 'remplis' (eid=246844)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;10;'n_relation'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;777;'n_wikipedia'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;246844;'remplis';1;50
+e;95980;'remplir';1;820
+e;239128;'_COM';36;50
+e;14298570;'remplis>2946892';1;0;'remplis>Ver:Conjug'
+e;1900327;'remplis>161702';1;0;'remplis>Ver:PPas'
+e;1900328;'remplis>171869';1;0;'remplis>Adj:'
+e;3093590;'VerbalMode:Indicatif';4;0
+e;14271095;'VerbalTime:PasséSimple';4;0
+e;14270942;'VerbalPers:P1';4;0
+e;14270943;'VerbalPers:P2';4;0
+e;14270945;'VerbalNumber:SG';4;0
+e;14270847;'Ver:ImPre+SG+P2';4;0
+e;14270798;'VerbalMode:Impératif';4;0
+e;161702;'Ver:PPas';4;50
+e;171869;'Adj:';4;50
+e;2935005;'VerbalTime:Present';4;0
+e;2935006;'VerbalTime:Past';4;0
+e;2946892;'Ver:Conjug';4;0
+e;161736;'Ver:IPSim+SG+P2';4;50
+e;150117;'Ver:IPre+SG+P1';4;50
+e;161738;'Ver:IPSim+SG+P1';4;50
+e;150116;'Ver:Imp+SG+P2';4;50
+e;161717;'Ver:IPre+SG+P2';4;50
+e;161715;'Ver:PPas+Mas+PL';4;50
+e;212235;'Ver:';4;50
+e;10903034;'buts remplis';777;0
+e;12049378;'déplacer des moules remplis';1;0
+e;15374534;'Des sacs remplis de peinture furent jetés.';1;0
+e;151553;'_FL:0';6;50
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+e;164562;'sacs';1;74
+e;223172;'_POL-NEG';36;50
+e;223173;'_POL-POS';36;50
+e;241794;'_POL-NEUTRE';36;50
+e;248197;'_SEX_YES';36;50
+e;254878;'_POL-NEG_PC';36;50
+e;254876;'_POL-POS_PC';36;50
+e;273221;'_INFO-WIKI-NO';36;50
+e;438949;'_INFO-POLYMORPHIC';36;50
+e;254877;'_POL-NEUTRE_PC';36;50
+e;2585997;'_INFO-CNRTL-NO';36;50
+e;1974238;':r31843719';10;0
+e;2983124;'_SW';36;50
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;2;'r_raff_morpho';'raffinement morphologique';Raffinement morphologique vers un usage particulier du terme source
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;11;'r_locution';'locution';A partir d'un terme, il est demandé d'énumérer les locutions, expression ou mots composés en rapport avec ce terme. Par exemple, pour 'moulin', ou pourra avoir 'moulin à vent', 'moulin à eau', 'moulin à café'. Pour 'vendre', on pourra avoir 'vendre la peau de l'ours avant de l'avoir tué', 'vendre à perte', etc..
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;17;'r_carac';'caractéristique';Pour un terme donné, souvent un objet, il est demandé d'en énumérer les CARACtéristiques (adjectifs) possibles/typiques. Par exemple, 'liquide', 'froide', 'chaude', pour 'eau'.
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;22;'r_family';'famille';Des mots de la même famille lexicale sont demandés (dérivation morphologique, par exemple). Par exemple, pour 'lait' on pourrait mettre 'laitier', 'laitage', 'laiterie', etc.
+rt;23;'r_carac-1';'caractéristique-1';Quels sont les objets (des noms) possédant typiquement/possiblement la caractérisque suivante ? Par exemple, 'soleil', 'feu', pour 'chaud'.
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;128;'r_node2relnode';'r_node2relnode';Relation entre un noeud (quelconque) et un noeud de relation (type = 10) - permet de rendre le graphe connexe même avec les annotations de relations
+rt;555;'r_cooccurrence';'r_cooccurrence';co-occurences (non utilisée)
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;87491188;246844;95980;0;27
+r;24178832;246844;239128;0;1000000
+r;363952422;246844;14298570;2;35
+r;30616789;246844;1900327;2;50
+r;30616793;246844;1900328;2;65
+r;361910110;246844;3093590;4;25
+r;363142645;246844;14271095;4;25
+r;363029700;246844;14270942;4;25
+r;362917528;246844;14270943;4;25
+r;362917289;246844;14270945;4;25
+r;364325336;246844;14270847;4;25
+r;361876064;246844;14270798;4;30
+r;12114071;246844;161702;4;34
+r;12114675;246844;171869;4;34
+r;72094065;246844;2935005;4;45
+r;72154926;246844;2935006;4;45
+r;72423424;246844;2946892;4;45
+r;12107891;246844;161736;4;52
+r;12107887;246844;150117;4;54
+r;12107890;246844;161738;4;55
+r;12107885;246844;150116;4;57
+r;12107888;246844;161717;4;57
+r;12107889;246844;161715;4;57
+r;12107886;246844;212235;4;60
+r;274297249;246844;10903034;11;30
+r;313654836;246844;12049378;11;35
+r;395032359;246844;15374534;11;50
+r;74755959;246844;151553;12;35
+r;89899911;246844;3575927;18;30
+r;90795845;246844;3576104;18;31
+r;12107884;246844;95980;19;58
+r;31847560;246844;164562;23;24
+r;218194477;246844;223172;36;1
+r;218194478;246844;223173;36;2
+r;218194480;246844;241794;36;3
+r;55317895;246844;248197;36;16
+r;218194483;246844;254878;36;17
+r;218194481;246844;254876;36;33
+r;83408319;246844;273221;36;34
+r;30616792;246844;438949;36;41
+r;218194482;246844;254877;36;50
+r;83408228;246844;2585997;36;60
+r;31843723;246844;1974238;128;1
+r;74033400;246844;2983124;555;3054
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;274297250;10903034;246844;0;6
+r;313654837;12049378;246844;0;11
+r;395032360;15374534;246844;0;50
+r;31843719;164562;246844;17;52
+r;2148058;95980;246844;22;51

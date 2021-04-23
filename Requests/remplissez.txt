@@ -1,0 +1,67 @@
+<CODE>
+// DUMP pour le terme 'remplissez' (eid=1978651)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;1978651;'remplissez';1;0
+e;95980;'remplir';1;820
+e;3093590;'VerbalMode:Indicatif';4;0
+e;14270943;'VerbalPers:P2';4;0
+e;14270946;'VerbalNumber:PL';4;0
+e;14270846;'Ver:ImPre+PL+P2';4;0
+e;14270798;'VerbalMode:Impératif';4;0
+e;212235;'Ver:';4;50
+e;2935005;'VerbalTime:Present';4;0
+e;2946892;'Ver:Conjug';4;0
+e;161745;'Ver:Imp+PL+P2';4;50
+e;161746;'Ver:IPre+PL+P2';4;50
+e;151553;'_FL:0';6;50
+e;3576104;'Morpho:nospace';18;50
+e;3575927;'Morpho:min';18;50
+e;223172;'_POL-NEG';36;50
+e;223173;'_POL-POS';36;50
+e;241794;'_POL-NEUTRE';36;50
+e;254876;'_POL-POS_PC';36;50
+e;254878;'_POL-NEG_PC';36;50
+e;273221;'_INFO-WIKI-NO';36;50
+e;254877;'_POL-NEUTRE_PC';36;50
+e;2983124;'_SW';36;50
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;555;'r_cooccurrence';'r_cooccurrence';co-occurences (non utilisée)
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;87500061;1978651;95980;0;26
+r;363086631;1978651;3093590;4;25
+r;362919036;1978651;14270943;4;25
+r;362918474;1978651;14270946;4;25
+r;364325625;1978651;14270846;4;25
+r;364326275;1978651;14270798;4;25
+r;32085362;1978651;212235;4;45
+r;72095024;1978651;2935005;4;45
+r;72424601;1978651;2946892;4;45
+r;32085757;1978651;161745;4;60
+r;32085758;1978651;161746;4;60
+r;74755970;1978651;151553;12;34
+r;90703941;1978651;3576104;18;34
+r;89718750;1978651;3575927;18;42
+r;32085756;1978651;95980;19;59
+r;96378668;1978651;223172;36;1
+r;96378669;1978651;223173;36;1
+r;96378670;1978651;241794;36;2
+r;96378671;1978651;254876;36;35
+r;96378673;1978651;254878;36;35
+r;71790965;1978651;273221;36;40
+r;96378672;1978651;254877;36;55
+r;74111365;1978651;2983124;555;683
+// les relations entrantes : r;rid;node1;node2;type;w 

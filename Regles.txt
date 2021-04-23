@@ -79,6 +79,7 @@ Ver:Inf;er;Nom:;e;$
 Ver:Inf;er;Adj:;ant;$
 Ver:Inf;er;Adj:;eant;ger
 Ver:Inf;ger;Adj:;geant;$
+Ver:Inf;ger;Adj:;geante;$
 Ver:Inf;er;Adj:;ible;$
 Ver:Inf;er;Nom:;ail;ger
 Ver:Inf;er;Nom:;aille;ger
@@ -202,3 +203,4 @@ Nom:;age;Ver:Inf;er;$
 Nom:;e;Nom:;eau;$
 Nom:;n;Nom:;nne;$
 Adj:;t;Adj:;te;$
+Ver:Inf;uire;Ver:;uira;$

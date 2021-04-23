@@ -1,0 +1,49 @@
+<CODE>
+// DUMP pour le terme 'accomplissez' (eid=1981743)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;1981743;'accomplissez';2;0
+e;75065;'accomplir';1;132
+e;14270798;'VerbalMode:Impératif';4;0
+e;14270846;'Ver:ImPre+PL+P2';4;0
+e;14270943;'VerbalPers:P2';4;0
+e;14270946;'VerbalNumber:PL';4;0
+e;161746;'Ver:IPre+PL+P2';4;50
+e;3093590;'VerbalMode:Indicatif';4;0
+e;2935005;'VerbalTime:Present';4;0
+e;2946892;'Ver:Conjug';4;0
+e;161720;'Ver:IPre+PL+P2:ImPre+PL+P2';4;50
+e;212235;'Ver:';4;50
+e;151553;'_FL:0';6;50
+e;3576104;'Morpho:nospace';18;50
+e;3575927;'Morpho:min';18;50
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;87502950;1981743;75065;0;28
+r;363674990;1981743;14270798;4;25
+r;363208557;1981743;14270846;4;25
+r;363079476;1981743;14270943;4;25
+r;363071623;1981743;14270946;4;25
+r;363063821;1981743;161746;4;25
+r;363062489;1981743;3093590;4;25
+r;72095473;1981743;2935005;4;45
+r;72425861;1981743;2946892;4;45
+r;32117154;1981743;161720;4;56
+r;32117155;1981743;212235;4;58
+r;74528886;1981743;151553;12;34
+r;90702039;1981743;3576104;18;28
+r;89716839;1981743;3575927;18;31
+r;32117153;1981743;75065;19;56
+// les relations entrantes : r;rid;node1;node2;type;w 

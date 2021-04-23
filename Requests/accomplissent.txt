@@ -1,0 +1,84 @@
+<CODE>
+// DUMP pour le terme 'accomplissent' (eid=1981741)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;200;'n_context'
+nt;777;'n_wikipedia'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;1981741;'accomplissent';2;0
+e;75065;'accomplir';1;132
+e;161706;'Ver:IPre+PL+P3';4;50
+e;3093591;'VerbalMode:Subjonctif';4;0
+e;14270944;'VerbalPers:P3';4;0
+e;14270946;'VerbalNumber:PL';4;0
+e;161707;'Ver:SPre+PL+P3';4;50
+e;2935005;'VerbalTime:Present';4;0
+e;3093590;'VerbalMode:Indicatif';4;0
+e;3095208;'Ver:SImp+PL+P3';4;50
+e;2935006;'VerbalTime:Past';4;0
+e;14271094;'VerbalTime:Imparfait';4;0
+e;2946892;'Ver:Conjug';4;0
+e;212235;'Ver:';4;50
+e;3110274;'Ver:IPre+PL+P3:SPre+PL+P3:SImp+PL+P3';4;50
+e;16326705;'accomplissent une action';777;0
+e;151553;'_FL:0';6;50
+e;3576104;'Morpho:nospace';18;50
+e;3575927;'Morpho:min';18;50
+e;12664356;'208bfb0e7c6c30ac8a919c2f92e98857';200;0
+e;12693020;'c0988b89b56b12f67431ea647a17d0b4';200;0
+e;12721799;'9e03f50aa10f1027a22ef3a7a214fae9';200;0
+e;12735687;'6657ce7457f3aea95d2eaee215ed325f';200;0
+e;12884167;'80a24546cba19f022d79eab94abc50a6';200;0
+e;13730473;'3d4e283edf800e819b380247d70b9200';200;0
+e;14002812;'52b2d1d4fbec8dbd48f055bc3ba17833';200;0
+e;13641697;'f0e5413d7bdb099b7109108a8c88ca2a';200;0
+e;12953504;'c95f343ea9e873281fb03e2eed056526';200;0
+e;2983124;'_SW';36;50
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;11;'r_locution';'locution';A partir d'un terme, il est demandé d'énumérer les locutions, expression ou mots composés en rapport avec ce terme. Par exemple, pour 'moulin', ou pourra avoir 'moulin à vent', 'moulin à eau', 'moulin à café'. Pour 'vendre', on pourra avoir 'vendre la peau de l'ours avant de l'avoir tué', 'vendre à perte', etc..
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;200;'r_context';'r_context';Relation de contexte entre un terme et un noeud contexte.
+rt;555;'r_cooccurrence';'r_cooccurrence';co-occurences (non utilisée)
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;87502948;1981741;75065;0;34
+r;363030102;1981741;161706;4;25
+r;363196496;1981741;3093591;4;25
+r;363030972;1981741;14270944;4;25
+r;363030694;1981741;14270946;4;25
+r;363030413;1981741;161707;4;25
+r;363029850;1981741;2935005;4;25
+r;363029814;1981741;3093590;4;25
+r;363742554;1981741;3095208;4;25
+r;363776049;1981741;2935006;4;25
+r;363776327;1981741;14271094;4;25
+r;363776740;1981741;2946892;4;25
+r;32117150;1981741;212235;4;51
+r;75187347;1981741;3110274;4;64
+r;431150081;1981741;16326705;11;25
+r;74528884;1981741;151553;12;34
+r;90702041;1981741;3576104;18;26
+r;89716841;1981741;3575927;18;35
+r;32117149;1981741;75065;19;57
+r;324109532;1981741;12664356;200;1
+r;325244789;1981741;12693020;200;1
+r;326581044;1981741;12721799;200;1
+r;327164385;1981741;12735687;200;1
+r;330298420;1981741;12884167;200;1
+r;348161620;1981741;13730473;200;2
+r;352981563;1981741;14002812;200;2
+r;346133799;1981741;13641697;200;6
+r;331787562;1981741;12953504;200;18
+r;74025015;1981741;2983124;555;1423
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;431150082;16326705;1981741;0;1

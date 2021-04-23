@@ -1,0 +1,64 @@
+<CODE>
+// DUMP pour le terme 'finissez' (eid=1972090)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;1972090;'finissez';1;0
+e;116753;'finir';1;510
+e;14270946;'VerbalNumber:PL';4;0
+e;14270798;'VerbalMode:Impératif';4;0
+e;14270846;'Ver:ImPre+PL+P2';4;0
+e;14270943;'VerbalPers:P2';4;0
+e;161746;'Ver:IPre+PL+P2';4;50
+e;3093590;'VerbalMode:Indicatif';4;0
+e;2935005;'VerbalTime:Present';4;0
+e;2946892;'Ver:Conjug';4;0
+e;161720;'Ver:IPre+PL+P2:ImPre+PL+P2';4;50
+e;212235;'Ver:';4;50
+e;151553;'_FL:0';6;50
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+e;223172;'_POL-NEG';36;50
+e;241794;'_POL-NEUTRE';36;50
+e;223173;'_POL-POS';36;50
+e;254877;'_POL-NEUTRE_PC';36;50
+e;254878;'_POL-NEG_PC';36;50
+e;273221;'_INFO-WIKI-NO';36;50
+e;254876;'_POL-POS_PC';36;50
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;87499832;1972090;116753;0;26
+r;363071564;1972090;14270946;4;25
+r;363675048;1972090;14270798;4;25
+r;363208499;1972090;14270846;4;25
+r;363079418;1972090;14270943;4;25
+r;363063763;1972090;161746;4;25
+r;75189442;1972090;3093590;4;29
+r;72094909;1972090;2935005;4;39
+r;72424486;1972090;2946892;4;45
+r;31793541;1972090;161720;4;58
+r;31793424;1972090;212235;4;79
+r;74656022;1972090;151553;12;26
+r;89719317;1972090;3575927;18;30
+r;90704229;1972090;3576104;18;35
+r;31793540;1972090;116753;19;53
+r;96357173;1972090;223172;36;2
+r;96357175;1972090;241794;36;2
+r;96357174;1972090;223173;36;3
+r;96357177;1972090;254877;36;29
+r;96357178;1972090;254878;36;29
+r;71777904;1972090;273221;36;40
+r;96357176;1972090;254876;36;43
+// les relations entrantes : r;rid;node1;node2;type;w 

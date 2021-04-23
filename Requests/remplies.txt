@@ -1,0 +1,87 @@
+<CODE>
+// DUMP pour le terme 'remplies' (eid=2111418)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;2111418;'remplies';2;0
+e;95980;'remplir';1;820
+e;135815;'remplier';1;50
+e;14299243;'remplies>2946892';1;0;'remplies>Ver:Conjug'
+e;14299244;'remplies>171869';1;0;'remplies>Adj:'
+e;14270943;'VerbalPers:P2';4;0
+e;14270945;'VerbalNumber:SG';4;0
+e;161718;'Ver:SPre+SG+P2';4;50
+e;161717;'Ver:IPre+SG+P2';4;50
+e;2586628;'Gender:Fem';4;0
+e;2586630;'Number:Plur';4;0
+e;149404;'Adj:Fem+PL';4;50
+e;161702;'Ver:PPas';4;50
+e;161710;'Ver:IPre+SG+P2:SPre+SG+P2';4;50
+e;2935005;'VerbalTime:Present';4;0
+e;2946892;'Ver:Conjug';4;0
+e;3093590;'VerbalMode:Indicatif';4;0
+e;3093591;'VerbalMode:Subjonctif';4;0
+e;171869;'Adj:';4;50
+e;161709;'Ver:PPas+Fem+PL';4;50
+e;212235;'Ver:';4;50
+e;3754023;'cuillères à soupe bien remplies de maïzena';1;0
+e;151553;'_FL:0';6;50
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+e;152716;'bulles';1;310
+e;438949;'_INFO-POLYMORPHIC';36;50
+e;2983124;'_SW';36;50
+e;1171994;'compositions';1;0
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;2;'r_raff_morpho';'raffinement morphologique';Raffinement morphologique vers un usage particulier du terme source
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;11;'r_locution';'locution';A partir d'un terme, il est demandé d'énumérer les locutions, expression ou mots composés en rapport avec ce terme. Par exemple, pour 'moulin', ou pourra avoir 'moulin à vent', 'moulin à eau', 'moulin à café'. Pour 'vendre', on pourra avoir 'vendre la peau de l'ours avant de l'avoir tué', 'vendre à perte', etc..
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;17;'r_carac';'caractéristique';Pour un terme donné, souvent un objet, il est demandé d'en énumérer les CARACtéristiques (adjectifs) possibles/typiques. Par exemple, 'liquide', 'froide', 'chaude', pour 'eau'.
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;23;'r_carac-1';'caractéristique-1';Quels sont les objets (des noms) possédant typiquement/possiblement la caractérisque suivante ? Par exemple, 'soleil', 'feu', pour 'chaud'.
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;555;'r_cooccurrence';'r_cooccurrence';co-occurences (non utilisée)
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;87633116;2111418;95980;0;29
+r;87855327;2111418;135815;0;38
+r;363954831;2111418;14299243;2;35
+r;363954835;2111418;14299244;2;35
+r;362952027;2111418;14270943;4;25
+r;362943631;2111418;14270945;4;25
+r;362935141;2111418;161718;4;25
+r;362926672;2111418;161717;4;25
+r;372645247;2111418;2586628;4;25
+r;329858290;2111418;2586630;4;26
+r;372584759;2111418;149404;4;40
+r;32966103;2111418;161702;4;45
+r;75889094;2111418;161710;4;45
+r;75889095;2111418;2935005;4;45
+r;75889096;2111418;2946892;4;45
+r;75889097;2111418;3093590;4;45
+r;75889098;2111418;3093591;4;45
+r;32629272;2111418;171869;4;52
+r;32486888;2111418;161709;4;55
+r;32486891;2111418;212235;4;61
+r;93698856;2111418;3754023;11;51
+r;74755945;2111418;151553;12;26
+r;89586374;2111418;3575927;18;26
+r;90569455;2111418;3576104;18;32
+r;75889099;2111418;135815;19;28
+r;32486886;2111418;95980;19;56
+r;376085539;2111418;152716;23;26
+r;363954834;2111418;438949;36;26
+r;74006912;2111418;2983124;555;3781
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;93698857;3754023;2111418;0;60
+r;410438975;1171994;2111418;17;25
+r;372974787;152716;2111418;17;46

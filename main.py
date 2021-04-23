@@ -269,9 +269,22 @@ class JDM:
 
 if __name__ == '__main__':
     while True:
-        mot = input("Entre un mot ou exit.\n")
+        mot = input("Entre un mot, ajout. ou exit.\n")
         if mot == "exit.":
             break
+        elif mot == "ajout.":
+            print("Indiquer la règle que vous souhaitez ajouter?")
+            print("Le format est le suivant --> Type de mot;terminaison;type du mot une fois transformée;terminaison "
+                  "transformée;exception")
+            print("Dans le cas où aucune exception ne vous vient à l'esprit écrivez juste le symbole $")
+            print("Faites de même dans le cas où souhaitez que votre règle soit utilisable peu importe la terminaison")
+            regle = input()
+            split = regle.split(";")
+            if len(split) == 5:
+                file = open("Regles.txt", "a")
+                file.write(regle)
+                file.close()
+                print("Votre règle -->", regle, "a bien été ajouter")
         else:
             starttime = time.time()
             jdm = JDM(mot)

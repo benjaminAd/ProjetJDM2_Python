@@ -1,0 +1,633 @@
+<CODE>
+// DUMP pour le terme 'finition' (eid=42086)
+<def>
+<br />
+1. Aspect fini d'un objet.<br /> 
+ Cette marqueterie a une belle finition au vernis.  <br />
+2. Action de finir.<br />
+3. Aspect fini d'un objet.<br /> 
+ Quand l'enduit fin de finition a commencé à faire sa prise, on peut le talocher en faisant des 8 vers le haut et en ré-étalant la matière qui se dépose sur la taloche-éponge.    
+ (Valérie Le Roy, ?Philippe Bertone & ?Sylvie Wheeler, Les enduits intérieurs: chaux, plâtre, terre, Éditions Eyrolles, 2012, p.35)  <br /> 
+ Cette marqueterie a une belle finition au vernis.  <br />
+4. Cette opération est une opération dite de finition ou de traitement de surface imprimée.
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;200;'n_context'
+nt;444;'n_link'
+nt;666;'n_AKI'
+nt;777;'n_wikipedia'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;42086;'finition';1;86
+e;354291;'finition manuelle';1;50
+e;3408757;'de production';777;0
+e;224704;'prod';1;52
+e;24613;'terminaison';1;128
+e;106081;'arrêt';1;716
+e;144718;'fin';1;1868
+e;115805;'soin';1;1284
+e;93301;'finissage';1;50
+e;145078;'clôture';1;176
+e;124298;'complétion';1;72
+e;99697;'arrangement';1;180
+e;145757;'fine';1;336
+e;15054611;'en:finishing';1;0
+e;7441036;'en:finish';1;0
+e;67368;'mécanique';1;686
+e;136407;'couronnement';1;110
+e;86011;'enjolivement';1;50
+e;46935;'parachèvement';1;50
+e;298978;'traitement de surface imprimée';777;50
+e;611526;'fine>171870';1;0;'fine>Nom:'
+e;15067;'aboutissement';1;92
+e;105269;'polissage';1;92
+e;12058;'raffinement';1;70
+e;134387;'accomplissement';1;128
+e;59921;'amélioration';1;314
+e;116753;'finir';1;510
+e;80520;'abattement';1;210
+e;86583;'polissure';1;50
+e;23587;'perfectionnement';1;110
+e;93578;'fignolage';1;50
+e;128434;'achèvement';1;98
+e;107646;'orthodontie';1;156
+e;239128;'_COM';36;50
+e;13701;'technique';1;642
+e;2586628;'Gender:Fem';4;0
+e;2586629;'Number:Sing';4;0
+e;146881;'Nom:Fem+SG';4;50
+e;171870;'Nom:';4;50
+e;15229819;'en:feather in your cap';1;0
+e;112929;'action';1;1076
+e;26638;'opération';1;1332
+e;16155994;'Définition équivalente';777;0
+e;79870;'casco';1;50
+e;179740;'nubuck';1;50
+e;297693;'disjoints deux à deux';777;50
+e;6411274;'syndrome de mort subite du bouvillon de finition';1;0
+e;14452253;'différé des travaux de finition';1;0
+e;14490837;'Prises de finition';777;0
+e;15941813;'outil de finition de bottier';1;0
+e;10732341;'Prise de finition';777;0
+e;11812737;'module de finition';777;0
+e;12050419;'utiliser des techniques culinaires de finition';1;0
+e;12051503;'techniques de finition par pulvérisation';1;0
+e;12051491;'techniques de finition du cuir';1;0
+e;12052592;'faire la finition de produits en plastique';1;0
+e;12052832;'utiliser un tunnel de finition';1;0
+e;12053367;'tunnel de finition';1;0
+e;16072724;'Différé des travaux de finition';1;0
+e;3304594;'travaux de finition intérieure';1;0
+e;1781257;'clou de finition';1;0
+e;344511;'couche de finition';1;50
+e;384882;'travaux de finition';1;50
+e;224440;'tondeuse de finition';1;50
+e;229831;'baguette de finition';1;50
+e;254680;'massage sans finition';1;14
+e;254682;'massage avec finition';1;10
+e;309060;'outil de finition';777;50
+e;151550;'_FL:8';6;50
+e;151553;'_FL:0';6;50
+e;153037;'_FL:26';6;50
+e;152842;'_FL:25';6;50
+e;154764;'soignée';1;110
+e;46914;'nécessaire';1;144
+e;14916413;'Langue:français';18;50
+e;3576104;'Morpho:nospace';18;50
+e;3575927;'Morpho:min';18;50
+e;40379;'rogner';1;58
+e;57221;'joie';1;3888
+e;37298;'amour';1;7056
+e;91691;'surprise';1;1186
+e;14330;'satisfaction';1;614
+e;103405;'indifférence';1;610
+e;28453;'bonheur';1;2180
+e;254878;'_POL-NEG_PC';36;50
+e;254877;'_POL-NEUTRE_PC';36;50
+e;276096;'_INFO-WIKI-YES';36;50
+e;217817;'_INFO-POLYSEMIC';36;50
+e;15991432;'_ANIME-NO';36;50
+e;223172;'_POL-NEG';36;50
+e;191672;'_INFO-SEM-ACTION';36;36
+e;2585996;'_INFO-CNRTL-YES';36;50
+e;254876;'_POL-POS_PC';36;50
+e;241794;'_POL-NEUTRE';36;50
+e;223173;'_POL-POS';36;50
+e;71951;'parer';1;92
+e;122967;'égayer';1;62
+e;115321;'poudrer';1;58
+e;42791;'marbrer';1;56
+e;9515;'érafler';1;60
+e;136512;'tracer';1;350
+e;104091;'strier';1;68
+e;26416;'veiner';1;54
+e;116469;'embellir';1;222
+e;44961;'décorer';1;636
+e;133415;'saupoudrer';1;70
+e;9209839;'zèbrer';1;0
+e;131531;'orner';1;210
+e;10910;'ratisser';1;62
+e;14350;'quadriller';1;54
+e;34859;'rayer';1;172
+e;136104;'déguiser';1;176
+e;52760;'dessiner';1;2134
+e;269561;'sans couleur';1;50
+e;12664090;'48a2e96224cd44102e398a910d79927c';200;0
+e;12688028;'48cfaa61e136cb550fe3644d38de25fc';200;0
+e;12695643;'60cf3a0817d9b1aaf966993213811268';200;0
+e;12727289;'cc16acf5eb8d218748e86d96b81cb847';200;0
+e;12735242;'fcf5f2de8369c63ceee8a1acf1163e36';200;0
+e;12771903;'a1a0409ce0a39e9147dd9215b9b9f6f5';200;0
+e;12787717;'28833184b1771e4e70e850e8877d2844';200;0
+e;12789907;'7a3ffc7c603350ab31760100f3829c47';200;0
+e;12793434;'742f582db96f7cd0008e28800256fdb5';200;0
+e;12853770;'03ff7bcd3038d1ae3262aa2fb10b29b5';200;0
+e;12998171;'47ba9260966abaa8d28d42c586adc566';200;0
+e;13060150;'ca01caaf38c03b6bade32e383efdd8f0';200;0
+e;13320887;'47fc024d49c51252f6fd0b510ab7f070';200;0
+e;12674727;'b4960815f80adc427a540570579a9e07';200;0
+e;12695804;'c78b11a901790a73c31713ab8a469d0a';200;0
+e;12718393;'37a7e71da599da77c61615e16fbe5e0b';200;0
+e;12787690;'d38b81357cdc524697c45f6badd52631';200;0
+e;12793329;'115b51fdcd355f3491b8a473f879bf14';200;0
+e;13657787;'2cd2212ac9eecbe48a5666aec1f702f4';200;0
+e;13853642;'8749a89616b0e0e84ef9603cd1bb8fec';200;0
+e;13865920;'8dae4950a73bc4777293168d003a24de';200;0
+e;14130308;'8dbd3bd4800f980efec9dfe5760270e9';200;0
+e;14891903;'18d859e171174c30887d5f1be72485c8';200;0
+e;14891904;'0caad8d09f75ad01669df915968edff5';200;0
+e;14891905;'6876569a9481b756143e984680ec7d69';200;0
+e;15791572;'c5cf8d0d3815e29a7c1fd082c3d2971d';200;0
+e;16357310;'a77f41b287bf20632ea25483e73472fd';200;0
+e;13316442;'c05a1c8b8c8e7d25e3358a6063647a5a';200;0
+e;12713342;'edfb2e120460c94fc2ff03340c2a3ab0';200;0
+e;16160399;'2447c62268a6b98a5dd14a1da59ef3ab';200;0
+e;14319099;'a3e5c2481452e6afa9627da6aac09a67';200;0
+e;3947902;'dbnary:fra:__ws_2_finition__nom__1';444;0
+e;4242301;'dbnary:fra:__ws_1_finition__nom__1';444;0
+e;3228593;'wiki:@';444;0
+e;2983124;'_SW';36;50
+e;148155;'finitions';1;54
+e;126989;'pesticides';1;72
+e;73772;'insecticide';1;302
+e;101918;'vernis';1;258
+e;104929;'solvant';1;144
+e;38322;'dry';1;50
+e;113829;'masturbation';1;494
+e;396391;'Polyester';1;50
+e;88594;'polyester';1;76
+e;2285036;'semenciers';2;0
+e;2201480;'fongicides';2;0
+e;1854530;'Dry';1;0
+e;2371544;'fipronil';1;0
+e;2578974;'Vernis';1;0
+e;205715;'PLV';1;50
+e;5815863;'TER 2N';777;0
+e;4088598;'acide polylactique';1;0
+e;14540529;'Finition';777;0
+e;391670;'frange>140060';1;50;'frange>limite'
+e;391668;'frange>103150';1;50;'frange>optique'
+e;391673;'frange>3233';1;50;'frange>partie'
+e;391672;'frange>112609';1;50;'frange>anatomie'
+e;391671;'frange>51126';1;60;'frange>cheveux'
+e;10557;'premium';1;50
+e;12646;'personnalisation';1;80
+e;8721;'laquage';1;54
+e;22399;'turbo';1;60
+e;52457;'accastillage';1;64
+e;73675;'ajustable';1;50
+e;212955;'airbag';666;12
+e;123618;'anodiser';1;52
+e;143558;'FIAT';1;50
+e;232397;'Chrome';666;42
+e;15494368;'en:prettifying';1;0
+e;15065782;'en:topcoat';1;0
+e;15360950;'en:finish paint';1;0
+e;15360951;'en:building finishing work';1;0
+e;77240;'finissure';1;50
+e;24290;'lasure';1;50
+e;35246;'finisseur';1;50
+e;120884;'honing';1;50
+e;131626;'lapping';1;50
+e;16038401;'stockholm';1;0
+e;15209275;'en:wood carving';1;0
+e;15238676;'en:finishing works';1;0
+e;13879416;'fion>42086';1;0;'fion>finition'
+e;140360;'laque';1;126
+e;20414;'frange';1;74
+e;105824;'fini';1;264
+e;151619;'sculpture sur bois';1;50
+e;15771735;'en:finishing work';1;0
+e;15771736;'en:fitting work';1;0
+e;130778;'tailleur';1;242
+e;9801;'plinthe';1;60
+e;157070;'laque>146881';1;50;'laque>Nom:Fem+SG'
+e;12081100;'quart de rond';1;0
+e;15360946;'en:top coat';1;0
+e;105397;'fion';1;60
+e;81191;'lécher';1;366
+e;391669;'frange>99772';1;50;'frange>passementerie'
+e;26935;'dorure';1;64
+e;14537209;'faire les finitions';1;0
+e;51547;'surfaçage';1;50
+e;56323;'facture';1;322
+e;80577;'quart-de-rond';1;50
+e;12137;'terminer';1;440
+e;102345;'plaisir';1;3530
+e;287486;'Peinture en bâtiment';777;50
+e;151982;'peintre en bâtiment';1;68
+e;5919780;'règle à araser';777;0
+e;5534759;'ton neutre';777;0
+e;5991595;'lancel';777;0
+e;86862;'sculpteur';1;636
+e;188450;'sculptrice';1;74
+e;11117930;'Lancel';1;0
+e;12501;'bouchonnage';1;52
+e;253144;'AME';1;50
+e;253143;'Aide médicale d'État';1;50
+e;3184065;'agglomération montargoise et rives du Loing';777;0
+e;3562509;'alliance missionnaire évangélique';1;0
+e;16284847;'étanchéité à l'air';777;0
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;3;'r_domain';'domaine';Il est demandé de fournir des domaines relatifs au mot cible. Par exemple, pour 'corner', on pourra donner les domaines 'football' ou 'sport'.
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;5;'r_syn';'synonyme';Il est demandé d'énumérer les synonymes ou quasi-synonymes de ce terme.
+rt;6;'r_isa';'générique';Il est demandé d'énumérer les GENERIQUES/hyperonymes du terme. Par exemple, 'animal' et 'mammifère' sont des génériques de 'chat'.
+rt;8;'r_hypo';'spécifique';Il est demandé d'énumérer des SPECIFIQUES/hyponymes du terme. Par exemple, 'mouche', 'abeille', 'guêpe' pour 'insecte'.
+rt;11;'r_locution';'locution';A partir d'un terme, il est demandé d'énumérer les locutions, expression ou mots composés en rapport avec ce terme. Par exemple, pour 'moulin', ou pourra avoir 'moulin à vent', 'moulin à eau', 'moulin à café'. Pour 'vendre', on pourra avoir 'vendre la peau de l'ours avant de l'avoir tué', 'vendre à perte', etc..
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;14;'r_patient';'action>patient';Le patient (qu'on appelle aussi l'objet) est l'entité qui subit l'action. Par exemple dans - Le chat mange la souris -, le patient est la souris. Des patients typiques de manger peuvent être 'viande', 'légume', 'pain', ... (manger r_patient pain)
+rt;16;'r_instr';'action>instrument';L'instrument est l'objet avec lequel on fait l'action. Dans - Il mange sa salade avec une fourchette -, fourchette est l'instrument. Des instruments typiques de 'tuer' peuvent être 'arme', 'pistolet', 'poison', ... (couper r_instr couteau)
+rt;17;'r_carac';'caractéristique';Pour un terme donné, souvent un objet, il est demandé d'en énumérer les CARACtéristiques (adjectifs) possibles/typiques. Par exemple, 'liquide', 'froide', 'chaude', pour 'eau'.
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;22;'r_family';'famille';Des mots de la même famille lexicale sont demandés (dérivation morphologique, par exemple). Par exemple, pour 'lait' on pourrait mettre 'laitier', 'laitage', 'laiterie', etc.
+rt;23;'r_carac-1';'caractéristique-1';Quels sont les objets (des noms) possédant typiquement/possiblement la caractérisque suivante ? Par exemple, 'soleil', 'feu', pour 'chaud'.
+rt;25;'r_instr-1';'instrument>action';L'instrument est l'objet avec lequel on fait l'action. Dans - Il mange sa salade avec une fourchette -, fourchette est l'instrument. On demande ici, ce qu'on peut faire avec un instrument donné... (scie r_instr-1 scier)
+rt;26;'r_patient-1';'patient-1';(inverse de r_patient) Que peut-on faire à cet OBJET. Pour 'pomme', on pourrait avoir 'manger', 'croquer', couper', 'éplucher',  etc. (pomme r_patient-1 manger)
+rt;27;'r_domain-1';'domaine-1';inverse de r_domain : à un domaine, on associe des termes
+rt;32;'r_sentiment';'sentiment';Pour un terme donné, évoquer des mots liés à des SENTIMENTS ou des EMOTIONS que vous pourriez associer à ce terme. Par exemple, la joie, le plaisir, le dégoût, la peur, la haine, l'amour, l'indifférence, l'envie, avoir peur, horrible, etc.
+rt;35;'r_meaning/glose';'glose/sens/signification';Quels SENS/SIGNIFICATIONS pouvez vous donner au terme proposé. Il s'agira de termes (des gloses) évoquant chacun des sens possibles, par exemple : 'forces de l'ordre', 'contrat d'assurance', 'police typographique', ... pour 'police'.
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;39;'r_verbe-action';'verbe>action';du verbe vers l'action. Par exemple, construire -> construction , jardiner -> jardinage . C'est un terme directement dérivé (ayant la même racine). Applicable que pour un verbe et inverse de la relation 40 (action vers verbe).
+rt;40;'r_action-verbe';'action>verbe';de l'action vers le verbe. Par exemple, construction -> construire, jardinage -> jardiner. C'est un terme directement dérivé (ayant la même racine). Applicable que pour un nom et inverse de la relation 39 (verbe vers action).
+rt;63;'r_agentive_implication';'implication agentive';Les verbes ou actions qui sont impliqués dans la création de l'objet. Par exemple pour 'construire' un livre, il faut, imprimer, relier, brocher, etc. Il s'agit des étapes nécessaires à la réalisation du rôle agentif.
+rt;106;'r_color';'couleur';A comme couleur(s)... chat r_color noir
+rt;115;'r_sentiment-1';'sentiment-1';Pour un SENTIMENT ou EMOTION donné, il est demandé dénumérer les termes que vous pourriez associer. Par exemple, pour 'joie', on aurait 'cadeau', 'naissance', 'bonne nouvelle', etc.
+rt;200;'r_context';'r_context';Relation de contexte entre un terme et un noeud contexte.
+rt;333;'r_translation';'r_translation';Traduction vers une autre langue.
+rt;444;'r_link';'r_link';Lien vers une ressource externe (WordNet, RadLex, UMLS, Wikipedia, etc...)
+rt;555;'r_cooccurrence';'r_cooccurrence';co-occurences (non utilisée)
+rt;777;'r_wiki';'r_wiki';Associations issues de wikipedia...
+rt;999;'r_inhib';'r_inhib';relation d'inhibition, le terme inhibe les termes suivants... ce terme a tendance à exclure le terme associé.
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;33610476;42086;354291;0;7
+r;417875041;42086;3408757;0;13
+r;417875042;42086;224704;0;13
+r;868377;42086;24613;0;21
+r;54810713;42086;106081;0;21
+r;868375;42086;144718;0;22
+r;868385;42086;115805;0;22
+r;12249176;42086;93301;0;22
+r;868379;42086;145078;0;23
+r;868380;42086;124298;0;24
+r;868381;42086;99697;0;24
+r;54307332;42086;145757;0;24
+r;415316898;42086;15054611;0;25
+r;416057286;42086;7441036;0;25
+r;417875040;42086;67368;0;25
+r;868378;42086;136407;0;26
+r;868382;42086;86011;0;26
+r;54810714;42086;46935;0;26
+r;192894340;42086;298978;0;26
+r;311523686;42086;611526;0;26
+r;868376;42086;15067;0;27
+r;868383;42086;105269;0;27
+r;868384;42086;12058;0;27
+r;868387;42086;134387;0;27
+r;54810716;42086;59921;0;27
+r;11980501;42086;116753;0;29
+r;54810712;42086;80520;0;29
+r;54810718;42086;86583;0;29
+r;868386;42086;23587;0;30
+r;12249177;42086;93578;0;30
+r;868374;42086;128434;0;31
+r;361069195;42086;107646;0;35
+r;23985825;42086;239128;0;1000000
+r;397661827;42086;13701;3;25
+r;417875039;42086;67368;3;25
+r;351442725;42086;107646;3;35
+r;54024430;42086;2586628;4;45
+r;54054753;42086;2586629;4;45
+r;24836;42086;146881;4;51
+r;588190;42086;171870;4;78
+r;429494095;42086;15229819;5;5
+r;309992948;42086;611526;5;25
+r;53749922;42086;145757;5;36
+r;54793209;42086;86583;5;51
+r;54632330;42086;80520;5;53
+r;54633476;42086;144718;5;53
+r;54793208;42086;134387;5;55
+r;54793206;42086;46935;5;57
+r;53771772;42086;106081;5;59
+r;54243477;42086;128434;5;60
+r;54793207;42086;59921;5;60
+r;688757;42086;93578;5;79
+r;688758;42086;93301;5;83
+r;78608261;42086;112929;6;32
+r;121337342;42086;26638;6;32
+r;427919308;42086;16155994;8;1
+r;427782069;42086;79870;8;3
+r;246705647;42086;179740;8;25
+r;393759728;42086;297693;8;25
+r;33274175;42086;354291;8;26
+r;401030394;42086;6411274;11;25
+r;366855323;42086;14452253;11;25
+r;368245672;42086;14490837;11;25
+r;414798383;42086;15941813;11;25
+r;269880709;42086;10732341;11;28
+r;304782823;42086;11812737;11;34
+r;313693335;42086;12050419;11;36
+r;313728197;42086;12051503;11;38
+r;313733018;42086;12051491;11;38
+r;313733866;42086;12052592;11;40
+r;313737317;42086;12052832;11;40
+r;313746230;42086;12053367;11;41
+r;419100454;42086;16072724;11;45
+r;82891941;42086;3304594;11;52
+r;29226081;42086;1781257;11;56
+r;12726489;42086;344511;11;106
+r;12561899;42086;384882;11;110
+r;12685983;42086;354291;11;110
+r;8694978;42086;224440;11;161
+r;8698522;42086;229831;11;161
+r;8718806;42086;254680;11;161
+r;8718811;42086;254682;11;161
+r;8774898;42086;309060;11;163
+r;1797457;42086;151550;12;16
+r;1857409;42086;151553;12;17
+r;193255;42086;153037;12;21
+r;237069;42086;152842;12;21
+r;373523783;42086;154764;17;31
+r;373980110;42086;46914;17;56
+r;390266499;42086;14916413;18;25
+r;90905435;42086;3576104;18;26
+r;90035513;42086;3575927;18;35
+r;302923;42086;42086;19;54
+r;376185591;42086;116753;25;25
+r;15073013;42086;40379;26;30
+r;33397003;42086;57221;32;-5
+r;33397004;42086;37298;32;-5
+r;33966093;42086;91691;32;17
+r;33731960;42086;14330;32;19
+r;33150438;42086;103405;32;31
+r;33397005;42086;28453;32;48
+r;26993133;42086;254878;36;7
+r;9249189;42086;254877;36;16
+r;427024142;42086;276096;36;25
+r;390266500;42086;217817;36;25
+r;417875038;42086;15991432;36;25
+r;26408525;42086;223172;36;37
+r;11953125;42086;191672;36;41
+r;54793205;42086;2585996;36;52
+r;9249188;42086;254876;36;76
+r;9206236;42086;241794;36;81
+r;9181995;42086;223173;36;383
+r;1063366;42086;116753;40;57
+r;213739833;42086;71951;63;26
+r;213740410;42086;122967;63;26
+r;213740718;42086;115321;63;26
+r;213740078;42086;42791;63;28
+r;213739905;42086;9515;63;29
+r;213740332;42086;136512;63;29
+r;213740492;42086;104091;63;29
+r;213739992;42086;26416;63;30
+r;213740172;42086;116469;63;31
+r;213740258;42086;44961;63;31
+r;213740018;42086;133415;63;32
+r;213739902;42086;9209839;63;33
+r;213740139;42086;131531;63;33
+r;213740832;42086;10910;63;34
+r;213739852;42086;14350;63;35
+r;213739864;42086;34859;63;35
+r;213740066;42086;136104;63;35
+r;213740739;42086;52760;63;35
+r;3180556;42086;269561;106;1
+r;324095824;42086;12664090;200;1
+r;325001656;42086;12688028;200;1
+r;325361094;42086;12695643;200;1
+r;326820716;42086;12727289;200;1
+r;327144380;42086;12735242;200;1
+r;327701047;42086;12771903;200;1
+r;328100774;42086;12787717;200;1
+r;328193049;42086;12789907;200;1
+r;328968059;42086;12793434;200;1
+r;329374888;42086;12853770;200;1
+r;334084877;42086;12998171;200;1
+r;334719521;42086;13060150;200;1
+r;338563066;42086;13320887;200;1
+r;324486319;42086;12674727;200;2
+r;325368223;42086;12695804;200;2
+r;326420721;42086;12718393;200;2
+r;328099823;42086;12787690;200;2
+r;328964534;42086;12793329;200;2
+r;347030702;42086;13657787;200;2
+r;350084078;42086;13853642;200;2
+r;350361362;42086;13865920;200;2
+r;358013947;42086;14130308;200;2
+r;388286946;42086;14891903;200;2
+r;388286977;42086;14891904;200;2
+r;388287007;42086;14891905;200;2
+r;411261955;42086;15791572;200;2
+r;431972937;42086;16357310;200;2
+r;338527309;42086;13316442;200;3
+r;326151485;42086;12713342;200;4
+r;423408867;42086;16160399;200;4
+r;364409760;42086;14319099;200;10
+r;390266497;42086;7441036;333;27
+r;397661822;42086;15054611;333;33
+r;94329670;42086;3947902;444;1
+r;94594771;42086;4242301;444;1
+r;78067687;42086;3228593;444;31
+r;74036887;42086;2983124;555;3017
+r;4510381;42086;148155;777;10
+r;7176787;42086;126989;777;10
+r;7176791;42086;73772;777;10
+r;7176796;42086;101918;777;10
+r;7176800;42086;104929;777;10
+r;7176804;42086;38322;777;10
+r;18659098;42086;113829;777;10
+r;29130093;42086;396391;777;10
+r;29130094;42086;88594;777;10
+r;34532375;42086;2285036;777;10
+r;34532379;42086;2201480;777;10
+r;34532383;42086;1854530;777;10
+r;87395654;42086;2371544;777;10
+r;87395658;42086;2578974;777;10
+r;121320408;42086;205715;777;10
+r;121320412;42086;5815863;777;10
+r;121320416;42086;4088598;777;10
+r;423115509;42086;14540529;777;10
+r;285254218;42086;391670;999;4
+r;285254244;42086;391668;999;4
+r;285254271;42086;391673;999;4
+r;285254298;42086;391672;999;4
+r;285254325;42086;391671;999;4
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;401030395;6411274;42086;0;1
+r;368245673;14490837;42086;0;1
+r;423473188;10557;42086;0;1
+r;423572150;12646;42086;0;1
+r;414798384;15941813;42086;0;1
+r;423432296;8721;42086;0;1
+r;423726379;22399;42086;0;1
+r;425406653;52457;42086;0;1
+r;426985358;73675;42086;0;1
+r;427250282;212955;42086;0;1
+r;427919307;16155994;42086;0;1
+r;428499331;123618;42086;0;1
+r;428805854;143558;42086;0;1
+r;432023162;232397;42086;0;1
+r;427782068;79870;42086;0;3
+r;269880710;10732341;42086;0;4
+r;397066789;15494368;42086;0;10
+r;304782824;11812737;42086;0;10
+r;399400182;15065782;42086;0;10
+r;399400190;15360950;42086;0;10
+r;399400196;15360951;42086;0;10
+r;313693336;12050419;42086;0;12
+r;418104926;77240;42086;0;12
+r;418182212;24290;42086;0;12
+r;417875037;35246;42086;0;13
+r;417875700;120884;42086;0;13
+r;417876353;131626;42086;0;13
+r;417932210;16038401;42086;0;13
+r;313728198;12051503;42086;0;14
+r;313733019;12051491;42086;0;14
+r;313733867;12052592;42086;0;16
+r;313737318;12052832;42086;0;16
+r;313746231;12053367;42086;0;17
+r;396319737;15209275;42086;0;20
+r;397753167;15238676;42086;0;20
+r;802176;145078;42086;0;21
+r;851503;86011;42086;0;22
+r;12227542;93578;42086;0;22
+r;53749921;145757;42086;0;22
+r;309992947;611526;42086;0;22
+r;747305;128434;42086;0;24
+r;979106;12058;42086;0;24
+r;1021442;24613;42086;0;24
+r;350566333;13879416;42086;0;25
+r;415316897;15054611;42086;0;25
+r;416057285;7441036;42086;0;25
+r;746079;134387;42086;0;26
+r;806488;124298;42086;0;26
+r;818089;136407;42086;0;26
+r;11980500;116753;42086;0;26
+r;87481696;148155;42086;0;26
+r;366855324;14452253;42086;0;26
+r;419100455;16072724;42086;0;26
+r;12227650;93301;42086;0;27
+r;55059755;46935;42086;0;27
+r;59508727;59921;42086;0;27
+r;1007925;115805;42086;0;28
+r;9361683;140360;42086;0;28
+r;54632329;80520;42086;0;28
+r;59253418;86583;42086;0;28
+r;272755458;20414;42086;0;28
+r;417875031;105824;42086;0;28
+r;2182207;151619;42086;0;29
+r;955960;23587;42086;0;30
+r;396083304;15229819;42086;0;30
+r;407889286;15771735;42086;0;30
+r;407889291;15771736;42086;0;30
+r;963407;105269;42086;0;32
+r;2216046;130778;42086;0;32
+r;192894339;298978;42086;0;33
+r;764929;99697;42086;0;34
+r;21089970;144718;42086;0;34
+r;53771771;106081;42086;0;34
+r;743789;15067;42086;0;35
+r;1766889;9801;42086;0;35
+r;3148946;157070;42086;0;35
+r;428399389;12081100;42086;0;35
+r;397753186;15360946;42086;0;40
+r;351454620;105397;42086;0;45
+r;9365257;81191;42086;0;51
+r;29226082;1781257;42086;0;51
+r;228237941;391669;42086;0;51
+r;82891942;3304594;42086;0;52
+r;9357476;26935;42086;0;57
+r;412662089;14537209;42086;0;60
+r;21415714;51547;42086;0;61
+r;9355022;56323;42086;0;63
+r;12726490;344511;42086;0;101
+r;12561900;384882;42086;0;104
+r;12685984;354291;42086;0;105
+r;322242267;80577;42086;0;135
+r;9509195;224440;42086;0;147
+r;9530745;254680;42086;0;147
+r;9593455;309060;42086;0;148
+r;1857408;229831;42086;0;165
+r;9530748;254682;42086;0;167
+r;396083490;15229819;42086;5;30
+r;309390906;611526;42086;5;33
+r;54227137;128434;42086;5;51
+r;53574200;106081;42086;5;52
+r;54610008;144718;42086;5;52
+r;54810717;134387;42086;5;52
+r;54810715;46935;42086;5;53
+r;54810719;86583;42086;5;55
+r;54747426;59921;42086;5;56
+r;53602415;145757;42086;5;58
+r;54611328;80520;42086;5;59
+r;713280;93301;42086;5;84
+r;713381;93578;42086;5;84
+r;393611123;297693;42086;6;25
+r;423840012;16155994;42086;6;25
+r;427202736;79870;42086;6;25
+r;33273920;354291;42086;6;38
+r;108359424;179740;42086;6;39
+r;247651138;26638;42086;8;25
+r;378327734;112929;42086;8;25
+r;193254;40379;42086;14;52
+r;8804127;12137;42086;16;-4
+r;237068;116753;42086;16;56
+r;302924;148155;42086;19;51
+r;302923;42086;42086;19;54
+r;429158;144718;42086;22;59
+r;376077619;154764;42086;23;25
+r;376076160;46914;42086;23;26
+r;351442726;107646;42086;27;33
+r;3149030;140360;42086;35;27
+r;3148874;157070;42086;35;35
+r;350566330;105397;42086;35;45
+r;9094962;81191;42086;35;51
+r;2120374;26935;42086;35;53
+r;1657422;56323;42086;35;60
+r;1063365;116753;42086;39;55
+r;34568194;102345;42086;115;1
+r;34568193;28453;42086;115;3
+r;385294982;103405;42086;115;25
+r;390266498;7441036;42086;333;27
+r;397661823;15054611;42086;333;33
+r;5748863;287486;42086;777;10
+r;5748864;151982;42086;777;10
+r;115561951;5919780;42086;777;10
+r;117648940;5534759;42086;777;10
+r;117648941;5991595;42086;777;10
+r;271032232;86862;42086;777;10
+r;271032233;188450;42086;777;10
+r;296382609;11117930;42086;777;10
+r;423571635;12501;42086;777;10
+r;372953367;253144;42086;777;10
+r;372953369;253143;42086;777;10
+r;372953371;3184065;42086;777;10
+r;372953373;3562509;42086;777;10
+r;427179840;16284847;42086;777;10

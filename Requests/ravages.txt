@@ -1,0 +1,197 @@
+<CODE>
+// DUMP pour le terme 'ravages' (eid=399482)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;8;'n_chunk'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;200;'n_context'
+nt;777;'n_wikipedia'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;399482;'ravages';1;52
+e;375416;'ravages de la guerre';1;50
+e;43989;'ravage';1;122
+e;136546;'ravager';1;108
+e;3170130;'Ravages du temps';777;0
+e;14293338;'ravages>2946892';1;0;'ravages>Ver:Conjug'
+e;14293339;'ravages>171870';1;0;'ravages>Nom:'
+e;3093591;'VerbalMode:Subjonctif';4;0
+e;14270943;'VerbalPers:P2';4;0
+e;14270945;'VerbalNumber:SG';4;0
+e;161718;'Ver:SPre+SG+P2';4;50
+e;161717;'Ver:IPre+SG+P2';4;50
+e;3093590;'VerbalMode:Indicatif';4;0
+e;2586627;'Gender:Mas';4;0
+e;2586630;'Number:Plur';4;0
+e;2935005;'VerbalTime:Present';4;0
+e;2946892;'Ver:Conjug';4;0
+e;161710;'Ver:IPre+SG+P2:SPre+SG+P2';4;50
+e;212235;'Ver:';4;50
+e;146887;'Nom:Mas+PL';4;50
+e;171870;'Nom:';4;50
+e;206700;'ravages du temps';1;50
+e;2932606;'Ravages de la guerre';777;0
+e;15272643;'Le stress peut faire des ravages sur le système immunitaire.';1;0
+e;15288799;'Les limaces font des ravages sur les jeunes plantes.';1;0
+e;15290705;'causer des ravages';1;0
+e;233858;'faire des ravages';1;4
+e;200390;'faire des ravages dans les curs';1;52
+e;151553;'_FL:0';6;50
+e;2016503;'causés';2;0
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+e;254876;'_POL-POS_PC';36;50
+e;254877;'_POL-NEUTRE_PC';36;50
+e;223173;'_POL-POS';36;50
+e;438949;'_INFO-POLYMORPHIC';36;50
+e;273221;'_INFO-WIKI-NO';36;50
+e;1912917;'_INFO-COUNTABLE-YES';36;0
+e;241794;'_POL-NEUTRE';36;50
+e;254878;'_POL-NEG_PC';36;50
+e;223172;'_POL-NEG';36;50
+e;12617315;'421167ae5cf5bd857dcb5de1f994ea9c';200;0
+e;12691194;'f69bd280c570beb06eba6b93fc6bf3f0';200;0
+e;12722096;'1f2b3e12e4ad1418665e500db0f04c72';200;0
+e;12790482;'596999b2fc3999fbafa12e354d5a3f11';200;0
+e;12864447;'eb24fb3a73692c084d6c680b0122178c';200;0
+e;12991255;'4521dbe5009f1c72f2a8879b6a8865a0';200;0
+e;12617324;'40d4c6f1fcdf12b7152a777a79e8fb2b';200;0
+e;12680480;'1bf66cc993f66f239b169202f338a18e';200;0
+e;12789602;'d45bba9dac1df9ceeb4b2f4eaa54e5fc';200;0
+e;13665907;'1c9f3bd0d85843a8a0e2eb9b82a3e1a4';200;0
+e;13665923;'a6c9af33a41c1c3e9cc48f9da5850641';200;0
+e;15835226;'92a6fefdb4099ed809b505516f254661';200;0
+e;16174465;'f945d78a2d96a96f4da2e98c82369549';200;0
+e;12617322;'4a9abb01f79d08cdd490d2bb720ee055';200;0
+e;12617653;'a034d01d46a00ef283bb518a79d66792';200;0
+e;2983124;'_SW';36;50
+e;177506;'ethnoreligieux';1;50
+e;15295313;'en:ravages of time';1;0
+e;101851;'azimuté';1;60
+e;146082;'ravagé';1;54
+e;14871545;'::>66:1530>24:14871543';8;0;'incendie [peut] ravager [objet] camp de migrants'
+e;15363163;'en:devastated';1;0
+e;15140781;'en:destroyed';1;0
+e;15142401;'en:ravaged';1;0
+e;8824247;'en:nuts';1;0
+e;15472646;'en:off your head';1;0
+e;8711;'affreux';1;270
+e;1733461;'être dévasté';1;2
+e;3325241;'Nectria';777;0
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;2;'r_raff_morpho';'raffinement morphologique';Raffinement morphologique vers un usage particulier du terme source
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;6;'r_isa';'générique';Il est demandé d'énumérer les GENERIQUES/hyperonymes du terme. Par exemple, 'animal' et 'mammifère' sont des génériques de 'chat'.
+rt;8;'r_hypo';'spécifique';Il est demandé d'énumérer des SPECIFIQUES/hyponymes du terme. Par exemple, 'mouche', 'abeille', 'guêpe' pour 'insecte'.
+rt;11;'r_locution';'locution';A partir d'un terme, il est demandé d'énumérer les locutions, expression ou mots composés en rapport avec ce terme. Par exemple, pour 'moulin', ou pourra avoir 'moulin à vent', 'moulin à eau', 'moulin à café'. Pour 'vendre', on pourra avoir 'vendre la peau de l'ours avant de l'avoir tué', 'vendre à perte', etc..
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;17;'r_carac';'caractéristique';Pour un terme donné, souvent un objet, il est demandé d'en énumérer les CARACtéristiques (adjectifs) possibles/typiques. Par exemple, 'liquide', 'froide', 'chaude', pour 'eau'.
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;23;'r_carac-1';'caractéristique-1';Quels sont les objets (des noms) possédant typiquement/possiblement la caractérisque suivante ? Par exemple, 'soleil', 'feu', pour 'chaud'.
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;64;'r_has_instance';'a pour instance';Une instance d'un 'type' est un individu particulier de ce type. Il s'agit d'une entité nommée (personne, lieu, organisation, etc) - par exemple, 'cheval' a pour instance possible 'Jolly Jumper', ou encore 'transatlantique' a pour instance possible 'Titanic'.
+rt;130;'r_is_instance_of';'est une instance de';Une instance est un individu particulier. Il s'agit d'une entité nommée (personne, lieu, organisation, etc) - par exemple, 'Jolly Jumper' est une instance de 'cheval', 'Titanic' en est une de 'transatlantique'.
+rt;200;'r_context';'r_context';Relation de contexte entre un terme et un noeud contexte.
+rt;555;'r_cooccurrence';'r_cooccurrence';co-occurences (non utilisée)
+rt;777;'r_wiki';'r_wiki';Associations issues de wikipedia...
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;33900764;399482;375416;0;7
+r;87497472;399482;43989;0;35
+r;87497473;399482;136546;0;35
+r;108250481;399482;3170130;0;54
+r;363933142;399482;14293338;2;45
+r;363933146;399482;14293339;2;45
+r;363196231;399482;3093591;4;25
+r;362954906;399482;14270943;4;25
+r;362946514;399482;14270945;4;25
+r;362938047;399482;161718;4;25
+r;362929583;399482;161717;4;25
+r;362922712;399482;3093590;4;25
+r;54089885;399482;2586627;4;45
+r;54109943;399482;2586630;4;45
+r;72094643;399482;2935005;4;45
+r;72424148;399482;2946892;4;45
+r;14360844;399482;161710;4;58
+r;14360845;399482;212235;4;58
+r;14360841;399482;146887;4;60
+r;14360842;399482;171870;4;70
+r;243275819;399482;206700;8;25
+r;246220274;399482;2932606;8;25
+r;379704125;399482;3170130;8;25
+r;33857578;399482;375416;8;35
+r;419493785;399482;15272643;11;25
+r;419496378;399482;15288799;11;25
+r;419690342;399482;15290705;11;25
+r;14271483;399482;233858;11;56
+r;14278505;399482;206700;11;57
+r;14208660;399482;375416;11;60
+r;14280219;399482;200390;11;60
+r;74743073;399482;151553;12;35
+r;372583044;399482;2016503;17;26
+r;89792913;399482;3575927;18;27
+r;90770983;399482;3576104;18;35
+r;14360840;399482;43989;19;52
+r;14360843;399482;136546;19;54
+r;26854990;399482;254876;36;7
+r;26854991;399482;254877;36;19
+r;26378910;399482;223173;36;23
+r;363933145;399482;438949;36;26
+r;214454533;399482;273221;36;33
+r;30790149;399482;1912917;36;40
+r;26435442;399482;241794;36;66
+r;26854992;399482;254878;36;75
+r;24500814;399482;223172;36;264
+r;108103925;399482;3170130;64;250
+r;323068762;399482;12617315;200;1
+r;325162152;399482;12691194;200;1
+r;326596997;399482;12722096;200;1
+r;328215445;399482;12790482;200;1
+r;329542041;399482;12864447;200;1
+r;333947506;399482;12991255;200;1
+r;323068969;399482;12617324;200;2
+r;324720938;399482;12680480;200;2
+r;328178717;399482;12789602;200;2
+r;347150634;399482;13665907;200;2
+r;347151613;399482;13665923;200;2
+r;412673016;399482;15835226;200;2
+r;424972147;399482;16174465;200;2
+r;323068882;399482;12617322;200;3
+r;323111846;399482;12617653;200;5
+r;73958492;399482;2983124;555;4030
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;419493786;15272643;399482;0;1
+r;419496379;15288799;399482;0;1
+r;419690343;15290705;399482;0;1
+r;429075710;177506;399482;0;1
+r;432386603;15295313;399482;0;10
+r;413384546;101851;399482;0;20
+r;325634774;146082;399482;0;25
+r;384999333;14871545;399482;0;25
+r;403828488;15363163;399482;0;25
+r;403828749;15140781;399482;0;25
+r;403829009;15142401;399482;0;25
+r;403829285;8824247;399482;0;25
+r;403829560;15472646;399482;0;25
+r;106429695;8711;399482;0;41
+r;14280220;200390;399482;0;47
+r;84584396;3170130;399482;0;48
+r;14271484;233858;399482;0;50
+r;14278506;206700;399482;0;50
+r;374962480;1733461;399482;0;50
+r;14208661;375416;399482;0;56
+r;84911318;2932606;399482;0;56
+r;432386604;15295313;399482;6;10
+r;76222826;206700;399482;6;26
+r;33850798;375416;399482;6;43
+r;84911317;2932606;399482;6;43
+r;84584397;3170130;399482;6;52
+r;372673547;2016503;399482;23;2
+r;387585082;3170130;399482;130;25
+r;83852460;3325241;399482;777;10

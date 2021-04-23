@@ -1,0 +1,55 @@
+<CODE>
+// DUMP pour le terme 'accomplissions' (eid=1981745)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;1981745;'accomplissions';2;0
+e;75065;'accomplir';1;132
+e;2935005;'VerbalTime:Present';4;0
+e;14270942;'VerbalPers:P1';4;0
+e;14270946;'VerbalNumber:PL';4;0
+e;14270840;'Ver:SPre+PL+P1';4;0
+e;14271094;'VerbalTime:Imparfait';4;0
+e;2935006;'VerbalTime:Past';4;0
+e;3093590;'VerbalMode:Indicatif';4;0
+e;3093591;'VerbalMode:Subjonctif';4;0
+e;161726;'Ver:IImp+PL+P1';4;50
+e;161740;'Ver:SImp+PL+P1';4;50
+e;2946892;'Ver:Conjug';4;0
+e;3110271;'Ver:IImp+PL+P1:SPre+PL+P1:SImp+PL+P1';4;50
+e;212235;'Ver:';4;50
+e;151553;'_FL:0';6;50
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;87502952;1981745;75065;0;30
+r;363667398;1981745;2935005;4;25
+r;363414790;1981745;14270942;4;25
+r;363414507;1981745;14270946;4;25
+r;363414221;1981745;14270840;4;25
+r;363413853;1981745;14271094;4;25
+r;363413641;1981745;2935006;4;25
+r;363413454;1981745;3093590;4;25
+r;363659244;1981745;3093591;4;25
+r;363767754;1981745;161726;4;25
+r;363768040;1981745;161740;4;25
+r;363777519;1981745;2946892;4;25
+r;75187287;1981745;3110271;4;56
+r;32117159;1981745;212235;4;59
+r;74528888;1981745;151553;12;34
+r;89716837;1981745;3575927;18;30
+r;90702037;1981745;3576104;18;41
+r;32117158;1981745;75065;19;59
+// les relations entrantes : r;rid;node1;node2;type;w 

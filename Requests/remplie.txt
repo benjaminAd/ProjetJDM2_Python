@@ -1,0 +1,241 @@
+<CODE>
+// DUMP pour le terme 'remplie' (eid=163791)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;10;'n_relation'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;163791;'remplie';1;84
+e;153759;'chargée';1;60
+e;123287;'repue';1;68
+e;95980;'remplir';1;820
+e;68958;'pleine';1;254
+e;165389;'farcie';1;72
+e;155419;'peuplée';1;132
+e;135815;'remplier';1;50
+e;165539;'complète';1;78
+e;162866;'occupée';1;66
+e;162698;'bondée';1;66
+e;239128;'_COM';36;50
+e;14298441;'remplie>2946892';1;0;'remplie>Ver:Conjug'
+e;2325319;'remplie>161702';1;0;'remplie>Ver:PPas'
+e;2325320;'remplie>171869';1;0;'remplie>Adj:'
+e;14270798;'VerbalMode:Impératif';4;0
+e;14270847;'Ver:ImPre+SG+P2';4;0
+e;14270944;'VerbalPers:P3';4;0
+e;14270943;'VerbalPers:P2';4;0
+e;14270942;'VerbalPers:P1';4;0
+e;14270945;'VerbalNumber:SG';4;0
+e;150120;'Ver:SPre+SG+P3';4;50
+e;150119;'Ver:SPre+SG+P1';4;50
+e;150118;'Ver:IPre+SG+P3';4;50
+e;150117;'Ver:IPre+SG+P1';4;50
+e;171869;'Adj:';4;50
+e;146894;'Adj:Fem+SG';4;50
+e;2586628;'Gender:Fem';4;0
+e;161702;'Ver:PPas';4;50
+e;2586629;'Number:Sing';4;0
+e;161698;'Ver:IPre+SG+P1:IPre+SG+P3:SPre+SG+P1:SPre+SG+P3:ImPre+SG+P2';4;50
+e;2935005;'VerbalTime:Present';4;0
+e;2946892;'Ver:Conjug';4;0
+e;3093591;'VerbalMode:Subjonctif';4;0
+e;3093590;'VerbalMode:Indicatif';4;0
+e;212235;'Ver:';4;50
+e;161700;'Ver:PPas+Fem+SG';4;50
+e;15355114;'avoir une vie bien remplie';1;0
+e;15355109;'La salle s'est remplie de monde.';1;0
+e;15355107;'La salle était remplie de monde.';1;0
+e;13153824;'remplie d'eau';1;0
+e;13153834;'remplie de vin';1;0
+e;360358;'journée bien remplie';1;50
+e;91871;'Une journée bien remplie';1;50
+e;138073;'et la mer n'est pas remplie';1;50
+e;152775;'_FL:23';6;50
+e;151553;'_FL:0';6;50
+e;3576104;'Morpho:nospace';18;50
+e;3575927;'Morpho:min';18;50
+e;117423;'bouteille';1;2252
+e;136572;'jatte';1;66
+e;578656;'grande casserole';1;0
+e;28722;'cachette';1;326
+e;1894064;'carafe>89628';1;26;'carafe>récipient'
+e;2195;'urne';1;520
+e;132716;'baignoire';1;1004
+e;144846;'tête';1;5684
+e;96851;'pièce';1;3154
+e;139209;'salle';1;1508
+e;17601;'bouillotte';1;136
+e;116162;'valise';1;604
+e;233142;'tête>13451';1;58;'tête>esprit'
+e;216186;'bouteille>89628';1;112;'bouteille>récipient'
+e;42045;'étagère';1;534
+e;106970;'caisse';1;840
+e;154073;'cuillère à café';1;82
+e;103405;'indifférence';1;610
+e;254877;'_POL-NEUTRE_PC';36;50
+e;273221;'_INFO-WIKI-NO';36;50
+e;438949;'_INFO-POLYMORPHIC';36;50
+e;2585997;'_INFO-CNRTL-NO';36;50
+e;254876;'_POL-POS_PC';36;50
+e;241794;'_POL-NEUTRE';36;50
+e;223173;'_POL-POS';36;50
+e;377;'rempli';1;222
+e;2341452;':r34387116';10;0
+e;2341453;':r34387121';10;0
+e;2341454;':r34387126';10;0
+e;8570358;':r149638610';10;0
+e;16059171;':r418367417';10;0
+e;9212100;':r209778633';10;0
+e;9762402;':r2305289';10;0
+e;11123208;':r282421055';10;0
+e;9212101;':r209778639';10;0
+e;13153823;':r336056783';10;0
+e;2983124;'_SW';36;50
+e;141659;'vie';1;1924
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;2;'r_raff_morpho';'raffinement morphologique';Raffinement morphologique vers un usage particulier du terme source
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;11;'r_locution';'locution';A partir d'un terme, il est demandé d'énumérer les locutions, expression ou mots composés en rapport avec ce terme. Par exemple, pour 'moulin', ou pourra avoir 'moulin à vent', 'moulin à eau', 'moulin à café'. Pour 'vendre', on pourra avoir 'vendre la peau de l'ours avant de l'avoir tué', 'vendre à perte', etc..
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;17;'r_carac';'caractéristique';Pour un terme donné, souvent un objet, il est demandé d'en énumérer les CARACtéristiques (adjectifs) possibles/typiques. Par exemple, 'liquide', 'froide', 'chaude', pour 'eau'.
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;22;'r_family';'famille';Des mots de la même famille lexicale sont demandés (dérivation morphologique, par exemple). Par exemple, pour 'lait' on pourrait mettre 'laitier', 'laitage', 'laiterie', etc.
+rt;23;'r_carac-1';'caractéristique-1';Quels sont les objets (des noms) possédant typiquement/possiblement la caractérisque suivante ? Par exemple, 'soleil', 'feu', pour 'chaud'.
+rt;32;'r_sentiment';'sentiment';Pour un terme donné, évoquer des mots liés à des SENTIMENTS ou des EMOTIONS que vous pourriez associer à ce terme. Par exemple, la joie, le plaisir, le dégoût, la peur, la haine, l'amour, l'indifférence, l'envie, avoir peur, horrible, etc.
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;59;'r_masc';'équivalent masc';L'équivalent masculin du terme : lionne --> lion.
+rt;60;'r_fem';'équivalent fem';L'équivalent féminin du terme : lion --> lionne.
+rt;128;'r_node2relnode';'r_node2relnode';Relation entre un noeud (quelconque) et un noeud de relation (type = 10) - permet de rendre le graphe connexe même avec les annotations de relations
+rt;555;'r_cooccurrence';'r_cooccurrence';co-occurences (non utilisée)
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;985900;163791;153759;0;26
+r;985905;163791;123287;0;26
+r;87491187;163791;95980;0;26
+r;985898;163791;68958;0;27
+r;985899;163791;165389;0;28
+r;985903;163791;155419;0;28
+r;87855326;163791;135815;0;28
+r;985901;163791;165539;0;30
+r;985904;163791;162866;0;30
+r;985902;163791;162698;0;36
+r;24120554;163791;239128;0;1000000
+r;363951957;163791;14298441;2;35
+r;33830197;163791;2325319;2;45
+r;33830201;163791;2325320;2;60
+r;361883081;163791;14270798;4;25
+r;363202610;163791;14270847;4;25
+r;363023693;163791;14270944;4;25
+r;363014659;163791;14270943;4;25
+r;363005756;163791;14270942;4;25
+r;362996892;163791;14270945;4;25
+r;362987876;163791;150120;4;25
+r;362978776;163791;150119;4;25
+r;362969787;163791;150118;4;25
+r;362960857;163791;150117;4;25
+r;2181303;163791;171869;4;27
+r;105165011;163791;146894;4;28
+r;105193453;163791;2586628;4;30
+r;12113866;163791;161702;4;34
+r;105199503;163791;2586629;4;36
+r;75889088;163791;161698;4;45
+r;75889089;163791;2935005;4;45
+r;75889090;163791;2946892;4;45
+r;75889092;163791;3093591;4;45
+r;75889091;163791;3093590;4;48
+r;12107881;163791;212235;4;51
+r;12107880;163791;161700;4;56
+r;419639170;163791;15355114;11;25
+r;417155066;163791;15355109;11;29
+r;417155092;163791;15355107;11;29
+r;337337650;163791;13153824;11;37
+r;337337646;163791;13153834;11;38
+r;12661309;163791;360358;11;107
+r;8601302;163791;91871;11;163
+r;8618382;163791;138073;11;163
+r;6252551;163791;152775;12;23
+r;74755943;163791;151553;12;28
+r;90815197;163791;3576104;18;29
+r;89954031;163791;3575927;18;30
+r;75889093;163791;135815;19;32
+r;12107879;163791;95980;19;56
+r;282829551;163791;117423;23;21
+r;34388031;163791;136572;23;22
+r;34388032;163791;578656;23;22
+r;23473311;163791;28722;23;24
+r;337594933;163791;1894064;23;24
+r;376075599;163791;2195;23;25
+r;14783938;163791;132716;23;27
+r;97864774;163791;144846;23;27
+r;209801222;163791;96851;23;27
+r;209801223;163791;139209;23;28
+r;61170478;163791;17601;23;29
+r;149727961;163791;116162;23;29
+r;14784921;163791;233142;23;30
+r;282478001;163791;216186;23;30
+r;418367418;163791;42045;23;30
+r;14783842;163791;106970;23;31
+r;34387116;163791;154073;23;55
+r;72989798;163791;103405;32;2
+r;9256585;163791;254877;36;28
+r;88165611;163791;273221;36;35
+r;33830200;163791;438949;36;41
+r;88165311;163791;2585997;36;60
+r;9256584;163791;254876;36;72
+r;9220864;163791;241794;36;140
+r;9179161;163791;223173;36;365
+r;2181304;163791;377;59;35
+r;34387119;163791;2341452;128;1
+r;34387125;163791;2341453;128;1
+r;34387130;163791;2341454;128;1
+r;149638614;163791;8570358;128;1
+r;418367441;163791;16059171;128;2
+r;209778637;163791;9212100;128;6
+r;218246380;163791;9762402;128;6
+r;282421059;163791;11123208;128;6
+r;209778643;163791;9212101;128;7
+r;336056787;163791;13153823;128;9
+r;74033350;163791;2983124;555;6139
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;419639171;15355114;163791;0;1
+r;417155067;15355109;163791;0;5
+r;417155093;15355107;163791;0;5
+r;337337651;13153824;163791;0;13
+r;337337647;13153834;163791;0;14
+r;781858;162698;163791;0;23
+r;864121;165389;163791;0;24
+r;944605;162866;163791;0;24
+r;957720;155419;163791;0;24
+r;988249;123287;163791;0;24
+r;806403;165539;163791;0;27
+r;796802;153759;163791;0;29
+r;274818588;141659;163791;0;29
+r;961915;68958;163791;0;54
+r;12661310;360358;163791;0;101
+r;9406382;91871;163791;0;144
+r;9424473;138073;163791;0;145
+r;282421196;117423;163791;17;21
+r;34388208;154073;163791;17;22
+r;97325637;144846;163791;17;30
+r;209778633;139209;163791;17;31
+r;282421055;216186;163791;17;31
+r;209778639;96851;163791;17;32
+r;418367417;42045;163791;17;32
+r;336056783;1894064;163791;17;34
+r;149638610;116162;163791;17;36
+r;374015253;2195;163791;17;36
+r;2305289;132716;163791;17;38
+r;2306339;106970;163791;17;45
+r;61109845;17601;163791;17;51
+r;2223106;233142;163791;17;55
+r;34387126;136572;163791;17;56
+r;34387121;578656;163791;17;58
+r;23472112;28722;163791;17;71
+r;387438;95980;163791;22;130
+r;105135933;377;163791;60;26

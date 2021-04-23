@@ -1,0 +1,153 @@
+<CODE>
+// DUMP pour le terme 'finies' (eid=1004070)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;200;'n_context'
+nt;777;'n_wikipedia'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;1004070;'finies';1;4
+e;264126;'finie';1;10
+e;116753;'finir';1;510
+e;105824;'fini';1;264
+e;1812021;'finies>161702';1;0;'finies>Ver:PPas'
+e;1812022;'finies>171869';1;0;'finies>Adj:'
+e;161702;'Ver:PPas';4;50
+e;2586628;'Gender:Fem';4;0
+e;2586630;'Number:Plur';4;0
+e;212235;'Ver:';4;50
+e;149404;'Adj:Fem+PL';4;50
+e;161709;'Ver:PPas+Fem+PL';4;50
+e;171869;'Adj:';4;50
+e;10869596;'méthode des différences finies';777;0
+e;12049397;'retirer des pièces moulées finies';1;0
+e;1004069;'mathématiques finies';777;0
+e;152775;'_FL:23';6;50
+e;151553;'_FL:0';6;50
+e;3576104;'Morpho:nospace';18;50
+e;3575927;'Morpho:min';18;50
+e;144823;'oeuvres';1;114
+e;151972;'frites';1;578
+e;254878;'_POL-NEG_PC';36;50
+e;254877;'_POL-NEUTRE_PC';36;50
+e;223172;'_POL-NEG';36;50
+e;273221;'_INFO-WIKI-NO';36;50
+e;438949;'_INFO-POLYMORPHIC';36;50
+e;241794;'_POL-NEUTRE';36;50
+e;254876;'_POL-POS_PC';36;50
+e;223173;'_POL-POS';36;50
+e;12684852;'f3f8df444de3972bfbe10f90f8ce6e4a';200;0
+e;12684861;'02f50cb5fce044b71c2d00486f3d9b28';200;0
+e;12685194;'d4977cd07a9ca7a50886359743a1e76c';200;0
+e;12693737;'183fb6750a0c4fd046062bbae65f557f';200;0
+e;12694921;'93371e223c2491dffde01f12281fc1c4';200;0
+e;12719150;'e869a271495b227f931bd8cd64015ab3';200;0
+e;12827240;'5e9ceb832ace7c69ef582a4aa3113fb1';200;0
+e;12885116;'733d3602d3656c0949bc6e5af7647f21';200;0
+e;12906617;'c4d9e26370d56a0892d786c0d5f417ec';200;0
+e;13217630;'8911072443b4d6281297b7d07f655f2a';200;0
+e;13327027;'a8baf7ae4290dbf4b6e7d4acd92c69f9';200;0
+e;13327649;'5f1480914e54f680c8f8f4f83b83eed9';200;0
+e;13569216;'923c08d6c9476fe623ad7c2eb8d7b0fd';200;0
+e;13327085;'94631bc311283f9018b94ab126897d15';200;0
+e;13573576;'01e40ca53f91ccbbd793a790c10802e5';200;0
+e;13596637;'ef7067935094627edff83835f6dc1cee';200;0
+e;13635435;'f75b208be4645cae80f3e99edfca98a1';200;0
+e;13995053;'5fe4db2fd1651e7205494bd56dcd37d7';200;0
+e;14130825;'a9f232c9805604a46eb13ed0748d158e';200;0
+e;14468454;'f8ec8da327ae04fdf2e228bc7c2ee8b6';200;0
+e;16306990;'f2b55a5f1b4caff5904eb3ca5df203bb';200;0
+e;12755145;'40dccaabb9bfb36318f1db5a7c788f5d';200;0
+e;12985077;'48e45fc907de049f27e7b4095a51093e';200;0
+e;13324865;'4072d3c5b39d48861aaf53dbb0adad8a';200;0
+e;2983124;'_SW';36;50
+e;15224384;'en:chipped potatoes';1;0
+e;15060105;'en:fries';1;0
+e;11957747;'topologie cofinie';777;0
+e;14366670;'Kronecker Jugendtraum';777;0
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;2;'r_raff_morpho';'raffinement morphologique';Raffinement morphologique vers un usage particulier du terme source
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;11;'r_locution';'locution';A partir d'un terme, il est demandé d'énumérer les locutions, expression ou mots composés en rapport avec ce terme. Par exemple, pour 'moulin', ou pourra avoir 'moulin à vent', 'moulin à eau', 'moulin à café'. Pour 'vendre', on pourra avoir 'vendre la peau de l'ours avant de l'avoir tué', 'vendre à perte', etc..
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;17;'r_carac';'caractéristique';Pour un terme donné, souvent un objet, il est demandé d'en énumérer les CARACtéristiques (adjectifs) possibles/typiques. Par exemple, 'liquide', 'froide', 'chaude', pour 'eau'.
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;23;'r_carac-1';'caractéristique-1';Quels sont les objets (des noms) possédant typiquement/possiblement la caractérisque suivante ? Par exemple, 'soleil', 'feu', pour 'chaud'.
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;200;'r_context';'r_context';Relation de contexte entre un terme et un noeud contexte.
+rt;555;'r_cooccurrence';'r_cooccurrence';co-occurences (non utilisée)
+rt;777;'r_wiki';'r_wiki';Associations issues de wikipedia...
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;20933819;1004070;264126;0;30
+r;87498953;1004070;116753;0;34
+r;87498952;1004070;105824;0;37
+r;29587971;1004070;1812021;2;50
+r;29587975;1004070;1812022;2;50
+r;21877969;1004070;161702;4;34
+r;53901345;1004070;2586628;4;46
+r;53911893;1004070;2586630;4;46
+r;21876526;1004070;212235;4;55
+r;21876523;1004070;149404;4;56
+r;21876525;1004070;161709;4;56
+r;20933818;1004070;171869;4;63
+r;272641630;1004070;10869596;11;32
+r;313654885;1004070;12049397;11;35
+r;20932134;1004070;1004069;11;53
+r;25008040;1004070;152775;12;22
+r;74655995;1004070;151553;12;30
+r;90726724;1004070;3576104;18;28
+r;89768598;1004070;3575927;18;31
+r;21876524;1004070;116753;19;53
+r;21876522;1004070;105824;19;59
+r;372673073;1004070;144823;23;2
+r;25023616;1004070;151972;23;30
+r;27452824;1004070;254878;36;15
+r;27092542;1004070;254877;36;28
+r;27452823;1004070;223172;36;28
+r;77815713;1004070;273221;36;29
+r;29587974;1004070;438949;36;41
+r;26679161;1004070;241794;36;51
+r;27092541;1004070;254876;36;57
+r;26679160;1004070;223173;36;105
+r;324899016;1004070;12684852;200;1
+r;324899314;1004070;12684861;200;1
+r;324910398;1004070;12685194;200;1
+r;325276580;1004070;12693737;200;1
+r;325329597;1004070;12694921;200;1
+r;326452287;1004070;12719150;200;1
+r;329197287;1004070;12827240;200;1
+r;330746963;1004070;12885116;200;1
+r;331245502;1004070;12906617;200;1
+r;336889471;1004070;13217630;200;1
+r;338654533;1004070;13327027;200;1
+r;338658363;1004070;13327649;200;1
+r;343658071;1004070;13569216;200;2
+r;338655117;1004070;13327085;200;2
+r;343896493;1004070;13573576;200;2
+r;344421207;1004070;13596637;200;2
+r;345818121;1004070;13635435;200;2
+r;352595125;1004070;13995053;200;2
+r;358045845;1004070;14130825;200;2
+r;367180359;1004070;14468454;200;2
+r;427646551;1004070;16306990;200;2
+r;327401440;1004070;12755145;200;4
+r;333541399;1004070;12985077;200;5
+r;338631836;1004070;13324865;200;5
+r;74056718;1004070;2983124;555;1828
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;272641631;10869596;1004070;0;8
+r;313654886;12049397;1004070;0;11
+r;20932135;1004069;1004070;0;58
+r;408585012;15224384;1004070;17;10
+r;408585641;15060105;1004070;17;10
+r;372599078;144823;1004070;17;26
+r;25008039;151972;1004070;17;61
+r;308618280;11957747;1004070;777;10
+r;365060248;14366670;1004070;777;10

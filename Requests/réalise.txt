@@ -1,0 +1,65 @@
+<CODE>
+// DUMP pour le terme 'rÃ©alise' (eid=2090070)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;2090070;'réalise';2;0
+e;4528;'réaliser';1;434
+e;14270798;'VerbalMode:Impératif';4;0
+e;14270847;'Ver:ImPre+SG+P2';4;0
+e;14270944;'VerbalPers:P3';4;0
+e;14270943;'VerbalPers:P2';4;0
+e;14270942;'VerbalPers:P1';4;0
+e;14270945;'VerbalNumber:SG';4;0
+e;150120;'Ver:SPre+SG+P3';4;50
+e;150119;'Ver:SPre+SG+P1';4;50
+e;150118;'Ver:IPre+SG+P3';4;50
+e;150117;'Ver:IPre+SG+P1';4;50
+e;2935005;'VerbalTime:Present';4;0
+e;2946892;'Ver:Conjug';4;0
+e;3093591;'VerbalMode:Subjonctif';4;0
+e;3093590;'VerbalMode:Indicatif';4;0
+e;212235;'Ver:';4;50
+e;161698;'Ver:IPre+SG+P1:IPre+SG+P3:SPre+SG+P1:SPre+SG+P3:ImPre+SG+P2';4;50
+e;151553;'_FL:0';6;50
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+e;2983124;'_SW';36;50
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;555;'r_cooccurrence';'r_cooccurrence';co-occurences (non utilisée)
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;87610575;2090070;4528;0;28
+r;361878654;2090070;14270798;4;25
+r;363207104;2090070;14270847;4;25
+r;363028128;2090070;14270944;4;25
+r;363019139;2090070;14270943;4;25
+r;363010179;2090070;14270942;4;25
+r;363001301;2090070;14270945;4;25
+r;362992394;2090070;150120;4;25
+r;362983235;2090070;150119;4;25
+r;362974218;2090070;150118;4;25
+r;362965311;2090070;150117;4;25
+r;72108540;2090070;2935005;4;45
+r;72483371;2090070;2946892;4;45
+r;75737675;2090070;3093591;4;45
+r;75737674;2090070;3093590;4;47
+r;32423071;2090070;212235;4;59
+r;32423069;2090070;161698;4;60
+r;74744074;2090070;151553;12;32
+r;89607763;2090070;3575927;18;26
+r;90590929;2090070;3576104;18;31
+r;32423064;2090070;4528;19;52
+r;73951921;2090070;2983124;555;28046
+// les relations entrantes : r;rid;node1;node2;type;w 

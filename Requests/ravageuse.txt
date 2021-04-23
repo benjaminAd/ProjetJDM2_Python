@@ -1,0 +1,163 @@
+<CODE>
+// DUMP pour le terme 'ravageuse' (eid=262067)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;200;'n_context'
+nt;777;'n_wikipedia'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;262067;'ravageuse';1;58
+e;202144;'industrie minière';1;56
+e;75908;'mines';1;68
+e;7195;'haveuse';1;50
+e;57037;'ravageur';1;68
+e;239128;'_COM';36;50
+e;459662;'ravageuse>171870';1;50;'ravageuse>Nom:'
+e;459663;'ravageuse>171869';1;50;'ravageuse>Adj:'
+e;2586628;'Gender:Fem';4;0
+e;2586629;'Number:Sing';4;0
+e;146894;'Adj:Fem+SG';4;50
+e;146881;'Nom:Fem+SG';4;50
+e;171870;'Nom:';4;50
+e;171869;'Adj:';4;50
+e;10595118;'Dany la ravageuse';777;0
+e;152775;'_FL:23';6;50
+e;151553;'_FL:0';6;50
+e;3576104;'Morpho:nospace';18;50
+e;3575927;'Morpho:min';18;50
+e;11482;'tenthrède';1;72
+e;228018;'catastrophe naturelle';1;84
+e;223172;'_POL-NEG';36;50
+e;241794;'_POL-NEUTRE';36;50
+e;15991432;'_ANIME-NO';36;50
+e;273221;'_INFO-WIKI-NO';36;50
+e;438949;'_INFO-POLYMORPHIC';36;50
+e;254877;'_POL-NEUTRE_PC';36;50
+e;254878;'_POL-NEG_PC';36;50
+e;13643482;'f83a443dd94d8d403b96c85c07e3199e';200;0
+e;12674079;'6139195f3183f7ffd8931c3a3d415d7d';200;0
+e;2983124;'_SW';36;50
+e;13677729;'12962b9f8a078ae7f1316dd5e51a5224';200;0
+e;12674100;'2b4f493e1fff03f09ee0aecf25520ab5';200;0
+e;18285;'papillon';1;1086
+e;143521;'Lépidoptères';1;50
+e;279210;'lepidoptera';777;50
+e;34871;'papillons';1;60
+e;280735;'Cameraria ohridella';777;50
+e;179848;'mineuse du marronnier';1;50
+e;262068;'fausse-chenille';1;52
+e;268968;'papillon nocturne';1;10
+e;291040;'Operophtera bruceata';777;50
+e;83796;'lépidoptères';1;52
+e;130427;'lépidoptère';1;232
+e;306159;'ver légionnaire de la betterave';777;50
+e;179847;'légionnaire de la betterave';1;50
+e;308103;'Lambdina fiscellaria';777;50
+e;179840;'arpenteuse de la pruche';1;50
+e;179839;'arpenteuse de Bruce';1;50
+e;2955426;'Arpenteuse de Bruce';777;0
+e;3750736;'Lepidoptera';1;0
+e;5832025;'Spodoptera exigua';777;0
+e;5835486;'Napomyza gymnostoma';777;0
+e;5835487;'mineuse des feuilles d'Allium';777;0
+e;5832428;'Tenthrède';1;0
+e;12267691;'Mineuse';1;0
+e;14475525;'Teigne minière du marronnier';777;0
+e;16297120;'Corythucha arcuata';777;0
+e;16297121;'Tigre du chêne';777;0
+e;16297122;'punaise réticulée du chêne';777;0
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;2;'r_raff_morpho';'raffinement morphologique';Raffinement morphologique vers un usage particulier du terme source
+rt;3;'r_domain';'domaine';Il est demandé de fournir des domaines relatifs au mot cible. Par exemple, pour 'corner', on pourra donner les domaines 'football' ou 'sport'.
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;11;'r_locution';'locution';A partir d'un terme, il est demandé d'énumérer les locutions, expression ou mots composés en rapport avec ce terme. Par exemple, pour 'moulin', ou pourra avoir 'moulin à vent', 'moulin à eau', 'moulin à café'. Pour 'vendre', on pourra avoir 'vendre la peau de l'ours avant de l'avoir tué', 'vendre à perte', etc..
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;17;'r_carac';'caractéristique';Pour un terme donné, souvent un objet, il est demandé d'en énumérer les CARACtéristiques (adjectifs) possibles/typiques. Par exemple, 'liquide', 'froide', 'chaude', pour 'eau'.
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;23;'r_carac-1';'caractéristique-1';Quels sont les objets (des noms) possédant typiquement/possiblement la caractérisque suivante ? Par exemple, 'soleil', 'feu', pour 'chaud'.
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;59;'r_masc';'équivalent masc';L'équivalent masculin du terme : lionne --> lion.
+rt;60;'r_fem';'équivalent fem';L'équivalent féminin du terme : lion --> lionne.
+rt;200;'r_context';'r_context';Relation de contexte entre un terme et un noeud contexte.
+rt;555;'r_cooccurrence';'r_cooccurrence';co-occurences (non utilisée)
+rt;777;'r_wiki';'r_wiki';Associations issues de wikipedia...
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;418294693;262067;202144;0;25
+r;418294694;262067;75908;0;25
+r;418294695;262067;7195;0;26
+r;78361925;262067;57037;0;40
+r;24189612;262067;239128;0;1000000
+r;16131700;262067;459662;2;50
+r;16131703;262067;459663;2;50
+r;418294692;262067;202144;3;25
+r;53922803;262067;2586628;4;46
+r;54073333;262067;2586629;4;46
+r;12106940;262067;146894;4;59
+r;12106942;262067;146881;4;59
+r;12106943;262067;171870;4;60
+r;12106941;262067;171869;4;61
+r;264451986;262067;10595118;11;30
+r;21597861;262067;152775;12;22
+r;74743076;262067;151553;12;40
+r;90793770;262067;3576104;18;27
+r;89889166;262067;3575927;18;28
+r;78815134;262067;262067;19;30
+r;12106939;262067;57037;19;51
+r;14778725;262067;11482;23;22
+r;21605597;262067;228018;23;24
+r;213606826;262067;223172;36;1
+r;213606827;262067;241794;36;1
+r;418294691;262067;15991432;36;25
+r;78352767;262067;273221;36;39
+r;16131702;262067;438949;36;44
+r;213606828;262067;254877;36;50
+r;213606829;262067;254878;36;50
+r;78356206;262067;57037;59;34
+r;346233189;262067;13643482;200;2
+r;324467478;262067;12674079;200;4
+r;74074277;262067;2983124;555;271
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;264451987;10595118;262067;0;6
+r;2510681;11482;262067;17;29
+r;21597860;228018;262067;17;81
+r;78815134;262067;262067;19;30
+r;78356207;57037;262067;60;27
+r;347274738;13677729;262067;200;-1
+r;346233206;13643482;262067;200;1
+r;346420765;12674100;262067;200;1
+r;324467510;12674079;262067;200;4
+r;4375953;18285;262067;777;9
+r;4375950;143521;262067;777;10
+r;4375952;279210;262067;777;10
+r;4375954;34871;262067;777;10
+r;4564912;280735;262067;777;10
+r;4564913;179848;262067;777;10
+r;4894683;11482;262067;777;10
+r;4894685;262068;262067;777;10
+r;5050845;268968;262067;777;10
+r;6383077;291040;262067;777;10
+r;7252953;83796;262067;777;10
+r;7699789;130427;262067;777;10
+r;7942236;306159;262067;777;10
+r;7942238;179847;262067;777;10
+r;8113869;308103;262067;777;10
+r;25432345;179840;262067;777;10
+r;30905403;179839;262067;777;10
+r;73153815;2955426;262067;777;10
+r;93569336;3750736;262067;777;10
+r;113738429;5832025;262067;777;10
+r;113804227;5835486;262067;777;10
+r;113804228;5835487;262067;777;10
+r;122639616;5832428;262067;777;10
+r;367774443;12267691;262067;777;10
+r;367774444;14475525;262067;777;10
+r;427524331;16297120;262067;777;10
+r;427524333;16297121;262067;777;10
+r;427524335;16297122;262067;777;10

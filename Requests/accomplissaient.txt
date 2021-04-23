@@ -1,0 +1,45 @@
+<CODE>
+// DUMP pour le terme 'accomplissaient' (eid=1981736)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;1981736;'accomplissaient';2;0
+e;75065;'accomplir';1;132
+e;14270944;'VerbalPers:P3';4;0
+e;14270946;'VerbalNumber:PL';4;0
+e;14271094;'VerbalTime:Imparfait';4;0
+e;3093590;'VerbalMode:Indicatif';4;0
+e;2935006;'VerbalTime:Past';4;0
+e;2946892;'Ver:Conjug';4;0
+e;161764;'Ver:IImp+PL+P3';4;50
+e;212235;'Ver:';4;50
+e;151553;'_FL:0';6;50
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;87502943;1981736;75065;0;34
+r;363374531;1981736;14270944;4;25
+r;363366265;1981736;14270946;4;25
+r;363357997;1981736;14271094;4;25
+r;363353851;1981736;3093590;4;25
+r;72116531;1981736;2935006;4;45
+r;72425857;1981736;2946892;4;45
+r;32117135;1981736;161764;4;51
+r;32117136;1981736;212235;4;58
+r;74528878;1981736;151553;12;32
+r;89716847;1981736;3575927;18;26
+r;90702046;1981736;3576104;18;27
+r;32117134;1981736;75065;19;53
+// les relations entrantes : r;rid;node1;node2;type;w 

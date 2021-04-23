@@ -1,0 +1,75 @@
+<CODE>
+// DUMP pour le terme 'accomplies' (eid=1981722)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;200;'n_context'
+nt;777;'n_wikipedia'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;1981722;'accomplies';2;0
+e;27354;'accompli';1;128
+e;75065;'accomplir';1;132
+e;161702;'Ver:PPas';4;50
+e;2586628;'Gender:Fem';4;0
+e;2586630;'Number:Plur';4;0
+e;149404;'Adj:Fem+PL';4;50
+e;212235;'Ver:';4;50
+e;161709;'Ver:PPas+Fem+PL';4;50
+e;171869;'Adj:';4;50
+e;151553;'_FL:0';6;50
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+e;438949;'_INFO-POLYMORPHIC';36;50
+e;12664115;'3c7a07eb0c9588f89358cc882fd1a2ed';200;0
+e;13809248;'46260bf5a5e6a324e184da5be3a78cc8';200;0
+e;14271050;'f967208f52e22d244eddda53cedd34ce';200;0
+e;14465204;'8f8b83f735497927ce3824980d703e9c';200;0
+e;16489675;'215597b029902e4956720c22fc665d07';200;0
+e;12774888;'819e69c9eeb5cbe841f3e630973b2403';200;0
+e;12826112;'247af4d1138d3a47af84560d2b3d409e';200;0
+e;2983124;'_SW';36;50
+e;16276836;'Les prémices';777;0
+e;5679302;'Plan of a Novel according to Hints from Various Quarters';777;0
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;200;'r_context';'r_context';Relation de contexte entre un terme et un noeud contexte.
+rt;555;'r_cooccurrence';'r_cooccurrence';co-occurences (non utilisée)
+rt;777;'r_wiki';'r_wiki';Associations issues de wikipedia...
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;87502929;1981722;27354;0;28
+r;87500408;1981722;75065;0;31
+r;32153088;1981722;161702;4;45
+r;53901674;1981722;2586628;4;46
+r;53912220;1981722;2586630;4;46
+r;32117100;1981722;149404;4;58
+r;32109697;1981722;212235;4;59
+r;32109696;1981722;161709;4;60
+r;32117101;1981722;171869;4;61
+r;74528863;1981722;151553;12;27
+r;89716870;1981722;3575927;18;30
+r;90702060;1981722;3576104;18;32
+r;32109695;1981722;75065;19;55
+r;32117099;1981722;27354;19;60
+r;427400137;1981722;438949;36;25
+r;324097279;1981722;12664115;200;1
+r;349065027;1981722;13809248;200;2
+r;362039656;1981722;14271050;200;2
+r;367012703;1981722;14465204;200;2
+r;433842714;1981722;16489675;200;2
+r;327842043;1981722;12774888;200;6
+r;329136594;1981722;12826112;200;7
+r;73999433;1981722;2983124;555;1147
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;427030548;16276836;1981722;0;1
+r;111410768;5679302;1981722;777;10

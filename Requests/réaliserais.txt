@@ -1,0 +1,49 @@
+<CODE>
+// DUMP pour le terme 'rÃ©aliserais' (eid=2090060)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;2090060;'réaliserais';2;0
+e;4528;'réaliser';1;434
+e;14270838;'Ver:CPre+SG+P1';4;0
+e;14270839;'Ver:CPre+SG+P2';4;0
+e;14270942;'VerbalPers:P1';4;0
+e;14270943;'VerbalPers:P2';4;0
+e;14270945;'VerbalNumber:SG';4;0
+e;2946892;'Ver:Conjug';4;0
+e;2935005;'VerbalTime:Present';4;0
+e;3094354;'VerbalMode:Conditionnel';4;0
+e;161758;'Ver:CPre+SG+P1:CPre+SG+P2';4;50
+e;212235;'Ver:';4;50
+e;151553;'_FL:0';6;50
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;87610556;2090060;4528;0;29
+r;361899775;2090060;14270838;4;25
+r;361908506;2090060;14270839;4;25
+r;363593745;2090060;14270942;4;25
+r;363586413;2090060;14270943;4;25
+r;363578313;2090060;14270945;4;25
+r;72483360;2090060;2946892;4;45
+r;75737703;2090060;2935005;4;45
+r;75737704;2090060;3094354;4;45
+r;32423015;2090060;161758;4;59
+r;32423018;2090060;212235;4;66
+r;74744081;2090060;151553;12;29
+r;89607773;2090060;3575927;18;26
+r;90590939;2090060;3576104;18;28
+r;32423010;2090060;4528;19;61
+// les relations entrantes : r;rid;node1;node2;type;w 

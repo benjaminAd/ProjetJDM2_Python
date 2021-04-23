@@ -1,0 +1,103 @@
+<CODE>
+// DUMP pour le terme 'finit' (eid=400450)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;777;'n_wikipedia'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;400450;'finit';1;50
+e;116753;'finir';1;510
+e;14270944;'VerbalPers:P3';4;0
+e;14270945;'VerbalNumber:SG';4;0
+e;150118;'Ver:IPre+SG+P3';4;50
+e;161713;'Ver:IPSim+SG+P3';4;50
+e;14271095;'VerbalTime:PasséSimple';4;0
+e;3093590;'VerbalMode:Indicatif';4;0
+e;2935005;'VerbalTime:Present';4;0
+e;2935006;'VerbalTime:Past';4;0
+e;2946892;'Ver:Conjug';4;0
+e;161723;'Ver:IPre+SG+P3:IPSim+SG+P3';4;50
+e;212235;'Ver:';4;50
+e;10459185;'La Nuit qui ne finit pas';777;0
+e;10458860;'Ça finit bien la semaine';777;0
+e;10090967;'L'été finit sous les tilleuls';777;0
+e;2445811;'qui bien engrène bien finit';1;0
+e;323382;'qui n'en finit plus';1;50
+e;209232;'tout est bien qui finit bien';1;50
+e;323383;'qui n'en finit pas';1;50
+e;222584;'Tout est bien qui finit bien';1;50
+e;357832;'histoire qui finit bien';1;50
+e;357813;'histoire qui finit mal';1;50
+e;151553;'_FL:0';6;50
+e;3576104;'Morpho:nospace';18;50
+e;3575927;'Morpho:min';18;50
+e;254877;'_POL-NEUTRE_PC';36;50
+e;254878;'_POL-NEG_PC';36;50
+e;273221;'_INFO-WIKI-NO';36;50
+e;241794;'_POL-NEUTRE';36;50
+e;254876;'_POL-POS_PC';36;50
+e;223172;'_POL-NEG';36;50
+e;223173;'_POL-POS';36;50
+e;2983124;'_SW';36;50
+e;15582463;'en:all's well that ends well';1;0
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;11;'r_locution';'locution';A partir d'un terme, il est demandé d'énumérer les locutions, expression ou mots composés en rapport avec ce terme. Par exemple, pour 'moulin', ou pourra avoir 'moulin à vent', 'moulin à eau', 'moulin à café'. Pour 'vendre', on pourra avoir 'vendre la peau de l'ours avant de l'avoir tué', 'vendre à perte', etc..
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;555;'r_cooccurrence';'r_cooccurrence';co-occurences (non utilisée)
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;87495251;400450;116753;0;26
+r;362921503;400450;14270944;4;25
+r;362921105;400450;14270945;4;25
+r;362920719;400450;150118;4;25
+r;363811016;400450;161713;4;25
+r;363811328;400450;14271095;4;25
+r;75189440;400450;3093590;4;30
+r;72094430;400450;2935005;4;37
+r;72154988;400450;2935006;4;37
+r;72423881;400450;2946892;4;45
+r;14353108;400450;161723;4;56
+r;14353109;400450;212235;4;57
+r;261018268;400450;10459185;11;41
+r;261019677;400450;10458860;11;41
+r;233027733;400450;10090967;11;42
+r;55361993;400450;2445811;11;48
+r;14219574;400450;323382;11;51
+r;14277977;400450;209232;11;52
+r;14219572;400450;323383;11;54
+r;14275011;400450;222584;11;54
+r;14211906;400450;357832;11;55
+r;14211920;400450;357813;11;60
+r;74656026;400450;151553;12;30
+r;90770016;400450;3576104;18;27
+r;89791944;400450;3575927;18;31
+r;14353107;400450;116753;19;59
+r;27400139;400450;254877;36;12
+r;27400140;400450;254878;36;22
+r;218220460;400450;273221;36;27
+r;26460340;400450;241794;36;38
+r;27400138;400450;254876;36;66
+r;26264808;400450;223172;36;71
+r;24501523;400450;223173;36;215
+r;73963402;400450;2983124;555;26507
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;55361994;2445811;400450;0;15
+r;261018269;10459185;400450;0;17
+r;261019678;10458860;400450;0;17
+r;233027734;10090967;400450;0;18
+r;408009757;15582463;400450;0;20
+r;14277978;209232;400450;0;49
+r;14275012;222584;400450;0;50
+r;14219573;323383;400450;0;52
+r;14211921;357813;400450;0;54
+r;14211907;357832;400450;0;58
+r;14219575;323382;400450;0;59

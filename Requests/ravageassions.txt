@@ -1,0 +1,49 @@
+<CODE>
+// DUMP pour le terme 'ravageassions' (eid=2087594)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;2087594;'ravageassions';2;0
+e;136546;'ravager';1;108
+e;14270942;'VerbalPers:P1';4;0
+e;14270946;'VerbalNumber:PL';4;0
+e;3093591;'VerbalMode:Subjonctif';4;0
+e;2935006;'VerbalTime:Past';4;0
+e;14271094;'VerbalTime:Imparfait';4;0
+e;2946892;'Ver:Conjug';4;0
+e;161740;'Ver:SImp+PL+P1';4;50
+e;212235;'Ver:';4;50
+e;151553;'_FL:0';6;50
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+e;273221;'_INFO-WIKI-NO';36;50
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;87607451;2087594;136546;0;26
+r;362914312;2087594;14270942;4;25
+r;362906075;2087594;14270946;4;25
+r;363732081;2087594;3093591;4;25
+r;363732777;2087594;2935006;4;25
+r;363740103;2087594;14271094;4;25
+r;72481674;2087594;2946892;4;45
+r;32414318;2087594;161740;4;63
+r;32414320;2087594;212235;4;63
+r;74743054;2087594;151553;12;29
+r;89610241;2087594;3575927;18;34
+r;90593639;2087594;3576104;18;37
+r;32414314;2087594;136546;19;55
+r;75927982;2087594;273221;36;40
+// les relations entrantes : r;rid;node1;node2;type;w 

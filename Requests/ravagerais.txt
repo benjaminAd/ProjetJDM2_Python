@@ -1,0 +1,49 @@
+<CODE>
+// DUMP pour le terme 'ravagerais' (eid=2087655)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;2087655;'ravagerais';2;0
+e;136546;'ravager';1;108
+e;14270838;'Ver:CPre+SG+P1';4;0
+e;3094354;'VerbalMode:Conditionnel';4;0
+e;14270839;'Ver:CPre+SG+P2';4;0
+e;2935005;'VerbalTime:Present';4;0
+e;14270942;'VerbalPers:P1';4;0
+e;14270943;'VerbalPers:P2';4;0
+e;14270945;'VerbalNumber:SG';4;0
+e;2946892;'Ver:Conjug';4;0
+e;161758;'Ver:CPre+SG+P1:CPre+SG+P2';4;50
+e;212235;'Ver:';4;50
+e;151553;'_FL:0';6;50
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;87607482;2087655;136546;0;30
+r;361898850;2087655;14270838;4;25
+r;361900869;2087655;3094354;4;25
+r;361907581;2087655;14270839;4;25
+r;361911221;2087655;2935005;4;25
+r;363594093;2087655;14270942;4;25
+r;363585490;2087655;14270943;4;25
+r;363577390;2087655;14270945;4;25
+r;72481691;2087655;2946892;4;45
+r;32414403;2087655;161758;4;60
+r;32414406;2087655;212235;4;69
+r;74743064;2087655;151553;12;29
+r;89610180;2087655;3575927;18;27
+r;90593578;2087655;3576104;18;40
+r;32414401;2087655;136546;19;66
+// les relations entrantes : r;rid;node1;node2;type;w 
