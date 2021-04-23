@@ -204,3 +204,6 @@ Nom:;e;Nom:;eau;$
 Nom:;n;Nom:;nne;$
 Adj:;t;Adj:;te;$
 Ver:Inf;uire;Ver:;uira;$
+Ver:;i;Adj:;ie;$
+Ver:;i;Adj:;ies;$
+Ver:;i;Adj:;is;$

@@ -1,0 +1,198 @@
+<CODE>
+// DUMP pour le terme 'endormie' (eid=154796)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;10;'n_relation'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;200;'n_context'
+nt;777;'n_wikipedia'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;154796;'endormie';1;106
+e;2330095;'décédée>161702';1;0;'décédée>Ver:PPas'
+e;15244076;'en:sleepy';1;0
+e;120165;'endormir';1;356
+e;594348;'décédée>171869';1;0;'décédée>Adj:'
+e;268363;'décédée';1;44
+e;16085;'endormi';1;184
+e;239128;'_COM';36;50
+e;1809376;'endormie>161702';1;0;'endormie>Ver:PPas'
+e;1809377;'endormie>171869';1;0;'endormie>Adj:'
+e;161702;'Ver:PPas';4;50
+e;2586628;'Gender:Fem';4;0
+e;2586629;'Number:Sing';4;0
+e;212235;'Ver:';4;50
+e;161700;'Ver:PPas+Fem+SG';4;50
+e;146894;'Adj:Fem+SG';4;50
+e;171869;'Adj:';4;50
+e;14446695;'La Princesse endormie';777;0
+e;10599946;'La Sentinelle endormie';777;0
+e;11833773;'belle endormie';777;0
+e;11833776;'La Belle endormie';777;0
+e;6008106;'Beauté endormie';777;0
+e;10159138;'Dans la ville endormie';777;0
+e;1694250;'La Bohémienne endormie';1;0
+e;26045;'La Guitare endormie';1;50
+e;73546;'La Vénus endormie';1;50
+e;101506;'Hébé endormie';1;50
+e;310166;'La Légende de la Vallée endormie';777;50
+e;46749;'Bohémienne endormie';1;50
+e;125548;'Muse endormie';1;54
+e;151564;'_FL:5';6;50
+e;152775;'_FL:23';6;50
+e;151553;'_FL:0';6;50
+e;14916413;'Langue:français';18;50
+e;3576104;'Morpho:nospace';18;50
+e;3575927;'Morpho:min';18;50
+e;87885;'princesse';1;1114
+e;136786;'ville';1;9044
+e;254878;'_POL-NEG_PC';36;50
+e;223172;'_POL-NEG';36;50
+e;254877;'_POL-NEUTRE_PC';36;50
+e;273221;'_INFO-WIKI-NO';36;50
+e;438949;'_INFO-POLYMORPHIC';36;50
+e;241794;'_POL-NEUTRE';36;50
+e;254876;'_POL-POS_PC';36;50
+e;223173;'_POL-POS';36;50
+e;10992008;':r277697342';10;0
+e;12684866;'d50028381c689cd7e7e11947df52bdef';200;0
+e;12688318;'08d9efc33b43c11ef7db701145e56432';200;0
+e;14161760;'836549b0c2139296048859fba338a4ba';200;0
+e;14894898;'01d6ea80a3bf06fd6ff9322904cf8997';200;0
+e;16194504;'4659d7b410dd8f66a5c7f788c3996a0e';200;0
+e;12677672;'86245b47a65fff6f751b6a14967b5a84';200;0
+e;12714761;'1d5c4d16424f5b4e032009c2af0d0d7b';200;0
+e;13640480;'0ff12ff2ca1035593b179b2ca7e20581';200;0
+e;13589761;'9efc3516a8d26b6015bbb3f32ae407fe';200;0
+e;2983124;'_SW';36;50
+e;165781;'la belle au bois dormant';1;58
+e;14923522;'en:Sleeping Beauty';1;0
+e;15397865;'en:sleeping beauty';1;0
+e;105154;'étendue';1;174
+e;215477;'La Belle au bois dormant';1;28
+e;25379;'la Belle au bois dormant';1;56
+e;43253;'dormir';1;6514
+e;217584;'Blanche-Neige';1;274
+e;160561;'Blanche Neige';1;84
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;2;'r_raff_morpho';'raffinement morphologique';Raffinement morphologique vers un usage particulier du terme source
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;5;'r_syn';'synonyme';Il est demandé d'énumérer les synonymes ou quasi-synonymes de ce terme.
+rt;11;'r_locution';'locution';A partir d'un terme, il est demandé d'énumérer les locutions, expression ou mots composés en rapport avec ce terme. Par exemple, pour 'moulin', ou pourra avoir 'moulin à vent', 'moulin à eau', 'moulin à café'. Pour 'vendre', on pourra avoir 'vendre la peau de l'ours avant de l'avoir tué', 'vendre à perte', etc..
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;17;'r_carac';'caractéristique';Pour un terme donné, souvent un objet, il est demandé d'en énumérer les CARACtéristiques (adjectifs) possibles/typiques. Par exemple, 'liquide', 'froide', 'chaude', pour 'eau'.
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;22;'r_family';'famille';Des mots de la même famille lexicale sont demandés (dérivation morphologique, par exemple). Par exemple, pour 'lait' on pourrait mettre 'laitier', 'laitage', 'laiterie', etc.
+rt;23;'r_carac-1';'caractéristique-1';Quels sont les objets (des noms) possédant typiquement/possiblement la caractérisque suivante ? Par exemple, 'soleil', 'feu', pour 'chaud'.
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;59;'r_masc';'équivalent masc';L'équivalent masculin du terme : lionne --> lion.
+rt;60;'r_fem';'équivalent fem';L'équivalent féminin du terme : lion --> lionne.
+rt;128;'r_node2relnode';'r_node2relnode';Relation entre un noeud (quelconque) et un noeud de relation (type = 10) - permet de rendre le graphe connexe même avec les annotations de relations
+rt;200;'r_context';'r_context';Relation de contexte entre un terme et un noeud contexte.
+rt;333;'r_translation';'r_translation';Traduction vers une autre langue.
+rt;555;'r_cooccurrence';'r_cooccurrence';co-occurences (non utilisée)
+rt;666;'r_aki';'r_aki';(TOTAKI) equivalent pour TOTAKI de l'association libre
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;310838041;154796;2330095;0;23
+r;415876965;154796;15244076;0;25
+r;87481024;154796;120165;0;26
+r;310838040;154796;594348;0;28
+r;77975214;154796;268363;0;30
+r;87481023;154796;16085;0;30
+r;23999240;154796;239128;0;1000000
+r;29564026;154796;1809376;2;45
+r;29564030;154796;1809377;2;45
+r;2246900;154796;161702;4;34
+r;53920876;154796;2586628;4;46
+r;54208437;154796;2586629;4;46
+r;12094695;154796;212235;4;54
+r;347137;154796;161700;4;59
+r;347136;154796;146894;4;63
+r;1952084;154796;171869;4;74
+r;309709288;154796;594348;5;25
+r;309709290;154796;2330095;5;25
+r;77768605;154796;268363;5;29
+r;366689726;154796;14446695;11;25
+r;264440813;154796;10599946;11;30
+r;306024134;154796;11833773;11;38
+r;306038687;154796;11833776;11;38
+r;118519076;154796;6008106;11;39
+r;238109048;154796;10159138;11;44
+r;27950282;154796;1694250;11;51
+r;8578600;154796;26045;11;162
+r;8594905;154796;73546;11;162
+r;8604668;154796;101506;11;162
+r;8776047;154796;310166;11;162
+r;8585595;154796;46749;11;163
+r;8613318;154796;125548;11;163
+r;77699814;154796;151564;12;24
+r;174482;154796;152775;12;26
+r;74635555;154796;151553;12;31
+r;394257645;154796;14916413;18;25
+r;90817406;154796;3576104;18;28
+r;89959840;154796;3575927;18;42
+r;299026;154796;120165;19;52
+r;299025;154796;16085;19;58
+r;14798922;154796;87885;23;29
+r;277941191;154796;136786;23;29
+r;210507368;154796;254878;36;1
+r;210507367;154796;223172;36;2
+r;26832769;154796;254877;36;14
+r;29564033;154796;273221;36;40
+r;29564029;154796;438949;36;41
+r;26437493;154796;241794;36;50
+r;26832768;154796;254876;36;85
+r;18507120;154796;223173;36;303
+r;105161408;154796;16085;59;29
+r;277697346;154796;10992008;128;2
+r;324899551;154796;12684866;200;1
+r;325016817;154796;12688318;200;1
+r;359774768;154796;14161760;200;2
+r;389148335;154796;14894898;200;2
+r;425452574;154796;16194504;200;2
+r;324607448;154796;12677672;200;3
+r;326221168;154796;12714761;200;3
+r;346060352;154796;13640480;200;6
+r;344200922;154796;13589761;200;8
+r;394257643;154796;15244076;333;26
+r;74000754;154796;2983124;555;2469
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;366689727;14446695;154796;0;1
+r;264440814;10599946;154796;0;6
+r;118519077;6008106;154796;0;11
+r;306024135;11833773;154796;0;14
+r;306038688;11833776;154796;0;14
+r;369386183;165781;154796;0;20
+r;396322566;14923522;154796;0;20
+r;407415861;15397865;154796;0;20
+r;309709287;594348;154796;0;21
+r;238109050;10159138;154796;0;23
+r;415876964;15244076;154796;0;25
+r;309709289;2330095;154796;0;28
+r;77768604;268363;154796;0;29
+r;12372717;105154;154796;0;30
+r;1602817;215477;154796;0;55
+r;27950283;1694250;154796;0;55
+r;34456278;25379;154796;0;55
+r;9382873;26045;154796;0;143
+r;9390036;46749;154796;0;143
+r;9399699;73546;154796;0;144
+r;9409831;101506;154796;0;144
+r;9418866;125548;154796;0;144
+r;9594743;310166;154796;0;148
+r;309322950;594348;154796;5;33
+r;309322951;2330095;154796;5;33
+r;77699813;268363;154796;5;51
+r;277697342;136786;154796;17;27
+r;174481;87885;154796;17;90
+r;1743230;43253;154796;22;260
+r;105161409;16085;154796;60;27
+r;394257644;15244076;154796;333;26
+r;2156202;217584;154796;666;1
+r;13429539;160561;154796;666;1

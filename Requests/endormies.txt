@@ -1,0 +1,66 @@
+<CODE>
+// DUMP pour le terme 'endormies' (eid=2032226)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;200;'n_context'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;2032226;'endormies';2;0
+e;16085;'endormi';1;184
+e;120165;'endormir';1;356
+e;161702;'Ver:PPas';4;50
+e;2586628;'Gender:Fem';4;0
+e;2586630;'Number:Plur';4;0
+e;212235;'Ver:';4;50
+e;161709;'Ver:PPas+Fem+PL';4;50
+e;149404;'Adj:Fem+PL';4;50
+e;171869;'Adj:';4;50
+e;151553;'_FL:0';6;50
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+e;438949;'_INFO-POLYMORPHIC';36;50
+e;14281606;'8040eb3bdd4c1d66575f8bf76b357304';200;0
+e;13569165;'1fee73e54d03d56291a5d5906d1a7471';200;0
+e;13627911;'9f213c0878d3142fe362afacf74327d6';200;0
+e;13627960;'3c0be280d176a669eedf8be7d2a619e4';200;0
+e;2983124;'_SW';36;50
+e;304211;'marques';1;64
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;17;'r_carac';'caractéristique';Pour un terme donné, souvent un objet, il est demandé d'en énumérer les CARACtéristiques (adjectifs) possibles/typiques. Par exemple, 'liquide', 'froide', 'chaude', pour 'eau'.
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;200;'r_context';'r_context';Relation de contexte entre un terme et un noeud contexte.
+rt;555;'r_cooccurrence';'r_cooccurrence';co-occurences (non utilisée)
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;87567213;2032226;16085;0;28
+r;87517574;2032226;120165;0;32
+r;32964098;2032226;161702;4;45
+r;53903290;2032226;2586628;4;46
+r;53913832;2032226;2586630;4;46
+r;32161589;2032226;212235;4;52
+r;32161588;2032226;161709;4;55
+r;32302423;2032226;149404;4;57
+r;32302427;2032226;171869;4;61
+r;74635556;2032226;151553;12;31
+r;89666047;2032226;3575927;18;27
+r;90649774;2032226;3576104;18;32
+r;32302418;2032226;16085;19;55
+r;32161585;2032226;120165;19;58
+r;427400203;2032226;438949;36;25
+r;363892064;2032226;14281606;200;2
+r;343654308;2032226;13569165;200;2
+r;345397853;2032226;13627911;200;2
+r;345400773;2032226;13627960;200;2
+r;74113308;2032226;2983124;555;525
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;426788950;304211;2032226;17;25

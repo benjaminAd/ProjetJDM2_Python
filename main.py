@@ -258,6 +258,7 @@ class JDM:
             print("Votre mot n'est pas dérivable avec l'ensemble des règles actuelles")
 
     def start(self):
+        self.regles = Regles()
         if os.path.isfile(self.nettoyerPath):
             self.nettoyage()
             self.checkRule()
@@ -282,7 +283,7 @@ if __name__ == '__main__':
             split = regle.split(";")
             if len(split) == 5:
                 file = open("Regles.txt", "a")
-                file.write(regle)
+                file.write(regle + "\n")
                 file.close()
                 print("Votre règle -->", regle, "a bien été ajouter")
         else:
