@@ -192,7 +192,7 @@ Nom:;$;Adj:;an;$
 Nom:;$;Adj:;ane;$
 Adj:;ant;Adv:;emment;$
 Adj:;ante;Adv:;emment;$
-Adj:if;tif;Nom:;tivité;$
+Adj:;tif;Nom:;tivité;$
 Adv:;ant;Nom:;ance;$
 Adv:;ante;Nom:;ance;$
 Nom:;$;Adj:;ain;$
@@ -202,8 +202,11 @@ Nom:;$;Nom:;arde;$
 Nom:;age;Ver:Inf;er;$
 Nom:;e;Nom:;eau;$
 Nom:;n;Nom:;nne;$
-Adj:;t;Adj:;te;$
+Adj:Mas+SG;t;Adj:Fem+SG;te;$
 Ver:Inf;uire;Ver:;uira;$
 Ver:;i;Adj:;ie;$
 Ver:;i;Adj:;ies;$
 Ver:;i;Adj:;is;$
+Adj:Mas+SG;$;Adj:Mas+PL;s;$
+Adj:Fem+SG;$;Adj:Fem+PL;es;$
+Adj:Mas+SG;$;Adj:Fem+PL;es;$

@@ -283,7 +283,7 @@ if __name__ == '__main__':
             split = regle.split(";")
             if len(split) == 5:
                 file = open("Regles.txt", "a")
-                file.write(regle + "\n")
+                file.write("\n" + regle)
                 file.close()
                 print("Votre règle -->", regle, "a bien été ajouter")
         else:

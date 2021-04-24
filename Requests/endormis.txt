@@ -1,0 +1,116 @@
+<CODE>
+// DUMP pour le terme 'endormis' (eid=2032280)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;200;'n_context'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;2032280;'endormis';2;0
+e;16085;'endormi';1;184
+e;120165;'endormir';1;356
+e;14300318;'endormis>171869';1;0;'endormis>Adj:'
+e;14294321;'endormis>171870';1;0;'endormis>Nom:'
+e;14294320;'endormis>2946892';1;0;'endormis>Ver:Conjug'
+e;14270798;'VerbalMode:Impératif';4;0
+e;14270847;'Ver:ImPre+SG+P2';4;0
+e;14271095;'VerbalTime:PasséSimple';4;0
+e;14270943;'VerbalPers:P2';4;0
+e;14270942;'VerbalPers:P1';4;0
+e;14270945;'VerbalNumber:SG';4;0
+e;161717;'Ver:IPre+SG+P2';4;50
+e;150117;'Ver:IPre+SG+P1';4;50
+e;3093590;'VerbalMode:Indicatif';4;0
+e;161735;'Ver:IPre+SG+P1:IPre+SG+P2:IPSim+SG+P1:IPSim+SG+P2:ImPre+SG+P2';4;50
+e;161728;'Ver:PPas+Mas+PL:IPre+SG+P1:IPre+SG+P2:IPSim+SG+P1:IPSim+SG+P2:ImPre+SG+P2';4;50
+e;146887;'Nom:Mas+PL';4;50
+e;171870;'Nom:';4;50
+e;2935005;'VerbalTime:Present';4;0
+e;161702;'Ver:PPas';4;50
+e;2935006;'VerbalTime:Past';4;0
+e;2946892;'Ver:Conjug';4;0
+e;2586627;'Gender:Mas';4;0
+e;2586630;'Number:Plur';4;0
+e;161715;'Ver:PPas+Mas+PL';4;50
+e;161736;'Ver:IPSim+SG+P2';4;50
+e;161738;'Ver:IPSim+SG+P1';4;50
+e;212235;'Ver:';4;50
+e;147151;'Adj:Mas+PL';4;50
+e;171869;'Adj:';4;50
+e;151553;'_FL:0';6;50
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+e;438949;'_INFO-POLYMORPHIC';36;50
+e;1912917;'_INFO-COUNTABLE-YES';36;0
+e;12718094;'ff25531614e613e8905233193f89b018';200;0
+e;13816299;'9cc40884295f3dd68bf766975978f0cf';200;0
+e;14566780;'43ca6aed3acf522dd7e0b3fec4f3f3ff';200;0
+e;14892848;'1a9988f3934ea3ec22c8fcd33c53e4b5';200;0
+e;16316029;'9f07e8ec5a190c5f4ed38886414d937c';200;0
+e;16289937;'2e804efb07fa83abf7f981958e9c007a';200;0
+e;2983124;'_SW';36;50
+e;2142;'robineux';1;50
+e;174666;'heptastade';1;50
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;2;'r_raff_morpho';'raffinement morphologique';Raffinement morphologique vers un usage particulier du terme source
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;200;'r_context';'r_context';Relation de contexte entre un terme et un noeud contexte.
+rt;555;'r_cooccurrence';'r_cooccurrence';co-occurences (non utilisée)
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;87567307;2032280;16085;0;26
+r;87517577;2032280;120165;0;32
+r;363958556;2032280;14300318;2;30
+r;363936569;2032280;14294321;2;45
+r;363936565;2032280;14294320;2;55
+r;363197872;2032280;14270798;4;25
+r;363197487;2032280;14270847;4;25
+r;363143671;2032280;14271095;4;25
+r;362916855;2032280;14270943;4;25
+r;362916464;2032280;14270942;4;25
+r;362916070;2032280;14270945;4;25
+r;362915708;2032280;161717;4;25
+r;362915371;2032280;150117;4;25
+r;91533799;2032280;3093590;4;27
+r;91533800;2032280;161735;4;28
+r;91533801;2032280;161728;4;28
+r;91533803;2032280;146887;4;28
+r;91533804;2032280;171870;4;29
+r;91533802;2032280;2935005;4;30
+r;32969045;2032280;161702;4;45
+r;72156228;2032280;2935006;4;45
+r;72433469;2032280;2946892;4;45
+r;53951141;2032280;2586627;4;46
+r;53959524;2032280;2586630;4;46
+r;32161597;2032280;161715;4;53
+r;32161604;2032280;161736;4;55
+r;32161600;2032280;161738;4;57
+r;32161598;2032280;212235;4;58
+r;32302676;2032280;147151;4;60
+r;32302678;2032280;171869;4;67
+r;74635572;2032280;151553;12;29
+r;89665992;2032280;3575927;18;30
+r;90649720;2032280;3576104;18;34
+r;32161596;2032280;120165;19;53
+r;32302673;2032280;16085;19;58
+r;363936568;2032280;438949;36;29
+r;91538102;2032280;1912917;36;34
+r;326404508;2032280;12718094;200;1
+r;349471959;2032280;13816299;200;2
+r;370174697;2032280;14566780;200;2
+r;388354101;2032280;14892848;200;2
+r;428746624;2032280;16316029;200;2
+r;427314432;2032280;16289937;200;4
+r;74003946;2032280;2983124;555;766
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;422916230;2142;2032280;0;1
+r;428945951;174666;2032280;0;1
