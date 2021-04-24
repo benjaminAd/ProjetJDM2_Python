@@ -1,0 +1,150 @@
+<CODE>
+// DUMP pour le terme 'ardente' (eid=401073)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;200;'n_context'
+nt;777;'n_wikipedia'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;401073;'ardente';1;50
+e;11963118;'en:burning';1;0
+e;128620;'ardent';1;174
+e;2586628;'Gender:Fem';4;0
+e;2586629;'Number:Sing';4;0
+e;146894;'Adj:Fem+SG';4;50
+e;171869;'Adj:';4;50
+e;15278461;'conviction ardente';1;0
+e;12979939;'nuée ardente paroxystique';1;0
+e;6087330;'La Chambre ardente';777;0
+e;12077743;'chambre ardente';1;0
+e;197477;'chapelle ardente';1;82
+e;123163;'Chambre ardente';1;50
+e;58489;'messe ardente';1;50
+e;154211;'passion ardente';1;50
+e;297508;'cité ardente';777;50
+e;343461;'chemise ardente';1;50
+e;136258;'Une saison ardente';1;50
+e;256807;'nuée ardente';1;50
+e;151553;'_FL:0';6;50
+e;14916413;'Langue:français';18;50
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+e;254877;'_POL-NEUTRE_PC';36;50
+e;254878;'_POL-NEG_PC';36;50
+e;273221;'_INFO-WIKI-NO';36;50
+e;223172;'_POL-NEG';36;50
+e;241794;'_POL-NEUTRE';36;50
+e;254876;'_POL-POS_PC';36;50
+e;223173;'_POL-POS';36;50
+e;12775264;'52f8b51f6f5b135d69411d91d78dc4fd';200;0
+e;12792493;'928a925423205513094dad896cf3ba5d';200;0
+e;13396470;'2b5c30be919e61b12ce2ccece7509fd5';200;0
+e;12668812;'351df32376c3081e728f5e0e809068ef';200;0
+e;13598526;'eb05df41bf9c8aaa4dcdb7ec0a121b7c';200;0
+e;14428545;'380e5db3f4dbc1837132c20b65e8c839';200;0
+e;15475092;'fefbfbf55409ce8cbc73fc8a76389d4d';200;0
+e;15475099;'3315fd41a008d726033066dc4c104644';200;0
+e;16182652;'f06d1ff4e35fce512d564ee6c6040ccd';200;0
+e;16376947;'ffd8b2a72dc4e293392626df720b02e1';200;0
+e;13551582;'37a1f10d89880e4973675f4656c81abc';200;0
+e;14897513;'6eac3397bea84e1014feb722ddfae67d';200;0
+e;14042012;'2e166cc5967f0e1a1c165cdd1e3c0d5a';200;0
+e;2983124;'_SW';36;50
+e;148140;'fervemment';1;54
+e;31416;'chaudement';1;124
+e;3181;'ardemment';1;118
+e;9087993;'en:funeral home';1;0
+e;15273903;'en:glowing cloud';1;0
+e;15209061;'en:burning passion';1;0
+e;15247707;'en:chapel of rest';1;0
+e;30886;'saison';1;718
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;11;'r_locution';'locution';A partir d'un terme, il est demandé d'énumérer les locutions, expression ou mots composés en rapport avec ce terme. Par exemple, pour 'moulin', ou pourra avoir 'moulin à vent', 'moulin à eau', 'moulin à café'. Pour 'vendre', on pourra avoir 'vendre la peau de l'ours avant de l'avoir tué', 'vendre à perte', etc..
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;17;'r_carac';'caractéristique';Pour un terme donné, souvent un objet, il est demandé d'en énumérer les CARACtéristiques (adjectifs) possibles/typiques. Par exemple, 'liquide', 'froide', 'chaude', pour 'eau'.
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;59;'r_masc';'équivalent masc';L'équivalent masculin du terme : lionne --> lion.
+rt;60;'r_fem';'équivalent fem';L'équivalent féminin du terme : lion --> lionne.
+rt;200;'r_context';'r_context';Relation de contexte entre un terme et un noeud contexte.
+rt;333;'r_translation';'r_translation';Traduction vers une autre langue.
+rt;555;'r_cooccurrence';'r_cooccurrence';co-occurences (non utilisée)
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;415594216;401073;11963118;0;25
+r;87492693;401073;128620;0;27
+r;53923015;401073;2586628;4;46
+r;54209579;401073;2586629;4;46
+r;14345338;401073;146894;4;55
+r;14345339;401073;171869;4;66
+r;419739667;401073;15278461;11;25
+r;333257641;401073;12979939;11;27
+r;119669605;401073;6087330;11;28
+r;315097419;401073;12077743;11;35
+r;14280767;401073;197477;11;51
+r;14300171;401073;123163;11;51
+r;14316855;401073;58489;11;53
+r;14292309;401073;154211;11;54
+r;14239684;401073;297508;11;55
+r;14214285;401073;343461;11;56
+r;14296789;401073;136258;11;56
+r;14266513;401073;256807;11;59
+r;74541645;401073;151553;12;27
+r;394948144;401073;14916413;18;25
+r;89791321;401073;3575927;18;32
+r;90769391;401073;3576104;18;35
+r;14345337;401073;128620;19;59
+r;26698637;401073;254877;36;13
+r;26698638;401073;254878;36;13
+r;216738845;401073;273221;36;29
+r;26529348;401073;223172;36;45
+r;26529349;401073;241794;36;46
+r;26698636;401073;254876;36;75
+r;21782716;401073;223173;36;267
+r;105156071;401073;128620;59;31
+r;327860936;401073;12775264;200;1
+r;328297142;401073;12792493;200;1
+r;339504792;401073;13396470;200;1
+r;324278544;401073;12668812;200;2
+r;344867520;401073;13598526;200;2
+r;366362890;401073;14428545;200;2
+r;396189224;401073;15475092;200;2
+r;396189691;401073;15475099;200;2
+r;425297978;401073;16182652;200;2
+r;432631954;401073;16376947;200;2
+r;343604636;401073;13551582;200;4
+r;389635890;401073;14897513;200;4
+r;354709172;401073;14042012;200;8
+r;394948142;401073;11963118;333;32
+r;74021612;401073;2983124;555;2168
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;419739668;15278461;401073;0;1
+r;333257642;12979939;401073;0;3
+r;119669606;6087330;401073;0;4
+r;418102741;148140;401073;0;12
+r;417753708;31416;401073;0;16
+r;417751644;3181;401073;0;17
+r;411345441;9087993;401073;0;20
+r;426214135;15273903;401073;0;20
+r;415594215;11963118;401073;0;25
+r;14300172;123163;401073;0;41
+r;315097420;12077743;401073;0;41
+r;14296790;136258;401073;0;44
+r;14292310;154211;401073;0;45
+r;411484184;15209061;401073;0;45
+r;14316856;58489;401073;0;48
+r;408996659;15247707;401073;0;50
+r;14280768;197477;401073;0;52
+r;14266514;256807;401073;0;54
+r;14214286;343461;401073;0;58
+r;14239685;297508;401073;0;60
+r;428742059;30886;401073;17;25
+r;105156072;128620;401073;60;32
+r;394948143;11963118;401073;333;32

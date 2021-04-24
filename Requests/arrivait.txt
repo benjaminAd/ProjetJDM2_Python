@@ -1,0 +1,69 @@
+<CODE>
+// DUMP pour le terme 'arrivait' (eid=1991085)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;777;'n_wikipedia'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;1991085;'arrivait';2;0
+e;10322;'arriver';1;396
+e;14270944;'VerbalPers:P3';4;0
+e;14270945;'VerbalNumber:SG';4;0
+e;14271094;'VerbalTime:Imparfait';4;0
+e;2935006;'VerbalTime:Past';4;0
+e;2946892;'Ver:Conjug';4;0
+e;3093590;'VerbalMode:Indicatif';4;0
+e;161747;'Ver:IImp+SG+P3';4;50
+e;212235;'Ver:';4;50
+e;16269078;'Si ça arrivait par Robert A. Heinlein';777;0
+e;16437225;'Si ça arrivait';777;0
+e;15314952;'Elle arrivait habituellement en retard au travail.';1;0
+e;15257874;'Il n'arrivait pas à contenir sa colère.';1;0
+e;15495244;'Il lui arrivait de me taper dessus un petit peu.';1;0
+e;15525011;'Cela n'arrivait pas aussi souvent autrefois.';1;0
+e;151553;'_FL:0';6;50
+e;3576104;'Morpho:nospace';18;50
+e;3575927;'Morpho:min';18;50
+e;2983124;'_SW';36;50
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;11;'r_locution';'locution';A partir d'un terme, il est demandé d'énumérer les locutions, expression ou mots composés en rapport avec ce terme. Par exemple, pour 'moulin', ou pourra avoir 'moulin à vent', 'moulin à eau', 'moulin à café'. Pour 'vendre', on pourra avoir 'vendre la peau de l'ours avant de l'avoir tué', 'vendre à perte', etc..
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;555;'r_cooccurrence';'r_cooccurrence';co-occurences (non utilisée)
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;87511795;1991085;10322;0;29
+r;363315132;1991085;14270944;4;25
+r;363306871;1991085;14270945;4;25
+r;363298610;1991085;14271094;4;25
+r;72117710;1991085;2935006;4;45
+r;72430877;1991085;2946892;4;45
+r;75656348;1991085;3093590;4;45
+r;32141938;1991085;161747;4;52
+r;32141939;1991085;212235;4;52
+r;426837383;1991085;16269078;11;25
+r;433488184;1991085;16437225;11;25
+r;397497410;1991085;15314952;11;50
+r;402108148;1991085;15257874;11;50
+r;402107574;1991085;15495244;11;50
+r;397847826;1991085;15525011;11;50
+r;74542662;1991085;151553;12;31
+r;90692497;1991085;3576104;18;30
+r;89707463;1991085;3575927;18;35
+r;32141937;1991085;10322;19;54
+r;73965428;1991085;2983124;555;3782
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;426837384;16269078;1991085;0;1
+r;433488185;16437225;1991085;0;1
+r;397497411;15314952;1991085;0;50
+r;402107575;15495244;1991085;0;50
+r;397847827;15525011;1991085;0;50
+r;402108149;15257874;1991085;0;50

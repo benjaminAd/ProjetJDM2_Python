@@ -1,0 +1,70 @@
+<CODE>
+// DUMP pour le terme 'arrivent' (eid=1991098)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;777;'n_wikipedia'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;1991098;'arrivent';2;0
+e;10322;'arriver';1;396
+e;14270944;'VerbalPers:P3';4;0
+e;14270946;'VerbalNumber:PL';4;0
+e;161707;'Ver:SPre+PL+P3';4;50
+e;161706;'Ver:IPre+PL+P3';4;50
+e;2935005;'VerbalTime:Present';4;0
+e;2946892;'Ver:Conjug';4;0
+e;3093590;'VerbalMode:Indicatif';4;0
+e;3093591;'VerbalMode:Subjonctif';4;0
+e;212235;'Ver:';4;50
+e;161711;'Ver:IPre+PL+P3:SPre+PL+P3';4;50
+e;15526610;'Quelques maigres dons arrivent déjà au compte-gouttes.';1;0
+e;15690854;'ce sont des choses qui arrivent';1;0
+e;15693056;'emmerdes arrivent';1;0
+e;10061247;'Les parachutistes arrivent';777;0
+e;15296818;'Cette note est juste pour rappeler que les invités arrivent ce soir.';1;0
+e;151553;'_FL:0';6;50
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+e;2983124;'_SW';36;50
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;11;'r_locution';'locution';A partir d'un terme, il est demandé d'énumérer les locutions, expression ou mots composés en rapport avec ce terme. Par exemple, pour 'moulin', ou pourra avoir 'moulin à vent', 'moulin à eau', 'moulin à café'. Pour 'vendre', on pourra avoir 'vendre la peau de l'ours avant de l'avoir tué', 'vendre à perte', etc..
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;555;'r_cooccurrence';'r_cooccurrence';co-occurences (non utilisée)
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;87511805;1991098;10322;0;35
+r;363060409;1991098;14270944;4;25
+r;363052948;1991098;14270946;4;25
+r;363045328;1991098;161707;4;25
+r;363037812;1991098;161706;4;25
+r;72096494;1991098;2935005;4;45
+r;72430883;1991098;2946892;4;45
+r;75656345;1991098;3093590;4;45
+r;75656346;1991098;3093591;4;45
+r;32141971;1991098;212235;4;53
+r;32141970;1991098;161711;4;58
+r;419531954;1991098;15526610;11;25
+r;419691700;1991098;15690854;11;25
+r;419835073;1991098;15693056;11;25
+r;232108658;1991098;10061247;11;39
+r;395013955;1991098;15296818;11;50
+r;74542674;1991098;151553;12;28
+r;89707450;1991098;3575927;18;26
+r;90692484;1991098;3576104;18;29
+r;32141969;1991098;10322;19;54
+r;73998292;1991098;2983124;555;14272
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;419531955;15526610;1991098;0;1
+r;419691701;15690854;1991098;0;1
+r;419835074;15693056;1991098;0;1
+r;232108659;10061247;1991098;0;15
+r;395013956;15296818;1991098;0;50

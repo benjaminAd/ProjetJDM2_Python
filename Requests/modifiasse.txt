@@ -1,0 +1,45 @@
+<CODE>
+// DUMP pour le terme 'modifiasse' (eid=2227185)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;2227185;'modifiasse';2;0
+e;6096;'modifier';1;264
+e;161725;'Ver:SImp+SG+P1';4;50
+e;212235;'Ver:';4;50
+e;2935006;'VerbalTime:Past';4;0
+e;2946892;'Ver:Conjug';4;0
+e;3093591;'VerbalMode:Subjonctif';4;0
+e;14270942;'VerbalPers:P1';4;0
+e;14270945;'VerbalNumber:SG';4;0
+e;14271094;'VerbalTime:Imparfait';4;0
+e;151553;'_FL:0';6;50
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;87709147;2227185;6096;0;28
+r;32724162;2227185;161725;4;54
+r;32724164;2227185;212235;4;58
+r;75645246;2227185;2935006;4;45
+r;72513162;2227185;2946892;4;45
+r;75645245;2227185;3093591;4;45
+r;362863329;2227185;14270942;4;25
+r;362855367;2227185;14270945;4;25
+r;363709498;2227185;14271094;4;25
+r;74703434;2227185;151553;12;32
+r;89470396;2227185;3575927;18;39
+r;90453314;2227185;3576104;18;28
+r;32724160;2227185;6096;19;51
+// les relations entrantes : r;rid;node1;node2;type;w 

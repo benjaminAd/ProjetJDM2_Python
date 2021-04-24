@@ -1,0 +1,134 @@
+<CODE>
+// DUMP pour le terme 'ardents' (eid=420038)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;200;'n_context'
+nt;777;'n_wikipedia'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;420038;'ardents';1;50
+e;17632;'Ardents';1;50
+e;128620;'ardent';1;174
+e;571392;'ardents>171870';1;50;'ardents>Nom:'
+e;571393;'ardents>171869';1;50;'ardents>Adj:'
+e;2586627;'Gender:Mas';4;0
+e;2586630;'Number:Plur';4;0
+e;146887;'Nom:Mas+PL';4;50
+e;147151;'Adj:Mas+PL';4;50
+e;171869;'Adj:';4;50
+e;171870;'Nom:';4;50
+e;12699746;'ardents défenseurs';1;0
+e;203319;'mal des ardents';1;54
+e;215344;'charbons ardents';1;54
+e;227294;'Bal des ardents';1;68
+e;227295;'bal des ardents';1;58
+e;69618;'être sur des charbons ardents';1;50
+e;229198;'sur des charbons ardents';1;50
+e;227257;'Le Bal des ardents';1;4
+e;3172168;'Sur des charbons ardents';777;0
+e;1476133;'miroirs ardents';777;0
+e;151553;'_FL:0';6;50
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+e;254877;'_POL-NEUTRE_PC';36;50
+e;254878;'_POL-NEG_PC';36;50
+e;273221;'_INFO-WIKI-NO';36;50
+e;1912917;'_INFO-COUNTABLE-YES';36;0
+e;241794;'_POL-NEUTRE';36;50
+e;438949;'_INFO-POLYMORPHIC';36;50
+e;254876;'_POL-POS_PC';36;50
+e;223172;'_POL-NEG';36;50
+e;223173;'_POL-POS';36;50
+e;12699728;'678e235e50a851ad20cb69fa2ad6d85e';200;0
+e;13986206;'68777e0229a5528e307bebdf1dab777b';200;0
+e;14164572;'c0b8b06cb42b9afb6b0c8b13ee15d215';200;0
+e;2983124;'_SW';36;50
+e;15483414;'en:like a cat on hot bricks';1;0
+e;15397963;'en:be like a cat on hot bricks';1;0
+e;15397966;'en:on tenterhooks';1;0
+e;227293;'Bal des Ardents';1;68
+e;2476336;'mal des Ardents';1;0
+e;58640;'ergotisme';1;58
+e;6812725;'en:ergotism';1;0
+e;6451280;'intoxication par l'ergot';1;0
+e;6433071;'intoxication à l'ergot';1;0
+e;13634317;'classe Magdeburg';777;0
+e;13634321;'classe Karlsruhe';777;0
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;2;'r_raff_morpho';'raffinement morphologique';Raffinement morphologique vers un usage particulier du terme source
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;11;'r_locution';'locution';A partir d'un terme, il est demandé d'énumérer les locutions, expression ou mots composés en rapport avec ce terme. Par exemple, pour 'moulin', ou pourra avoir 'moulin à vent', 'moulin à eau', 'moulin à café'. Pour 'vendre', on pourra avoir 'vendre la peau de l'ours avant de l'avoir tué', 'vendre à perte', etc..
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;200;'r_context';'r_context';Relation de contexte entre un terme et un noeud contexte.
+rt;555;'r_cooccurrence';'r_cooccurrence';co-occurences (non utilisée)
+rt;777;'r_wiki';'r_wiki';Associations issues de wikipedia...
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;14439511;420038;17632;0;23
+r;87492689;420038;128620;0;30
+r;17515680;420038;571392;2;50
+r;17515683;420038;571393;2;50
+r;53948059;420038;2586627;4;46
+r;53957629;420038;2586630;4;46
+r;14345346;420038;146887;4;52
+r;14345344;420038;147151;4;62
+r;14345345;420038;171869;4;68
+r;14345347;420038;171870;4;69
+r;327330413;420038;12699746;11;50
+r;14279315;420038;203319;11;51
+r;14276349;420038;215344;11;52
+r;14273643;420038;227294;11;53
+r;14273639;420038;227295;11;54
+r;14314183;420038;69618;11;57
+r;14273101;420038;229198;11;58
+r;14273661;420038;227257;11;59
+r;76318194;420038;3172168;11;59
+r;24436422;420038;1476133;11;60
+r;74541647;420038;151553;12;29
+r;89785406;420038;3575927;18;32
+r;90749646;420038;3576104;18;34
+r;14345343;420038;128620;19;54
+r;27028500;420038;254877;36;8
+r;27028501;420038;254878;36;16
+r;77822974;420038;273221;36;27
+r;30789358;420038;1912917;36;40
+r;26598521;420038;241794;36;44
+r;17515682;420038;438949;36;48
+r;27028499;420038;254876;36;75
+r;26293094;420038;223172;36;85
+r;17515685;420038;223173;36;395
+r;325535355;420038;12699728;200;1
+r;352190498;420038;13986206;200;2
+r;359868754;420038;14164572;200;2
+r;74104424;420038;2983124;555;706
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;399880134;15483414;420038;0;10
+r;399880157;15397963;420038;0;10
+r;429133484;15397966;420038;0;20
+r;369335066;227293;420038;0;21
+r;368859910;2476336;420038;0;23
+r;14439510;17632;420038;0;26
+r;327330414;12699746;420038;0;27
+r;14314184;69618;420038;0;41
+r;14276350;215344;420038;0;51
+r;24436423;1476133;420038;0;51
+r;14273662;227257;420038;0;54
+r;14273102;229198;420038;0;60
+r;76318195;3172168;420038;0;61
+r;290518946;58640;420038;0;65
+r;14273644;227294;420038;0;70
+r;14273640;227295;420038;0;72
+r;290518611;6812725;420038;0;185
+r;290561078;6451280;420038;0;185
+r;290561093;6433071;420038;0;185
+r;14279316;203319;420038;0;187
+r;345751196;13634317;420038;777;10
+r;345751642;13634321;420038;777;10

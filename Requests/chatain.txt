@@ -1,0 +1,194 @@
+<CODE>
+// DUMP pour le terme 'chatain' (eid=154444)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;154444;'chatain';1;82
+e;165232;'yeux bleus';1;92
+e;116908;'châtain';1;96
+e;215223;'châtaigne>40056';1;2;'châtaigne>couleur'
+e;17226;'teinte';1;442
+e;52746;'chevelure';1;476
+e;133541;'marron clair';1;54
+e;145718;'brune';1;688
+e;55135;'blonde';1;1408
+e;64238;'noir';1;3847
+e;75869;'roux';1;650
+e;85024;'cheveu';1;480
+e;120225;'châtaigne';1;172
+e;26117;'blond';1;436
+e;96377;'auburn';1;88
+e;40056;'couleur';1;4816
+e;14189;'brun';1;404
+e;51126;'cheveux';1;3106
+e;239128;'_COM';36;50
+e;589545;'chatain>171869';1;0;'chatain>Adj:'
+e;589544;'chatain>171870';1;0;'chatain>Nom:'
+e;171870;'Nom:';4;50
+e;171869;'Adj:';4;50
+e;151566;'_FL:7';6;50
+e;151553;'_FL:0';6;50
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+e;57221;'joie';1;3888
+e;91691;'surprise';1;1186
+e;37298;'amour';1;7056
+e;28453;'bonheur';1;2180
+e;14330;'satisfaction';1;614
+e;317329;'_POLIT_7NOPOL';36;50
+e;254877;'_POL-NEUTRE_PC';36;50
+e;273221;'_INFO-WIKI-NO';36;50
+e;269965;'_INFO-SEM-COLOR-RELATED';36;50
+e;162749;'_INFO-BAD-ORTHO';36;58
+e;438949;'_INFO-POLYMORPHIC';36;50
+e;254876;'_POL-POS_PC';36;50
+e;241794;'_POL-NEUTRE';36;50
+e;223173;'_POL-POS';36;50
+e;132479;'marron';1;694
+e;8542;'beige';1;142
+e;2983124;'_SW';36;50
+e;215224;'châtaigne>198482';1;50;'châtaigne>décharge électrique'
+e;215222;'châtaigne>152965';1;54;'châtaigne>coup de poing'
+e;215221;'châtaigne>132479';1;34;'châtaigne>marron'
+e;15197732;'en:haired';1;0
+e;15197733;'en:capilli';1;0
+e;15197734;'en:scalp hair';1;0
+e;405965;'hair';1;54
+e;598645;'châtaigne>171869';1;0;'châtaigne>Adj:'
+e;6912949;'en:hair';1;0
+e;74860;'homme';1;28798
+e;145457;'boucle';1;210
+e;82703;'pilosité';1;328
+e;142124;'garçon';1;3004
+e;116477;'personne';1;10218
+e;144846;'tête';1;5684
+e;42001;'bébé';1;4028
+e;106252;'crinière';1;518
+e;233138;'tête>390963';1;70;'tête>extrémité supérieure du corps'
+e;208178;'shampooing colorant';1;50
+e;61490;'femme';1;30492
+e;15290651;'en:be tinged';1;0
+e;15450375;'en:dye your hair';1;0
+e;256471;'se faire faire une couleur';1;68
+e;256093;'se teindre';1;30
+e;15369642;'en:to dye one's hair';1;0
+e;15699283;'en:dye one's hair';1;0
+e;256098;'se teindre les cheveux';1;42
+e;263164;'se faire une couleur';1;28
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;2;'r_raff_morpho';'raffinement morphologique';Raffinement morphologique vers un usage particulier du terme source
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;7;'r_anto';'contraire';Il est demandé d'énumérer des contraires du terme. Par exemple, 'chaud' est le contraire de 'froid'.
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;20;'r_has_magn';'magn';La magnification ou amplification, par exemple - forte fièvre - ou - fièvre de cheval - pour fièvre. Ou encore - amour fou - pour amour, - peur bleue - pour peur.
+rt;21;'r_has_antimagn';'antimagn';L'inverse de la magnification, par exemple - bruine - pour pluie.
+rt;32;'r_sentiment';'sentiment';Pour un terme donné, évoquer des mots liés à des SENTIMENTS ou des EMOTIONS que vous pourriez associer à ce terme. Par exemple, la joie, le plaisir, le dégoût, la peur, la haine, l'amour, l'indifférence, l'envie, avoir peur, horrible, etc.
+rt;33;'r_error';'erreur';lien d'erreur
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;106;'r_color';'couleur';A comme couleur(s)... chat r_color noir
+rt;115;'r_sentiment-1';'sentiment-1';Pour un SENTIMENT ou EMOTION donné, il est demandé dénumérer les termes que vous pourriez associer. Par exemple, pour 'joie', on aurait 'cadeau', 'naissance', 'bonne nouvelle', etc.
+rt;555;'r_cooccurrence';'r_cooccurrence';co-occurences (non utilisée)
+rt;999;'r_inhib';'r_inhib';relation d'inhibition, le terme inhibe les termes suivants... ce terme a tendance à exclure le terme associé.
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;368106549;154444;165232;0;-5
+r;14477339;154444;116908;0;21
+r;1561294;154444;215223;0;35
+r;3087390;154444;17226;0;35
+r;2242871;154444;52746;0;45
+r;2242872;154444;133541;0;45
+r;3085114;154444;145718;0;61
+r;2206209;154444;55135;0;70
+r;403660;154444;64238;0;80
+r;403662;154444;75869;0;80
+r;406257;154444;85024;0;80
+r;393361;154444;120225;0;90
+r;403661;154444;26117;0;101
+r;384475;154444;96377;0;110
+r;380980;154444;40056;0;120
+r;380981;154444;14189;0;130
+r;380979;154444;51126;0;150
+r;23935855;154444;239128;0;1000000
+r;18502894;154444;589545;2;52
+r;18502891;154444;589544;2;58
+r;2242868;154444;171870;4;28
+r;2242869;154444;171869;4;28
+r;424934;154444;151566;12;43
+r;166242;154444;151553;12;69
+r;89960169;154444;3575927;18;27
+r;90817570;154444;3576104;18;34
+r;377014246;154444;55135;20;25
+r;33685716;154444;57221;32;6
+r;34025743;154444;91691;32;12
+r;33685715;154444;37298;32;13
+r;33685714;154444;28453;32;42
+r;33807994;154444;14330;32;58
+r;2242867;154444;116908;33;29
+r;9336525;154444;317329;36;16
+r;2340692;154444;254877;36;18
+r;104618527;154444;273221;36;32
+r;3167628;154444;269965;36;40
+r;2242870;154444;162749;36;41
+r;18502893;154444;438949;36;48
+r;2340691;154444;254876;36;82
+r;2196014;154444;241794;36;90
+r;2294876;154444;223173;36;418
+r;3160682;154444;132479;106;3
+r;3160704;154444;8542;106;3
+r;74280772;154444;2983124;555;103
+r;285291030;154444;215224;999;2
+r;285291046;154444;215222;999;2
+r;285291081;154444;215221;999;2
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;408641378;15197732;154444;0;10
+r;408691042;15197733;154444;0;10
+r;408740705;15197734;154444;0;10
+r;212344777;405965;154444;0;22
+r;97659057;598645;154444;0;27
+r;14477340;116908;154444;0;29
+r;1561293;215223;154444;0;38
+r;435525;120225;154444;0;51
+r;317542556;52746;154444;0;51
+r;396969;14189;154444;0;53
+r;2200877;145718;154444;0;54
+r;2218019;75869;154444;0;56
+r;420944;26117;154444;0;105
+r;196009619;6912949;154444;0;115
+r;166241;51126;154444;0;119
+r;424933;75869;154444;7;70
+r;1612228;55135;154444;21;60
+r;3176788;74860;154444;106;1
+r;3181456;145457;154444;106;1
+r;3182174;82703;154444;106;1
+r;3183829;142124;154444;106;1
+r;3185458;116477;154444;106;1
+r;3185520;144846;154444;106;1
+r;3185839;42001;154444;106;1
+r;3188328;14189;154444;106;1
+r;3188665;106252;154444;106;1
+r;3190237;233138;154444;106;1
+r;11417088;208178;154444;106;1
+r;3176890;61490;154444;106;2
+r;408683084;15197732;154444;106;10
+r;408732749;15197733;154444;106;10
+r;408782407;15197734;154444;106;10
+r;431447078;15290651;154444;106;10
+r;431447234;15450375;154444;106;10
+r;212342980;405965;154444;106;21
+r;11746679;256471;154444;106;27
+r;11746934;256093;154444;106;27
+r;404452376;15369642;154444;106;30
+r;404452618;15699283;154444;106;30
+r;11746817;256098;154444;106;33
+r;11746777;263164;154444;106;35
+r;196007428;6912949;154444;106;105
+r;3155937;51126;154444;106;107
+r;385382347;28453;154444;115;25
+r;385401731;14330;154444;115;25

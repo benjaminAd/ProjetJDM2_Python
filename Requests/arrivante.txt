@@ -1,0 +1,54 @@
+<CODE>
+// DUMP pour le terme 'arrivante' (eid=1991087)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;200;'n_context'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;1991087;'arrivante';2;0
+e;96340;'arrivant';1;64
+e;2586628;'Gender:Fem';4;0
+e;2586629;'Number:Sing';4;0
+e;171870;'Nom:';4;50
+e;171869;'Adj:';4;50
+e;146881;'Nom:Fem+SG';4;50
+e;146894;'Adj:Fem+SG';4;50
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+e;438949;'_INFO-POLYMORPHIC';36;50
+e;14048508;'63f85c66d1f6c8aa6d027ca3fb87b130';200;0
+e;1991088;'arrivantes';2;0
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;59;'r_masc';'équivalent masc';L'équivalent masculin du terme : lionne --> lion.
+rt;60;'r_fem';'équivalent fem';L'équivalent féminin du terme : lion --> lionne.
+rt;200;'r_context';'r_context';Relation de contexte entre un terme et un noeud contexte.
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;87501173;1991087;96340;0;28
+r;53930070;1991087;2586628;4;46
+r;54076909;1991087;2586629;4;46
+r;32112074;1991087;171870;4;51
+r;32141943;1991087;171869;4;53
+r;32112073;1991087;146881;4;55
+r;32141942;1991087;146894;4;56
+r;89707461;1991087;3575927;18;26
+r;90692495;1991087;3576104;18;32
+r;78812937;1991087;1991087;19;30
+r;32112072;1991087;96340;19;52
+r;427423834;1991087;438949;36;26
+r;105157469;1991087;96340;59;35
+r;354981308;1991087;14048508;200;4
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;107308779;1991088;1991087;0;29
+r;78812937;1991087;1991087;19;30
+r;107311769;1991088;1991087;19;31
+r;105157470;96340;1991087;60;31

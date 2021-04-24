@@ -1,0 +1,102 @@
+<CODE>
+// DUMP pour le terme 'rappelable' (eid=150043)
+<def>
+<br />
+1. Que l'on peut rappeler à servir.<br /> 
+ Pour se défendre contre le terrorisme, il conviendrait de pouvoir disposer d'environ un million d'hommes rappelables.  <br />
+2. Que l'on peut rappeler à la mémoire.<br /> 
+ Certaines de ces traces, rappelables directement à la conscience, sous-tendent la mémoire et l'apprentissage.  
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;444;'n_link'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;150043;'rappelable';1;50
+e;98744;'grouper';1;114
+e;13853607;'pouvoir être';1;0
+e;53541;'groupe';1;2316
+e;38111;'rappelé';1;54
+e;112810;'être rappelé';1;50
+e;146050;'militaire';1;2420
+e;239128;'_COM';36;50
+e;146894;'Adj:Fem+SG';4;50
+e;146888;'Adj:Mas+SG';4;50
+e;2586634;'Gender:Inv';4;0
+e;171869;'Adj:';4;50
+e;2586627;'Gender:Mas';4;0
+e;2586628;'Gender:Fem';4;0
+e;2586629;'Number:Sing';4;0
+e;146883;'Adj:InvGen+SG';4;50
+e;151553;'_FL:0';6;50
+e;3576104;'Morpho:nospace';18;50
+e;3575927;'Morpho:min';18;50
+e;223173;'_POL-POS';36;50
+e;223172;'_POL-NEG';36;50
+e;241794;'_POL-NEUTRE';36;50
+e;273221;'_INFO-WIKI-NO';36;50
+e;217817;'_INFO-POLYSEMIC';36;50
+e;254876;'_POL-POS_PC';36;50
+e;254877;'_POL-NEUTRE_PC';36;50
+e;254878;'_POL-NEG_PC';36;50
+e;2585997;'_INFO-CNRTL-NO';36;50
+e;114672;'rappeler';1;120
+e;4008379;'dbnary:fra:__ws_1_rappelable__adj__1';444;0
+e;4219302;'dbnary:fra:__ws_2_rappelable__adj__1';444;0
+e;2983124;'_SW';36;50
+e;2084276;'rappelables';2;0
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;3;'r_domain';'domaine';Il est demandé de fournir des domaines relatifs au mot cible. Par exemple, pour 'corner', on pourra donner les domaines 'football' ou 'sport'.
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;43;'r_adj-verbe';'adj>verbe';Pour un adjectif de potentialité/possibilité, son verbe correspondant. Par exemple pour 'lavable' -> 'laver'
+rt;44;'r_verbe-adj';'verbe>adj';Pour un verbe, son adjectif de potentialité/possibilité correspondant. Par exemple pour 'laver' -> 'lavable'
+rt;444;'r_link';'r_link';Lien vers une ressource externe (WordNet, RadLex, UMLS, Wikipedia, etc...)
+rt;555;'r_cooccurrence';'r_cooccurrence';co-occurences (non utilisée)
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;418293921;150043;98744;0;10
+r;418457368;150043;13853607;0;10
+r;418293920;150043;53541;0;11
+r;418293922;150043;38111;0;11
+r;417902830;150043;112810;0;12
+r;417902829;150043;146050;0;25
+r;23972253;150043;239128;0;1000000
+r;417902828;150043;146050;3;25
+r;16086157;150043;146894;4;34
+r;16091580;150043;146888;4;41
+r;53940741;150043;2586634;4;45
+r;2300480;150043;171869;4;47
+r;53975287;150043;2586627;4;47
+r;53928475;150043;2586628;4;48
+r;53946181;150043;2586629;4;48
+r;48154;150043;146883;4;60
+r;74741836;150043;151553;12;32
+r;90820610;150043;3576104;18;26
+r;89964051;150043;3575927;18;36
+r;327867;150043;150043;19;51
+r;428837037;150043;223173;36;2
+r;428837036;150043;223172;36;3
+r;428837038;150043;241794;36;3
+r;428837042;150043;273221;36;25
+r;396064919;150043;217817;36;25
+r;428837039;150043;254876;36;25
+r;428837040;150043;254877;36;38
+r;428837041;150043;254878;36;38
+r;77833059;150043;2585997;36;57
+r;1357745;150043;114672;43;53
+r;94383728;150043;4008379;444;1
+r;94573809;150043;4219302;444;1
+r;74322524;150043;2983124;555;35
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;87602592;2084276;150043;0;35
+r;327867;150043;150043;19;51
+r;32400676;2084276;150043;19;60
+r;1357746;114672;150043;44;52

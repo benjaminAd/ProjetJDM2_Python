@@ -1,0 +1,48 @@
+<CODE>
+// DUMP pour le terme 'arriverons' (eid=1991109)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+nt;777;'n_wikipedia'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;1991109;'arriverons';2;0
+e;10322;'arriver';1;396
+e;14270942;'VerbalPers:P1';4;0
+e;14270946;'VerbalNumber:PL';4;0
+e;2935007;'VerbalTime:Future';4;0
+e;2946892;'Ver:Conjug';4;0
+e;3093590;'VerbalMode:Indicatif';4;0
+e;212235;'Ver:';4;50
+e;161727;'Ver:IFut+PL+P1';4;50
+e;13297665;'Nous y arriverons !';777;0
+e;151553;'_FL:0';6;50
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;11;'r_locution';'locution';A partir d'un terme, il est demandé d'énumérer les locutions, expression ou mots composés en rapport avec ce terme. Par exemple, pour 'moulin', ou pourra avoir 'moulin à vent', 'moulin à eau', 'moulin à café'. Pour 'vendre', on pourra avoir 'vendre la peau de l'ours avant de l'avoir tué', 'vendre à perte', etc..
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;87511816;1991109;10322;0;34
+r;363550201;1991109;14270942;4;25
+r;363541980;1991109;14270946;4;25
+r;72139607;1991109;2935007;4;45
+r;72430889;1991109;2946892;4;45
+r;75656363;1991109;3093590;4;45
+r;32141999;1991109;212235;4;51
+r;32141998;1991109;161727;4;52
+r;338932019;1991109;13297665;11;43
+r;74542685;1991109;151553;12;34
+r;89707439;1991109;3575927;18;30
+r;90692473;1991109;3576104;18;32
+r;32141997;1991109;10322;19;60
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;338932020;13297665;1991109;0;19

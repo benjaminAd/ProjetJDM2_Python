@@ -1,0 +1,319 @@
+<CODE>
+// DUMP pour le terme 'modifiable' (eid=409)
+<def>
+<br />
+Qui peut être modifié.<br /> 
+ La bonne nouvelle est que certains d'entre eux sont modifiables, et en modifiant leurs comportements les femmes peuvent modifier leur risque», a commenté à l'Agence France-Presse la Dre Jane Green, coauteure de l'étude.    
+ (Un vaccin contre le cancer du sein pourrait voir le jour, Le Devoir.com, 2 juin 2010)  
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;10;'n_relation'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;200;'n_context'
+nt;444;'n_link'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;409;'modifiable';1;50
+e;13853607;'pouvoir être';1;0
+e;1783632;'être modifié';1;0
+e;5092;'modifié';1;54
+e;47634;'transformable';1;50
+e;28359;'changeable';1;74
+e;30361;'convertissable';1;50
+e;11147;'transposable';1;50
+e;89569;'extrapolable';1;50
+e;74026;'changé';1;80
+e;17252;'réversible';1;66
+e;9466;'rectifiable';1;50
+e;62593;'corrigible';1;54
+e;43093;'amendable';1;50
+e;103795;'aménageable';1;52
+e;1213955;'convertible>171869';1;0;'convertible>Adj:'
+e;14934768;'en:editable';1;0
+e;99146;'interchangeable';1;50
+e;92182;'révisable';1;50
+e;87906;'remaniable';1;50
+e;3356350;'modulable>171869';1;0;'modulable>Adj:'
+e;62908;'modulable';1;76
+e;14949482;'en:modifiable';1;0
+e;75110;'remplaçable';1;56
+e;73944;'convertible';1;78
+e;7159;'droit';1;1600
+e;63625;'changement';1;758
+e;46600;'variation';1;116
+e;30262;'diversité';1;174
+e;2423804;'modificabilité';1;0
+e;2483581;'modifiabilité';1;0
+e;84600;'amovible';1;102
+e;239128;'_COM';36;50
+e;36071;'relation';1;662
+e;104993;'informatique';1;3044
+e;146888;'Adj:Mas+SG';4;50
+e;146894;'Adj:Fem+SG';4;50
+e;2586634;'Gender:Inv';4;0
+e;2586627;'Gender:Mas';4;0
+e;2586628;'Gender:Fem';4;0
+e;2586629;'Number:Sing';4;0
+e;171869;'Adj:';4;50
+e;146883;'Adj:InvGen+SG';4;50
+e;39918;'fixe';1;312
+e;110038;'arrêté';1;136
+e;13135825;'facteur de risque cardio-vasculaire modifiable';1;0
+e;151553;'_FL:0';6;50
+e;14916413;'Langue:français';18;50
+e;7332979;'Langue:anglais';18;50
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+e;28453;'bonheur';1;2180
+e;103405;'indifférence';1;610
+e;254877;'_POL-NEUTRE_PC';36;50
+e;273221;'_INFO-WIKI-NO';36;50
+e;251716;'_INFO-MONOSEMIC';36;50
+e;2585996;'_INFO-CNRTL-YES';36;50
+e;241794;'_POL-NEUTRE';36;50
+e;254876;'_POL-POS_PC';36;50
+e;223173;'_POL-POS';36;50
+e;6096;'modifier';1;264
+e;16111768;':r390950896';10;0
+e;12665834;'1db3bf1f60d99c7645de8d8548473f76';200;0
+e;12669751;'ca74002fa69155e4c83c64c33925a0f7';200;0
+e;12676817;'f8621a2ac8721fbf06ef1999d67f51a2';200;0
+e;12772509;'410684710e46761e80077ab104a7637d';200;0
+e;12774147;'5fd74e3ea5ba174fe7d9c18f4e3c8743';200;0
+e;12789382;'4a0322601f1a88630d96dfa9664cf19d';200;0
+e;12864500;'b62ded956f1b7fc81eee0354826d8bcb';200;0
+e;12907068;'2f12a2f8cc5453208849bd3b1817b40f';200;0
+e;12977517;'3be19be402b14ae3c8e6f7643cc3d3ec';200;0
+e;13135745;'d6a8db9607e230379606e44e74dd8856';200;0
+e;13135821;'b5e3590f8f568937dc7924933e5538dd';200;0
+e;13396496;'e613f0098eb8a8a4cb27c8275eddd228';200;0
+e;12883319;'09c417807cf9a5b75b5cc4f85ff555f1';200;0
+e;12883740;'22fdb28e9f59810d7be073e763eb9b91';200;0
+e;13135707;'ce6ee11e0bdec4a9815385ade4482389';200;0
+e;13135789;'ae3591ab3b6eb5fbce61079246bd5f72';200;0
+e;13885130;'b902f3034a583cd2ae31241a0065f784';200;0
+e;15792090;'528bb94103167f71024bd94475103669';200;0
+e;16239054;'9ed035fbfca5a9c1386b50681458784b';200;0
+e;12690744;'f74194af5728cbba0e5b4fd84f9343b1';200;0
+e;13590711;'832c4041c3b638fc93fad0cf8aad6ec4';200;0
+e;14324567;'773e42d51aff7d24ed8c2054eab8217e';200;0
+e;12738067;'564e75b14eedbcfd62acba1d3211de91';200;0
+e;12769626;'d79001ec5c049550423ea2c5023c5c98';200;0
+e;14433798;'1bb04ed443ccc0035875558ecefbb802';200;0
+e;14679162;'1b29efe23ac3d95ae679c77fc82adfd9';200;0
+e;14321736;'b62a17e1529972ef0f5ef8ee5979e22a';200;0
+e;4108711;'dbnary:fra:__ws_1_modifiable__adj__1';444;0
+e;3381849;'bn:13606545a';444;0
+e;3381848;'bn:00096888a';444;0
+e;2983124;'_SW';36;50
+e;14965301;'en:transformable';1;0
+e;14965372;'en:transposable';1;0
+e;15538351;'en:reviewable';1;0
+e;2227179;'modifiables';2;0
+e;1703004;'ce n'est pas gravé dans le marbre';1;0
+e;6880497;'en:variation';1;0
+e;52764;'immuable';1;100
+e;132652;'dimension';1;236
+e;137183;'état';1;840
+e;127505;'langer';1;54
+e;7290641;'en:change';1;0
+e;14949483;'en:modify';1;0
+e;102345;'plaisir';1;3528
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;3;'r_domain';'domaine';Il est demandé de fournir des domaines relatifs au mot cible. Par exemple, pour 'corner', on pourra donner les domaines 'football' ou 'sport'.
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;5;'r_syn';'synonyme';Il est demandé d'énumérer les synonymes ou quasi-synonymes de ce terme.
+rt;7;'r_anto';'contraire';Il est demandé d'énumérer des contraires du terme. Par exemple, 'chaud' est le contraire de 'froid'.
+rt;11;'r_locution';'locution';A partir d'un terme, il est demandé d'énumérer les locutions, expression ou mots composés en rapport avec ce terme. Par exemple, pour 'moulin', ou pourra avoir 'moulin à vent', 'moulin à eau', 'moulin à café'. Pour 'vendre', on pourra avoir 'vendre la peau de l'ours avant de l'avoir tué', 'vendre à perte', etc..
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;17;'r_carac';'caractéristique';Pour un terme donné, souvent un objet, il est demandé d'en énumérer les CARACtéristiques (adjectifs) possibles/typiques. Par exemple, 'liquide', 'froide', 'chaude', pour 'eau'.
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;32;'r_sentiment';'sentiment';Pour un terme donné, évoquer des mots liés à des SENTIMENTS ou des EMOTIONS que vous pourriez associer à ce terme. Par exemple, la joie, le plaisir, le dégoût, la peur, la haine, l'amour, l'indifférence, l'envie, avoir peur, horrible, etc.
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;43;'r_adj-verbe';'adj>verbe';Pour un adjectif de potentialité/possibilité, son verbe correspondant. Par exemple pour 'lavable' -> 'laver'
+rt;44;'r_verbe-adj';'verbe>adj';Pour un verbe, son adjectif de potentialité/possibilité correspondant. Par exemple pour 'laver' -> 'lavable'
+rt;72;'r_syn_strict';'r_syn_strict';Termes strictement substituables, pour des termes hors du domaine général, et pour la plupart des noms (exemple : endométriose intra-utérine --> adénomyose)
+rt;115;'r_sentiment-1';'sentiment-1';Pour un SENTIMENT ou EMOTION donné, il est demandé dénumérer les termes que vous pourriez associer. Par exemple, pour 'joie', on aurait 'cadeau', 'naissance', 'bonne nouvelle', etc.
+rt;128;'r_node2relnode';'r_node2relnode';Relation entre un noeud (quelconque) et un noeud de relation (type = 10) - permet de rendre le graphe connexe même avec les annotations de relations
+rt;200;'r_context';'r_context';Relation de contexte entre un terme et un noeud contexte.
+rt;333;'r_translation';'r_translation';Traduction vers une autre langue.
+rt;444;'r_link';'r_link';Lien vers une ressource externe (WordNet, RadLex, UMLS, Wikipedia, etc...)
+rt;555;'r_cooccurrence';'r_cooccurrence';co-occurences (non utilisée)
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;418420914;409;13853607;0;11
+r;418210715;409;1783632;0;12
+r;418210716;409;5092;0;12
+r;932205;409;47634;0;21
+r;932200;409;28359;0;22
+r;932206;409;30361;0;22
+r;932211;409;11147;0;22
+r;932212;409;89569;0;22
+r;418210717;409;74026;0;22
+r;932203;409;17252;0;23
+r;932207;409;9466;0;23
+r;55055685;409;62593;0;23
+r;932209;409;43093;0;24
+r;55055684;409;103795;0;24
+r;332130929;409;1213955;0;25
+r;415399518;409;14934768;0;25
+r;932201;409;99146;0;27
+r;932208;409;92182;0;27
+r;932210;409;87906;0;27
+r;329903054;409;3356350;0;27
+r;55055687;409;62908;0;28
+r;390950895;409;14949482;0;28
+r;932202;409;75110;0;29
+r;932204;409;73944;0;30
+r;1321858;409;7159;0;30
+r;1321859;409;63625;0;30
+r;1321860;409;46600;0;30
+r;1321861;409;30262;0;30
+r;94149221;409;2423804;0;31
+r;77981474;409;2483581;0;34
+r;55055683;409;84600;0;35
+r;23959701;409;239128;0;10000
+r;418210714;409;36071;3;25
+r;418470279;409;104993;3;25
+r;16090502;409;146888;4;32
+r;16085082;409;146894;4;37
+r;53939663;409;2586634;4;45
+r;53974210;409;2586627;4;47
+r;53927401;409;2586628;4;48
+r;53945103;409;2586629;4;49
+r;1411942;409;171869;4;55
+r;37798;409;146883;4;59
+r;309601717;409;3356350;5;25
+r;309959260;409;1213955;5;25
+r;390950896;409;14949482;5;25
+r;55005796;409;103795;5;51
+r;55005794;409;47634;5;52
+r;55005798;409;62908;5;53
+r;55005797;409;62593;5;55
+r;55005795;409;84600;5;57
+r;55005799;409;11147;5;57
+r;53758248;409;73944;5;65
+r;12194648;409;28359;5;77
+r;85337613;409;39918;7;29
+r;85337612;409;110038;7;30
+r;337337959;409;13135825;11;36
+r;74703423;409;151553;12;39
+r;390364739;409;14916413;18;25
+r;390364741;409;7332979;18;25
+r;90757289;409;3575927;18;26
+r;90938559;409;3576104;18;29
+r;316942;409;409;19;55
+r;33584017;409;28453;32;30
+r;33153388;409;103405;32;35
+r;2427049;409;254877;36;23
+r;359833279;409;273221;36;29
+r;96030830;409;251716;36;35
+r;55005793;409;2585996;36;57
+r;2015227;409;241794;36;76
+r;2427048;409;254876;36;77
+r;2001045;409;223173;36;260
+r;1356895;409;6096;43;56
+r;390364742;409;14949482;72;25
+r;420441943;409;16111768;128;1
+r;324165525;409;12665834;200;1
+r;324314025;409;12669751;200;1
+r;324565614;409;12676817;200;1
+r;327728043;409;12772509;200;1
+r;327803711;409;12774147;200;1
+r;328167958;409;12789382;200;1
+r;329544560;409;12864500;200;1
+r;331273003;409;12907068;200;1
+r;332097526;409;12977517;200;1
+r;335772371;409;13135745;200;1
+r;335781862;409;13135821;200;1
+r;339505229;409;13396496;200;1
+r;330262345;409;12883319;200;2
+r;330274587;409;12883740;200;2
+r;335769898;409;13135707;200;2
+r;335773991;409;13135789;200;2
+r;351574672;409;13885130;200;2
+r;411308824;409;15792090;200;2
+r;425932306;409;16239054;200;2
+r;325139203;409;12690744;200;3
+r;344247230;409;13590711;200;4
+r;364533041;409;14324567;200;4
+r;327283275;409;12738067;200;5
+r;327581235;409;12769626;200;7
+r;366496104;409;14433798;200;8
+r;373211005;409;14679162;200;8
+r;364477479;409;14321736;200;10
+r;390364736;409;14949482;333;25
+r;395897833;409;14934768;333;27
+r;94474211;409;4108711;444;1
+r;86841643;409;3381849;444;27
+r;86841642;409;3381848;444;31
+r;74046049;409;2983124;555;1047
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;398519681;14965301;409;0;10
+r;398519920;14965372;409;0;10
+r;405660387;15538351;409;0;10
+r;337337960;13135825;409;0;12
+r;59512773;84600;409;0;21
+r;814739;73944;409;0;22
+r;983419;9466;409;0;22
+r;1026274;47634;409;0;22
+r;1026951;11147;409;0;22
+r;59242308;62593;409;0;22
+r;999006;17252;409;0;23
+r;756484;43093;409;0;24
+r;55051274;103795;409;0;24
+r;309601716;3356350;409;0;25
+r;415399517;14934768;409;0;25
+r;985848;75110;409;0;26
+r;908024;99146;409;0;27
+r;999012;92182;409;0;27
+r;21099451;63625;409;0;27
+r;309959259;1213955;409;0;27
+r;861370;89569;409;0;28
+r;390950897;14949482;409;0;28
+r;21145062;7159;409;0;29
+r;87709132;2227179;409;0;29
+r;985251;87906;409;0;30
+r;59260197;62908;409;0;30
+r;650079;28359;409;0;32
+r;814768;30361;409;0;34
+r;21087685;30262;409;0;39
+r;77981473;2483581;409;0;56
+r;78300344;2423804;409;0;56
+r;28089889;1703004;409;0;65
+r;210587207;6880497;409;0;78
+r;21088278;46600;409;0;80
+r;398519682;14965301;409;5;10
+r;398519932;14965372;409;5;10
+r;390950898;14949482;409;5;25
+r;309411128;1213955;409;5;33
+r;309533414;3356350;409;5;33
+r;53593673;73944;409;5;51
+r;55014887;103795;409;5;56
+r;55055682;47634;409;5;56
+r;55055686;62593;409;5;56
+r;55055688;62908;409;5;56
+r;55055689;11147;409;5;56
+r;54739964;84600;409;5;59
+r;1729141;28359;409;5;78
+r;85340037;52764;409;7;30
+r;85279908;39918;409;7;31
+r;424088994;132652;409;17;25
+r;406403333;137183;409;17;30
+r;32724112;2227179;409;19;52
+r;316942;409;409;19;55
+r;413818259;127505;409;44;10
+r;410760096;7290641;409;44;20
+r;395120166;14949483;409;44;30
+r;1356896;6096;409;44;57
+r;390364743;14949482;409;72;25
+r;34565783;102345;409;115;1
+r;34565784;28453;409;115;3
+r;385297091;103405;409;115;25
+r;390364737;14949482;409;333;25
+r;395897834;14934768;409;333;27

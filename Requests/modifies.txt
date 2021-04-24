@@ -1,0 +1,65 @@
+<CODE>
+// DUMP pour le terme 'modifies' (eid=2227204)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;2227204;'modifies';2;0
+e;7585092;'en:modifies';1;0
+e;6096;'modifier';1;264
+e;3093590;'VerbalMode:Indicatif';4;0
+e;14270945;'VerbalNumber:SG';4;0
+e;14270943;'VerbalPers:P2';4;0
+e;3093591;'VerbalMode:Subjonctif';4;0
+e;2946892;'Ver:Conjug';4;0
+e;2935005;'VerbalTime:Present';4;0
+e;212235;'Ver:';4;50
+e;161718;'Ver:SPre+SG+P2';4;50
+e;161717;'Ver:IPre+SG+P2';4;50
+e;161710;'Ver:IPre+SG+P2:SPre+SG+P2';4;50
+e;151553;'_FL:0';6;50
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+e;2983124;'_SW';36;50
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;5;'r_syn';'synonyme';Il est demandé d'énumérer les synonymes ou quasi-synonymes de ce terme.
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;72;'r_syn_strict';'r_syn_strict';Termes strictement substituables, pour des termes hors du domaine général, et pour la plupart des noms (exemple : endométriose intra-utérine --> adénomyose)
+rt;333;'r_translation';'r_translation';Traduction vers une autre langue.
+rt;555;'r_cooccurrence';'r_cooccurrence';co-occurences (non utilisée)
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;211453593;2227204;7585092;0;27
+r;87709201;2227204;6096;0;28
+r;75645207;2227204;3093590;4;45
+r;362811906;2227204;14270945;4;25
+r;362812670;2227204;14270943;4;25
+r;75645208;2227204;3093591;4;45
+r;72513196;2227204;2946892;4;45
+r;72114495;2227204;2935005;4;45
+r;32724321;2227204;212235;4;55
+r;32724333;2227204;161718;4;56
+r;32724314;2227204;161717;4;56
+r;75645206;2227204;161710;4;45
+r;210725696;2227204;7585092;5;26
+r;74703466;2227204;151553;12;28
+r;89470377;2227204;3575927;18;39
+r;90453295;2227204;3576104;18;27
+r;32724312;2227204;6096;19;57
+r;210674936;2227204;7585092;72;26
+r;210553539;2227204;7585092;333;28
+r;74267648;2227204;2983124;555;93
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;210674934;7585092;2227204;0;21
+r;210674935;7585092;2227204;5;26
+r;210560329;7585092;2227204;72;32
+r;210541410;7585092;2227204;333;28

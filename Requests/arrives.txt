@@ -1,0 +1,56 @@
+<CODE>
+// DUMP pour le terme 'arrives' (eid=1991111)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;1991111;'arrives';2;0
+e;10322;'arriver';1;396
+e;14270943;'VerbalPers:P2';4;0
+e;14270945;'VerbalNumber:SG';4;0
+e;161718;'Ver:SPre+SG+P2';4;50
+e;161717;'Ver:IPre+SG+P2';4;50
+e;2935005;'VerbalTime:Present';4;0
+e;2946892;'Ver:Conjug';4;0
+e;3093590;'VerbalMode:Indicatif';4;0
+e;3093591;'VerbalMode:Subjonctif';4;0
+e;161710;'Ver:IPre+SG+P2:SPre+SG+P2';4;50
+e;212235;'Ver:';4;50
+e;15396558;'Tu ne lui arrives pas à la cheville !';1;0
+e;15562517;'arrives-tu';1;0
+e;151553;'_FL:0';6;50
+e;3576104;'Morpho:nospace';18;50
+e;3575927;'Morpho:min';18;50
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;11;'r_locution';'locution';A partir d'un terme, il est demandé d'énumérer les locutions, expression ou mots composés en rapport avec ce terme. Par exemple, pour 'moulin', ou pourra avoir 'moulin à vent', 'moulin à eau', 'moulin à café'. Pour 'vendre', on pourra avoir 'vendre la peau de l'ours avant de l'avoir tué', 'vendre à perte', etc..
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;87511818;1991111;10322;0;32
+r;362952300;1991111;14270943;4;25
+r;362943904;1991111;14270945;4;25
+r;362935419;1991111;161718;4;25
+r;362926946;1991111;161717;4;25
+r;72096495;1991111;2935005;4;45
+r;72430890;1991111;2946892;4;45
+r;75656341;1991111;3093590;4;45
+r;75656342;1991111;3093591;4;45
+r;32142003;1991111;161710;4;51
+r;32142004;1991111;212235;4;55
+r;419555614;1991111;15396558;11;25
+r;419608157;1991111;15562517;11;25
+r;74542687;1991111;151553;12;28
+r;90692471;1991111;3576104;18;26
+r;89707437;1991111;3575927;18;32
+r;32142002;1991111;10322;19;55
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;419555615;15396558;1991111;0;1
+r;419608158;15562517;1991111;0;1

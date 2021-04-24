@@ -1,0 +1,148 @@
+<CODE>
+// DUMP pour le terme 'ardentes' (eid=421516)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;200;'n_context'
+nt;444;'n_link'
+nt;777;'n_wikipedia'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;421516;'ardentes';1;50
+e;145100;'Centre';1;76
+e;624;'Indre';1;54
+e;87987;'France';1;3144
+e;128620;'ardent';1;174
+e;1131806;'ardentes>171869';1;0;'ardentes>Adj:'
+e;1131805;'ardentes>171870';1;0;'ardentes>Nom:'
+e;171870;'Nom:';4;50
+e;2586628;'Gender:Fem';4;0
+e;2586630;'Number:Plur';4;0
+e;149404;'Adj:Fem+PL';4;50
+e;171869;'Adj:';4;50
+e;15020695;'Chambres ardentes';1;0
+e;15848570;'Katon - Les nuées ardentes';777;0
+e;204523;'nuées ardentes';1;50
+e;151553;'_FL:0';6;50
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+e;223172;'_POL-NEG';36;50
+e;254877;'_POL-NEUTRE_PC';36;50
+e;276096;'_INFO-WIKI-YES';36;50
+e;438949;'_INFO-POLYMORPHIC';36;50
+e;254876;'_POL-POS_PC';36;50
+e;241794;'_POL-NEUTRE';36;50
+e;223173;'_POL-POS';36;50
+e;13709607;'8c9be873a570c2f41e504d3185abeceb';200;0
+e;3228593;'wiki:@';444;0
+e;9254914;'bn:00808920n';444;0
+e;2983124;'_SW';36;50
+e;174932;'Commune';1;6
+e;167583;'commune française';1;426
+e;108100;'Issoudun';1;50
+e;173205;'Le Blanc';1;50
+e;435606;'Hameaux';1;50
+e;235122;'gare ferroviaire';1;52
+e;106206;'Convention nationale';1;50
+e;13218;'Convention';1;54
+e;123696;'Rome antique';1;242
+e;102089;'Romains';1;68
+e;170111;'voie romaine';1;4
+e;3465;'Argenton-sur-Creuse';1;50
+e;119994;'Bourges';1;50
+e;156480;'bureau de poste';1;104
+e;21169;'gendarmerie';1;306
+e;285696;'École des hautes études en sciences sociales';777;58
+e;285695;'EHESS';1;64
+e;92381;'école maternelle';1;206
+e;140916;'Forum';1;50
+e;125028;'Saint-Martin';1;68
+e;17946;'botaniste';1;150
+e;106706;'George Sand';1;100
+e;120653;'entomologiste';1;64
+e;415669;'Communes';1;50
+e;47026;'Saint-Maur';1;52
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;2;'r_raff_morpho';'raffinement morphologique';Raffinement morphologique vers un usage particulier du terme source
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;11;'r_locution';'locution';A partir d'un terme, il est demandé d'énumérer les locutions, expression ou mots composés en rapport avec ce terme. Par exemple, pour 'moulin', ou pourra avoir 'moulin à vent', 'moulin à eau', 'moulin à café'. Pour 'vendre', on pourra avoir 'vendre la peau de l'ours avant de l'avoir tué', 'vendre à perte', etc..
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;15;'r_lieu';'chose>lieu';Il est demandé d'énumérer les LIEUX typiques où peut se trouver le terme/objet en question. (carotte r_lieu potager)
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;28;'r_lieu-1';'lieu>chose';A partir d'un lieu, il est demandé d'énumérer ce qui peut typiquement s'y trouver. Par exemple : Paris r_lieu-1 tour Eiffel
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;200;'r_context';'r_context';Relation de contexte entre un terme et un noeud contexte.
+rt;444;'r_link';'r_link';Lien vers une ressource externe (WordNet, RadLex, UMLS, Wikipedia, etc...)
+rt;555;'r_cooccurrence';'r_cooccurrence';co-occurences (non utilisée)
+rt;777;'r_wiki';'r_wiki';Associations issues de wikipedia...
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;17536259;421516;145100;0;27
+r;17536261;421516;624;0;28
+r;17536263;421516;87987;0;28
+r;87492691;421516;128620;0;42
+r;21827906;421516;1131806;2;45
+r;21827903;421516;1131805;2;45
+r;17536258;421516;171870;4;30
+r;53899707;421516;2586628;4;46
+r;53910227;421516;2586630;4;46
+r;14345341;421516;149404;4;55
+r;14345342;421516;171869;4;67
+r;392424069;421516;15020695;11;50
+r;413367323;421516;15848570;11;50
+r;14279051;421516;204523;11;57
+r;74541646;421516;151553;12;31
+r;17536260;421516;145100;15;27
+r;17536262;421516;624;15;27
+r;17536264;421516;87987;15;40
+r;89784765;421516;3575927;18;32
+r;90748303;421516;3576104;18;39
+r;14345340;421516;128620;19;60
+r;211616551;421516;223172;36;1
+r;27321079;421516;254877;36;24
+r;211616552;421516;276096;36;34
+r;21827905;421516;438949;36;37
+r;27321078;421516;254876;36;76
+r;26318849;421516;241794;36;96
+r;21827908;421516;223173;36;311
+r;347972979;421516;13709607;200;2
+r;78042102;421516;3228593;444;32
+r;211616572;421516;9254914;444;34
+r;74088353;421516;2983124;555;500
+r;17536265;421516;174932;777;10
+r;17536266;421516;167583;777;10
+r;17536267;421516;108100;777;10
+r;17536268;421516;173205;777;10
+r;17536269;421516;435606;777;10
+r;17536270;421516;235122;777;10
+r;17536271;421516;106206;777;10
+r;17536272;421516;13218;777;10
+r;17536273;421516;123696;777;10
+r;17536274;421516;102089;777;10
+r;17536275;421516;170111;777;10
+r;17536276;421516;3465;777;10
+r;17536277;421516;119994;777;10
+r;17536278;421516;156480;777;10
+r;17536279;421516;21169;777;10
+r;17536280;421516;285696;777;10
+r;17536281;421516;285695;777;10
+r;17536282;421516;92381;777;10
+r;17536283;421516;140916;777;10
+r;17536284;421516;125028;777;10
+r;17536285;421516;17946;777;10
+r;17536286;421516;106706;777;10
+r;17536287;421516;120653;777;10
+r;17536288;421516;415669;777;10
+r;17536289;421516;47026;777;10
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;413367324;15848570;421516;0;27
+r;14279052;204523;421516;0;48
+r;392424070;15020695;421516;0;50
+r;17710410;145100;421516;28;29
+r;17710411;624;421516;28;30
+r;17710412;87987;421516;28;34

@@ -1,0 +1,234 @@
+<CODE>
+// DUMP pour le terme 'chataire' (eid=126436)
+<def>
+<br />
+(Botanique) Variante de cataire. (Nepeta cataria).
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;200;'n_context'
+nt;444;'n_link'
+nt;777;'n_wikipedia'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;126436;'chataire';1;50
+e;136076;'plantes';1;240
+e;239128;'_COM';36;50
+e;221812;'herbe aux chats';1;52
+e;289067;'Nepeta cataria';777;50
+e;158935;'herbe à chat';1;78
+e;148828;'labiée';1;50
+e;599438;'cataire>145941';1;2;'cataire>plante'
+e;2573714;'nepeta';1;0
+e;6390146;'népéta cataire';1;0
+e;6408369;'menthe des chats';1;0
+e;6954013;'en:nepeta cataria';1;0
+e;13795112;'nepeta cataria';1;0
+e;35143;'biologie';1;1956
+e;3674;'botanique';1;2220
+e;21805;'cataire';1;52
+e;13795113;'herbe-à-chats';1;0
+e;171870;'Nom:';4;50
+e;2586629;'Number:Sing';4;0
+e;2586628;'Gender:Fem';4;0
+e;146881;'Nom:Fem+SG';4;50
+e;4054426;'chataire à racèmes';1;0
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+e;28453;'bonheur';1;2180
+e;103405;'indifférence';1;610
+e;2585997;'_INFO-CNRTL-NO';36;50
+e;15991432;'_ANIME-NO';36;50
+e;276096;'_INFO-WIKI-YES';36;50
+e;254878;'_POL-NEG_PC';36;50
+e;254877;'_POL-NEUTRE_PC';36;50
+e;254876;'_POL-POS_PC';36;50
+e;251716;'_INFO-MONOSEMIC';36;50
+e;241794;'_POL-NEUTRE';36;50
+e;223172;'_POL-NEG';36;50
+e;223173;'_POL-POS';36;50
+e;13447159;'32e90d63fc2319d709f86c0257814a79';200;0
+e;3228593;'wiki:@';444;0
+e;3973245;'dbnary:fra:__ws_1_chataire__nom__1';444;0
+e;6221558;'umls:C0331302';444;0
+e;6153707;'umls:C1135185';444;0
+e;139011;'Charlemagne';1;100
+e;668;'bouturage';1;56
+e;136687;'marcottage';1;50
+e;133433;'antispasmodique';1;52
+e;124268;'huile essentielle';1;248
+e;121687;'feuilles';1;344
+e;117533;'fleurs';1;976
+e;114901;'moustiques';1;80
+e;105848;'lactone';1;50
+e;82075;'menthol';1;94
+e;77735;'Europe';1;916
+e;42313;'Asie';1;1036
+e;31388;'États-Unis';1;634
+e;411587;'grappes';1;52
+e;212519;'plante aromatique';1;80
+e;212307;'Lamiales';1;54
+e;187120;'herbacée';1;158
+e;179551;'Fleur';1;2
+e;175314;'Chat';1;50
+e;280611;'Lamiacées';777;52
+e;152802;'chats';1;90
+e;300777;'menthes';777;50
+e;405214;'Herbe';1;50
+e;141059;'Ordre';1;52
+e;412571;'Nepeta';1;52
+e;418813;'Menthol';1;50
+e;419623;'Bourgeon';1;50
+e;578425;'Herbe-aux-chats';777;0
+e;146838;'bourgeons';1;70
+e;143853;'Famille';1;52
+e;1449634;'capitulaire De Villis';1;6
+e;2126673;'antispasmodiques';2;0
+e;141068;'Moustique';1;50
+e;14950781;'en:catmint';1;0
+e;6905031;'en:botanical';1;0
+e;15139984;'en:botanic';1;0
+e;170550;'népéta';1;50
+e;16033664;'nepète';1;0
+e;7110133;'en:nepeta';1;0
+e;15091285;'en:Nepeta cataria';1;0
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;3;'r_domain';'domaine';Il est demandé de fournir des domaines relatifs au mot cible. Par exemple, pour 'corner', on pourra donner les domaines 'football' ou 'sport'.
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;5;'r_syn';'synonyme';Il est demandé d'énumérer les synonymes ou quasi-synonymes de ce terme.
+rt;6;'r_isa';'générique';Il est demandé d'énumérer les GENERIQUES/hyperonymes du terme. Par exemple, 'animal' et 'mammifère' sont des génériques de 'chat'.
+rt;8;'r_hypo';'spécifique';Il est demandé d'énumérer des SPECIFIQUES/hyponymes du terme. Par exemple, 'mouche', 'abeille', 'guêpe' pour 'insecte'.
+rt;11;'r_locution';'locution';A partir d'un terme, il est demandé d'énumérer les locutions, expression ou mots composés en rapport avec ce terme. Par exemple, pour 'moulin', ou pourra avoir 'moulin à vent', 'moulin à eau', 'moulin à café'. Pour 'vendre', on pourra avoir 'vendre la peau de l'ours avant de l'avoir tué', 'vendre à perte', etc..
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;27;'r_domain-1';'domaine-1';inverse de r_domain : à un domaine, on associe des termes
+rt;32;'r_sentiment';'sentiment';Pour un terme donné, évoquer des mots liés à des SENTIMENTS ou des EMOTIONS que vous pourriez associer à ce terme. Par exemple, la joie, le plaisir, le dégoût, la peur, la haine, l'amour, l'indifférence, l'envie, avoir peur, horrible, etc.
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;71;'r_variante';'variante';Variantes du termes cible. Par exemple, yaourt, yahourt, ou encore évènement, événement.
+rt;200;'r_context';'r_context';Relation de contexte entre un terme et un noeud contexte.
+rt;444;'r_link';'r_link';Lien vers une ressource externe (WordNet, RadLex, UMLS, Wikipedia, etc...)
+rt;666;'r_aki';'r_aki';(TOTAKI) equivalent pour TOTAKI de l'association libre
+rt;777;'r_wiki';'r_wiki';Associations issues de wikipedia...
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;417777978;126436;136076;0;25
+r;24097722;126436;239128;0;1000000
+r;120785489;126436;221812;0;35
+r;120785478;126436;289067;0;26
+r;191033894;126436;158935;0;30
+r;417777979;126436;148828;0;25
+r;390978830;126436;599438;0;15
+r;120785484;126436;2573714;0;35
+r;120785490;126436;6390146;0;26
+r;120785470;126436;6408369;0;30
+r;191033954;126436;6954013;0;28
+r;352000111;126436;13795112;0;22
+r;121670027;126436;35143;0;45
+r;78349137;126436;3674;0;30
+r;417777980;126436;21805;0;25
+r;352000112;126436;13795113;0;28
+r;121104074;126436;35143;3;42
+r;56374056;126436;3674;3;28
+r;417777977;126436;136076;3;25
+r;525298;126436;171870;4;31
+r;427991891;126436;2586629;4;25
+r;417777975;126436;2586628;4;25
+r;427979582;126436;146881;4;25
+r;348803509;126436;6390146;5;25
+r;348803507;126436;13795112;5;25
+r;393760368;126436;21805;5;25
+r;389989033;126436;599438;5;25
+r;348803510;126436;13795113;5;25
+r;429267046;126436;289067;5;5
+r;246229395;126436;4054426;8;25
+r;95164020;126436;4054426;11;56
+r;89978766;126436;3575927;18;32
+r;90838653;126436;3576104;18;29
+r;33670692;126436;28453;32;7
+r;72965016;126436;103405;32;6
+r;313319709;126436;2585997;36;50
+r;417777976;126436;15991432;36;25
+r;313319715;126436;276096;36;32
+r;34740164;126436;254878;36;5
+r;9342482;126436;254877;36;65
+r;27250763;126436;254876;36;30
+r;96184377;126436;251716;36;26
+r;9235545;126436;241794;36;253
+r;29248131;126436;223172;36;18
+r;22284518;126436;223173;36;118
+r;61454644;126436;21805;71;28
+r;341235450;126436;13447159;200;1
+r;78123231;126436;3228593;444;32
+r;94352245;126436;3973245;444;1
+r;348803508;126436;6221558;444;25
+r;119440652;126436;6153707;444;30
+r;1471647;126436;21805;666;1
+r;1471646;126436;158935;666;1
+r;34740168;126436;139011;777;10
+r;22284543;126436;668;777;10
+r;22284542;126436;136687;777;10
+r;22284528;126436;133433;777;10
+r;22284545;126436;124268;777;10
+r;22284539;126436;121687;777;10
+r;22284537;126436;117533;777;10
+r;22284547;126436;114901;777;10
+r;22284544;126436;105848;777;10
+r;22284527;126436;82075;777;10
+r;22284531;126436;77735;777;10
+r;22284532;126436;42313;777;10
+r;22284533;126436;31388;777;10
+r;22284538;126436;411587;777;10
+r;27622907;126436;221812;777;10
+r;22284522;126436;212519;777;10
+r;22284520;126436;212307;777;10
+r;22284535;126436;187120;777;10
+r;22284536;126436;179551;777;10
+r;22284529;126436;175314;777;10
+r;22284524;126436;280611;777;10
+r;22284530;126436;152802;777;10
+r;22284525;126436;300777;777;10
+r;22284534;126436;405214;777;10
+r;22284519;126436;141059;777;10
+r;22284523;126436;412571;777;10
+r;22284526;126436;418813;777;10
+r;22284540;126436;419623;777;10
+r;34740167;126436;578425;777;10
+r;22284541;126436;146838;777;10
+r;22284521;126436;143853;777;10
+r;34740169;126436;1449634;777;10
+r;34740173;126436;2126673;777;10
+r;22284546;126436;141068;777;10
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;394024340;14950781;126436;0;10
+r;399771112;6905031;126436;0;20
+r;399794009;15139984;126436;0;20
+r;417785459;170550;126436;0;22
+r;417785467;16033664;126436;0;22
+r;120785491;6390146;126436;0;26
+r;1471650;158935;126436;0;27
+r;61525288;221812;126436;0;27
+r;120785469;6408369;126436;0;27
+r;120785483;2573714;126436;0;28
+r;78349136;3674;126436;0;30
+r;370011587;7110133;126436;0;30
+r;120785477;289067;126436;0;35
+r;191033955;6954013;126436;0;35
+r;352000110;13795112;126436;0;35
+r;407583041;15091285;126436;0;35
+r;391659923;21805;126436;0;44
+r;95164021;4054426;126436;0;59
+r;352000116;13795113;126436;0;79
+r;389901764;599438;126436;0;81
+r;369301822;289067;126436;5;20
+r;348803504;6390146;126436;5;25
+r;348803506;13795112;126436;5;25
+r;391659930;21805;126436;5;26
+r;348803517;13795113;126436;5;35
+r;389901762;599438;126436;5;35
+r;95164022;4054426;126436;6;36
+r;399757357;6905031;126436;27;20
+r;399780351;15139984;126436;27;20
+r;78349135;3674;126436;27;22
+r;384129707;35143;126436;27;25
