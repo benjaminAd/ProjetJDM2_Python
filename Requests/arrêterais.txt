@@ -1,0 +1,53 @@
+<CODE>
+// DUMP pour le terme 'arrÃªterais' (eid=1991010)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;1991010;'arrêterais';2;0
+e;28778;'arrêter';1;856
+e;14270838;'Ver:CPre+SG+P1';4;0
+e;14270839;'Ver:CPre+SG+P2';4;0
+e;14270942;'VerbalPers:P1';4;0
+e;14270943;'VerbalPers:P2';4;0
+e;14270945;'VerbalNumber:SG';4;0
+e;3094354;'VerbalMode:Conditionnel';4;0
+e;2935005;'VerbalTime:Present';4;0
+e;2946892;'Ver:Conjug';4;0
+e;161758;'Ver:CPre+SG+P1:CPre+SG+P2';4;50
+e;212235;'Ver:';4;50
+e;151553;'_FL:0';6;50
+e;3576104;'Morpho:nospace';18;50
+e;3575927;'Morpho:min';18;50
+e;2983124;'_SW';36;50
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;555;'r_cooccurrence';'r_cooccurrence';co-occurences (non utilisée)
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;87511727;1991010;28778;0;28
+r;361899977;1991010;14270838;4;25
+r;361908708;1991010;14270839;4;25
+r;363591236;1991010;14270942;4;25
+r;363586615;1991010;14270943;4;25
+r;363578515;1991010;14270945;4;25
+r;77060858;1991010;3094354;4;28
+r;77060857;1991010;2935005;4;30
+r;72430841;1991010;2946892;4;45
+r;32141739;1991010;161758;4;51
+r;32141740;1991010;212235;4;53
+r;74542476;1991010;151553;12;32
+r;90692572;1991010;3576104;18;34
+r;89707538;1991010;3575927;18;35
+r;32141738;1991010;28778;19;56
+r;74160345;1991010;2983124;555;44
+// les relations entrantes : r;rid;node1;node2;type;w 

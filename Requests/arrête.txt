@@ -1,0 +1,241 @@
+<CODE>
+// DUMP pour le terme 'arrÃªte' (eid=152315)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;0;'n_default'
+nt;1;'n_term'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;10;'n_relation'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;777;'n_wikipedia'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;152315;'arrête';1;58
+e;215646;'carpe Koï';1;50
+e;155764;'arrète';1;50
+e;110038;'arrêté';1;136
+e;418638;'Arrête';1;50
+e;258992;'poisson d'élevage';1;58
+e;28778;'arrêter';1;856
+e;68467;'poisson';1;6991
+e;107710;'stop';1;370
+e;153867;'stoppe';1;52
+e;239128;'_COM';36;50
+e;14270798;'VerbalMode:Impératif';4;0
+e;14270847;'Ver:ImPre+SG+P2';4;0
+e;14270944;'VerbalPers:P3';4;0
+e;14270943;'VerbalPers:P2';4;0
+e;14270942;'VerbalPers:P1';4;0
+e;14270945;'VerbalNumber:SG';4;0
+e;150120;'Ver:SPre+SG+P3';4;50
+e;150119;'Ver:SPre+SG+P1';4;50
+e;150118;'Ver:IPre+SG+P3';4;50
+e;150117;'Ver:IPre+SG+P1';4;50
+e;3093591;'VerbalMode:Subjonctif';4;0
+e;3093590;'VerbalMode:Indicatif';4;0
+e;2935005;'VerbalTime:Present';4;0
+e;2946892;'Ver:Conjug';4;0
+e;161698;'Ver:IPre+SG+P1:IPre+SG+P3:SPre+SG+P1:SPre+SG+P3:ImPre+SG+P2';4;50
+e;212235;'Ver:';4;50
+e;151591;'***';0;6584
+e;74082;'nageoire';1;312
+e;218940;'poisson>17559';1;582;'poisson>animal'
+e;108750;'poissons';1;410
+e;2534182;'carpe koï';1;4
+e;15240735;'arrête !';1;0
+e;15258367;'arrête de dire n'importe quoi';1;0
+e;15313517;'arrête de déconner ! sois sérieux !';1;0
+e;15583422;'arrête de faire l'imbécile';1;0
+e;15583420;'arrête de jouer au con';1;0
+e;15251924;'arrête de m'emmerder!';1;0
+e;15690147;'arrête de raconter n'importe quoi!';1;0
+e;15251002;'arrête de te dérober !';1;0
+e;15365965;'arrête tes bêtises !';1;0
+e;15232921;'arrête tes conneries !';1;0
+e;15232929;'arrête tes conneries!';1;0
+e;15285069;'arrête tes âneries !';1;0
+e;15690156;'arrête ton char!';1;0
+e;15255070;'arrête ton délire';1;0
+e;15251919;'arrête un peu!';1;0
+e;15516094;'arrête ça !';1;0
+e;16035133;'arrête-mailles';1;0
+e;15474470;'arrête de me prendre de haut, arrête de me faire la leçon, ne te moque pas te moi';1;0
+e;15472108;'La voiture n'arrête pas de tomber en panne.';1;0
+e;329920;'arête de poisson';1;50
+e;10037449;'Bientôt j'arrête';777;0
+e;10190550;'Le train bleu s'arrête 13 fois';777;0
+e;15524528;'L'avion s'arrête à Boston pour se ravitailler en carburant.';1;0
+e;10159729;'On n'arrête pas le printemps';777;0
+e;15233666;'Il n'arrête pas de citer Shakespeare.';1;0
+e;220505;'arrête-flammes';1;50
+e;105475;'arrête-boeuf';1;50
+e;321947;'arrête de poisson';1;50
+e;211544;'pluie du matin n'arrête pas le pèlerin';1;50
+e;151522;'_FL:9';6;50
+e;151553;'_FL:0';6;50
+e;151587;'_FL:10';6;50
+e;3576104;'Morpho:nospace';18;50
+e;3575927;'Morpho:min';18;50
+e;91691;'surprise';1;1186
+e;28453;'bonheur';1;2180
+e;32791;'arête';1;162
+e;254878;'_POL-NEG_PC';36;50
+e;254877;'_POL-NEUTRE_PC';36;50
+e;223172;'_POL-NEG';36;50
+e;273221;'_INFO-WIKI-NO';36;50
+e;241794;'_POL-NEUTRE';36;50
+e;254876;'_POL-POS_PC';36;50
+e;223173;'_POL-POS';36;50
+e;984458;':r16428908';10;0
+e;925375;':r3201078';10;0
+e;16454098;':r433464073';10;0
+e;2983124;'_SW';36;50
+e;37165;'enrayeur';1;50
+e;65902;'cesse';1;54
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;9;'r_has_part';'partie';Il faut donner des PARTIES/constituants/éléments (a pour méronymes) du mot cible. Par exemple, 'voiture' a comme parties : 'porte', 'roue', 'moteur', ...
+rt;10;'r_holo';'tout';Il est démandé d'énumérer des 'TOUT' (a pour holonymes)  de l'objet en question. Pour 'main', on aura 'bras', 'corps', 'personne', etc... Le tout est aussi l'ensemble comme 'classe' pour 'élève'.
+rt;11;'r_locution';'locution';A partir d'un terme, il est demandé d'énumérer les locutions, expression ou mots composés en rapport avec ce terme. Par exemple, pour 'moulin', ou pourra avoir 'moulin à vent', 'moulin à eau', 'moulin à café'. Pour 'vendre', on pourra avoir 'vendre la peau de l'ours avant de l'avoir tué', 'vendre à perte', etc..
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;32;'r_sentiment';'sentiment';Pour un terme donné, évoquer des mots liés à des SENTIMENTS ou des EMOTIONS que vous pourriez associer à ce terme. Par exemple, la joie, le plaisir, le dégoût, la peur, la haine, l'amour, l'indifférence, l'envie, avoir peur, horrible, etc.
+rt;33;'r_error';'erreur';lien d'erreur
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;128;'r_node2relnode';'r_node2relnode';Relation entre un noeud (quelconque) et un noeud de relation (type = 10) - permet de rendre le graphe connexe même avec les annotations de relations
+rt;555;'r_cooccurrence';'r_cooccurrence';co-occurences (non utilisée)
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;12861028;152315;215646;0;4
+r;14476969;152315;155764;0;28
+r;14478114;152315;110038;0;28
+r;14449315;152315;418638;0;29
+r;16888342;152315;258992;0;31
+r;87478154;152315;28778;0;35
+r;140679;152315;68467;0;51
+r;140680;152315;107710;0;55
+r;151110;152315;153867;0;59
+r;24114672;152315;239128;0;1000000
+r;361880925;152315;14270798;4;25
+r;363204787;152315;14270847;4;25
+r;363025845;152315;14270944;4;25
+r;363016838;152315;14270943;4;25
+r;363007908;152315;14270942;4;25
+r;362999042;152315;14270945;4;25
+r;362990064;152315;150120;4;25
+r;362980939;152315;150119;4;25
+r;362971937;152315;150118;4;25
+r;362963033;152315;150117;4;25
+r;77060821;152315;3093591;4;34
+r;77060822;152315;3093590;4;43
+r;72091065;152315;2935005;4;45
+r;72420216;152315;2946892;4;45
+r;343104;152315;161698;4;56
+r;12085231;152315;212235;4;59
+r;119958;152315;151591;9;70
+r;9976880;152315;74082;10;4
+r;10004392;152315;218940;10;4
+r;9988356;152315;108750;10;4
+r;433464073;152315;2534182;10;6
+r;11021508;152315;215646;10;17
+r;16436123;152315;258992;10;30
+r;419609012;152315;15240735;11;25
+r;419609014;152315;15258367;11;25
+r;419609022;152315;15313517;11;25
+r;419609030;152315;15583422;11;25
+r;419609034;152315;15583420;11;25
+r;419609040;152315;15251924;11;25
+r;419609056;152315;15690147;11;25
+r;419609064;152315;15251002;11;25
+r;419609068;152315;15365965;11;25
+r;419609074;152315;15232921;11;25
+r;419609080;152315;15232929;11;25
+r;419609086;152315;15285069;11;25
+r;419609092;152315;15690156;11;25
+r;419609098;152315;15255070;11;25
+r;419609104;152315;15251919;11;25
+r;419609108;152315;15516094;11;25
+r;419609110;152315;16035133;11;25
+r;419609044;152315;15474470;11;26
+r;417155904;152315;15472108;11;28
+r;34659480;152315;329920;11;30
+r;227614741;152315;10037449;11;33
+r;242256298;152315;10190550;11;40
+r;414847800;152315;15524528;11;42
+r;238104001;152315;10159729;11;44
+r;402108162;152315;15233666;11;50
+r;11852489;152315;220505;11;122
+r;11862889;152315;105475;11;122
+r;9084652;152315;321947;11;148
+r;8879011;152315;211544;11;152
+r;104237;152315;151522;12;13
+r;132019;152315;151553;12;15
+r;104238;152315;151587;12;24
+r;90818786;152315;3576104;18;26
+r;89961974;152315;3575927;18;27
+r;281364;152315;28778;19;60
+r;33967181;152315;91691;32;4
+r;33675097;152315;28453;32;9
+r;1539523;152315;32791;33;30
+r;27026312;152315;254878;36;14
+r;27026311;152315;254877;36;19
+r;26472565;152315;223172;36;42
+r;7540482;152315;273221;36;45
+r;26170516;152315;241794;36;58
+r;24376996;152315;254876;36;68
+r;18462108;152315;223173;36;209
+r;20824577;152315;984458;128;2
+r;20500955;152315;925375;128;4
+r;433604689;152315;16454098;128;29
+r;73960140;152315;2983124;555;13958
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;419609013;15240735;152315;0;1
+r;419609015;15258367;152315;0;1
+r;419609023;15313517;152315;0;1
+r;419609031;15583422;152315;0;1
+r;419609035;15583420;152315;0;1
+r;419609041;15251924;152315;0;1
+r;419609057;15690147;152315;0;1
+r;419609065;15251002;152315;0;1
+r;419609069;15365965;152315;0;1
+r;419609075;15232921;152315;0;1
+r;419609081;15232929;152315;0;1
+r;419609087;15285069;152315;0;1
+r;419609093;15690156;152315;0;1
+r;419609099;15255070;152315;0;1
+r;419609105;15251919;152315;0;1
+r;419609109;15516094;152315;0;1
+r;419609111;16035133;152315;0;1
+r;419609045;15474470;152315;0;2
+r;9976879;74082;152315;0;4
+r;10004391;218940;152315;0;4
+r;9988355;108750;152315;0;4
+r;417155905;15472108;152315;0;4
+r;227614742;10037449;152315;0;9
+r;242256299;10190550;152315;0;16
+r;11021507;215646;152315;0;17
+r;414847801;15524528;152315;0;18
+r;369338429;2534182;152315;0;20
+r;418083364;37165;152315;0;22
+r;14478115;110038;152315;0;24
+r;238104003;10159729;152315;0;24
+r;16436122;258992;152315;0;26
+r;14476968;155764;152315;0;27
+r;14449314;418638;152315;0;30
+r;402108163;15233666;152315;0;50
+r;26484934;65902;152315;0;51
+r;11852490;220505;152315;0;106
+r;11862890;105475;152315;0;108
+r;9501047;211544;152315;0;147
+r;9607434;321947;152315;0;148
+r;24377648;68467;152315;9;-25
+r;369338461;2534182;152315;9;20
+r;3201078;215646;152315;9;26
+r;2479933;218940;152315;9;27
+r;16428908;258992;152315;9;29
+r;104236;74082;152315;9;55
+r;1627945;108750;152315;9;70
+r;377805130;151591;152315;10;25

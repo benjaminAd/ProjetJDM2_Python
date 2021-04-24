@@ -1,0 +1,53 @@
+<CODE>
+// DUMP pour le terme 'terminÃ¨rent' (eid=2088713)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;2088713;'terminèrent';2;0
+e;12137;'terminer';1;440
+e;14270944;'VerbalPers:P3';4;0
+e;14270946;'VerbalNumber:PL';4;0
+e;14271095;'VerbalTime:PasséSimple';4;0
+e;2946892;'Ver:Conjug';4;0
+e;3093590;'VerbalMode:Indicatif';4;0
+e;2935006;'VerbalTime:Past';4;0
+e;212235;'Ver:';4;50
+e;3095205;'Ver:IPSim+PL+P3';4;50
+e;15348910;'Les danses et les chants se terminèrent à minuit.';1;0
+e;151553;'_FL:0';6;50
+e;3576104;'Morpho:nospace';18;50
+e;3575927;'Morpho:min';18;50
+e;2983124;'_SW';36;50
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;11;'r_locution';'locution';A partir d'un terme, il est demandé d'énumérer les locutions, expression ou mots composés en rapport avec ce terme. Par exemple, pour 'moulin', ou pourra avoir 'moulin à vent', 'moulin à eau', 'moulin à café'. Pour 'vendre', on pourra avoir 'vendre la peau de l'ours avant de l'avoir tué', 'vendre à perte', etc..
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;555;'r_cooccurrence';'r_cooccurrence';co-occurences (non utilisée)
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;87603140;2088713;12137;0;30
+r;363241014;2088713;14270944;4;25
+r;363232730;2088713;14270946;4;25
+r;363224439;2088713;14271095;4;25
+r;122572372;2088713;2946892;4;29
+r;93788176;2088713;3093590;4;34
+r;122564240;2088713;2935006;4;36
+r;32402226;2088713;212235;4;60
+r;75099042;2088713;3095205;4;62
+r;419495513;2088713;15348910;11;25
+r;74791536;2088713;151553;12;27
+r;90592518;2088713;3576104;18;34
+r;89609122;2088713;3575927;18;43
+r;32402219;2088713;12137;19;59
+r;74254992;2088713;2983124;555;79
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;419495514;15348910;2088713;0;1

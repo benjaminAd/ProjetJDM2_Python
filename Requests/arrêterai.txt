@@ -1,0 +1,47 @@
+<CODE>
+// DUMP pour le terme 'arrÃªterai' (eid=1991008)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;1991008;'arrêterai';2;0
+e;28778;'arrêter';1;856
+e;14270942;'VerbalPers:P1';4;0
+e;14270945;'VerbalNumber:SG';4;0
+e;3093590;'VerbalMode:Indicatif';4;0
+e;2935007;'VerbalTime:Future';4;0
+e;2946892;'Ver:Conjug';4;0
+e;212235;'Ver:';4;50
+e;161757;'Ver:IFut+SG+P1';4;50
+e;151553;'_FL:0';6;50
+e;3576104;'Morpho:nospace';18;50
+e;3575927;'Morpho:min';18;50
+e;2983124;'_SW';36;50
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;555;'r_cooccurrence';'r_cooccurrence';co-occurences (non utilisée)
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;87511725;1991008;28778;0;32
+r;363498527;1991008;14270942;4;25
+r;363490321;1991008;14270945;4;25
+r;77060849;1991008;3093590;4;29
+r;72139597;1991008;2935007;4;45
+r;72430840;1991008;2946892;4;45
+r;32141735;1991008;212235;4;54
+r;32141734;1991008;161757;4;59
+r;74542474;1991008;151553;12;27
+r;90692574;1991008;3576104;18;34
+r;89707540;1991008;3575927;18;35
+r;32141733;1991008;28778;19;59
+r;74292401;1991008;2983124;555;64
+// les relations entrantes : r;rid;node1;node2;type;w 

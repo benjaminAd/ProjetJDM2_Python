@@ -1,0 +1,64 @@
+<CODE>
+// DUMP pour le terme 'arrÃªtable' (eid=2376428)
+<def>
+<br />
+Qui peut être arrêté, détenu comme prisonnier.<br /> 
+ Marc de Fiennes, vicomte de Bruges, député des états d'Artois vers Son Altesse, ayant été arrêté au corps par un de ses créanciers, il fut jugé le 17 octobre 1648 qu'il n'était pas arrêtable pour ses dettes. (Arrêts du grand conseil de Sa Majesté? résidant en la ville de Malines, recueillis par M. Humaÿn, Lille, 1773, page 15, Note de M. Du Bois, avocat à Gand)  
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;4;'n_pos'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;444;'n_link'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;2376428;'arrêtable';1;0
+e;239128;'_COM';36;50
+e;3337680;'arrêtable>171870';1;0;'arrêtable>Nom:'
+e;3337681;'arrêtable>171869';1;0;'arrêtable>Adj:'
+e;146888;'Adj:Mas+SG';4;50
+e;2586627;'Gender:Mas';4;0
+e;2586628;'Gender:Fem';4;0
+e;2586629;'Number:Sing';4;0
+e;146894;'Adj:Fem+SG';4;50
+e;171869;'Adj:';4;50
+e;171870;'Nom:';4;50
+e;147115;'conté';1;56
+e;135190;'lieu';1;1642
+e;3576104;'Morpho:nospace';18;50
+e;3575927;'Morpho:min';18;50
+e;251716;'_INFO-MONOSEMIC';36;50
+e;438949;'_INFO-POLYMORPHIC';36;50
+e;2585997;'_INFO-CNRTL-NO';36;50
+e;4073699;'dbnary:fra:__ws_1_arrêtable__adj__1';444;0
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;2;'r_raff_morpho';'raffinement morphologique';Raffinement morphologique vers un usage particulier du terme source
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;6;'r_isa';'générique';Il est demandé d'énumérer les GENERIQUES/hyperonymes du terme. Par exemple, 'animal' et 'mammifère' sont des génériques de 'chat'.
+rt;8;'r_hypo';'spécifique';Il est demandé d'énumérer des SPECIFIQUES/hyponymes du terme. Par exemple, 'mouche', 'abeille', 'guêpe' pour 'insecte'.
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;444;'r_link';'r_link';Lien vers une ressource externe (WordNet, RadLex, UMLS, Wikipedia, etc...)
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;52838739;2376428;239128;0;1000000
+r;84308885;2376428;3337680;2;41
+r;84308889;2376428;3337681;2;45
+r;373102041;2376428;146888;4;26
+r;373105247;2376428;2586627;4;26
+r;373106848;2376428;2586628;4;26
+r;373108449;2376428;2586629;4;26
+r;373103644;2376428;146894;4;30
+r;52222242;2376428;171869;4;45
+r;58151715;2376428;171870;4;45
+r;57975552;2376428;147115;6;36
+r;57975551;2376428;135190;6;39
+r;90346763;2376428;3576104;18;26
+r;89360435;2376428;3575927;18;30
+r;96130105;2376428;251716;36;32
+r;84308888;2376428;438949;36;37
+r;84308884;2376428;2585997;36;59
+r;94442388;2376428;4073699;444;1
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;245416826;135190;2376428;8;25
+r;246205081;147115;2376428;8;25

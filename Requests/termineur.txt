@@ -1,0 +1,49 @@
+<CODE>
+// DUMP pour le terme 'termineur' (eid=16031119)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;4;'n_pos'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;16031119;'termineur';1;0
+e;61015;'assemblage';1;346
+e;96851;'pièce';1;3154
+e;46934;'transfo';1;50
+e;48572;'différentiel';1;50
+e;105649;'horlogerie';1;94
+e;123388;'télécommunications';1;98
+e;171869;'Adj:';4;50
+e;2586627;'Gender:Mas';4;0
+e;2586628;'Gender:Fem';4;0
+e;171870;'Nom:';4;50
+e;3576104;'Morpho:nospace';18;50
+e;217817;'_INFO-POLYSEMIC';36;50
+e;15991432;'_ANIME-NO';36;50
+e;438949;'_INFO-POLYMORPHIC';36;50
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;3;'r_domain';'domaine';Il est demandé de fournir des domaines relatifs au mot cible. Par exemple, pour 'corner', on pourra donner les domaines 'football' ou 'sport'.
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;417721462;16031119;61015;0;13
+r;417721463;16031119;96851;0;13
+r;417723974;16031119;46934;0;13
+r;417723975;16031119;48572;0;13
+r;417721460;16031119;105649;0;25
+r;417723973;16031119;123388;0;25
+r;417721459;16031119;105649;3;25
+r;417723972;16031119;123388;3;25
+r;417721456;16031119;171869;4;25
+r;417721457;16031119;2586627;4;25
+r;417721458;16031119;2586628;4;25
+r;417723970;16031119;171870;4;25
+r;424755797;16031119;3576104;18;25
+r;417721455;16031119;217817;36;25
+r;417723971;16031119;15991432;36;25
+r;427416303;16031119;438949;36;26
+// les relations entrantes : r;rid;node1;node2;type;w 

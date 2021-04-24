@@ -1,0 +1,49 @@
+<CODE>
+// DUMP pour le terme 'termines' (eid=2088729)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;2088729;'termines';2;0
+e;12137;'terminer';1;440
+e;14270943;'VerbalPers:P2';4;0
+e;14270945;'VerbalNumber:SG';4;0
+e;161718;'Ver:SPre+SG+P2';4;50
+e;161717;'Ver:IPre+SG+P2';4;50
+e;3093590;'VerbalMode:Indicatif';4;0
+e;3093591;'VerbalMode:Subjonctif';4;0
+e;2935005;'VerbalTime:Present';4;0
+e;2946892;'Ver:Conjug';4;0
+e;161710;'Ver:IPre+SG+P2:SPre+SG+P2';4;50
+e;212235;'Ver:';4;50
+e;151553;'_FL:0';6;50
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;87603174;2088729;12137;0;27
+r;362955974;2088729;14270943;4;25
+r;362947575;2088729;14270945;4;25
+r;362939143;2088729;161718;4;25
+r;362930666;2088729;161717;4;25
+r;93788152;2088729;3093590;4;35
+r;93788151;2088729;3093591;4;38
+r;72107765;2088729;2935005;4;45
+r;72479401;2088729;2946892;4;45
+r;32402319;2088729;161710;4;60
+r;32402322;2088729;212235;4;64
+r;74791542;2088729;151553;12;35
+r;89609106;2088729;3575927;18;32
+r;90592502;2088729;3576104;18;38
+r;32402315;2088729;12137;19;64
+// les relations entrantes : r;rid;node1;node2;type;w 

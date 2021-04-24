@@ -1,0 +1,53 @@
+<CODE>
+// DUMP pour le terme 'terminent' (eid=2088700)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;2088700;'terminent';2;0
+e;12137;'terminer';1;440
+e;14270944;'VerbalPers:P3';4;0
+e;14270946;'VerbalNumber:PL';4;0
+e;161707;'Ver:SPre+PL+P3';4;50
+e;161706;'Ver:IPre+PL+P3';4;50
+e;3093590;'VerbalMode:Indicatif';4;0
+e;3093591;'VerbalMode:Subjonctif';4;0
+e;2935005;'VerbalTime:Present';4;0
+e;2946892;'Ver:Conjug';4;0
+e;212235;'Ver:';4;50
+e;161711;'Ver:IPre+PL+P3:SPre+PL+P3';4;50
+e;151553;'_FL:0';6;50
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+e;2983124;'_SW';36;50
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;555;'r_cooccurrence';'r_cooccurrence';co-occurences (non utilisée)
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;87603098;2088700;12137;0;31
+r;363060599;2088700;14270944;4;25
+r;363053138;2088700;14270946;4;25
+r;363045522;2088700;161707;4;25
+r;363038004;2088700;161706;4;25
+r;93788156;2088700;3093590;4;32
+r;93788155;2088700;3093591;4;38
+r;72107760;2088700;2935005;4;45
+r;72479359;2088700;2946892;4;45
+r;32402111;2088700;212235;4;56
+r;32402107;2088700;161711;4;58
+r;74791529;2088700;151553;12;32
+r;89609135;2088700;3575927;18;31
+r;90592531;2088700;3576104;18;34
+r;32402101;2088700;12137;19;62
+r;74006233;2088700;2983124;555;4956
+// les relations entrantes : r;rid;node1;node2;type;w 

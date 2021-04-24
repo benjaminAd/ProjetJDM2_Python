@@ -1,0 +1,43 @@
+<CODE>
+// DUMP pour le terme 'terminerai' (eid=2088705)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;2088705;'terminerai';2;0
+e;12137;'terminer';1;440
+e;14270942;'VerbalPers:P1';4;0
+e;14270945;'VerbalNumber:SG';4;0
+e;3093590;'VerbalMode:Indicatif';4;0
+e;2935007;'VerbalTime:Future';4;0
+e;2946892;'Ver:Conjug';4;0
+e;161757;'Ver:IFut+SG+P1';4;50
+e;212235;'Ver:';4;50
+e;151553;'_FL:0';6;50
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;87603114;2088705;12137;0;34
+r;363497566;2088705;14270942;4;25
+r;363489360;2088705;14270945;4;25
+r;93788177;2088705;3093590;4;32
+r;72147082;2088705;2935007;4;45
+r;72479369;2088705;2946892;4;45
+r;32402152;2088705;161757;4;56
+r;32402156;2088705;212235;4;64
+r;74791531;2088705;151553;12;34
+r;89609130;2088705;3575927;18;26
+r;90592526;2088705;3576104;18;31
+r;32402147;2088705;12137;19;66
+// les relations entrantes : r;rid;node1;node2;type;w 

@@ -150,8 +150,12 @@ class JDM:
         else:
             BaseTerm = None
             for term in self.termsList:
-                if self.mot == term.name.split("'")[1]:
-                    BaseTerm = term
+                if len(term.name.split("'")) > 1:
+                    if self.mot == term.name.split("'")[1]:
+                        BaseTerm = term
+                else:
+                    if self.mot == term.name:
+                        BaseTerm = term
                 if "Nom:" in term.name or "Adj:" in term.name or "Ver:" in term.name or "Adv:" in term.name:
                     self.termsListImp.append(term)
             if BaseTerm is not None and len(self.termsListImp) != 0:

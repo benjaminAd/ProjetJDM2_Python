@@ -1,0 +1,142 @@
+<CODE>
+// DUMP pour le terme 'termine' (eid=434801)
+<def>
+<br />
+1. Mais, on obtient une contradiction pour l'entrée diagonale. En effet, diagonale(diagonale) boucle si et seulement si halt accepte (diagonale, diagonale) si et seulement si diagonale(diagonale) termine. Cela prouve donc par l'absurde que halt n'existe pas.<br />
+2. Mais, on obtient une contradiction pour l'entrée diagonale. En effet, diagonale(diagonale) boucle à l'infini si et seulement si halt accepte (diagonale, diagonale), c'est-à-dire si et seulement si diagonale(diagonale) termine. Cela prouve donc par l'absurde que halt n'existe pas.
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;200;'n_context'
+nt;444;'n_link'
+nt;777;'n_wikipedia'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;434801;'termine';1;52
+e;43084;'terminé';1;138
+e;12137;'terminer';1;440
+e;239128;'_COM';36;50
+e;14270798;'VerbalMode:Impératif';4;0
+e;14270847;'Ver:ImPre+SG+P2';4;0
+e;14270944;'VerbalPers:P3';4;0
+e;14270943;'VerbalPers:P2';4;0
+e;14270942;'VerbalPers:P1';4;0
+e;14270945;'VerbalNumber:SG';4;0
+e;150120;'Ver:SPre+SG+P3';4;50
+e;150119;'Ver:SPre+SG+P1';4;50
+e;150118;'Ver:IPre+SG+P3';4;50
+e;150117;'Ver:IPre+SG+P1';4;50
+e;3093591;'VerbalMode:Subjonctif';4;0
+e;2935005;'VerbalTime:Present';4;0
+e;2946892;'Ver:Conjug';4;0
+e;3093590;'VerbalMode:Indicatif';4;0
+e;212235;'Ver:';4;50
+e;161698;'Ver:IPre+SG+P1:IPre+SG+P3:SPre+SG+P1:SPre+SG+P3:ImPre+SG+P2';4;50
+e;14876894;'Le dernier épisode conclut des années de péripéties et de rebondissements à la pension des Mimosas. Tous les personnages importants ont avancé dans la vie. La série se termine sur le mariage tant attendu d'Hugo et Juliette. Cette dernière a enfin réussit ';777;0
+e;108781;'mezzo-termine';1;50
+e;151553;'_FL:0';6;50
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+e;254877;'_POL-NEUTRE_PC';36;50
+e;254878;'_POL-NEG_PC';36;50
+e;276096;'_INFO-WIKI-YES';36;50
+e;223172;'_POL-NEG';36;50
+e;241794;'_POL-NEUTRE';36;50
+e;254876;'_POL-POS_PC';36;50
+e;223173;'_POL-POS';36;50
+e;12616859;'6ad1c40617f619ae8acbeae64f0fb5b8';200;0
+e;12616857;'da1fa31d22393aad1b9c539cccb678ca';200;0
+e;3228593;'wiki:@';444;0
+e;2983124;'_SW';36;50
+e;167728;'programme informatique';1;70
+e;167617;'Alan Turing';1;78
+e;14157317;'Analyse statique de programmes';777;0
+e;335247;'analyse statique';1;50
+e;115720;'Turing';1;72
+e;5815623;'argument diagonal';777;0
+e;570699;'Gregory Chaitin';777;50
+e;22679;'diophantien';1;50
+e;9698378;'analyse statique de programmes';1;0
+e;823;'ramasse-miettes';1;56
+e;302545;'International Standard Serial Number';777;50
+e;115748;'ISSN';1;50
+e;285728;'DOI';1;2
+e;232722;'Marvin Minsky';1;50
+e;292126;'International Standard Book Number';777;56
+e;142939;'ISBN';1;62
+e;14584113;'mal finir';1;14
+e;5074991;'Crazy in Love';777;0
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;11;'r_locution';'locution';A partir d'un terme, il est demandé d'énumérer les locutions, expression ou mots composés en rapport avec ce terme. Par exemple, pour 'moulin', ou pourra avoir 'moulin à vent', 'moulin à eau', 'moulin à café'. Pour 'vendre', on pourra avoir 'vendre la peau de l'ours avant de l'avoir tué', 'vendre à perte', etc..
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;200;'r_context';'r_context';Relation de contexte entre un terme et un noeud contexte.
+rt;444;'r_link';'r_link';Lien vers une ressource externe (WordNet, RadLex, UMLS, Wikipedia, etc...)
+rt;555;'r_cooccurrence';'r_cooccurrence';co-occurences (non utilisée)
+rt;777;'r_wiki';'r_wiki';Associations issues de wikipedia...
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;14440246;434801;43084;0;23
+r;87498302;434801;12137;0;26
+r;392360160;434801;239128;0;1000000
+r;361880333;434801;14270798;4;25
+r;363205379;434801;14270847;4;25
+r;363026437;434801;14270944;4;25
+r;363017452;434801;14270943;4;25
+r;363008498;434801;14270942;4;25
+r;362999638;434801;14270945;4;25
+r;362990669;434801;150120;4;25
+r;362981531;434801;150119;4;25
+r;362972530;434801;150118;4;25
+r;362963628;434801;150117;4;25
+r;93788149;434801;3093591;4;38
+r;72094741;434801;2935005;4;45
+r;72424270;434801;2946892;4;45
+r;93788150;434801;3093590;4;45
+r;14363683;434801;212235;4;51
+r;14363682;434801;161698;4;57
+r;385077981;434801;14876894;11;25
+r;14336915;434801;108781;11;60
+r;74791526;434801;151553;12;29
+r;89780053;434801;3575927;18;28
+r;90735616;434801;3576104;18;31
+r;14363681;434801;12137;19;59
+r;27223152;434801;254877;36;14
+r;27223153;434801;254878;36;14
+r;432968549;434801;276096;36;25
+r;26467444;434801;223172;36;48
+r;26467445;434801;241794;36;48
+r;27223151;434801;254876;36;72
+r;17668534;434801;223173;36;245
+r;323053438;434801;12616859;200;1
+r;323053347;434801;12616857;200;3
+r;392493327;434801;3228593;444;25
+r;73969105;434801;2983124;555;30045
+r;392360161;434801;167728;777;10
+r;392360162;434801;167617;777;10
+r;392360163;434801;14157317;777;10
+r;392360164;434801;335247;777;10
+r;392360165;434801;115720;777;10
+r;392360166;434801;5815623;777;10
+r;392360167;434801;570699;777;10
+r;392360168;434801;22679;777;10
+r;392360169;434801;9698378;777;10
+r;392360170;434801;823;777;10
+r;392360171;434801;302545;777;10
+r;392360172;434801;115748;777;10
+r;392360173;434801;285728;777;10
+r;392360174;434801;232722;777;10
+r;392360175;434801;292126;777;10
+r;392360176;434801;142939;777;10
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;385077982;14876894;434801;0;1
+r;14440247;43084;434801;0;21
+r;14336916;108781;434801;0;36
+r;370570389;14584113;434801;0;51
+r;105314314;5074991;434801;777;10

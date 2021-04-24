@@ -1,0 +1,72 @@
+<CODE>
+// DUMP pour le terme 'arrÃªta' (eid=1990992)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;777;'n_wikipedia'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;1990992;'arrêta';2;0
+e;28778;'arrêter';1;856
+e;14270944;'VerbalPers:P3';4;0
+e;14270945;'VerbalNumber:SG';4;0
+e;14271095;'VerbalTime:PasséSimple';4;0
+e;3093590;'VerbalMode:Indicatif';4;0
+e;2935006;'VerbalTime:Past';4;0
+e;2946892;'Ver:Conjug';4;0
+e;212235;'Ver:';4;50
+e;161713;'Ver:IPSim+SG+P3';4;50
+e;15289383;'La voiture s'arrêta dans un crissement de pneus.';1;0
+e;10061439;'Le jour où la Terre s'arrêta';777;0
+e;10552142;'Le Jour où la guerre s'arrêta';777;0
+e;5675352;'Le Jour où la Terre s'arrêta';777;0
+e;15471737;'Elle s'arrêta et regarda fixement l'affiche.';1;0
+e;15471745;'Il s'arrêta lorsqu'il entendit du bruit.';1;0
+e;15339429;'Joseph s'arrêta et s'appuya sur son balai.';1;0
+e;151553;'_FL:0';6;50
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+e;2983124;'_SW';36;50
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;11;'r_locution';'locution';A partir d'un terme, il est demandé d'énumérer les locutions, expression ou mots composés en rapport avec ce terme. Par exemple, pour 'moulin', ou pourra avoir 'moulin à vent', 'moulin à eau', 'moulin à café'. Pour 'vendre', on pourra avoir 'vendre la peau de l'ours avant de l'avoir tué', 'vendre à perte', etc..
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;555;'r_cooccurrence';'r_cooccurrence';co-occurences (non utilisée)
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;87511710;1990992;28778;0;27
+r;363136565;1990992;14270944;4;25
+r;363128339;1990992;14270945;4;25
+r;363120161;1990992;14271095;4;25
+r;77060845;1990992;3093590;4;26
+r;72155915;1990992;2935006;4;45
+r;72430829;1990992;2946892;4;45
+r;32141694;1990992;212235;4;57
+r;32141693;1990992;161713;4;59
+r;417155924;1990992;15289383;11;28
+r;232108016;1990992;10061439;11;38
+r;262910832;1990992;10552142;11;40
+r;111329219;1990992;5675352;11;42
+r;397500009;1990992;15471737;11;50
+r;402109308;1990992;15471745;11;50
+r;414794694;1990992;15339429;11;50
+r;74542455;1990992;151553;12;31
+r;89707556;1990992;3575927;18;26
+r;90692590;1990992;3576104;18;35
+r;32141692;1990992;28778;19;55
+r;74171334;1990992;2983124;555;2118
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;417155925;15289383;1990992;0;4
+r;111329220;5675352;1990992;0;9
+r;232108018;10061439;1990992;0;14
+r;262910833;10552142;1990992;0;16
+r;414794695;15339429;1990992;0;32
+r;397500010;15471737;1990992;0;50
+r;402109309;15471745;1990992;0;50
