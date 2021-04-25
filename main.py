@@ -112,6 +112,17 @@ class JDM:
                 return True
         return False
 
+    '''
+        Cette méthode va parcourir l'ensemble des règles présent dans le fichier regles.txt
+        La règle est décomposée sour le format suivant :
+         Type de mot;terminaison;Type de transformation; terminaison tranformée; exeption
+         On va d'abord regarde le type de base du mot et s'il correspond au type de base de la règle on va pouvoir
+         vérifier la terminaison de la règle et du mot
+         Si la terminaison est = $ alors on regarde la règle peut s'appliquer à n'importe quel mot peu importe la terminaison
+         sinon on vérifie que les terminaisons correspondent
+         Si elles sorrespondent alors on va dériver le mot et utiliser la méthode checkIfWordExist et si cette méthode renvoie vrai
+         alors nous ajoutons le mot dérivé à la liste correspondante afin de pouvoir l'afficher plus tard
+    '''
     def checkRule(self):
         for rule in self.regles.regles:
             if self.mot[-len(rule.exception):] != rule.exception:
@@ -129,6 +140,16 @@ class JDM:
                                     newWord, rule.transformType):
                                 self.addToDisplayTab(newWord, rule.transformType)
 
+    '''
+        méthode qui va séparer les données selon les relation
+        Term1;Relation;Term2
+        Dans le cas de ce projet on va garder uniquement les relations r_pos et r_isa
+        Ce nettoyage aura pour but de conserver uniquement les relations qui vont relier le mot courant
+        aux terms contenant Nom:, Adj:, Adv:, Ver:
+        Exemple : 27354,'accompli',1,128;2247340,27354,161702,4,26;161702,'Ver:PPas',4,50
+        Si le fichier nettoyé n'existe pas on va faire le tri, affecter les valeurs à une variable et sauvegarder dnas un fichier
+        Si le fichier existe nous allons juste parcourir ce fichier et attribuer les données dans une liste
+    '''
     def nettoyage(self):
         if os.path.isfile(self.nettoyerPath):
             file = open(self.nettoyerPath, "r")
@@ -281,6 +302,10 @@ class JDM:
         else:
             print("Votre mot n'est pas dérivable avec l'ensemble des règles actuelles")
 
+    '''
+    On vérifie si le fichier nettoyé existe, s'il existe on va pouvoir sauver beaucoup de temps en évitant la 
+    requête au rézo dump et l'utilisation de l'algo de nettoyage ce qui peut diviser le temps d'exécution par 5 voir 10
+    '''
     def start(self):
         self.regles = Regles()
         if os.path.isfile(self.nettoyerPath):
