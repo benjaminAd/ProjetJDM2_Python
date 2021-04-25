@@ -1,0 +1,40 @@
+<CODE>
+// DUMP pour le terme 'complimentaire' (eid=2410837)
+<def>
+<br />
+(Désuet) Celui des associés, sous le nom duquel se faisait tout le commerce.
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;4;'n_pos'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;444;'n_link'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;2410837;'complimentaire';1;0
+e;239128;'_COM';36;50
+e;171870;'Nom:';4;50
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+e;2578964;'Langage:vieilli';18;0
+e;251716;'_INFO-MONOSEMIC';36;50
+e;273221;'_INFO-WIKI-NO';36;50
+e;2585997;'_INFO-CNRTL-NO';36;50
+e;3842079;'dbnary:fra:__ws_1_complimentaire__nom__1';444;0
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;444;'r_link';'r_link';Lien vers une ressource externe (WordNet, RadLex, UMLS, Wikipedia, etc...)
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;52716461;2410837;239128;0;1000000
+r;52276408;2410837;171870;4;45
+r;89343486;2410837;3575927;18;26
+r;90315714;2410837;3576104;18;29
+r;52593117;2410837;2578964;18;40
+r;96226043;2410837;251716;36;26
+r;375288117;2410837;273221;36;27
+r;54238259;2410837;2585997;36;54
+r;94235337;2410837;3842079;444;1
+// les relations entrantes : r;rid;node1;node2;type;w 

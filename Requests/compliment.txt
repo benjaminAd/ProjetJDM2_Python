@@ -1,0 +1,909 @@
+<CODE>
+// DUMP pour le terme 'compliment' (eid=58834)
+<def>
+<br />
+1. Paroles louant la qualité d'une chose ou d'une personne.<br /> 
+ ? Vous avez de beaux yeux. ? Merci pour le compliment.  <br />
+2. Paroles désobligeantes ou injurieuses. ? Note : Il est alors toujours accompagné d'une épithète qui indique le sens détourné qu'on lui donne.<br /> 
+ (Ironique) ? Voilà un joli compliment, un compliment très flatteur, etc.   <br /> 
+ Vous lui avez fait là un mauvais compliment. - Voilà un fâcheux compliment. - Il m'est venu faire un étrange compliment, un sot compliment.  <br />
+3. (Quelquefois) Opposé de l'intention réelle, des promesses effectives.<br /> 
+ Il vous fait des offres de service, c'est pour compliment. - Tout cela se passera, s'est passé en compliments.  <br />
+4. Simple terme de civilité pour se rappeler au souvenir de quelqu'un.<br /> 
+ Il m'a chargé de vous faire mille compliments.  <br />
+5. Petit discours en vers ou en prose qu'on fait réciter ou présenter par un enfant à son père, à sa mère, ou à une autre personne, le jour de leur fête ou le premier jour de l'an, pour les complimenter.<br /> 
+ Apprendre, réciter un compliment. - Un recueil de compliments.  <br />
+6. Paroles louant la qualité d'une chose ou d'une personne.<br /> 
+ ? Vous avez de beaux yeux.? Merci pour le compliment.   <br /> 
+ Les femmes « youyoutèrent » à gorge déployée, et nous échangeâmes congratulations et compliments, l'un flattant l'encolure du mulet, notre héros, l'autre exagérant les mérites du conducteur bédouin, [?].    
+ (Évelyne Berriot-Salvadore, La Méditerranée et ses cultures, Éd. du Cerf, 1992, p.184)  <br />
+7. Paroles de civilité, obligeantes, flatteuses, par lesquelles on témoigne à quelqu'un le respect, l'affection, l'estime qu'on a pour lui, ou la part que l'on prend à ce qui lui arrive.<br /> 
+ Puis il fallut écouter les compliments des paysans et leurs doléances enveloppées dans des protestations de respect.    
+ (Out-el-Kouloub, Zaheira, dans ''Trois contes de l'Amour et de la Mort'', 1940)  
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;8;'n_chunk'
+nt;9;'n_question'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;200;'n_context'
+nt;444;'n_link'
+nt;666;'n_AKI'
+nt;777;'n_wikipedia'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;58834;'compliment';1;138
+e;1611;'félicitations';1;192
+e;1749;'glorification';1;90
+e;5128;'encouragement';1;142
+e;6015;'dithyrambe';1;86
+e;6668;'félicitation';1;154
+e;7683;'enguirlandement';1;52
+e;9547;'éloge';1;176
+e;14643;'célébration';1;240
+e;17099;'mauvais compliment';1;50
+e;22445;'exhortation';1;52
+e;24277;'cajolerie';1;56
+e;24714;'complimenter';1;142
+e;25727;'speech';1;64
+e;29336;'civilité';1;132
+e;29737;'amitié';1;2020
+e;30103;'boniment';1;88
+e;30515;'féliciter';1;246
+e;31900;'récompense';1;756
+e;33701;'soutien';1;368
+e;35352;'discours';1;942
+e;37772;'réconfort';1;106
+e;38710;'littérature';1;3687
+e;43960;'sauvegarde';1;76
+e;47237;'hommage';1;104
+e;47440;'discourir';1;162
+e;48373;'incitation';1;72
+e;49181;'subvention';1;100
+e;49450;'aide';1;908
+e;50631;'politesse';1;782
+e;51795;'révérence';1;88
+e;52091;'panégyrique';1;96
+e;53095;'courbette';1;58
+e;53875;'flagornerie';1;70
+e;55150;'oraison';1;72
+e;57835;'affect';1;88
+e;58227;'encensement';1;60
+e;61945;'bravo';1;242
+e;63471;'protection';1;1722
+e;64290;'salutations';1;80
+e;71569;'prime';1;226
+e;71940;'stimulant';1;92
+e;72174;'louange';1;126
+e;73906;'gentillesse';1;406
+e;78345;'sortie';1;656
+e;79817;'apologie';1;98
+e;83208;'cirque';1;1676
+e;83934;'approbation';1;202
+e;84266;'cérémonie';1;466
+e;87504;'compliments';1;56
+e;87929;'servilité';1;88
+e;92168;'hypocrisie';1;266
+e;93195;'blabla';1;68
+e;93217;'adulation';1;68
+e;97447;'pommade';1;158
+e;100456;'flatterie';1;174
+e;101594;'baratin';1;80
+e;103467;'courtoisie';1;176
+e;105213;'salutation';1;220
+e;109382;'complication';1;110
+e;115118;'congratulation';1;62
+e;116068;'galanterie';1;172
+e;122256;'applaudissement';1;152
+e;124771;'parole';1;2034
+e;125190;'verbiage';1;76
+e;127960;'encens';1;206
+e;129176;'congratulations';1;60
+e;139233;'jugement';1;1404
+e;139513;'phrase';1;1450
+e;140318;'parler';1;4062
+e;141165;'mérite';1;194
+e;144647;'fête';1;3402
+e;145484;'libération';1;406
+e;146046;'salut';1;446
+e;239128;'_COM';36;50
+e;398942;'inepties';1;52
+e;453217;'sortie>171870';1;50;'sortie>Nom:'
+e;2373231;'sarimonie';1;0
+e;4491651;'pommade>146881';1;0;'pommade>Nom:Fem+SG'
+e;7156552;'en:speech';1;0
+e;14929421;'en:compliment';1;0
+e;15064825;'en:sales pitch';1;0
+e;15074599;'en:claptrap';1;0
+e;15260102;'en:pat on the back';1;0
+e;15283241;'en:waffling';1;0
+e;15331772;'baratin publicitaire';1;0
+e;146882;'Ver:Inf';4;50
+e;146885;'Nom:Mas+SG';4;50
+e;171870;'Nom:';4;50
+e;212235;'Ver:';4;50
+e;2586627;'Gender:Mas';4;0
+e;2586629;'Number:Sing';4;0
+e;196074;'argument de vente';1;52
+e;6806937;'en:verbosity';1;0
+e;14938073;'en:congratulation';1;0
+e;14940354;'en:laud';1;0
+e;14945961;'en:kudos';1;0
+e;15041901;'en:extolment';1;0
+e;15309113;'en:extollment';1;0
+e;15309114;'en:extoling';1;0
+e;15309115;'en:extolling';1;0
+e;15309116;'en:laudation';1;0
+e;6514;'avertissement';1;258
+e;20535;'injure';1;266
+e;21640;'insulte';1;814
+e;30228;'affront';1;112
+e;31176;'médisance';1;306
+e;36683;'semonce';1;164
+e;46091;'critique';1;530
+e;54491;'épigramme';1;52
+e;63932;'remontrance';1;110
+e;92343;'observation';1;178
+e;92456;'admonestation';1;116
+e;95494;'reproche';1;218
+e;98472;'blâme';1;132
+e;105452;'brocard';1;62
+e;105481;'atrocité';1;64
+e;122505;'invective';1;54
+e;124091;'réprimande';1;240
+e;134005;'gronderie';1;52
+e;135472;'sarcasme';1;94
+e;140679;'outrage';1;74
+e;146193;'offense';1;176
+e;3309834;'compliment descriptif';1;0
+e;75562;'trousser un compliment';1;50
+e;437324;'pâte phyllo compliment';1;50
+e;12246534;'faire un compliment';1;0
+e;15304815;'de compliment';1;0
+e;15304819;'adresser un compliment à qn';1;0
+e;151553;'_FL:0';6;50
+e;151564;'_FL:5';6;50
+e;151566;'_FL:7';6;50
+e;152011;'_FL:20';6;50
+e;152012;'_FL:21';6;50
+e;25526;'bien tourné';1;58
+e;104093;'hypocrite';1;208
+e;1776167;'Langage:ironique';18;50
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+e;7332979;'Langue:anglais';18;50
+e;14916413;'Langue:français';18;50
+e;208356;'souffler le chaud et le froid';1;50
+e;208357;'souffler le froid et le chaud';1;50
+e;128591;'faire des messes basses';1;58
+e;210921;'glisser à l'oreille';1;50
+e;313655;'parler tout bas';1;54
+e;14928225;'en:whisper';1;0
+e;15349148;'en:to mutter';1;0
+e;15418817;'en:speak softly';1;0
+e;15418818;'en:speak very quietly';1;0
+e;14330;'satisfaction';1;614
+e;28453;'bonheur';1;2180
+e;37298;'amour';1;7056
+e;57221;'joie';1;3888
+e;91691;'surprise';1;1186
+e;102345;'plaisir';1;3530
+e;146357;'envie';1;1618
+e;191741;'_INFO-VOC-COMMON';36;50
+e;217817;'_INFO-POLYSEMIC';36;50
+e;223172;'_POL-NEG';36;50
+e;223173;'_POL-POS';36;50
+e;241794;'_POL-NEUTRE';36;50
+e;254876;'_POL-POS_PC';36;50
+e;254877;'_POL-NEUTRE_PC';36;50
+e;254878;'_POL-NEG_PC';36;50
+e;273221;'_INFO-WIKI-NO';36;50
+e;438949;'_INFO-POLYMORPHIC';36;50
+e;2585996;'_INFO-CNRTL-YES';36;50
+e;15991432;'_ANIME-NO';36;50
+e;233958;'émue';1;64
+e;52760;'dessiner';1;2134
+e;2862656;'dessiner>14155497';1;46;'dessiner>représenter par le dessin'
+e;2152828;'complimenteuse';2;0
+e;164733;'::>14:116477>29:78823>34';9;50;'De quelle manière pourrait-on flatter une personne ?'
+e;327708;'::>14:116477>29:78823';8;50;'flatter [objet] personne'
+e;86711;'jaune';1;2672
+e;12684658;'caf3bacdcb7175b376923680b467c344';200;0
+e;12695270;'55eee3a559ab1b7d974296ada9622353';200;0
+e;12716365;'b906a2134aa5dcb4d0bb53c2f8e5af9f';200;0
+e;12727265;'29e049041b114376f72ca5570170794f';200;0
+e;12728149;'0b1bc45b7c5c96246e853f457af00ad9';200;0
+e;12862122;'ccf9cf56b60f5f08f6f892a902b36b2c';200;0
+e;12991581;'49df6677c91211ca6b6c2f2b5222e286';200;0
+e;13535416;'c6ecad68b403e6af862feac7c7a53178';200;0
+e;13982243;'5e19f2fa409ea05b63da8fb524429a31';200;0
+e;14474427;'3bc22c3d865bde0e07e14060b1ec2d96';200;0
+e;14890725;'12e347361abf1fe7aa90f2385a7fb214';200;0
+e;3854228;'dbnary:fra:__ws_1_compliment__nom__1';444;0
+e;3868488;'dbnary:fra:__ws_4_compliment__nom__1';444;0
+e;3966822;'dbnary:fra:__ws_5_compliment__nom__1';444;0
+e;4066260;'dbnary:fra:__ws_2_compliment__nom__1';444;0
+e;4163496;'dbnary:fra:__ws_3_compliment__nom__1';444;0
+e;4177674;'dbnary:fra:__ws_6_compliment__nom__1';444;0
+e;2983124;'_SW';36;50
+e;13293;'approuver';1;160
+e;1858805;'transmettre>43504';1;0;'transmettre>physique'
+e;1858806;'transmettre>73889';1;2;'transmettre>faire passer'
+e;1858809;'transmettre>62102';1;8;'transmettre>contagion'
+e;3180870;'transmettre>43286';1;0;'transmettre>génétique'
+e;5150;'Mgr';1;52
+e;15251;'conge';1;50
+e;24287;'bonhomie';1;54
+e;41775;'rengorger';1;50
+e;97056;'impertinence';1;64
+e;116201;'rengainer';1;50
+e;231307;'Cordial';666;50
+e;15339553;'en:encomiastic';1;0
+e;15375568;'en:sucking up';1;0
+e;14935424;'en:encouragement';1;0
+e;15151859;'en:ingratiation';1;0
+e;431045;'consolatrice';1;50
+e;15792191;'en:smooth talk';1;0
+e;14966611;'en:hot air';1;0
+e;13534128;'intervention orale';1;0
+e;15384066;'en:lies';1;0
+e;16312540;'faire sourire quelqu'un';1;0
+e;16312537;'faire sourire qn';1;0
+e;59013;'complimenteur';1;50
+e;118740;'transmettre';1;292
+e;15493062;'en:adulating';1;0
+e;15493061;'en:fawning on';1;0
+e;14930769;'en:fawning';1;0
+e;15493060;'en:fawning upon';1;0
+e;14917118;'en:nonsense';1;0
+e;252428;'trop fort';1;8
+e;78823;'flatter';1;230
+e;7;'féliciteur';1;50
+e;1858808;'transmettre>12105';1;4;'transmettre>communication'
+e;14920479;'en:apologia';1;0
+e;15270746;'en:to crack';1;0
+e;15747530;'en:make somebody smile';1;0
+e;8732333;'en:comfort';1;0
+e;399737;'salades';1;54
+e;15138736;'en:nurturance';1;0
+e;15239582;'abouler le fric';1;0
+e;15074058;'en:solace';1;0
+e;15698359;'en:be unstinting in one's praise';1;0
+e;242339;'bien joué';1;54
+e;15053775;'en:fork out';1;0
+e;7101207;'en:stimulant';1;0
+e;15369221;'en:to be unstinting in one's praise';1;0
+e;15239583;'en:to fork out';1;0
+e;15380946;'en:to crawl to sb';1;0
+e;15565860;'en:crawl to sb';1;0
+e;15380941;'en:to suck up to sb';1;0
+e;15565859;'en:suck up to sb';1;0
+e;253435;'être attentionné';1;62
+e;64760;'flatteur';1;140
+e;153788;'chapeau bas';1;52
+e;264959;'être servile';1;64
+e;3313075;'Chapeau bas';777;0
+e;239037;'faire une fleur';1;14
+e;7877142;'donner le sourire';1;0
+e;14637092;'discours d'apparat';1;0
+e;207777;'se fendre de';1;50
+e;392117;'ne pas tarir d'éloges';1;50
+e;15380940;'en:to lick sb's boots';1;0
+e;15565858;'en:lick sb's boots';1;0
+e;15046802;'en:suck up';1;0
+e;15380939;'faire de la lèche à qn';1;0
+e;15662338;'faire de la lèche à quelqu'un';1;0
+e;1781519;'présenter des excuses';1;0
+e;15459077;'passer de la pommade à [qqn]';1;0
+e;15717832;'passer de la pommade à quelqu'un';1;0
+e;15717833;'passer de la pommade à';1;0
+e;15717829;'en:rub ointment on somebody';1;0
+e;15717831;'en:put ointment on somebody';1;0
+e;15069964;'en:soft-soap';1;0
+e;15640021;'en:suck up to somebody';1;0
+e;123300;'autocongratulation';1;52
+e;255951;'être flatté';1;50
+e;13310;'bonne cuisinière';1;52
+e;15441537;'passer la brosse a reluire';1;0
+e;15690821;'en:scratch somebody's back';1;0
+e;15640020;'en:butter somebody up';1;0
+e;15690823;'en:butter up to somebody';1;0
+e;15422006;'caresser [qqn] dans le sens du poil';1;0
+e;15690820;'en:rub somebody up the right way';1;0
+e;15690822;'brosser quelqu'un dans le sens du poil';1;0
+e;15422000;'brosser [qqn] dans le sens du poil';1;0
+e;314106;'caresser quelqu'un dans le sens du poil';1;50
+e;2464125;'complimentaillerie';1;0
+e;14949346;'en:admonition';1;0
+e;15042954;'en:admonishment';1;0
+e;14940964;'en:reprimand';1;0
+e;2123015;'admonétation';1;0
+e;15341152;'en:piece of sarcasm';1;0
+e;141224;'calomnie';1;76
+e;15384078;'en:to speak very quietly';1;0
+e;248558;'::>14:61490>29:14850>16';9;50;'Avec quoi pourrait-on attirer une femme ?'
+e;15218063;'en:to blow hot and cold';1;0
+e;15218055;'en:blow hot and cold';1;0
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;3;'r_domain';'domaine';Il est demandé de fournir des domaines relatifs au mot cible. Par exemple, pour 'corner', on pourra donner les domaines 'football' ou 'sport'.
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;5;'r_syn';'synonyme';Il est demandé d'énumérer les synonymes ou quasi-synonymes de ce terme.
+rt;6;'r_isa';'générique';Il est demandé d'énumérer les GENERIQUES/hyperonymes du terme. Par exemple, 'animal' et 'mammifère' sont des génériques de 'chat'.
+rt;7;'r_anto';'contraire';Il est demandé d'énumérer des contraires du terme. Par exemple, 'chaud' est le contraire de 'froid'.
+rt;8;'r_hypo';'spécifique';Il est demandé d'énumérer des SPECIFIQUES/hyponymes du terme. Par exemple, 'mouche', 'abeille', 'guêpe' pour 'insecte'.
+rt;11;'r_locution';'locution';A partir d'un terme, il est demandé d'énumérer les locutions, expression ou mots composés en rapport avec ce terme. Par exemple, pour 'moulin', ou pourra avoir 'moulin à vent', 'moulin à eau', 'moulin à café'. Pour 'vendre', on pourra avoir 'vendre la peau de l'ours avant de l'avoir tué', 'vendre à perte', etc..
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;14;'r_patient';'action>patient';Le patient (qu'on appelle aussi l'objet) est l'entité qui subit l'action. Par exemple dans - Le chat mange la souris -, le patient est la souris. Des patients typiques de manger peuvent être 'viande', 'légume', 'pain', ... (manger r_patient pain)
+rt;16;'r_instr';'action>instrument';L'instrument est l'objet avec lequel on fait l'action. Dans - Il mange sa salade avec une fourchette -, fourchette est l'instrument. Des instruments typiques de 'tuer' peuvent être 'arme', 'pistolet', 'poison', ... (couper r_instr couteau)
+rt;17;'r_carac';'caractéristique';Pour un terme donné, souvent un objet, il est demandé d'en énumérer les CARACtéristiques (adjectifs) possibles/typiques. Par exemple, 'liquide', 'froide', 'chaude', pour 'eau'.
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;23;'r_carac-1';'caractéristique-1';Quels sont les objets (des noms) possédant typiquement/possiblement la caractérisque suivante ? Par exemple, 'soleil', 'feu', pour 'chaud'.
+rt;25;'r_instr-1';'instrument>action';L'instrument est l'objet avec lequel on fait l'action. Dans - Il mange sa salade avec une fourchette -, fourchette est l'instrument. On demande ici, ce qu'on peut faire avec un instrument donné... (scie r_instr-1 scier)
+rt;26;'r_patient-1';'patient-1';(inverse de r_patient) Que peut-on faire à cet OBJET. Pour 'pomme', on pourrait avoir 'manger', 'croquer', couper', 'éplucher',  etc. (pomme r_patient-1 manger)
+rt;32;'r_sentiment';'sentiment';Pour un terme donné, évoquer des mots liés à des SENTIMENTS ou des EMOTIONS que vous pourriez associer à ce terme. Par exemple, la joie, le plaisir, le dégoût, la peur, la haine, l'amour, l'indifférence, l'envie, avoir peur, horrible, etc.
+rt;34;'r_manner';'manière';De quelles MANIERES peut être effectuée l'action (le verbe) proposée. Il s'agira d'un adverbe ou d'un équivalent comme une locution adverbiale, par exemple : 'rapidement', 'sur le pouce', 'goulûment', 'salement' ... pour 'manger'.
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;41;'r_conseq';'conséquence';B (que vous devez donner) est une CONSEQUENCE possible de A. A et B sont des verbes ou des noms.  Exemples : tomber -> se blesser ; faim -> voler ; allumer -> incendie ; négligence --> accident ; etc.
+rt;42;'r_causatif';'cause';B (que vous devez donner) est une CAUSE possible de A. A et B sont des verbes ou des noms.  Exemples : se blesser -> tomber ; vol -> pauvreté ; incendie -> négligence ; mort --> maladie ; etc.
+rt;59;'r_masc';'équivalent masc';L'équivalent masculin du terme : lionne --> lion.
+rt;60;'r_fem';'équivalent fem';L'équivalent féminin du terme : lion --> lionne.
+rt;62;'r_manner-1';'maniere-1';Quelles ACTIONS (verbes) peut-on effectuer de cette manière ? Par exemple, rapidement -> courir, manger, ...
+rt;72;'r_syn_strict';'r_syn_strict';Termes strictement substituables, pour des termes hors du domaine général, et pour la plupart des noms (exemple : endométriose intra-utérine --> adénomyose)
+rt;106;'r_color';'couleur';A comme couleur(s)... chat r_color noir
+rt;115;'r_sentiment-1';'sentiment-1';Pour un SENTIMENT ou EMOTION donné, il est demandé dénumérer les termes que vous pourriez associer. Par exemple, pour 'joie', on aurait 'cadeau', 'naissance', 'bonne nouvelle', etc.
+rt;200;'r_context';'r_context';Relation de contexte entre un terme et un noeud contexte.
+rt;333;'r_translation';'r_translation';Traduction vers une autre langue.
+rt;444;'r_link';'r_link';Lien vers une ressource externe (WordNet, RadLex, UMLS, Wikipedia, etc...)
+rt;555;'r_cooccurrence';'r_cooccurrence';co-occurences (non utilisée)
+rt;666;'r_aki';'r_aki';(TOTAKI) equivalent pour TOTAKI de l'association libre
+rt;999;'r_inhib';'r_inhib';relation d'inhibition, le terme inhibe les termes suivants... ce terme a tendance à exclure le terme associé.
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;2137445;58834;1611;0;60
+r;806233;58834;1749;0;22
+r;806238;58834;5128;0;27
+r;806232;58834;6015;0;26
+r;175670;58834;6668;0;134
+r;54863249;58834;7683;0;23
+r;1711332;58834;9547;0;111
+r;54863257;58834;14643;0;21
+r;27524451;58834;17099;0;15
+r;806242;58834;22445;0;23
+r;806250;58834;24277;0;24
+r;2028427;58834;24714;0;115
+r;12242009;58834;25727;0;27
+r;54863243;58834;29336;0;23
+r;54863244;58834;29737;0;21
+r;54863242;58834;30103;0;30
+r;187947;58834;30515;0;90
+r;806246;58834;31900;0;21
+r;806240;58834;33701;0;26
+r;1434654;58834;35352;0;32
+r;806247;58834;37772;0;21
+r;418022470;58834;38710;0;25
+r;806261;58834;43960;0;27
+r;54863241;58834;47237;0;30
+r;418022475;58834;47440;0;10
+r;806244;58834;48373;0;35
+r;806243;58834;49181;0;24
+r;806239;58834;49450;0;34
+r;12242007;58834;50631;0;21
+r;806259;58834;51795;0;30
+r;806228;58834;52091;0;30
+r;806251;58834;53095;0;22
+r;806252;58834;53875;0;26
+r;806236;58834;55150;0;22
+r;9091433;58834;57835;0;40
+r;806229;58834;58227;0;22
+r;175671;58834;61945;0;120
+r;806248;58834;63471;0;27
+r;1288277;58834;64290;0;30
+r;806245;58834;71569;0;21
+r;806241;58834;71940;0;27
+r;806227;58834;72174;0;24
+r;54863254;58834;73906;0;21
+r;54863247;58834;78345;0;26
+r;806231;58834;79817;0;27
+r;1288275;58834;83208;0;30
+r;806230;58834;83934;0;26
+r;806260;58834;84266;0;27
+r;1711333;58834;87504;0;53
+r;1288278;58834;87929;0;30
+r;806253;58834;92168;0;29
+r;418531081;58834;93195;0;10
+r;806249;58834;93217;0;21
+r;806254;58834;97447;0;23
+r;806235;58834;100456;0;103
+r;418531161;58834;101594;0;10
+r;806256;58834;103467;0;26
+r;806258;58834;105213;0;23
+r;54863253;58834;109382;0;28
+r;54863251;58834;115118;0;24
+r;806255;58834;116068;0;23
+r;806234;58834;122256;0;28
+r;1434653;58834;124771;0;27
+r;54863256;58834;125190;0;23
+r;806237;58834;127960;0;23
+r;12242010;58834;129176;0;24
+r;319288774;58834;139233;0;30
+r;54313440;58834;139513;0;26
+r;418022468;58834;140318;0;25
+r;1288276;58834;141165;0;30
+r;418022476;58834;144647;0;14
+r;806262;58834;145484;0;26
+r;806257;58834;146046;0;27
+r;24049888;58834;239128;0;1000000
+r;418531046;58834;398942;0;10
+r;332132926;58834;453217;0;28
+r;71491871;58834;2373231;0;27
+r;310208649;58834;4491651;0;30
+r;212938574;58834;7156552;0;24
+r;390968639;58834;14929421;0;24
+r;418531266;58834;15064825;0;10
+r;418531065;58834;15074599;0;10
+r;415765980;58834;15260102;0;25
+r;418531004;58834;15283241;0;10
+r;418531141;58834;15331772;0;10
+r;418022469;58834;38710;3;25
+r;390160033;58834;146882;4;-25
+r;5882;58834;146885;4;56
+r;1394723;58834;171870;4;60
+r;390160034;58834;212235;4;25
+r;54129918;58834;2586627;4;45
+r;54168515;58834;2586629;4;45
+r;696962;58834;1611;5;39
+r;54631177;58834;5128;5;53
+r;12317830;58834;6668;5;83
+r;54846868;58834;7683;5;60
+r;696966;58834;9547;5;83
+r;54706579;58834;14643;5;52
+r;696963;58834;25727;5;83
+r;54816298;58834;29336;5;51
+r;54829894;58834;29737;5;51
+r;54815978;58834;30103;5;51
+r;696964;58834;35352;5;81
+r;54808007;58834;47237;5;51
+r;696967;58834;50631;5;79
+r;54846862;58834;72174;5;57
+r;54627544;58834;73906;5;53
+r;54846866;58834;78345;5;59
+r;54846863;58834;84266;5;60
+r;416231044;58834;93195;5;25
+r;54846867;58834;97447;5;59
+r;12323769;58834;100456;5;81
+r;416230979;58834;101594;5;25
+r;54846870;58834;109382;5;58
+r;54846869;58834;115118;5;58
+r;54846864;58834;116068;5;57
+r;12314804;58834;122256;5;81
+r;696965;58834;124771;5;76
+r;54699320;58834;125190;5;52
+r;54846865;58834;127960;5;51
+r;696961;58834;129176;5;35
+r;53733746;58834;139513;5;67
+r;429263418;58834;196074;5;5
+r;416231114;58834;398942;5;25
+r;309751585;58834;453217;5;25
+r;68544270;58834;2373231;5;35
+r;309586151;58834;4491651;5;25
+r;418652655;58834;6806937;5;10
+r;212831529;58834;7156552;5;28
+r;390968640;58834;14929421;5;25
+r;391454283;58834;14938073;5;10
+r;418585927;58834;14940354;5;10
+r;418693580;58834;14945961;5;10
+r;418585804;58834;15041901;5;10
+r;416230865;58834;15064825;5;25
+r;416231065;58834;15074599;5;25
+r;416231171;58834;15283241;5;25
+r;418586069;58834;15309113;5;10
+r;418585909;58834;15309114;5;10
+r;418585883;58834;15309115;5;10
+r;418585822;58834;15309116;5;10
+r;416230950;58834;15331772;5;25
+r;85332581;58834;6514;7;32
+r;85332587;58834;20535;7;27
+r;85332588;58834;21640;7;30
+r;85332579;58834;30228;7;26
+r;85332590;58834;31176;7;27
+r;85332598;58834;36683;7;30
+r;85332584;58834;46091;7;27
+r;85332585;58834;54491;7;30
+r;85332594;58834;63932;7;26
+r;85332591;58834;92343;7;36
+r;85332578;58834;92456;7;29
+r;85332596;58834;95494;7;28
+r;85332582;58834;98472;7;26
+r;85332583;58834;105452;7;28
+r;85332580;58834;105481;7;30
+r;85332589;58834;122505;7;35
+r;85332595;58834;124091;7;28
+r;85332586;58834;134005;7;26
+r;85332597;58834;135472;7;29
+r;85332593;58834;140679;7;28
+r;85332592;58834;146193;7;27
+r;27492012;58834;17099;8;28
+r;243499682;58834;3309834;8;25
+r;8575629;58834;17099;11;165
+r;8595548;58834;75562;11;163
+r;14689494;58834;437324;11;58
+r;83312321;58834;3309834;11;59
+r;317560661;58834;12246534;11;50
+r;419766279;58834;15304815;11;25
+r;419578787;58834;15304819;11;25
+r;175669;58834;151553;12;46
+r;119949;58834;151564;12;12
+r;1797333;58834;151566;12;62
+r;87130;58834;152011;12;120
+r;87131;58834;152012;12;120
+r;2028426;58834;25526;17;35
+r;14804420;58834;104093;17;29
+r;60131732;58834;1776167;18;40
+r;90024377;58834;3575927;18;28
+r;90892582;58834;3576104;18;32
+r;390160030;58834;7332979;18;25
+r;390160039;58834;14916413;18;25
+r;290115;58834;58834;19;58
+r;376177931;58834;208356;25;25
+r;376177916;58834;208357;25;25
+r;418924830;58834;128591;26;30
+r;15065669;58834;210921;26;30
+r;404755382;58834;313655;26;30
+r;402032098;58834;14928225;26;30
+r;419119345;58834;15349148;26;30
+r;410056882;58834;15418817;26;30
+r;410056889;58834;15418818;26;30
+r;33444660;58834;14330;32;68
+r;33444659;58834;28453;32;69
+r;33444657;58834;37298;32;-5
+r;33444658;58834;57221;32;-5
+r;33147238;58834;91691;32;69
+r;78593928;58834;102345;32;26
+r;78527163;58834;146357;32;25
+r;738264;58834;191741;36;40
+r;390160040;58834;217817;36;25
+r;26486469;58834;223172;36;39
+r;2009011;58834;223173;36;410
+r;2032654;58834;241794;36;41
+r;2327403;58834;254876;36;84
+r;2327404;58834;254877;36;8
+r;26863140;58834;254878;36;8
+r;31502022;58834;273221;36;40
+r;427362238;58834;438949;36;25
+r;54846861;58834;2585996;36;57
+r;418022467;58834;15991432;36;25
+r;14658172;58834;61945;41;26
+r;14652966;58834;233958;41;35
+r;98401445;58834;52760;42;39
+r;71046349;58834;2862656;42;39
+r;105153196;58834;2152828;60;38
+r;376786208;58834;164733;62;25
+r;376786621;58834;327708;62;25
+r;390160031;58834;14929421;72;25
+r;8288348;58834;86711;106;1
+r;324891900;58834;12684658;200;1
+r;325343480;58834;12695270;200;4
+r;326296845;58834;12716365;200;2
+r;326819772;58834;12727265;200;1
+r;326863215;58834;12728149;200;1
+r;329427781;58834;12862122;200;1
+r;333960163;58834;12991581;200;1
+r;342827076;58834;13535416;200;2
+r;352028123;58834;13982243;200;4
+r;367686873;58834;14474427;200;2
+r;388246339;58834;14890725;200;4
+r;390160037;58834;14929421;333;42
+r;394514408;58834;15260102;333;27
+r;94246164;58834;3854228;444;1
+r;94258826;58834;3868488;444;1
+r;94346492;58834;3966822;444;1
+r;94435711;58834;4066260;444;1
+r;94523615;58834;4163496;444;1
+r;94536408;58834;4177674;444;1
+r;73984293;58834;2983124;555;1070
+r;1763863;58834;9547;666;1
+r;1763861;58834;13293;666;1
+r;1763859;58834;30515;666;1
+r;1763860;58834;72174;666;1
+r;1763862;58834;115118;666;1
+r;285358732;58834;1858805;999;5
+r;285358752;58834;1858806;999;5
+r;285358802;58834;1858809;999;5
+r;285358712;58834;3180870;999;5
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;419578788;15304819;58834;0;1
+r;419766280;15304815;58834;0;1
+r;423265611;5150;58834;0;1
+r;423620595;15251;58834;0;1
+r;423804606;24287;58834;0;1
+r;424866299;41775;58834;0;1
+r;427664872;97056;58834;0;1
+r;428476516;116201;58834;0;1
+r;428489540;231307;58834;0;3
+r;397985162;15339553;58834;0;5
+r;394858055;15375568;58834;0;10
+r;398939664;14935424;58834;0;10
+r;400317962;15151859;58834;0;10
+r;411935131;431045;58834;0;10
+r;412262738;15792191;58834;0;10
+r;412262821;14966611;58834;0;10
+r;414651720;13534128;58834;0;10
+r;432195497;15384066;58834;0;10
+r;432402920;16312540;58834;0;10
+r;432402953;16312537;58834;0;10
+r;418022483;59013;58834;0;14
+r;97440245;118740;58834;0;15
+r;403935490;15309113;58834;0;20
+r;403935756;14940354;58834;0;20
+r;403936039;15309114;58834;0;20
+r;403936309;15309115;58834;0;20
+r;403936580;15309116;58834;0;20
+r;403936846;15041901;58834;0;20
+r;404545555;6806937;58834;0;20
+r;429168739;15493062;58834;0;20
+r;429168828;15493061;58834;0;20
+r;429168920;14930769;58834;0;20
+r;429169008;15493060;58834;0;20
+r;432191468;14917118;58834;0;20
+r;963626;97447;58834;0;21
+r;1001325;105213;58834;0;21
+r;54706578;14643;58834;0;21
+r;309586150;4491651;58834;0;21
+r;390968641;14929421;58834;0;21
+r;749486;93217;58834;0;22
+r;752865;49450;58834;0;22
+r;849002;127960;58834;0;22
+r;1045444;9547;58834;0;22
+r;12215259;124771;58834;0;22
+r;54808006;47237;58834;0;22
+r;54829893;29737;58834;0;22
+r;54854717;78345;58834;0;22
+r;59511093;109382;58834;0;22
+r;878102;116068;58834;0;23
+r;880903;1749;58834;0;23
+r;994671;31900;58834;0;23
+r;999424;51795;58834;0;23
+r;1001317;146046;58834;0;23
+r;817960;53095;58834;0;24
+r;1002581;43960;58834;0;24
+r;423567431;30515;58834;0;25
+r;415765979;15260102;58834;0;25
+r;823189;84266;58834;0;26
+r;849011;58227;58834;0;26
+r;868960;53875;58834;0;26
+r;63290757;2373231;58834;0;26
+r;899437;48373;58834;0;27
+r;917972;145484;58834;0;27
+r;950456;52091;58834;0;27
+r;54627543;73906;58834;0;27
+r;309751584;453217;58834;0;27
+r;818451;103467;58834;0;28
+r;859303;22445;58834;0;28
+r;892155;92168;58834;0;28
+r;946675;55150;58834;0;28
+r;967331;71569;58834;0;28
+r;8828070;252428;58834;0;28
+r;12317829;6668;58834;0;28
+r;762469;83934;58834;0;29
+r;849636;5128;58834;0;29
+r;970997;63471;58834;0;29
+r;1011113;33701;58834;0;29
+r;4984250;78823;58834;0;29
+r;12213453;129176;58834;0;29
+r;12276776;35352;58834;0;29
+r;12305298;50631;58834;0;29
+r;21143458;64290;58834;0;29
+r;55050649;7683;58834;0;29
+r;82026700;7;58834;0;29
+r;761193;79817;58834;0;30
+r;789745;24277;58834;0;30
+r;829860;6015;58834;0;30
+r;920653;72174;58834;0;30
+r;12314803;122256;58834;0;30
+r;12323768;100456;58834;0;30
+r;21153454;83208;58834;0;30
+r;30057106;1858808;58834;0;30
+r;53733745;139513;58834;0;30
+r;54699319;125190;58834;0;30
+r;54816297;29336;58834;0;30
+r;397921532;14920479;58834;0;30
+r;404457141;15270746;58834;0;30
+r;404672651;15747530;58834;0;30
+r;405949022;8732333;58834;0;30
+r;408941243;399737;58834;0;30
+r;12265182;1611;58834;0;31
+r;1014326;49181;58834;0;35
+r;21138665;87929;58834;0;35
+r;21143799;141165;58834;0;35
+r;396611343;14945961;58834;0;35
+r;406910960;15138736;58834;0;35
+r;994767;37772;58834;0;39
+r;404820969;15239582;58834;0;40
+r;406911057;15074058;58834;0;40
+r;412769624;15698359;58834;0;40
+r;8850941;242339;58834;0;41
+r;399596034;15053775;58834;0;45
+r;1012746;71940;58834;0;47
+r;211870678;7101207;58834;0;48
+r;398013865;15369221;58834;0;50
+r;399596053;15239583;58834;0;50
+r;402978103;196074;58834;0;50
+r;411863303;398942;58834;0;50
+r;411863434;15283241;58834;0;50
+r;412874701;15380946;58834;0;50
+r;412874796;15565860;58834;0;50
+r;412874893;15380941;58834;0;50
+r;412874988;15565859;58834;0;50
+r;417741797;253435;58834;0;50
+r;2222045;64760;58834;0;51
+r;2295356;87504;58834;0;51
+r;12124395;153788;58834;0;51
+r;15742812;264959;58834;0;51
+r;84449856;3313075;58834;0;51
+r;217816697;239037;58834;0;51
+r;370570530;7877142;58834;0;51
+r;372238742;14637092;58834;0;51
+r;13093025;207777;58834;0;52
+r;99787454;392117;58834;0;52
+r;317560662;12246534;58834;0;53
+r;14689495;437324;58834;0;54
+r;391240489;14938073;58834;0;55
+r;412341835;15380940;58834;0;55
+r;412341930;15565858;58834;0;55
+r;263550;61945;58834;0;56
+r;83312322;3309834;58834;0;57
+r;59255481;115118;58834;0;60
+r;411344361;93195;58834;0;60
+r;411344452;101594;58834;0;60
+r;411454117;15046802;58834;0;60
+r;411486806;15380939;58834;0;60
+r;411486907;15662338;58834;0;60
+r;255052515;1781519;58834;0;61
+r;402995938;15331772;58834;0;65
+r;405936293;15459077;58834;0;70
+r;405936352;15717832;58834;0;70
+r;405936411;15717833;58834;0;70
+r;407233039;15717829;58834;0;70
+r;407233098;15717831;58834;0;70
+r;407233157;15069964;58834;0;70
+r;410725916;15640021;58834;0;70
+r;410751300;15074599;58834;0;70
+r;12412188;123300;58834;0;71
+r;14141339;255951;58834;0;71
+r;14178814;13310;58834;0;71
+r;54815977;30103;58834;0;73
+r;402860685;15064825;58834;0;75
+r;12276794;25727;58834;0;76
+r;211896315;7156552;58834;0;77
+r;410504553;15441537;58834;0;80
+r;405914911;15690821;58834;0;100
+r;405914970;15640020;58834;0;100
+r;405305159;15690823;58834;0;105
+r;403771868;15422006;58834;0;110
+r;405305217;15690820;58834;0;110
+r;405305506;15690822;58834;0;110
+r;405305601;15422000;58834;0;110
+r;14045505;314106;58834;0;111
+r;88768755;2464125;58834;0;115
+r;9379789;17099;58834;0;143
+r;9400375;75562;58834;0;144
+r;398939665;14935424;58834;5;10
+r;400317925;15151859;58834;5;10
+r;412262739;15792191;58834;5;10
+r;412262822;14966611;58834;5;10
+r;414651730;13534128;58834;5;10
+r;432195532;15384066;58834;5;10
+r;403935491;15309113;58834;5;20
+r;403935757;14940354;58834;5;20
+r;403936040;15309114;58834;5;20
+r;403936310;15309115;58834;5;20
+r;403936581;15309116;58834;5;20
+r;403936847;15041901;58834;5;20
+r;404545585;6806937;58834;5;20
+r;432191543;14917118;58834;5;20
+r;390968642;14929421;58834;5;25
+r;729634;129176;58834;5;26
+r;645164;35352;58834;5;28
+r;408941279;399737;58834;5;30
+r;309246091;453217;58834;5;33
+r;309530737;4491651;58834;5;33
+r;670429;1611;58834;5;35
+r;396611297;14945961;58834;5;35
+r;402978132;196074;58834;5;50
+r;411863304;398942;58834;5;50
+r;411863435;15283241;58834;5;50
+r;54863245;116068;58834;5;51
+r;54863246;127960;58834;5;51
+r;54863248;97447;58834;5;51
+r;53617424;139513;58834;5;52
+r;54795759;47237;58834;5;52
+r;54863250;7683;58834;5;52
+r;54723960;72174;58834;5;53
+r;54743946;109382;58834;5;53
+r;54773658;29737;58834;5;53
+r;54854010;78345;58834;5;53
+r;54644095;14643;58834;5;54
+r;54662592;125190;58834;5;55
+r;54787730;29336;58834;5;55
+r;54863252;115118;58834;5;55
+r;391240503;14938073;58834;5;55
+r;54615890;5128;58834;5;57
+r;54622326;73906;58834;5;58
+r;260646;6668;58834;5;59
+r;119948;100456;58834;5;60
+r;415001;122256;58834;5;60
+r;411344392;93195;58834;5;60
+r;411344453;101594;58834;5;60
+r;54724004;84266;58834;5;63
+r;63290853;2373231;58834;5;63
+r;410751334;15074599;58834;5;70
+r;402995971;15331772;58834;5;75
+r;54788033;30103;58834;5;76
+r;727499;124771;58834;5;78
+r;402860721;15064825;58834;5;80
+r;565278;50631;58834;5;81
+r;12242008;9547;58834;5;85
+r;645147;25727;58834;5;90
+r;211896316;7156552;58834;5;91
+r;83312323;3309834;58834;6;26
+r;27491197;17099;58834;6;40
+r;412034034;14949346;58834;7;10
+r;412034099;15042954;58834;7;10
+r;412034194;14940964;58834;7;10
+r;85329867;98472;58834;7;26
+r;85334962;46091;58834;7;26
+r;85348323;92343;58834;7;26
+r;85350706;105452;58834;7;26
+r;85361593;20535;58834;7;26
+r;85398881;140679;58834;7;26
+r;85339904;6514;58834;7;27
+r;85355666;122505;58834;7;27
+r;85363504;30228;58834;7;27
+r;85363659;31176;58834;7;27
+r;85398097;135472;58834;7;27
+r;85399629;146193;58834;7;27
+r;85343109;63932;58834;7;28
+r;85356154;124091;58834;7;28
+r;85352439;92456;58834;7;29
+r;85361764;21640;58834;7;29
+r;85364929;36683;58834;7;29
+r;85788304;2123015;58834;7;29
+r;85397740;134005;58834;7;30
+r;396576160;15341152;58834;7;30
+r;1722135;141224;58834;7;42
+r;1797332;95494;58834;7;60
+r;404917604;15384078;58834;14;10
+r;1935877;210921;58834;14;30
+r;399601430;14928225;58834;14;30
+r;404556710;313655;58834;14;30
+r;405205062;128591;58834;14;30
+r;405411380;15418817;58834;14;30
+r;405411405;15418818;58834;14;30
+r;418873856;15349148;58834;14;30
+r;8793186;248558;58834;16;-7
+r;9047222;208357;58834;16;27
+r;406718698;15218063;58834;16;40
+r;404632784;15218055;58834;16;55
+r;9047093;208356;58834;16;56
+r;290115;58834;58834;19;58
+r;290118;87504;58834;19;58
+r;2034296;104093;58834;23;27
+r;14788950;25526;58834;23;31
+r;12015541;164733;58834;34;91
+r;12142353;327708;58834;34;91
+r;98302967;52760;58834;41;35
+r;70496476;2862656;58834;41;43
+r;2430653;233958;58834;42;51
+r;1790322;61945;58834;42;80
+r;105153195;2152828;58834;59;31
+r;390160032;14929421;58834;72;25
+r;385292673;91691;58834;115;25
+r;385336922;28453;58834;115;25
+r;385336923;14330;58834;115;25
+r;28510807;102345;58834;115;30
+r;394514409;15260102;58834;333;27
+r;390160038;14929421;58834;333;42
