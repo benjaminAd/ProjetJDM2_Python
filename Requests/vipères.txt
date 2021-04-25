@@ -1,0 +1,320 @@
+<CODE>
+// DUMP pour le terme 'vipÃ¨res' (eid=318566)
+<def>
+<br />
+Les Viperinae ou vipères sont une sous-famille de serpents de la famille des Viperidae. Elle a été créée par Nicolaus Michael Oppel (1782-1820) en 1811.
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;10;'n_relation'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;200;'n_context'
+nt;444;'n_link'
+nt;777;'n_wikipedia'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;318566;'vipères';1;50
+e;35143;'biologie';1;1956
+e;47248;'sous-famille';1;50
+e;49210;'vipère';1;454
+e;60120;'Vipères';1;50
+e;239128;'_COM';36;50
+e;289584;'Viperinae';777;50
+e;2551976;'vipères de mer';1;0
+e;5872456;'viperidae';1;0
+e;6948780;'en:viperidae';1;0
+e;8644425;'en:viperinae';1;0
+e;146893;'Nom:Fem+PL';4;50
+e;171870;'Nom:';4;50
+e;2586628;'Gender:Fem';4;0
+e;2586630;'Number:Plur';4;0
+e;5684942;'vipères de la mort';777;0
+e;120261;'naja';1;86
+e;8373642;'en:naja';1;0
+e;58566;'Noeud de vipères';1;50
+e;204403;'nud de vipères';1;50
+e;357636;'herbe aux vipères';1;50
+e;366436;'noeud de vipères';1;50
+e;1960396;'poissons-vipères';777;0
+e;10871790;'La Rue des vipères';777;0
+e;12080136;'nid de vipères';1;0
+e;151553;'_FL:0';6;50
+e;401354;'européennes';1;50
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+e;626;'peur';1;5290
+e;49337;'crainte';1;1398
+e;191678;'_INFO-SEM-SET';36;18
+e;223172;'_POL-NEG';36;50
+e;223173;'_POL-POS';36;50
+e;241794;'_POL-NEUTRE';36;50
+e;254876;'_POL-POS_PC';36;50
+e;254877;'_POL-NEUTRE_PC';36;50
+e;254878;'_POL-NEG_PC';36;50
+e;276096;'_INFO-WIKI-YES';36;50
+e;1912917;'_INFO-COUNTABLE-YES';36;0
+e;2585997;'_INFO-CNRTL-NO';36;50
+e;5878132;':r114425583';10;0
+e;5878133;':r114425589';10;0
+e;14594067;':r212185035';10;0
+e;14595114;':r215777058';10;0
+e;12663350;'cc452b64bca57f2eeea849acad50179f';200;0
+e;13628296;'42a6f8a56bc0ce0b7c07fde6963f8d33';200;0
+e;13628352;'ccc8536740102538cb89d215e25b07bb';200;0
+e;14304647;'4e4a1a2df10702a903a7ed14ba1eddd8';200;0
+e;3228593;'wiki:@';444;0
+e;6217648;'umls:C0206300';444;0
+e;2983124;'_SW';36;50
+e;150;'chat';1;5342
+e;12549;'Francesco Redi';1;50
+e;21304;'Cerastes';1;50
+e;31071;'Vipera berus';1;50
+e;31103;'couleuvres';1;66
+e;41873;'Moyen-Orient';1;120
+e;42313;'Asie';1;1036
+e;48931;'Vipera aspis';1;50
+e;54218;'Bitis arietans';1;50
+e;64278;'Balkans';1;66
+e;77735;'Europe';1;916
+e;98300;'famille';1;4180
+e;104448;'serpents';1;92
+e;127940;'culte';1;336
+e;134657;'Lombards';1;52
+e;137391;'Afrique';1;1694
+e;138810;'Élapidés';1;50
+e;143278;'Maghreb';1;170
+e;143853;'Famille';1;52
+e;146001;'juin';1;2204
+e;155122;'pharmaciens';1;54
+e;167581;'Asie mineure';1;60
+e;175314;'Chat';1;50
+e;220462;'NCBI';1;56
+e;283271;'Viperidae';777;52
+e;303749;'Coronella';777;50
+e;303750;'coronelles';777;50
+e;303868;'Vipera ammodytes';777;50
+e;309205;'Natrix maura';777;50
+e;311123;'National Center for Biotechnology Information';777;52
+e;404986;'Serpent';1;50
+e;408285;'Vipera';1;50
+e;408303;'Couleuvre';1;50
+e;430809;'Bitis';1;50
+e;465042;'Culte';1;50
+e;2937025;'Synonyme';777;2
+e;2956008;'Synonymes';777;0
+e;3176771;'Sous-famille';1;0
+e;3183475;'Causus';777;0
+e;5894590;'Bitis gabonica';777;0
+e;5894592;'Montivipera xanthina';777;0
+e;5895047;'Nicolaus Michael Oppel';777;0
+e;5895334;'Atheris';1;0
+e;5895342;'Montivipera';1;0
+e;5997008;'Echis';1;0
+e;10074977;'Echis carinatus';777;0
+e;10074978;'Échide carénée';777;0
+e;10074979;'Echis pyramidum';777;0
+e;10082915;'Vipera ursinii';777;0
+e;10344849;'Pharmacien';1;0
+e;11334297;'Paleobiology Database';777;0
+e;11696775;'Daboia russelii';777;0
+e;11696777;'Daboia';777;0
+e;11696783;'Macrovipera lebetina';777;0
+e;11696784;'Daboia mauritanica';777;0
+e;11696985;'Macrovipera';1;0
+e;12902650;'Pseudocerastes urarachnoides';777;0
+e;12902682;'Pseudocerastes';1;0
+e;295925;'frêne élevé';777;50
+e;85303;'thériaque';1;50
+e;35658;'frêne commun';1;50
+e;1706001;'fraxinus excelsior';777;0
+e;2927927;'Frêne commun';777;0
+e;5684941;'Acanthophis';777;0
+e;10050408;'vivarium de Lausanne';777;0
+e;92493;'nyctalopie';1;52
+e;11771239;'Star City';777;0
+e;2390658;'Nervieux';1;0
+e;5877386;'Serpentes';1;0
+e;10514;'Squamates';1;52
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;3;'r_domain';'domaine';Il est demandé de fournir des domaines relatifs au mot cible. Par exemple, pour 'corner', on pourra donner les domaines 'football' ou 'sport'.
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;6;'r_isa';'générique';Il est demandé d'énumérer les GENERIQUES/hyperonymes du terme. Par exemple, 'animal' et 'mammifère' sont des génériques de 'chat'.
+rt;8;'r_hypo';'spécifique';Il est demandé d'énumérer des SPECIFIQUES/hyponymes du terme. Par exemple, 'mouche', 'abeille', 'guêpe' pour 'insecte'.
+rt;9;'r_has_part';'partie';Il faut donner des PARTIES/constituants/éléments (a pour méronymes) du mot cible. Par exemple, 'voiture' a comme parties : 'porte', 'roue', 'moteur', ...
+rt;10;'r_holo';'tout';Il est démandé d'énumérer des 'TOUT' (a pour holonymes)  de l'objet en question. Pour 'main', on aura 'bras', 'corps', 'personne', etc... Le tout est aussi l'ensemble comme 'classe' pour 'élève'.
+rt;11;'r_locution';'locution';A partir d'un terme, il est demandé d'énumérer les locutions, expression ou mots composés en rapport avec ce terme. Par exemple, pour 'moulin', ou pourra avoir 'moulin à vent', 'moulin à eau', 'moulin à café'. Pour 'vendre', on pourra avoir 'vendre la peau de l'ours avant de l'avoir tué', 'vendre à perte', etc..
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;17;'r_carac';'caractéristique';Pour un terme donné, souvent un objet, il est demandé d'en énumérer les CARACtéristiques (adjectifs) possibles/typiques. Par exemple, 'liquide', 'froide', 'chaude', pour 'eau'.
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;22;'r_family';'famille';Des mots de la même famille lexicale sont demandés (dérivation morphologique, par exemple). Par exemple, pour 'lait' on pourrait mettre 'laitier', 'laitage', 'laiterie', etc.
+rt;23;'r_carac-1';'caractéristique-1';Quels sont les objets (des noms) possédant typiquement/possiblement la caractérisque suivante ? Par exemple, 'soleil', 'feu', pour 'chaud'.
+rt;27;'r_domain-1';'domaine-1';inverse de r_domain : à un domaine, on associe des termes
+rt;32;'r_sentiment';'sentiment';Pour un terme donné, évoquer des mots liés à des SENTIMENTS ou des EMOTIONS que vous pourriez associer à ce terme. Par exemple, la joie, le plaisir, le dégoût, la peur, la haine, l'amour, l'indifférence, l'envie, avoir peur, horrible, etc.
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;128;'r_node2relnode';'r_node2relnode';Relation entre un noeud (quelconque) et un noeud de relation (type = 10) - permet de rendre le graphe connexe même avec les annotations de relations
+rt;200;'r_context';'r_context';Relation de contexte entre un terme et un noeud contexte.
+rt;444;'r_link';'r_link';Lien vers une ressource externe (WordNet, RadLex, UMLS, Wikipedia, etc...)
+rt;555;'r_cooccurrence';'r_cooccurrence';co-occurences (non utilisée)
+rt;777;'r_wiki';'r_wiki';Associations issues de wikipedia...
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;121695637;318566;35143;0;34
+r;373980045;318566;47248;0;26
+r;11780738;318566;49210;0;29
+r;14461845;318566;60120;0;29
+r;352235597;318566;239128;0;1000000
+r;120592707;318566;289584;0;32
+r;53081955;318566;2551976;0;10
+r;120592704;318566;5872456;0;27
+r;211825685;318566;6948780;0;32
+r;211825683;318566;8644425;0;26
+r;121121559;318566;35143;3;32
+r;12112916;318566;146893;4;54
+r;11780739;318566;171870;4;63
+r;53989074;318566;2586628;4;45
+r;54005164;318566;2586630;4;45
+r;52684039;318566;2551976;8;27
+r;248480158;318566;5684942;8;25
+r;114425589;318566;120261;9;35
+r;215777058;318566;8373642;9;32
+r;9003347;318566;58566;11;143
+r;9003359;318566;204403;11;147
+r;12672345;318566;357636;11;109
+r;12636465;318566;366436;11;107
+r;31574647;318566;1960396;11;59
+r;52451800;318566;2551976;11;60
+r;112201323;318566;5684942;11;29
+r;272707325;318566;10871790;11;30
+r;315114378;318566;12080136;11;36
+r;74806167;318566;151553;12;43
+r;373980068;318566;401354;17;26
+r;89860458;318566;3575927;18;35
+r;90776036;318566;3576104;18;30
+r;12112915;318566;49210;19;57
+r;432844078;318566;626;32;1
+r;432844077;318566;49337;32;1
+r;114425588;318566;191678;36;32
+r;16413434;318566;223172;36;158
+r;26321003;318566;223173;36;95
+r;26522044;318566;241794;36;82
+r;27050734;318566;254876;36;28
+r;27050735;318566;254877;36;24
+r;27050736;318566;254878;36;47
+r;418729886;318566;276096;36;25
+r;30785306;318566;1912917;36;40
+r;432844076;318566;2585997;36;50
+r;114425587;318566;5878132;128;103
+r;114425592;318566;5878133;128;315
+r;370779164;318566;14594067;128;8
+r;370874221;318566;14595114;128;35
+r;324064546;318566;12663350;200;3
+r;345423209;318566;13628296;200;2
+r;345426245;318566;13628352;200;2
+r;364194423;318566;14304647;200;2
+r;352512454;318566;3228593;444;25
+r;119457320;318566;6217648;444;41
+r;74146501;318566;2983124;555;754
+r;352235643;318566;150;777;10
+r;352235650;318566;12549;777;10
+r;352235614;318566;21304;777;10
+r;352235652;318566;31071;777;10
+r;352235635;318566;31103;777;10
+r;418729880;318566;41873;777;10
+r;352235609;318566;42313;777;10
+r;352235601;318566;47248;777;10
+r;352235651;318566;48931;777;10
+r;352235658;318566;54218;777;10
+r;352235645;318566;64278;777;10
+r;352235610;318566;77735;777;10
+r;352235605;318566;98300;777;10
+r;352235603;318566;104448;777;10
+r;352235664;318566;127940;777;10
+r;352235665;318566;134657;777;10
+r;352235608;318566;137391;777;10
+r;352235647;318566;138810;777;10
+r;418729878;318566;143278;777;10
+r;352235604;318566;143853;777;10
+r;418729884;318566;146001;777;10
+r;352235649;318566;155122;777;10
+r;352235666;318566;167581;777;10
+r;352235642;318566;175314;777;10
+r;352235668;318566;220462;777;10
+r;352235606;318566;283271;777;10
+r;352235638;318566;303749;777;10
+r;352235639;318566;303750;777;10
+r;352235654;318566;303868;777;10
+r;352235633;318566;309205;777;10
+r;352235667;318566;311123;777;10
+r;352235602;318566;404986;777;10
+r;352235621;318566;408285;777;10
+r;352235634;318566;408303;777;10
+r;352235612;318566;430809;777;10
+r;352235663;318566;465042;777;10
+r;352235599;318566;2937025;777;10
+r;352235600;318566;2956008;777;10
+r;352235598;318566;3176771;777;10
+r;352235613;318566;3183475;777;10
+r;352235622;318566;5894590;777;10
+r;352235631;318566;5894592;777;10
+r;352235607;318566;5895047;777;10
+r;352235611;318566;5895334;777;10
+r;352235618;318566;5895342;777;10
+r;352235616;318566;5997008;777;10
+r;352235626;318566;10074977;777;10
+r;352235660;318566;10074978;777;10
+r;352235656;318566;10074979;777;10
+r;352235653;318566;10082915;777;10
+r;352235648;318566;10344849;777;10
+r;352235669;318566;11334297;777;10
+r;352235624;318566;11696775;777;10
+r;352235615;318566;11696777;777;10
+r;352235629;318566;11696783;777;10
+r;418729882;318566;11696784;777;10
+r;352235617;318566;11696985;777;10
+r;352235662;318566;12902650;777;10
+r;352235620;318566;12902682;777;10
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;112201324;5684942;318566;0;3
+r;272707326;10871790;318566;0;6
+r;315114379;12080136;318566;0;12
+r;370034843;8373642;318566;0;13
+r;433163523;35143;318566;0;20
+r;120592703;5872456;318566;0;27
+r;210586856;6948780;318566;0;27
+r;14461846;60120;318566;0;28
+r;31574648;1960396;318566;0;52
+r;52451801;2551976;318566;0;60
+r;12672346;357636;318566;0;103
+r;9394426;58566;318566;0;143
+r;12636466;366436;318566;0;143
+r;9488543;204403;318566;0;147
+r;211825682;8644425;318566;0;150
+r;120592708;289584;318566;0;153
+r;112201325;5684942;318566;6;28
+r;52451802;2551976;318566;6;36
+r;114425583;120261;318566;10;65
+r;212185035;8373642;318566;10;69
+r;9003281;49210;318566;22;58
+r;376076186;401354;318566;23;25
+r;384143930;35143;318566;27;25
+r;364194435;14304647;318566;200;1
+r;345423219;13628296;318566;200;2
+r;345426254;13628352;318566;200;2
+r;16244696;295925;318566;777;10
+r;17372519;408303;318566;777;10
+r;17807449;85303;318566;777;10
+r;19335047;35658;318566;777;10
+r;28170302;1706001;318566;777;10
+r;71784545;2927927;318566;777;10
+r;111636003;5684941;318566;777;10
+r;111636008;5684942;318566;777;10
+r;227379329;10050408;318566;777;10
+r;287750499;92493;318566;777;10
+r;302013302;11771239;318566;777;10
+r;314251597;2390658;318566;777;10
+r;325236413;5877386;318566;777;10
+r;325236414;10514;318566;777;10
+r;325236415;104448;318566;777;10

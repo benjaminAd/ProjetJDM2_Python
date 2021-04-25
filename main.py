@@ -171,6 +171,14 @@ class JDM:
                             self.relations.append(Relation(BaseTerm, relation, termImp))
                 file.close()
 
+    '''
+        Méthode qui va séparer en 3 catégories les données reçues :
+            - Listes de termes
+            - Listes de relations sortantes
+            - Listes de type de relations
+        puis on va faire appel à l'algorithme de nettoyage de données
+        :param Données reçues du rézo dump
+    '''
     def separateData(self, Data):
         if Data == None:
             print("Vous avez créé un néologisme!")
@@ -189,6 +197,12 @@ class JDM:
                         TypeRelation(lineSeparator[1], lineSeparator[2], lineSeparator[3], lineSeparator[4]))
             self.nettoyage()
 
+
+    '''
+    Vérifie si les données reçues sont des néologies et si ça ne l'est pas la méthode va faire appel à la méthode SeparateData
+    :param Data --> Données extraites du rézo dump
+    :return boolean
+    '''
     def checkIfNeology(self, Data):
         if Data == None:
             return False
@@ -196,6 +210,12 @@ class JDM:
             self.separateData(Data)
             return True
 
+    '''
+    Vérifie qu'un fichier mot.txt existe:
+        S'il existe on va récupérer les lignes de ce fichier
+        Sinon fais une requête au rézo dump afin de récupérer les informations concernant un mot puis sauvegarde ces infos dans un fichier.txt
+        :return chaîne de caractère contenant l'ensemble des informations renvoyées par la requête
+    '''
     def requestToJDM(self):
         code = ""
         flag = False
