@@ -102,6 +102,7 @@ class JDM:
     nous allons nettoyé les données puis vérifier la sémantique à l'aide de la méthode checkSemantique
     Si le fichier n'existe pas nous allons vérifier que le mot dérivé n'est pas un néologisme puis vérifier la sémantique 
     du mot
+    :return boolean 
     '''
     def checkIfWordExist(self, mot, typeMot):
         jdm2 = JDM(mot)
