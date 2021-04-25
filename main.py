@@ -95,6 +95,14 @@ class JDM:
         self.AfficherAdv = []
         self.AfficherVer = []
 
+    '''
+    Méthode qui va vérifier si un mot dérivé existe
+    en utilisant une nouvelle instance de la classe JDM 
+    cette méthode va vérifier s'il existe un fichier nettoyé correspondant au mot dérivé si c'est le 
+    nous allons nettoyé les données puis vérifier la sémantique à l'aide de la méthode checkSemantique
+    Si le fichier n'existe pas nous allons vérifier que le mot dérivé n'est pas un néologisme puis vérifier la sémantique 
+    du mot
+    '''
     def checkIfWordExist(self, mot, typeMot):
         jdm2 = JDM(mot)
         if os.path.isfile(jdm2.nettoyerPath):
@@ -106,6 +114,11 @@ class JDM:
             else:
                 return False
 
+
+    '''
+    Méthode qui va vérifier qu'un mot dérivé correspond bien à la sémantique donnée dans la règle
+    :return boolean
+    '''
     def checkSemantique(self, typeMot):
         for relation in self.relations:
             if relation.mot2.name.split("'")[1] == typeMot:
