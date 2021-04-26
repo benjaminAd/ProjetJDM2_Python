@@ -1,0 +1,540 @@
+<CODE>
+// DUMP pour le terme 'longane' (eid=15206)
+<def>
+<br />
+1. Fruit du longanier (Dimocarpus longan) ressemblant au litchi. La peau extérieure, fine et dure, se pèle facilement, la pulpe translucide très sucrée entoure un gros noyau noir, dur et brillant.<br /> 
+ Le longane se consomme frais, en jus, en conserve, sec, les Asiatiques le préfèrent au litchi à cause de ses vertus médicinales.  <br />
+2. (Botanique) Fruit du longanier (Dimocarpus longan) ressemblant au litchi. La peau extérieure, fine et dure, se pèle facilement, la pulpe translucide très sucrée entoure un gros noyau noir, dur et brillant.<br /> 
+ La résistance du longane aux coups de vent est bien meilleure que celle du letchi.    
+ (Annuaire des pays de l'océan indien, Volume 9, 1983)  <br /> 
+ Le longane se consomme frais, en jus, en conserve, sec, les Asiatiques le préfèrent au litchi à cause de ses vertus médicinales.  <br />
+3. Le longane, ou longani, est le fruit comestible du longanier, nom vernaculaire du Dimocarpus longan. Son nom vient du cantonais lung4 ngaan5(chinois simplifié : ?? ;&#32;chinois traditionnel : ?? ;&#32;pinyin : lóngy?n), et du vietnamien long nhãn, qui signifient oeil de dragon. Il pousse sur un petit arbre tropical et subtropical de la famille des Sapindaceae, à feuilles persistantes, d'environ vingt mètres de hauteur, originaire du Sud-Est de la Chine et d'Asie du Sud-Est où il pousse naturellement.<br />
+4. Le longane, ou longani, ou oeil du dragon est un fruit tropical comestible. Son nom vient du cantonais lung4 ngaan5(chinois simplifié : ?? ;&#32;chinois traditionnel : ?? ;&#32;pinyin : lóngy?n), et du vietnamien long nhãn, qui signifient oeil de dragon. Il pousse sur le longanier (Dimocarpus longan) un petit arbre tropical et subtropical de la famille des Sapindaceae. Cet arbre à feuilles persistantes, d'environ vingt mètres de hauteur, est originaire du Sud-Est de la Chine et d'Asie du Sud-Est où on le trouve à l'état naturel.
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;10;'n_relation'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;444;'n_link'
+nt;666;'n_AKI'
+nt;777;'n_wikipedia'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;15206;'longane';1;56
+e;3674;'botanique';1;2220
+e;5834;'sucré';1;1518
+e;16315;'médicinal';1;360
+e;19569;'Sri Lanka';1;90
+e;19790;'translucide';1;156
+e;20981;'UICN';1;74
+e;22311;'litchi';1;68
+e;24372;'riz';1;1294
+e;28044;'cause';1;334
+e;30604;'préférer';1;160
+e;33998;'Asie du Sud-Est';1;116
+e;36411;'extérieure';1;60
+e;38277;'facilement';1;288
+e;38557;'dessert';1;3152
+e;42313;'Asie';1;1036
+e;48918;'entourer';1;178
+e;52340;'Yunnan';1;54
+e;53310;'jus';1;616
+e;53495;'frais';1;730
+e;56302;'Madagascar';1;110
+e;61835;'chair';1;416
+e;63619;'sec';1;636
+e;64238;'noir';1;3847
+e;72731;'dur';1;1206
+e;80176;'Maurice';1;118
+e;82285;'vertu';1;170
+e;83895;'dure';1;226
+e;84093;'Floride';1;66
+e;85081;'pulpe';1;272
+e;87286;'fruit';1;6137
+e;87557;'flore';1;290
+e;88096;'gros';1;1734
+e;89760;'fruits';1;664
+e;94998;'île Maurice';1;60
+e;95363;'se consommer';1;50
+e;106608;'extérieur';1;338
+e;108657;'longanier';1;50
+e;109785;'peau';1;3426
+e;123943;'brillant';1;518
+e;126405;'noyau';1;1206
+e;136076;'plantes';1;240
+e;136722;'ressemblant';1;94
+e;137136;'Poivre';1;52
+e;138879;'Inde';1;596
+e;139597;'poivre';1;704
+e;143267;'Californie';1;250
+e;143640;'vertus';1;54
+e;145251;'Flore';1;50
+e;145757;'fine';1;336
+e;152228;'Botanique';1;90
+e;155964;'sucrée';1;170
+e;160650;'Asiatiques';1;50
+e;168468;'quenette';1;50
+e;168469;'ramboutan';1;50
+e;189988;'fruit tropical';1;24
+e;224314;'litchi>87286';1;54;'litchi>fruit'
+e;225762;'fruit>3674';1;508;'fruit>botanique'
+e;238520;'peau>87286';1;92;'peau>fruit'
+e;238527;'chair>85081';1;56;'chair>pulpe'
+e;239128;'_COM';36;50
+e;239479;'asiatiques';1;58
+e;245450;'produit végétal';1;24
+e;248080;'se peler';1;138
+e;258996;'en conserve';1;20
+e;267356;')';1;82
+e;274762;'Union internationale pour la conservation de la nature';777;54
+e;280761;'Dimocarpus longan';777;50
+e;294003;'longani';777;50
+e;412229;'Litchi';1;50
+e;414923;'Dimocarpus';1;50
+e;430242;'Riz';1;50
+e;1773858;'consomme';1;0
+e;2382355;'Île Maurice';1;0
+e;3291029;'fruit comestible';1;0
+e;3303689;'Fruit';777;0
+e;7351512;'en:plant product';1;0
+e;14753493;'vertus médicinales';1;0
+e;14946815;'en:longan';1;0
+e;146885;'Nom:Mas+SG';4;50
+e;171870;'Nom:';4;50
+e;2586627;'Gender:Mas';4;0
+e;2586629;'Number:Sing';4;0
+e;5852836;'Sapindaceae';1;0
+e;151553;'_FL:0';6;50
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+e;14916413;'Langue:français';18;50
+e;14330;'satisfaction';1;614
+e;28453;'bonheur';1;2180
+e;37298;'amour';1;7056
+e;57221;'joie';1;3888
+e;91691;'surprise';1;1186
+e;223173;'_POL-POS';36;50
+e;241794;'_POL-NEUTRE';36;50
+e;251716;'_INFO-MONOSEMIC';36;50
+e;254876;'_POL-POS_PC';36;50
+e;254877;'_POL-NEUTRE_PC';36;50
+e;276096;'_INFO-WIKI-YES';36;50
+e;2585997;'_INFO-CNRTL-NO';36;50
+e;15991432;'_ANIME-NO';36;50
+e;86711;'jaune';1;2672
+e;214366;'jaune pâle';1;2
+e;1236291;':r2950521';10;0
+e;1236292;':r14696195';10;0
+e;1236293;':r14696488';10;0
+e;1236294;':r1784052';10;0
+e;4399728;':r97333307';10;0
+e;4498474;':r96724227';10;0
+e;5852866;':r114089446';10;0
+e;5856925;':r114166817';10;0
+e;3228593;'wiki:@';444;0
+e;3921569;'dbnary:fra:__ws_1_longane__nom__1';444;0
+e;2983124;'_SW';36;50
+e;74446;'exotique';1;152
+e;140362;'chine';1;96
+e;143291;'Chine';1;1254
+e;4949;'apiculture';1;94
+e;12094;'Guangdong';1;52
+e;30089;'Guangxi';1;52
+e;80390;'pinyin';1;50
+e;88854;'XVIIe';1;72
+e;104490;'ping-pong';1;114
+e;124365;'Hainan';1;50
+e;133568;'cantonais';1;98
+e;141059;'Ordre';1;52
+e;143853;'Famille';1;52
+e;220462;'NCBI';1;56
+e;272716;'Genre';777;50
+e;274530;'chinois traditionnel';777;50
+e;283597;'Magnoliopsida';777;62
+e;284079;'Magnoliophyta';777;52
+e;285064;'Tela Botanica';1;52
+e;285692;'Catalogue of Life';1;50
+e;294221;'Tracheobionta';777;52
+e;311123;'National Center for Biotechnology Information';777;52
+e;399546;'panicules';1;50
+e;405643;'Division';1;50
+e;413245;'Classe';1;50
+e;2937025;'Synonyme';777;2
+e;2956008;'Synonymes';777;0
+e;5622556;'tong sui';777;0
+e;5878795;'Sapindales';1;4
+e;6260452;'Quenette';1;0
+e;9076303;'Ping-pong';1;0
+e;9657195;'Statut de conservation';777;2
+e;12277253;'Apiculture';1;0
+e;224315;'litchi>52255';1;50;'litchi>arbre'
+e;225763;'fruit>77411';1;50;'fruit>profit'
+e;225764;'fruit>41002';1;8;'fruit>résultat'
+e;225765;'fruit>124094';1;50;'fruit>enfant'
+e;238525;'chair>154717';1;10;'chair>tissu musculaire'
+e;238526;'chair>140100';1;8;'chair>viande'
+e;238528;'chair>37054';1;50;'chair>carnation'
+e;238529;'chair>69300';1;50;'chair>instinct'
+e;253152;'fruit>98040';1;50;'fruit>architecture'
+e;269605;'chair>40056';1;52;'chair>couleur'
+e;674295;'peau>146885';1;0;'peau>Nom:Mas+SG'
+e;6905031;'en:botanical';1;0
+e;15139984;'en:botanic';1;0
+e;2218921;'longanes';2;0
+e;230902;'niangao';1;2
+e;238233;'sapindacée';1;50
+e;15198976;'en:tropical fruit';1;0
+e;102345;'plaisir';1;3530
+e;273800;'quasi menacé';777;50
+e;109493;'letchi';1;50
+e;290110;'Litchi chinensis';777;50
+e;290804;'Nouvel an du calendrier chinois';777;50
+e;230900;'nouvel an lunaire';1;4
+e;290805;'fête du printemps';777;50
+e;230899;'nouvel an chinois';1;6
+e;40148;'cuisine chinoise';1;356
+e;296325;'huit grandes cuisines régionales';777;50
+e;221919;'quenettier';1;50
+e;212908;'cuisine stir-fry';666;50
+e;263072;'nian gao';1;50
+e;425142;'cantonnais';1;82
+e;63289;'lychee';1;62
+e;2421020;'pied de letchi';1;0
+e;2464467;'yue';1;0
+e;3294594;'Letchi de Chine';777;0
+e;3304579;'Nouvel an chinois';777;2
+e;73205;'mandarin';1;120
+e;5827344;'cuisine de Guangxi';777;0
+e;5831584;'Litchi de Chine';777;0
+e;3294642;'Letchi';1;0
+e;5832007;'Melicoccus bijugatus';777;0
+e;9740410;'Nouvel An chinois';777;2
+e;9740411;'Nouvel An du calendrier chinois';777;0
+e;9740412;'Nouvel An lunaire';777;0
+e;5896813;'cuisine balinaise';777;0
+e;59402;'chinois';1;904
+e;17109;'pékinois';1;82
+e;14548504;'prononciation du mandarin';777;0
+e;291635;'ne sont pas unanimement reconnues';777;50
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;3;'r_domain';'domaine';Il est demandé de fournir des domaines relatifs au mot cible. Par exemple, pour 'corner', on pourra donner les domaines 'football' ou 'sport'.
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;6;'r_isa';'générique';Il est demandé d'énumérer les GENERIQUES/hyperonymes du terme. Par exemple, 'animal' et 'mammifère' sont des génériques de 'chat'.
+rt;8;'r_hypo';'spécifique';Il est demandé d'énumérer des SPECIFIQUES/hyponymes du terme. Par exemple, 'mouche', 'abeille', 'guêpe' pour 'insecte'.
+rt;9;'r_has_part';'partie';Il faut donner des PARTIES/constituants/éléments (a pour méronymes) du mot cible. Par exemple, 'voiture' a comme parties : 'porte', 'roue', 'moteur', ...
+rt;10;'r_holo';'tout';Il est démandé d'énumérer des 'TOUT' (a pour holonymes)  de l'objet en question. Pour 'main', on aura 'bras', 'corps', 'personne', etc... Le tout est aussi l'ensemble comme 'classe' pour 'élève'.
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;17;'r_carac';'caractéristique';Pour un terme donné, souvent un objet, il est demandé d'en énumérer les CARACtéristiques (adjectifs) possibles/typiques. Par exemple, 'liquide', 'froide', 'chaude', pour 'eau'.
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;23;'r_carac-1';'caractéristique-1';Quels sont les objets (des noms) possédant typiquement/possiblement la caractérisque suivante ? Par exemple, 'soleil', 'feu', pour 'chaud'.
+rt;27;'r_domain-1';'domaine-1';inverse de r_domain : à un domaine, on associe des termes
+rt;32;'r_sentiment';'sentiment';Pour un terme donné, évoquer des mots liés à des SENTIMENTS ou des EMOTIONS que vous pourriez associer à ce terme. Par exemple, la joie, le plaisir, le dégoût, la peur, la haine, l'amour, l'indifférence, l'envie, avoir peur, horrible, etc.
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;106;'r_color';'couleur';A comme couleur(s)... chat r_color noir
+rt;115;'r_sentiment-1';'sentiment-1';Pour un SENTIMENT ou EMOTION donné, il est demandé dénumérer les termes que vous pourriez associer. Par exemple, pour 'joie', on aurait 'cadeau', 'naissance', 'bonne nouvelle', etc.
+rt;128;'r_node2relnode';'r_node2relnode';Relation entre un noeud (quelconque) et un noeud de relation (type = 10) - permet de rendre le graphe connexe même avec les annotations de relations
+rt;333;'r_translation';'r_translation';Traduction vers une autre langue.
+rt;444;'r_link';'r_link';Lien vers une ressource externe (WordNet, RadLex, UMLS, Wikipedia, etc...)
+rt;555;'r_cooccurrence';'r_cooccurrence';co-occurences (non utilisée)
+rt;666;'r_aki';'r_aki';(TOTAKI) equivalent pour TOTAKI de l'association libre
+rt;777;'r_wiki';'r_wiki';Associations issues de wikipedia...
+rt;999;'r_inhib';'r_inhib';relation d'inhibition, le terme inhibe les termes suivants... ce terme a tendance à exclure le terme associé.
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;15345203;15206;3674;0;35
+r;423614731;15206;5834;0;1
+r;423614749;15206;16315;0;1
+r;423614701;15206;19569;0;3
+r;423614728;15206;19790;0;1
+r;423614695;15206;20981;0;3
+r;920299;15206;22311;0;35
+r;423614703;15206;24372;0;6
+r;423614746;15206;28044;0;1
+r;423614745;15206;30604;0;1
+r;423614711;15206;33998;0;3
+r;423614721;15206;36411;0;1
+r;423614726;15206;38277;0;1
+r;2042258;15206;38557;0;51
+r;2042257;15206;42313;0;59
+r;423614729;15206;48918;0;1
+r;423614700;15206;52340;0;3
+r;423614740;15206;53310;0;1
+r;423614739;15206;53495;0;1
+r;423614704;15206;56302;0;3
+r;98726320;15206;61835;0;24
+r;423614742;15206;63619;0;1
+r;423614734;15206;64238;0;1
+r;423614735;15206;72731;0;1
+r;423614715;15206;80176;0;2
+r;423614747;15206;82285;0;1
+r;423614724;15206;83895;0;1
+r;423614699;15206;84093;0;3
+r;423614727;15206;85081;0;1
+r;148;15206;87286;0;99
+r;423614710;15206;87557;0;6
+r;423614733;15206;88096;0;1
+r;30954801;15206;89760;0;35
+r;423614717;15206;94998;0;2
+r;423614737;15206;95363;0;1
+r;423614722;15206;106608;0;1
+r;423614719;15206;108657;0;2
+r;98547575;15206;109785;0;31
+r;423614736;15206;123943;0;1
+r;423614732;15206;126405;0;1
+r;417783834;15206;136076;0;25
+r;423614720;15206;136722;0;1
+r;423614716;15206;137136;0;2
+r;423614702;15206;138879;0;4
+r;423614705;15206;139597;0;10
+r;423614698;15206;143267;0;3
+r;423614750;15206;143640;0;1
+r;423614713;15206;145251;0;3
+r;423614723;15206;145757;0;1
+r;423614709;15206;152228;0;3
+r;423614730;15206;155964;0;1
+r;423614743;15206;160650;0;1
+r;423614697;15206;168468;0;11
+r;423614696;15206;168469;0;11
+r;427928368;15206;189988;0;1
+r;1979287;15206;224314;0;29
+r;9697772;15206;225762;0;49
+r;14698210;15206;238520;0;30
+r;14697624;15206;238527;0;29
+r;23990298;15206;239128;0;1000000
+r;423614744;15206;239479;0;1
+r;9819431;15206;245450;0;58
+r;423614725;15206;248080;0;1
+r;423614741;15206;258996;0;1
+r;423614691;15206;267356;0;25
+r;423614714;15206;274762;0;2
+r;190430130;15206;280761;0;33
+r;190430131;15206;294003;0;33
+r;423614707;15206;412229;0;4
+r;423614706;15206;414923;0;3
+r;423614708;15206;430242;0;4
+r;423614738;15206;1773858;0;1
+r;423614712;15206;2382355;0;3
+r;427928366;15206;3291029;0;1
+r;423614718;15206;3303689;0;2
+r;427928382;15206;7351512;0;1
+r;423614748;15206;14753493;0;1
+r;416036219;15206;14946815;0;25
+r;2132758;15206;3674;3;36
+r;469212;15206;87286;3;-35
+r;30936298;15206;89760;3;35
+r;417783833;15206;136076;3;25
+r;34909;15206;146885;4;51
+r;1647973;15206;171870;4;62
+r;54137081;15206;2586627;4;45
+r;54176233;15206;2586629;4;45
+r;1648001;15206;87286;6;64
+r;423614751;15206;108657;6;25
+r;355440057;15206;189988;6;67
+r;1963854;15206;225762;6;75
+r;2950521;15206;245450;6;60
+r;113756883;15206;3291029;6;77
+r;377111440;15206;7351512;6;40
+r;97576512;15206;61835;9;28
+r;97835053;15206;109785;9;19
+r;14696195;15206;238520;9;26
+r;14696488;15206;238527;9;28
+r;114089446;15206;5852836;10;37
+r;140058;15206;151553;12;34
+r;1784052;15206;5834;17;34
+r;90053809;15206;3575927;18;28
+r;90926915;15206;3576104;18;26
+r;390340882;15206;14916413;18;25
+r;313834;15206;15206;19;57
+r;34015338;15206;14330;32;33
+r;33421384;15206;28453;32;72
+r;33374428;15206;37298;32;-5
+r;33374427;15206;57221;32;-5
+r;34015339;15206;91691;32;37
+r;9184897;15206;223173;36;331
+r;9203080;15206;241794;36;108
+r;95955463;15206;251716;36;26
+r;9304741;15206;254876;36;75
+r;9304742;15206;254877;36;25
+r;365120615;15206;276096;36;29
+r;78522050;15206;2585997;36;54
+r;417783832;15206;15991432;36;25
+r;3165419;15206;86711;106;1
+r;3165420;15206;214366;106;1
+r;22551643;15206;1236291;128;9
+r;22551647;15206;1236292;128;9
+r;22551651;15206;1236293;128;9
+r;22551655;15206;1236294;128;9
+r;99438595;15206;4399728;128;14
+r;100074275;15206;4498474;128;12
+r;114089449;15206;5852866;128;117
+r;114166821;15206;5856925;128;49
+r;390340879;15206;14946815;333;25
+r;78007636;15206;3228593;444;41
+r;94306227;15206;3921569;444;1
+r;74295869;15206;2983124;555;95
+r;1780126;15206;5834;666;1
+r;1780111;15206;22311;666;5
+r;1878472;15206;74446;666;1
+r;1780125;15206;85081;666;2
+r;1780108;15206;87286;666;4
+r;1780123;15206;108657;666;2
+r;1780124;15206;126405;666;3
+r;1780109;15206;140362;666;1
+r;1780110;15206;143291;666;3
+r;6678401;15206;4949;777;10
+r;6678378;15206;12094;777;10
+r;6678390;15206;19569;777;10
+r;6678333;15206;20981;777;10
+r;6678397;15206;24372;777;10
+r;6678382;15206;30089;777;10
+r;76584602;15206;33998;777;10
+r;6678374;15206;52340;777;10
+r;6678404;15206;56302;777;10
+r;6678408;15206;80176;777;10
+r;6678350;15206;80390;777;10
+r;6678366;15206;84093;777;10
+r;76584592;15206;87557;777;10
+r;6678412;15206;88854;777;10
+r;343643335;15206;94998;777;10
+r;6678370;15206;104490;777;10
+r;6678386;15206;124365;777;10
+r;78522066;15206;133568;777;10
+r;6678417;15206;137136;777;10
+r;6678393;15206;138879;777;10
+r;6678418;15206;139597;777;10
+r;6678323;15206;141059;777;10
+r;6678362;15206;143267;777;10
+r;6678326;15206;143853;777;10
+r;78522062;15206;145251;777;10
+r;76584591;15206;152228;777;10
+r;6678359;15206;168468;777;10
+r;6678355;15206;168469;777;10
+r;76584644;15206;220462;777;10
+r;6678329;15206;272716;777;10
+r;6678346;15206;274530;777;10
+r;6678332;15206;274762;777;10
+r;6678342;15206;280761;777;10
+r;6678320;15206;283597;777;10
+r;6678316;15206;284079;777;10
+r;76584641;15206;285064;777;10
+r;76584639;15206;285692;777;10
+r;21165444;15206;294221;777;10
+r;76584643;15206;311123;777;10
+r;355409807;15206;399546;777;10
+r;21165447;15206;405643;777;10
+r;21165456;15206;412229;777;10
+r;21165450;15206;413245;777;10
+r;21165453;15206;414923;777;10
+r;21165459;15206;430242;777;10
+r;76584631;15206;2382355;777;10
+r;190430249;15206;2937025;777;10
+r;190430250;15206;2956008;777;10
+r;83848760;15206;3303689;777;10
+r;113732985;15206;5622556;777;10
+r;114785287;15206;5852836;777;10
+r;114785284;15206;5878795;777;10
+r;122121477;15206;6260452;777;10
+r;218598454;15206;9076303;777;10
+r;218598450;15206;9657195;777;10
+r;326859810;15206;12277253;777;10
+r;285467842;15206;224315;999;6
+r;287444246;15206;225763;999;1
+r;287443277;15206;225764;999;1
+r;287443590;15206;225765;999;1
+r;285495066;15206;238525;999;2
+r;285494873;15206;238526;999;2
+r;285494667;15206;238528;999;2
+r;285494470;15206;238529;999;2
+r;287443922;15206;253152;999;1
+r;285494274;15206;269605;999;2
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;429986183;674295;15206;0;15
+r;399756749;6905031;15206;0;20
+r;399779758;15139984;15206;0;20
+r;15273598;3674;15206;0;22
+r;10574944;87286;15206;0;24
+r;416036218;14946815;15206;0;25
+r;423614693;267356;15206;0;25
+r;919474;22311;15206;0;27
+r;15602136;238520;15206;0;28
+r;10607870;225762;15206;0;30
+r;97333160;109785;15206;0;30
+r;190430134;294003;15206;0;30
+r;2039060;224314;15206;0;31
+r;15601854;238527;15206;0;31
+r;30954800;89760;15206;0;31
+r;87776025;2218921;15206;0;31
+r;96724131;61835;15206;0;32
+r;190430129;280761;15206;0;35
+r;1805914;230902;15206;0;45
+r;2239587;238233;15206;0;53
+r;270900146;7351512;15206;0;80
+r;10881897;245450;15206;0;81
+r;427928365;108657;15206;8;1
+r;247103565;3291029;15206;8;25
+r;383234141;189988;15206;8;25
+r;398221992;15198976;15206;8;25
+r;9671234;87286;15206;8;37
+r;9697773;225762;15206;8;48
+r;270900583;7351512;15206;8;80
+r;9819432;245450;15206;8;83
+r;114166817;5852836;15206;9;32
+r;429986393;674295;15206;10;15
+r;97333307;109785;15206;10;26
+r;14698211;238520;15206;10;31
+r;14697625;238527;15206;10;34
+r;96724227;61835;15206;10;35
+r;32894047;2218921;15206;19;55
+r;313834;15206;15206;19;57
+r;14792738;5834;15206;23;26
+r;15197192;87286;15206;27;-27
+r;399769012;6905031;15206;27;20
+r;399791960;15139984;15206;27;20
+r;15139478;3674;15206;27;29
+r;30954799;89760;15206;27;43
+r;34618998;102345;15206;115;1
+r;34619002;28453;15206;115;1
+r;385419137;14330;15206;115;25
+r;385419139;91691;15206;115;25
+r;390340880;14946815;15206;333;25
+r;3741498;168469;15206;777;10
+r;4567962;273800;15206;777;10
+r;4567963;280761;15206;777;10
+r;4567964;108657;15206;777;10
+r;6284417;109493;15206;777;10
+r;6284418;290110;15206;777;10
+r;6360934;290804;15206;777;10
+r;6360935;230900;15206;777;10
+r;6360936;290805;15206;777;10
+r;6360937;230899;15206;777;10
+r;6903013;40148;15206;777;10
+r;6903014;296325;15206;777;10
+r;7733872;133568;15206;777;10
+r;7878188;221919;15206;777;10
+r;7878190;168468;15206;777;10
+r;8085047;212908;15206;777;10
+r;8486873;263072;15206;777;10
+r;17569082;425142;15206;777;10
+r;18446586;63289;15206;777;10
+r;54479058;2421020;15206;777;10
+r;77021031;2464467;15206;777;10
+r;81976310;3294594;15206;777;10
+r;81976311;412229;15206;777;10
+r;82861382;3304579;15206;777;10
+r;112693814;73205;15206;777;10
+r;113539985;5827344;15206;777;10
+r;113708189;5831584;15206;777;10
+r;113708190;3294642;15206;777;10
+r;113737064;5832007;15206;777;10
+r;217990869;9740410;15206;777;10
+r;217990870;9740411;15206;777;10
+r;217990871;9740412;15206;777;10
+r;276323650;5896813;15206;777;10
+r;293392271;59402;15206;777;10
+r;293392272;17109;15206;777;10
+r;369786521;14548504;15206;777;10
+r;369786522;291635;15206;777;10

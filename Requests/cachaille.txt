@@ -1,0 +1,298 @@
+<CODE>
+// DUMP pour le terme 'cachaille' (eid=2395007)
+<def>
+<br />
+1. Fromage fort originaire du sud-est de la France.<br /> 
+ Dans le comté niçois, la cachaille est faite à partir de brousse de vache.    
+ (Jean Froc, Balade au pays des fromages: Les traditions fromagères en France, 2006)  <br />
+2. La cachaille (ou cassaille) est un fromage fort, originaire du sud-est de la France et plus spécialement de la région provençale.
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;10;'n_relation'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;444;'n_link'
+nt;777;'n_wikipedia'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;2395007;'cachaille';1;0
+e;113902;'alimentation';1;1784
+e;141687;'fromage';1;3068
+e;133003;'Provence';1;486
+e;176694;'cassaille';1;50
+e;213700;'fromage>114637';1;578;'fromage>aliment'
+e;239128;'_COM';36;50
+e;91657;'nutrition';1;424
+e;2971760;'Provence>87987';1;16;'Provence>France'
+e;21694;'fromages';1;88
+e;2586628;'Gender:Fem';4;0
+e;146881;'Nom:Fem+SG';4;50
+e;171870;'Nom:';4;50
+e;2586629;'Number:Sing';4;0
+e;12255568;'préparation fromagère';1;0
+e;114637;'aliment';1;1546
+e;2520980;'fromage fort';1;8
+e;214276;'cuisine>96851';1;368;'cuisine>pièce'
+e;16033;'cuisine';1;11418
+e;12255569;'sud-est de la France';1;0
+e;82844;'comestible';1;256
+e;54186;'fort';1;1488
+e;113963;'mangeable';1;130
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+e;130164;'manger';1;10184
+e;97571;'consommer';1;204
+e;224422;'manger>113902>119570';1;206;'manger>alimentation>absorber'
+e;6681658;'manger>113902';1;128;'manger>alimentation'
+e;276096;'_INFO-WIKI-YES';36;50
+e;254877;'_POL-NEUTRE_PC';36;50
+e;251716;'_INFO-MONOSEMIC';36;50
+e;254876;'_POL-POS_PC';36;50
+e;241794;'_POL-NEUTRE';36;50
+e;2585997;'_INFO-CNRTL-NO';36;50
+e;223173;'_POL-POS';36;50
+e;162763;'_INFO-SEM-THING-CONCRETE';36;1238
+e;3418452;':r61277352';10;0
+e;3418450;':r61254565';10;0
+e;3418451;':r61277391';10;0
+e;3418453;':r61277274';10;0
+e;3803498;'dbnary:fra:__ws_1_cachaille__nom__1';444;0
+e;3418454;'bn:15212726n';444;0
+e;3228593;'wiki:@';444;0
+e;2983124;'_SW';36;50
+e;5787549;'miromando';777;0
+e;5786874;'foudjou';777;0
+e;5786799;'coussignous';777;0
+e;5628786;'Tomme';1;0
+e;5786642;'casgiu merzu';777;0
+e;2503537;'Puimichel';1;0
+e;5787752;'pourri bressan';777;0
+e;35633;'eau-de-vie';1;142
+e;53528;'Marseille';1;526
+e;5787894;'tomme forte de Savoie';777;0
+e;27724;'vin blanc';1;490
+e;13260;'sel';1;1622
+e;1792326;'Alpes du Sud';1;0
+e;137136;'Poivre';1;52
+e;142164;'Brousse';1;50
+e;145443;'vinaigre';1;480
+e;145573;'Vinaigre';1;50
+e;123667;'fermentation';1;228
+e;123307;'oignon';1;580
+e;114187;'Queyras';1;50
+e;216929;'metton';1;6
+e;238856;'Banon';1;2
+e;412176;'Tome';1;50
+e;423559;'Oignon';1;62
+e;2571113;'tracle';1;0
+e;2093909;'tomes';2;0
+e;2138617;'brous';2;0
+e;2138621;'brousses';2;0
+e;2297241;'tommes';2;0
+e;2391485;'fromage fort de la Croix-Rousse';1;0
+e;139597;'poivre';1;704
+e;2510411;'rebarbe';1;0
+e;83030;'montagne de Lure';1;52
+e;2521218;'foune';1;10
+e;2554909;'cachat';1;0
+e;2568700;'Reillanne';1;0
+e;2495524;'pétafine';1;0
+e;2526500;'Gémenos';1;0
+e;3223878;'tracle du Bugey';777;0
+e;3306073;'fort de Béthune';1;0
+e;3306074;'fourmagée';1;0
+e;5622747;'fromage à pâte fondue';777;0
+e;5786490;'bosson macéré';777;0
+e;5786643;'casgiu mezzu';777;0
+e;5786645;'casgiu marzu';777;0
+e;5786784;'confit d'Époisses';777;0
+e;5796570;'casu marzu';777;0
+e;5796571;'casu modde';777;0
+e;5796573;'casu cundhídu';777;0
+e;5796577;'formaggio marcio';777;0
+e;1996088;'cacha';2;0
+e;30472;'titres';1;72
+e;66372;'texte';1;960
+e;56362;'gras';1;2088
+e;136284;'italique';1;62
+e;191712;'citations';1;54
+e;9634975;'listes à puces';777;0
+e;146823;'tableaux';1;122
+e;15772681;'rebarba';777;0
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;3;'r_domain';'domaine';Il est demandé de fournir des domaines relatifs au mot cible. Par exemple, pour 'corner', on pourra donner les domaines 'football' ou 'sport'.
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;5;'r_syn';'synonyme';Il est demandé d'énumérer les synonymes ou quasi-synonymes de ce terme.
+rt;6;'r_isa';'générique';Il est demandé d'énumérer les GENERIQUES/hyperonymes du terme. Par exemple, 'animal' et 'mammifère' sont des génériques de 'chat'.
+rt;8;'r_hypo';'spécifique';Il est demandé d'énumérer des SPECIFIQUES/hyponymes du terme. Par exemple, 'mouche', 'abeille', 'guêpe' pour 'insecte'.
+rt;14;'r_patient';'action>patient';Le patient (qu'on appelle aussi l'objet) est l'entité qui subit l'action. Par exemple dans - Le chat mange la souris -, le patient est la souris. Des patients typiques de manger peuvent être 'viande', 'légume', 'pain', ... (manger r_patient pain)
+rt;15;'r_lieu';'chose>lieu';Il est demandé d'énumérer les LIEUX typiques où peut se trouver le terme/objet en question. (carotte r_lieu potager)
+rt;17;'r_carac';'caractéristique';Pour un terme donné, souvent un objet, il est demandé d'en énumérer les CARACtéristiques (adjectifs) possibles/typiques. Par exemple, 'liquide', 'froide', 'chaude', pour 'eau'.
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;23;'r_carac-1';'caractéristique-1';Quels sont les objets (des noms) possédant typiquement/possiblement la caractérisque suivante ? Par exemple, 'soleil', 'feu', pour 'chaud'.
+rt;26;'r_patient-1';'patient-1';(inverse de r_patient) Que peut-on faire à cet OBJET. Pour 'pomme', on pourrait avoir 'manger', 'croquer', couper', 'éplucher',  etc. (pomme r_patient-1 manger)
+rt;27;'r_domain-1';'domaine-1';inverse de r_domain : à un domaine, on associe des termes
+rt;28;'r_lieu-1';'lieu>chose';A partir d'un lieu, il est demandé d'énumérer ce qui peut typiquement s'y trouver. Par exemple : Paris r_lieu-1 tour Eiffel
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;128;'r_node2relnode';'r_node2relnode';Relation entre un noeud (quelconque) et un noeud de relation (type = 10) - permet de rendre le graphe connexe même avec les annotations de relations
+rt;444;'r_link';'r_link';Lien vers une ressource externe (WordNet, RadLex, UMLS, Wikipedia, etc...)
+rt;555;'r_cooccurrence';'r_cooccurrence';co-occurences (non utilisée)
+rt;777;'r_wiki';'r_wiki';Associations issues de wikipedia...
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;61288486;2395007;113902;0;34
+r;318114664;2395007;141687;0;46
+r;318114662;2395007;133003;0;25
+r;328026109;2395007;176694;0;29
+r;318114665;2395007;213700;0;65
+r;52695139;2395007;239128;0;1000000
+r;61287053;2395007;91657;0;43
+r;318114663;2395007;2971760;0;25
+r;61288372;2395007;21694;0;48
+r;61277429;2395007;91657;3;40
+r;61254642;2395007;113902;3;31
+r;61254604;2395007;21694;3;48
+r;112713921;2395007;2586628;4;26
+r;112682300;2395007;146881;4;32
+r;52260682;2395007;171870;4;45
+r;112716877;2395007;2586629;4;34
+r;318114671;2395007;176694;5;66
+r;318114661;2395007;213700;6;65
+r;61247103;2395007;141687;6;45
+r;318114679;2395007;12255568;6;35
+r;61254565;2395007;114637;6;30
+r;112684674;2395007;2520980;6;34
+r;213744428;2395007;214276;15;28
+r;61277352;2395007;16033;15;43
+r;318114675;2395007;2971760;15;56
+r;318114677;2395007;12255569;15;31
+r;318114673;2395007;133003;15;36
+r;61277274;2395007;82844;17;39
+r;318114666;2395007;54186;17;61
+r;61277391;2395007;113963;17;42
+r;89350421;2395007;3575927;18;32
+r;90329976;2395007;3576104;18;26
+r;113061673;2395007;2395007;19;26
+r;411348359;2395007;130164;26;31
+r;61277313;2395007;97571;26;30
+r;365303591;2395007;224422;26;30
+r;365300462;2395007;6681658;26;30
+r;115942865;2395007;276096;36;35
+r;87321689;2395007;254877;36;29
+r;96079945;2395007;251716;36;34
+r;87321688;2395007;254876;36;75
+r;87321687;2395007;241794;36;1
+r;87321684;2395007;2585997;36;54
+r;87321686;2395007;223173;36;3
+r;77926098;2395007;162763;36;29
+r;87321700;2395007;3418452;128;1
+r;87321692;2395007;3418450;128;95
+r;87321696;2395007;3418451;128;1
+r;87321704;2395007;3418453;128;1
+r;94200805;2395007;3803498;444;1
+r;87321706;2395007;3418454;444;28
+r;78192839;2395007;3228593;444;28
+r;74256127;2395007;2983124;555;17
+r;112853004;2395007;5787549;777;10
+r;112853003;2395007;5786874;777;10
+r;112853002;2395007;5786799;777;10
+r;112682302;2395007;5628786;777;10
+r;112853001;2395007;5786642;777;10
+r;53194748;2395007;2503537;777;10
+r;112853005;2395007;5787752;777;10
+r;53194761;2395007;35633;777;10
+r;53194752;2395007;53528;777;10
+r;112853006;2395007;5787894;777;10
+r;53194762;2395007;27724;777;10
+r;53194767;2395007;13260;777;10
+r;53194751;2395007;1792326;777;10
+r;53194768;2395007;137136;777;10
+r;53194759;2395007;142164;777;10
+r;53194764;2395007;145443;777;10
+r;53194763;2395007;145573;777;10
+r;53194747;2395007;133003;777;10
+r;53194756;2395007;123667;777;10
+r;53194766;2395007;123307;777;10
+r;53194755;2395007;114187;777;10
+r;53194774;2395007;216929;777;10
+r;53194754;2395007;238856;777;10
+r;53194757;2395007;412176;777;10
+r;53194765;2395007;423559;777;10
+r;53194776;2395007;2571113;777;10
+r;53194758;2395007;2093909;777;10
+r;53194770;2395007;2138617;777;10
+r;53194760;2395007;2138621;777;10
+r;53194750;2395007;2297241;777;10
+r;53194773;2395007;2391485;777;10
+r;53194769;2395007;139597;777;10
+r;53194775;2395007;2510411;777;10
+r;53194753;2395007;83030;777;10
+r;53194746;2395007;2520980;777;10
+r;53194772;2395007;2521218;777;10
+r;53194771;2395007;2554909;777;10
+r;53194749;2395007;2568700;777;10
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;61287052;91657;2395007;0;23
+r;61288371;21694;2395007;0;23
+r;61288485;113902;2395007;0;23
+r;328026110;176694;2395007;0;24
+r;318114672;176694;2395007;5;65
+r;243666137;114637;2395007;8;25
+r;247014411;2520980;2395007;8;25
+r;378027685;141687;2395007;8;25
+r;382497560;213700;2395007;8;25
+r;382497561;12255568;2395007;8;25
+r;61451245;97571;2395007;14;30
+r;365693902;224422;2395007;14;30
+r;365696249;6681658;2395007;14;30
+r;410127396;130164;2395007;14;30
+r;113061673;2395007;2395007;19;26
+r;318114680;54186;2395007;23;25
+r;61294142;82844;2395007;23;28
+r;61294103;113963;2395007;23;29
+r;61287051;91657;2395007;27;23
+r;61288370;21694;2395007;27;23
+r;61288484;113902;2395007;27;23
+r;375974652;214276;2395007;28;25
+r;318114678;12255569;2395007;28;30
+r;318114674;133003;2395007;28;35
+r;61457887;16033;2395007;28;36
+r;318114676;2971760;2395007;28;55
+r;53125039;2391485;2395007;777;10
+r;62405657;2495524;2395007;777;10
+r;69402805;2510411;2395007;777;10
+r;71227596;2520980;2395007;777;10
+r;71515690;2526500;2395007;777;10
+r;77587780;2571113;2395007;777;10
+r;77587781;3223878;2395007;777;10
+r;83072229;3306073;2395007;777;10
+r;83072847;3306074;2395007;777;10
+r;87318398;2554909;2395007;777;10
+r;110698418;5622747;2395007;777;10
+r;112680427;5786490;2395007;777;10
+r;112682262;2138617;2395007;777;10
+r;112682751;5786642;2395007;777;10
+r;112682752;5786643;2395007;777;10
+r;112682754;5786645;2395007;777;10
+r;112684325;5786784;2395007;777;10
+r;112684834;5786799;2395007;777;10
+r;112687365;5786874;2395007;777;10
+r;112696327;5787549;2395007;777;10
+r;112699398;5787752;2395007;777;10
+r;112703042;5787894;2395007;777;10
+r;112875250;5796570;2395007;777;10
+r;112875252;5796571;2395007;777;10
+r;112875253;5796573;2395007;777;10
+r;112875255;5796577;2395007;777;10
+r;295633250;1996088;2395007;777;10
+r;405971501;30472;2395007;777;10
+r;405971502;66372;2395007;777;10
+r;405971503;56362;2395007;777;10
+r;405971504;136284;2395007;777;10
+r;405971505;191712;2395007;777;10
+r;405971506;9634975;2395007;777;10
+r;405971507;146823;2395007;777;10
+r;405972578;15772681;2395007;777;10

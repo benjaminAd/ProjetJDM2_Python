@@ -1,0 +1,168 @@
+<CODE>
+// DUMP pour le terme 'cacha' (eid=1996088)
+<def>
+<br />
+Le (ou la) cachat ou cacha est un fromage fort, originaire du Comtat Venaissin, élaboré sur le piémont du mont Ventoux, dans le département de Vaucluse. Il porte aussi le nom de fort du Ventoux.
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;200;'n_context'
+nt;444;'n_link'
+nt;777;'n_wikipedia'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;1996088;'cacha';2;0
+e;2520980;'fromage fort';1;8
+e;30316;'cacher';1;998
+e;239128;'_COM';36;50
+e;14295392;'cacha>2946892';1;0;'cacha>Ver:Conjug'
+e;14295393;'cacha>171870';1;0;'cacha>Nom:'
+e;171870;'Nom:';4;50
+e;14270944;'VerbalPers:P3';4;0
+e;14270945;'VerbalNumber:SG';4;0
+e;14271095;'VerbalTime:PasséSimple';4;0
+e;3093590;'VerbalMode:Indicatif';4;0
+e;2935006;'VerbalTime:Past';4;0
+e;2946892;'Ver:Conjug';4;0
+e;161713;'Ver:IPSim+SG+P3';4;50
+e;212235;'Ver:';4;50
+e;151553;'_FL:0';6;50
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+e;276096;'_INFO-WIKI-YES';36;50
+e;438949;'_INFO-POLYMORPHIC';36;50
+e;12773736;'1a26fe5df39411e3b7abd5f8f0939e8c';200;0
+e;12773908;'c298f26f37c1493077821b74d3fd871f';200;0
+e;12784129;'7f2536d45cc34b613db404afa92ac556';200;0
+e;12784741;'f6cbcbe31907f225bd74d482e1f34e65';200;0
+e;12784747;'611239b3890d13919e23a9c924fe1212';200;0
+e;13519930;'997ef267adda34766960651fbcf2d6c3';200;0
+e;14435807;'711fd0ff9a754d801adc87c9908bf4b1';200;0
+e;15468146;'7dc5fab95f9cd2edbbeec636207dda4a';200;0
+e;16181712;'7640f32623e7f1128db3b8dfffde8d57';200;0
+e;12721645;'d5dcf2d3472a877234c0ffdeb152e85c';200;0
+e;12828262;'13750b9204a5bd472aef781975db824d';200;0
+e;3228593;'wiki:@';444;0
+e;2983124;'_SW';36;50
+e;5786874;'foudjou';777;0
+e;10620122;'Comtat Venaissin';777;0
+e;1859101;'Mont Ventoux';1;50
+e;237154;'mont Ventoux';1;52
+e;275204;'Centre national de ressources textuelles et lexicales';777;50
+e;64458;'Ventoux';1;50
+e;2395007;'cachaille';1;0
+e;133003;'Provence';1;486
+e;57394;'Haute-Provence';1;50
+e;423559;'Oignon';1;62
+e;95708;'oignons';1;242
+e;2542;'Bouillon';1;50
+e;146582;'bouillon';1;338
+e;35633;'eau-de-vie';1;142
+e;27724;'vin blanc';1;490
+e;158737;'petit lait';1;60
+e;153198;'lait de brebis';1;110
+e;5628786;'Tomme';1;0
+e;70209;'tomme';1;92
+e;2571806;'Bonnieux';1;0
+e;216816;'treize desserts';1;6
+e;2464378;'Jas';1;0
+e;41473;'jas';1;50
+e;2521218;'foune';1;10
+e;2138617;'brous';2;0
+e;5786642;'casgiu merzu';777;0
+e;5786799;'coussignous';777;0
+e;2391485;'fromage fort de la Croix-Rousse';1;0
+e;216929;'metton';1;6
+e;5787549;'miromando';777;0
+e;5787752;'pourri bressan';777;0
+e;5787894;'tomme forte de Savoie';777;0
+e;2571113;'tracle';1;0
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;2;'r_raff_morpho';'raffinement morphologique';Raffinement morphologique vers un usage particulier du terme source
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;6;'r_isa';'générique';Il est demandé d'énumérer les GENERIQUES/hyperonymes du terme. Par exemple, 'animal' et 'mammifère' sont des génériques de 'chat'.
+rt;8;'r_hypo';'spécifique';Il est demandé d'énumérer des SPECIFIQUES/hyponymes du terme. Par exemple, 'mouche', 'abeille', 'guêpe' pour 'insecte'.
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;200;'r_context';'r_context';Relation de contexte entre un terme et un noeud contexte.
+rt;444;'r_link';'r_link';Lien vers une ressource externe (WordNet, RadLex, UMLS, Wikipedia, etc...)
+rt;555;'r_cooccurrence';'r_cooccurrence';co-occurences (non utilisée)
+rt;777;'r_wiki';'r_wiki';Associations issues de wikipedia...
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;295924660;1996088;2520980;0;13
+r;87527271;1996088;30316;0;29
+r;295633226;1996088;239128;0;1000000
+r;363940317;1996088;14295392;2;45
+r;363940321;1996088;14295393;2;45
+r;295735592;1996088;171870;4;25
+r;363134269;1996088;14270944;4;25
+r;363126049;1996088;14270945;4;25
+r;363117823;1996088;14271095;4;25
+r;363111094;1996088;3093590;4;25
+r;72156541;1996088;2935006;4;45
+r;72436967;1996088;2946892;4;45
+r;32190695;1996088;161713;4;53
+r;32190698;1996088;212235;4;56
+r;295735591;1996088;2520980;6;25
+r;74560211;1996088;151553;12;28
+r;89702455;1996088;3575927;18;32
+r;90687303;1996088;3576104;18;34
+r;32190693;1996088;30316;19;52
+r;295633303;1996088;276096;36;25
+r;363940320;1996088;438949;36;26
+r;327777901;1996088;12773736;200;1
+r;327786413;1996088;12773908;200;1
+r;327983216;1996088;12784129;200;1
+r;328011454;1996088;12784741;200;1
+r;328011674;1996088;12784747;200;1
+r;342568238;1996088;13519930;200;1
+r;366546010;1996088;14435807;200;2
+r;395657385;1996088;15468146;200;2
+r;425162689;1996088;16181712;200;2
+r;326572811;1996088;12721645;200;3
+r;329232438;1996088;12828262;200;3
+r;296293998;1996088;3228593;444;25
+r;73999442;1996088;2983124;555;674
+r;295633264;1996088;5786874;777;10
+r;295633243;1996088;2520980;777;10
+r;295633245;1996088;10620122;777;10
+r;295633246;1996088;1859101;777;10
+r;295633247;1996088;237154;777;10
+r;295633248;1996088;275204;777;10
+r;295633249;1996088;64458;777;10
+r;295633250;1996088;2395007;777;10
+r;295633251;1996088;133003;777;10
+r;295633252;1996088;57394;777;10
+r;295633253;1996088;423559;777;10
+r;295633254;1996088;95708;777;10
+r;295633255;1996088;2542;777;10
+r;295633256;1996088;146582;777;10
+r;295633257;1996088;35633;777;10
+r;295633258;1996088;27724;777;10
+r;295633259;1996088;158737;777;10
+r;295633260;1996088;153198;777;10
+r;295633261;1996088;5628786;777;10
+r;295633262;1996088;70209;777;10
+r;295633266;1996088;2571806;777;10
+r;295633267;1996088;216816;777;10
+r;295633268;1996088;2464378;777;10
+r;295633269;1996088;41473;777;10
+r;295633270;1996088;2521218;777;10
+r;295633271;1996088;2138617;777;10
+r;295633272;1996088;5786642;777;10
+r;295633273;1996088;5786799;777;10
+r;295633274;1996088;2391485;777;10
+r;295633275;1996088;216929;777;10
+r;295633276;1996088;5787549;777;10
+r;295633277;1996088;5787752;777;10
+r;295633278;1996088;5787894;777;10
+r;295633280;1996088;2571113;777;10
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;295924661;2520980;1996088;8;18

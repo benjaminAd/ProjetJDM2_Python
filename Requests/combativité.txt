@@ -1,0 +1,244 @@
+<CODE>
+// DUMP pour le terme 'combativitÃ©' (eid=72371)
+<def>
+<br />
+1. (Figuré) Penchant à la dispute, à la contradiction.<br />
+2. Penchant que l'homme et les animaux semblent avoir pour le combat.
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;200;'n_context'
+nt;444;'n_link'
+nt;777;'n_wikipedia'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;72371;'combativité';1;68
+e;67176;'brutalité';1;190
+e;45815;'réactivité';1;56
+e;29896;'pétulance';1;54
+e;68036;'ardeur';1;132
+e;131951;'bellicisme';1;50
+e;6905274;'en:moral';1;0
+e;596839;'moral>171870';1;0;'moral>Nom:'
+e;15498381;'en:combativity';1;0
+e;8924;'psychologie';1;1244
+e;56483;'moral';1;142
+e;12572;'malveillance';1;82
+e;76056;'provocation';1;228
+e;7103;'tonus';1;156
+e;71640;'mordant';1;80
+e;455670;'mordant>171870';1;50;'mordant>Nom:'
+e;72998;'agressivité';1;416
+e;34970;'attaque';1;699
+e;57933;'guerre';1;5937
+e;144666;'résistance';1;602
+e;77687;'effort';1;578
+e;34504;'persévérance';1;142
+e;83665;'pugnacité';1;112
+e;239128;'_COM';36;50
+e;2586628;'Gender:Fem';4;0
+e;2586629;'Number:Sing';4;0
+e;146881;'Nom:Fem+SG';4;50
+e;171870;'Nom:';4;50
+e;10836312;'Prix de la combativité du Tour d'Italie';777;0
+e;10181433;'Classement de la combativité';777;0
+e;151564;'_FL:5';6;50
+e;151553;'_FL:0';6;50
+e;14916413;'Langue:français';18;50
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+e;65181;'combatif';1;62
+e;22264;'colère';1;2170
+e;317329;'_POLIT_7NOPOL';36;50
+e;254876;'_POL-POS_PC';36;50
+e;254877;'_POL-NEUTRE_PC';36;50
+e;317323;'_POLIT_2PG';36;50
+e;248197;'_SEX_YES';36;50
+e;223173;'_POL-POS';36;50
+e;217817;'_INFO-POLYSEMIC';36;50
+e;15991432;'_ANIME-NO';36;50
+e;214534;'_INFO-MEANING-FIGURED';36;50
+e;241794;'_POL-NEUTRE';36;50
+e;273221;'_INFO-WIKI-NO';36;50
+e;2585996;'_INFO-CNRTL-YES';36;50
+e;254878;'_POL-NEG_PC';36;50
+e;223172;'_POL-NEG';36;50
+e;57230;'compétition';1;1110
+e;142558;'dragon';1;290
+e;12677065;'86de44ed1ed61c993f0a40e3ffc85d10';200;0
+e;12678337;'6703e7e1b9891a8abb3263e8f1ea5945';200;0
+e;12775621;'332e3acb19268e2a5ddac55c678855c9';200;0
+e;12985399;'9ad4ba6f5aac08b1cdcedeba369a22d3';200;0
+e;13568768;'63ae054dd763b7585b32f555c45e6245';200;0
+e;14778893;'d6756217f5b14ddf5d2eab63d15ced3f';200;0
+e;14870238;'b77b2131e592581f92f50c86ad120a26';200;0
+e;15696101;'8b5b73134b2e8d4e57593eb19ec021d0';200;0
+e;3970076;'dbnary:fra:__ws_2_combativité__nom__1';444;0
+e;4184308;'dbnary:fra:__ws_1_combativité__nom__1';444;0
+e;2983124;'_SW';36;50
+e;14964111;'en:tenacity';1;0
+e;14932143;'en:dedication';1;0
+e;7577160;'en:persistence';1;0
+e;266207;'niaque';1;50
+e;2151368;'combativités';2;0
+e;7178329;'en:provocation';1;0
+e;15421395;'en:be hot-blooded';1;0
+e;1825712;'mener un combat';1;0
+e;7992028;'en:effort';1;0
+e;153376;'avoir le sang chaud';1;78
+e;382964;'taureau de combat';1;50
+e;5923412;'toro de lidia';777;0
+e;5923413;'toro bravo';777;0
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;3;'r_domain';'domaine';Il est demandé de fournir des domaines relatifs au mot cible. Par exemple, pour 'corner', on pourra donner les domaines 'football' ou 'sport'.
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;5;'r_syn';'synonyme';Il est demandé d'énumérer les synonymes ou quasi-synonymes de ce terme.
+rt;11;'r_locution';'locution';A partir d'un terme, il est demandé d'énumérer les locutions, expression ou mots composés en rapport avec ce terme. Par exemple, pour 'moulin', ou pourra avoir 'moulin à vent', 'moulin à eau', 'moulin à café'. Pour 'vendre', on pourra avoir 'vendre la peau de l'ours avant de l'avoir tué', 'vendre à perte', etc..
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;22;'r_family';'famille';Des mots de la même famille lexicale sont demandés (dérivation morphologique, par exemple). Par exemple, pour 'lait' on pourrait mettre 'laitier', 'laitage', 'laiterie', etc.
+rt;32;'r_sentiment';'sentiment';Pour un terme donné, évoquer des mots liés à des SENTIMENTS ou des EMOTIONS que vous pourriez associer à ce terme. Par exemple, la joie, le plaisir, le dégoût, la peur, la haine, l'amour, l'indifférence, l'envie, avoir peur, horrible, etc.
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;115;'r_sentiment-1';'sentiment-1';Pour un SENTIMENT ou EMOTION donné, il est demandé dénumérer les termes que vous pourriez associer. Par exemple, pour 'joie', on aurait 'cadeau', 'naissance', 'bonne nouvelle', etc.
+rt;200;'r_context';'r_context';Relation de contexte entre un terme et un noeud contexte.
+rt;333;'r_translation';'r_translation';Traduction vers une autre langue.
+rt;444;'r_link';'r_link';Lien vers une ressource externe (WordNet, RadLex, UMLS, Wikipedia, etc...)
+rt;555;'r_cooccurrence';'r_cooccurrence';co-occurences (non utilisée)
+rt;777;'r_wiki';'r_wiki';Associations issues de wikipedia...
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;804094;72371;67176;0;22
+r;12342486;72371;45815;0;22
+r;54857500;72371;29896;0;22
+r;804093;72371;68036;0;23
+r;804097;72371;131951;0;24
+r;213989290;72371;6905274;0;24
+r;335802951;72371;596839;0;25
+r;415347823;72371;15498381;0;25
+r;417753925;72371;8924;0;25
+r;54857493;72371;56483;0;26
+r;804096;72371;12572;0;27
+r;804095;72371;76056;0;28
+r;54857492;72371;7103;0;28
+r;54857498;72371;71640;0;28
+r;332129746;72371;455670;0;28
+r;12236424;72371;72998;0;29
+r;1287801;72371;34970;0;30
+r;1287802;72371;57933;0;30
+r;1287803;72371;144666;0;30
+r;1287804;72371;77687;0;30
+r;1287805;72371;34504;0;30
+r;804092;72371;83665;0;34
+r;24059573;72371;239128;0;1000000
+r;417753924;72371;8924;3;25
+r;54020607;72371;2586628;4;45
+r;54050721;72371;2586629;4;45
+r;5620;72371;146881;4;57
+r;1394511;72371;171870;4;76
+r;310060049;72371;596839;5;25
+r;310173440;72371;455670;5;25
+r;213816687;72371;6905274;5;35
+r;54826004;72371;7103;5;51
+r;54845587;72371;56483;5;51
+r;54851679;72371;83665;5;52
+r;54537305;72371;29896;5;55
+r;54851678;72371;71640;5;56
+r;54851680;72371;144666;5;60
+r;703307;72371;72998;5;78
+r;12325053;72371;45815;5;83
+r;270947290;72371;10836312;11;35
+r;240636567;72371;10181433;11;43
+r;97388;72371;151564;12;13
+r;3217867;72371;151553;12;29
+r;396760691;72371;14916413;18;25
+r;90015375;72371;3575927;18;28
+r;90881655;72371;3576104;18;29
+r;289824;72371;72371;19;52
+r;2355703;72371;65181;22;32
+r;33556616;72371;22264;32;3
+r;8928321;72371;317329;36;-1
+r;2332919;72371;254876;36;6
+r;27050362;72371;254877;36;13
+r;8928320;72371;317323;36;16
+r;9285775;72371;248197;36;16
+r;2008027;72371;223173;36;21
+r;396048047;72371;217817;36;25
+r;417753923;72371;15991432;36;25
+r;52572286;72371;214534;36;40
+r;26404279;72371;241794;36;46
+r;7150919;72371;273221;36;48
+r;54851677;72371;2585996;36;59
+r;9284878;72371;254878;36;81
+r;9199948;72371;223172;36;286
+r;25661450;72371;57230;115;30
+r;28714704;72371;142558;115;30
+r;324578849;72371;12677065;200;1
+r;324638724;72371;12678337;200;1
+r;327873142;72371;12775621;200;1
+r;333551914;72371;12985399;200;1
+r;343634591;72371;13568768;200;2
+r;375569492;72371;14778893;200;2
+r;384948666;72371;14870238;200;2
+r;403584356;72371;15696101;200;2
+r;396760689;72371;15498381;333;25
+r;94349380;72371;3970076;444;1
+r;94542404;72371;4184308;444;1
+r;74148694;72371;2983124;555;1043
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;426437477;14964111;72371;0;10
+r;426437640;14932143;72371;0;10
+r;426437798;7577160;72371;0;10
+r;270947291;10836312;72371;0;11
+r;240636568;10181433;72371;0;19
+r;925360;12572;72371;0;21
+r;12276850;72998;72371;0;21
+r;12325052;45815;72371;0;21
+r;54826003;7103;72371;0;21
+r;418222092;266207;72371;0;21
+r;59510344;71640;72371;0;22
+r;415347822;15498381;72371;0;25
+r;87730505;2151368;72371;0;27
+r;310060048;596839;72371;0;27
+r;787083;67176;72371;0;29
+r;21129506;34504;72371;0;29
+r;310173439;455670;72371;0;29
+r;764141;68036;72371;0;30
+r;778284;131951;72371;0;30
+r;54537304;29896;72371;0;31
+r;975030;83665;72371;0;34
+r;21138742;144666;72371;0;34
+r;21140316;57933;72371;0;34
+r;21140585;34970;72371;0;43
+r;971554;76056;72371;0;47
+r;21130714;77687;72371;0;50
+r;211949027;7178329;72371;0;50
+r;430421748;15421395;72371;0;50
+r;313939991;1825712;72371;0;51
+r;212444937;7992028;72371;0;52
+r;212185389;6905274;72371;0;60
+r;54845586;56483;72371;0;62
+r;2182379;153376;72371;0;65
+r;309249485;455670;72371;5;33
+r;309343025;596839;72371;5;33
+r;54743917;144666;72371;5;51
+r;54857499;83665;72371;5;53
+r;54777735;7103;72371;5;54
+r;97387;45815;72371;5;55
+r;54745061;71640;72371;5;55
+r;54528161;29896;72371;5;57
+r;212185443;6905274;72371;5;70
+r;54755119;56483;72371;5;73
+r;645071;72998;72371;5;76
+r;289824;72371;72371;19;52
+r;32783498;2151368;72371;19;56
+r;12989126;57230;72371;32;51
+r;28714270;142558;72371;32;61
+r;396760690;15498381;72371;333;25
+r;17176332;382964;72371;777;10
+r;115690511;5923412;72371;777;10
+r;115690513;5923413;72371;777;10

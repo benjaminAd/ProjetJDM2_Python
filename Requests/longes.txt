@@ -1,0 +1,124 @@
+<CODE>
+// DUMP pour le terme 'longes' (eid=2070950)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;777;'n_wikipedia'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;2070950;'longes';2;0
+e;73559;'longe';1;90
+e;6905224;'en:lead';1;0
+e;14921603;'en:tether';1;0
+e;14945629;'en:leash';1;0
+e;15739291;'en:to tether';1;0
+e;74324;'longer';1;100
+e;83098;'contact';1;240
+e;14294728;'longes>2946892';1;0;'longes>Ver:Conjug'
+e;14294729;'longes>171870';1;0;'longes>Nom:'
+e;2586628;'Gender:Fem';4;0
+e;14270943;'VerbalPers:P2';4;0
+e;14270945;'VerbalNumber:SG';4;0
+e;3093591;'VerbalMode:Subjonctif';4;0
+e;3093590;'VerbalMode:Indicatif';4;0
+e;2946892;'Ver:Conjug';4;0
+e;2935005;'VerbalTime:Present';4;0
+e;2586630;'Number:Plur';4;0
+e;212235;'Ver:';4;50
+e;171870;'Nom:';4;50
+e;161718;'Ver:SPre+SG+P2';4;50
+e;161717;'Ver:IPre+SG+P2';4;50
+e;161710;'Ver:IPre+SG+P2:SPre+SG+P2';4;50
+e;146893;'Nom:Fem+PL';4;50
+e;14916713;'en:restraint';1;0
+e;14917370;'en:attach';1;0
+e;14921420;'en:constraint';1;0
+e;151553;'_FL:0';6;50
+e;3576104;'Morpho:nospace';18;50
+e;3575927;'Morpho:min';18;50
+e;14916413;'Langue:français';18;50
+e;1912917;'_INFO-COUNTABLE-YES';36;0
+e;438949;'_INFO-POLYMORPHIC';36;50
+e;2983124;'_SW';36;50
+e;148969;'longé';1;52
+e;20762;'spéléologie';1;208
+e;123467;'spéléologue';1;154
+e;5984158;'propulsion captive';777;0
+e;10513309;'l'améliorer';777;0
+e;5534983;'page de discussion';777;0
+e;12625432;'Cet article peut contenir un travail inédit ou des déclarations non vérifiées';777;0
+e;12616808;'Cet article ne cite pas suffisamment ses sources';777;0
+e;12618036;'Cet article adopte un point de vue régional ou culturel particulier';777;0
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;2;'r_raff_morpho';'raffinement morphologique';Raffinement morphologique vers un usage particulier du terme source
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;5;'r_syn';'synonyme';Il est demandé d'énumérer les synonymes ou quasi-synonymes de ce terme.
+rt;6;'r_isa';'générique';Il est demandé d'énumérer les GENERIQUES/hyperonymes du terme. Par exemple, 'animal' et 'mammifère' sont des génériques de 'chat'.
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;333;'r_translation';'r_translation';Traduction vers une autre langue.
+rt;555;'r_cooccurrence';'r_cooccurrence';co-occurences (non utilisée)
+rt;777;'r_wiki';'r_wiki';Associations issues de wikipedia...
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;87586930;2070950;73559;0;78
+r;418733632;2070950;6905224;0;10
+r;415713782;2070950;14921603;0;25
+r;418733630;2070950;14945629;0;10
+r;404753870;2070950;15739291;0;25
+r;87520474;2070950;74324;0;78
+r;398133943;2070950;83098;0;25
+r;363937993;2070950;14294728;2;45
+r;363937997;2070950;14294729;2;45
+r;53992073;2070950;2586628;4;45
+r;362955399;2070950;14270943;4;25
+r;362947002;2070950;14270945;4;25
+r;363196326;2070950;3093591;4;25
+r;362922778;2070950;3093590;4;25
+r;72434267;2070950;2946892;4;45
+r;72097887;2070950;2935005;4;45
+r;54008240;2070950;2586630;4;45
+r;32170582;2070950;212235;4;56
+r;32356776;2070950;171870;4;62
+r;362938567;2070950;161718;4;25
+r;362930081;2070950;161717;4;25
+r;32170581;2070950;161710;4;59
+r;32356771;2070950;146893;4;52
+r;398133944;2070950;14945629;5;25
+r;404753869;2070950;15739291;5;-25
+r;398133945;2070950;6905224;5;25
+r;398133947;2070950;14916713;6;25
+r;398133946;2070950;14917370;6;25
+r;398133948;2070950;14921420;6;25
+r;74692882;2070950;151553;12;41
+r;90610484;2070950;3576104;18;29
+r;89626920;2070950;3575927;18;35
+r;394625054;2070950;14916413;18;25
+r;32170580;2070950;74324;19;54
+r;32356768;2070950;73559;19;65
+r;32937830;2070950;1912917;36;40
+r;363937996;2070950;438949;36;26
+r;394625052;2070950;14921603;333;55
+r;74257248;2070950;2983124;555;96
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;418193134;148969;2070950;0;12
+r;415713781;14921603;2070950;0;25
+r;416638024;15739291;2070950;5;-10
+r;418733631;14945629;2070950;5;10
+r;418733633;6905224;2070950;5;10
+r;394625053;14921603;2070950;333;55
+r;34129766;20762;2070950;777;10
+r;34129767;123467;2070950;777;10
+r;117143765;5984158;2070950;777;10
+r;347966044;10513309;2070950;777;10
+r;347966045;5534983;2070950;777;10
+r;347966046;12625432;2070950;777;10
+r;347966047;12616808;2070950;777;10
+r;347966048;12618036;2070950;777;10

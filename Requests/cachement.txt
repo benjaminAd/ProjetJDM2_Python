@@ -1,0 +1,46 @@
+<CODE>
+// DUMP pour le terme 'cachement' (eid=2528191)
+<def>
+<br />
+Action de cacher.<br /> 
+ Leurs détournements de tête et leurs cachements de visage firent dire cent sottises de leur conduite. (Molière, La Critique de L'École des femmes, 3)  
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;4;'n_pos'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;444;'n_link'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;2528191;'cachement';1;0
+e;239128;'_COM';36;50
+e;171870;'Nom:';4;50
+e;112929;'action';1;1076
+e;3576104;'Morpho:nospace';18;50
+e;3575927;'Morpho:min';18;50
+e;273221;'_INFO-WIKI-NO';36;50
+e;251716;'_INFO-MONOSEMIC';36;50
+e;191672;'_INFO-SEM-ACTION';36;36
+e;2585997;'_INFO-CNRTL-NO';36;50
+e;4151211;'dbnary:fra:__ws_1_cachement__nom__1';444;0
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;6;'r_isa';'générique';Il est demandé d'énumérer les GENERIQUES/hyperonymes du terme. Par exemple, 'animal' et 'mammifère' sont des génériques de 'chat'.
+rt;8;'r_hypo';'spécifique';Il est demandé d'énumérer des SPECIFIQUES/hyponymes du terme. Par exemple, 'mouche', 'abeille', 'guêpe' pour 'insecte'.
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;444;'r_link';'r_link';Lien vers une ressource externe (WordNet, RadLex, UMLS, Wikipedia, etc...)
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;52876779;2528191;239128;0;1000000
+r;52393706;2528191;171870;4;45
+r;78608836;2528191;112929;6;30
+r;90210130;2528191;3576104;18;26
+r;89292109;2528191;3575927;18;34
+r;375566211;2528191;273221;36;31
+r;96229042;2528191;251716;36;35
+r;61274200;2528191;191672;36;40
+r;86893504;2528191;2585997;36;54
+r;94512645;2528191;4151211;444;1
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;378329699;112929;2528191;8;25

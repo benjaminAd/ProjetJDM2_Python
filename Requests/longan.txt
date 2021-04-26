@@ -1,0 +1,47 @@
+<CODE>
+// DUMP pour le terme 'longan' (eid=414924)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;4;'n_pos'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;777;'n_wikipedia'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;414924;'longan';1;50
+e;14946815;'en:longan';1;0
+e;171870;'Nom:';4;50
+e;280761;'Dimocarpus longan';777;50
+e;7332979;'Langue:anglais';18;50
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+e;273221;'_INFO-WIKI-NO';36;50
+e;2585997;'_INFO-CNRTL-NO';36;50
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;5;'r_syn';'synonyme';Il est demandé d'énumérer les synonymes ou quasi-synonymes de ce terme.
+rt;11;'r_locution';'locution';A partir d'un terme, il est demandé d'énumérer les locutions, expression ou mots composés en rapport avec ce terme. Par exemple, pour 'moulin', ou pourra avoir 'moulin à vent', 'moulin à eau', 'moulin à café'. Pour 'vendre', on pourra avoir 'vendre la peau de l'ours avant de l'avoir tué', 'vendre à perte', etc..
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;72;'r_syn_strict';'r_syn_strict';Termes strictement substituables, pour des termes hors du domaine général, et pour la plupart des noms (exemple : endométriose intra-utérine --> adénomyose)
+rt;333;'r_translation';'r_translation';Traduction vers une autre langue.
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;390953651;414924;14946815;0;24
+r;390340887;414924;171870;4;25
+r;390953652;414924;14946815;5;25
+r;14255013;414924;280761;11;60
+r;390340884;414924;7332979;18;25
+r;89786895;414924;3575927;18;27
+r;90754222;414924;3576104;18;28
+r;372856729;414924;273221;36;33
+r;72263552;414924;2585997;36;51
+r;390340885;414924;14946815;72;25
+r;390734559;414924;14946815;333;25
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;391048826;14946815;414924;0;25
+r;14255014;280761;414924;0;59
+r;391048827;14946815;414924;5;25
+r;390953653;14946815;414924;72;25
+r;390340886;14946815;414924;333;25

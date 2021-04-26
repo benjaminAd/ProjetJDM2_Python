@@ -1,0 +1,45 @@
+<CODE>
+// DUMP pour le terme 'cachas' (eid=1996122)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;1996122;'cachas';2;0
+e;30316;'cacher';1;998
+e;14270943;'VerbalPers:P2';4;0
+e;14270945;'VerbalNumber:SG';4;0
+e;14271095;'VerbalTime:PasséSimple';4;0
+e;3093590;'VerbalMode:Indicatif';4;0
+e;2935006;'VerbalTime:Past';4;0
+e;2946892;'Ver:Conjug';4;0
+e;212235;'Ver:';4;50
+e;161736;'Ver:IPSim+SG+P2';4;50
+e;151553;'_FL:0';6;50
+e;3576104;'Morpho:nospace';18;50
+e;3575927;'Morpho:min';18;50
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;87527313;1996122;30316;0;26
+r;363161132;1996122;14270943;4;25
+r;363153071;1996122;14270945;4;25
+r;363145206;1996122;14271095;4;25
+r;363138801;1996122;3093590;4;25
+r;72156547;1996122;2935006;4;45
+r;72436999;1996122;2946892;4;45
+r;32190819;1996122;212235;4;58
+r;32190816;1996122;161736;4;59
+r;74560219;1996122;151553;12;41
+r;90687269;1996122;3576104;18;28
+r;89702421;1996122;3575927;18;29
+r;32190811;1996122;30316;19;54
+// les relations entrantes : r;rid;node1;node2;type;w 

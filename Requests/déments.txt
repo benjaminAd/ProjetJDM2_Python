@@ -1,0 +1,130 @@
+<CODE>
+// DUMP pour le terme 'dÃ©ments' (eid=2029529)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;200;'n_context'
+nt;444;'n_link'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;2029529;'déments';2;0
+e;8568162;'en:familial dementias';1;0
+e;592801;'démences';1;0
+e;8286536;'en:dementias, senile paranoid';1;0
+e;91959;'démence';1;204
+e;6302816;'démence familiale';1;0
+e;13555;'dément';1;94
+e;6314319;'démence sénile paranoïde';1;0
+e;400538;'démente';1;54
+e;6837081;'en:dementia';1;0
+e;5285;'démentiel';1;60
+e;319694;'processus pathologique';1;2
+e;464619;'demence';1;50
+e;2029341;'démentes';2;0
+e;2586627;'Gender:Mas';4;0
+e;2586630;'Number:Plur';4;0
+e;146887;'Nom:Mas+PL';4;50
+e;147151;'Adj:Mas+PL';4;50
+e;171870;'Nom:';4;50
+e;171869;'Adj:';4;50
+e;151553;'_FL:0';6;50
+e;6799130;'en:brain';1;0
+e;20083;'cérébral';1;128
+e;39031;'cerveau';1;1760
+e;94554;'encéphale';1;138
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+e;438949;'_INFO-POLYMORPHIC';36;50
+e;1912917;'_INFO-COUNTABLE-YES';36;0
+e;13997482;'104be369b04ad80f6f6fc8d506361d87';200;0
+e;12699784;'af2b93f100276dbbeb7425f733fd46e6';200;0
+e;6096986;'umls:C0338630';444;0
+e;6093961;'umls:C0497327';444;0
+e;6096987;'umls:C0751071';444;0
+e;2983124;'_SW';36;50
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;15;'r_lieu';'chose>lieu';Il est demandé d'énumérer les LIEUX typiques où peut se trouver le terme/objet en question. (carotte r_lieu potager)
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;28;'r_lieu-1';'lieu>chose';A partir d'un lieu, il est demandé d'énumérer ce qui peut typiquement s'y trouver. Par exemple : Paris r_lieu-1 tour Eiffel
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;72;'r_syn_strict';'r_syn_strict';Termes strictement substituables, pour des termes hors du domaine général, et pour la plupart des noms (exemple : endométriose intra-utérine --> adénomyose)
+rt;200;'r_context';'r_context';Relation de contexte entre un terme et un noeud contexte.
+rt;444;'r_link';'r_link';Lien vers une ressource externe (WordNet, RadLex, UMLS, Wikipedia, etc...)
+rt;555;'r_cooccurrence';'r_cooccurrence';co-occurences (non utilisée)
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;331552356;2029529;8568162;0;25
+r;120681936;2029529;592801;0;27
+r;141908695;2029529;8286536;0;27
+r;120715987;2029529;91959;0;28
+r;120747164;2029529;6302816;0;29
+r;87517354;2029529;13555;0;30
+r;120681908;2029529;6314319;0;30
+r;120681930;2029529;400538;0;30
+r;149126512;2029529;6837081;0;30
+r;120681934;2029529;5285;0;31
+r;119851807;2029529;319694;0;32
+r;120681932;2029529;464619;0;35
+r;120681920;2029529;2029341;0;41
+r;53951304;2029529;2586627;4;46
+r;53959687;2029529;2586630;4;46
+r;32160948;2029529;146887;4;51
+r;32321906;2029529;147151;4;57
+r;32160949;2029529;171870;4;58
+r;32321909;2029529;171869;4;58
+r;74603059;2029529;151553;12;29
+r;391921158;2029529;6799130;15;25
+r;121120272;2029529;20083;15;34
+r;121120280;2029529;39031;15;34
+r;121120264;2029529;94554;15;35
+r;89668772;2029529;3575927;18;29
+r;90652476;2029529;3576104;18;32
+r;32160942;2029529;13555;19;69
+r;427425718;2029529;438949;36;26
+r;32948537;2029529;1912917;36;40
+r;218820079;2029529;464619;72;-25
+r;222455490;2029529;6314319;72;-25
+r;292286367;2029529;592801;72;-25
+r;292286368;2029529;2029341;72;-25
+r;292286369;2029529;13555;72;-25
+r;293861031;2029529;400538;72;-25
+r;294033848;2029529;8286536;72;-25
+r;352676530;2029529;13997482;200;2
+r;325537830;2029529;12699784;200;3
+r;119851806;2029529;6096986;444;30
+r;119851808;2029529;6093961;444;32
+r;119851809;2029529;6096987;444;35
+r;74022024;2029529;2983124;555;174
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;331552357;8568162;2029529;0;25
+r;120681937;592801;2029529;0;26
+r;120715986;91959;2029529;0;26
+r;120681931;400538;2029529;0;28
+r;120681919;2029341;2029529;0;30
+r;120681938;13555;2029529;0;32
+r;120747163;6302816;2029529;0;32
+r;120681935;5285;2029529;0;42
+r;141908694;8286536;2029529;0;58
+r;120681907;6314319;2029529;0;60
+r;149126511;6837081;2029529;0;172
+r;120681933;464619;2029529;0;175
+r;378781839;94554;2029529;28;25
+r;378781851;20083;2029529;28;25
+r;378781864;39031;2029529;28;25
+r;390919333;6799130;2029529;28;25
+r;218820099;6314319;2029529;72;-25
+r;218820072;464619;2029529;72;-25
+r;292430026;13555;2029529;72;-25
+r;292430027;2029341;2029529;72;-25
+r;292430028;592801;2029529;72;-25
+r;293861030;400538;2029529;72;-25
+r;293861074;8286536;2029529;72;-25
+r;325537836;12699784;2029529;200;3

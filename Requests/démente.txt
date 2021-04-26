@@ -1,0 +1,392 @@
+<CODE>
+// DUMP pour le terme 'dÃ©mente' (eid=400538)
+<def>
+<br />
+Personne (du sexe féminin) démente.
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;10;'n_relation'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;200;'n_context'
+nt;444;'n_link'
+nt;777;'n_wikipedia'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;400538;'démente';1;54
+e;142086;'jambe';1;3332
+e;144846;'tête';1;5684
+e;225934;'oeil>330323';1;202;'oeil>organe de la vue'
+e;74846;'corps';1;4798
+e;234036;'être vivant>123933';1;258;'être vivant>entité'
+e;116477;'personne';1;10218
+e;225916;'personne>24956';1;708;'personne>être humain'
+e;244620;'être humain>74860';1;146;'être humain>homme'
+e;24956;'être humain';1;814
+e;1636805;'oeil>44335';1;50;'oeil>organe'
+e;600205;'dément>171869';1;0;'dément>Adj:'
+e;8568162;'en:familial dementias';1;0
+e;15200818;'en:mentally ill person';1;0
+e;14932451;'en:mad';1;0
+e;13555;'dément';1;94
+e;106620;'démentir';1;68
+e;319694;'processus pathologique';1;2
+e;600204;'dément>171870';1;0;'dément>Nom:'
+e;2029529;'déments';2;0
+e;464619;'demence';1;50
+e;8286536;'en:dementias, senile paranoid';1;0
+e;592801;'démences';1;0
+e;6314319;'démence sénile paranoïde';1;0
+e;6837081;'en:dementia';1;0
+e;91959;'démence';1;204
+e;6302816;'démence familiale';1;0
+e;2029341;'démentes';2;0
+e;5285;'démentiel';1;60
+e;239128;'_COM';36;50
+e;14293016;'démente>2946892';1;0;'démente>Ver:Conjug'
+e;452499;'démente>171869';1;50;'démente>Adj:'
+e;452498;'démente>171870';1;50;'démente>Nom:'
+e;14270944;'VerbalPers:P3';4;0
+e;14270942;'VerbalPers:P1';4;0
+e;14270945;'VerbalNumber:SG';4;0
+e;150120;'Ver:SPre+SG+P3';4;50
+e;150119;'Ver:SPre+SG+P1';4;50
+e;2935005;'VerbalTime:Present';4;0
+e;3093591;'VerbalMode:Subjonctif';4;0
+e;2946892;'Ver:Conjug';4;0
+e;2586628;'Gender:Fem';4;0
+e;2586629;'Number:Sing';4;0
+e;146881;'Nom:Fem+SG';4;50
+e;161733;'Ver:SPre+SG+P1:SPre+SG+P3';4;50
+e;146894;'Adj:Fem+SG';4;50
+e;212235;'Ver:';4;50
+e;171870;'Nom:';4;50
+e;171869;'Adj:';4;50
+e;71624;'être vivant';1;1882
+e;101689;'être animé';1;50
+e;68439;'individu';1;6030
+e;219363;'corps>112609';1;182;'corps>anatomie'
+e;213977;'bassin>112609';1;18;'bassin>anatomie'
+e;34898;'pied';1;4290
+e;16110;'bouche';1;4300
+e;145953;'visage';1;2480
+e;139779;'ADN';1;716
+e;95422;'cou';1;1058
+e;26363;'bras';1;3760
+e;77424;'oeil';1;3212
+e;228289;'sexe>218086';1;270;'sexe>organe sexuel'
+e;140715;'jambes';1;794
+e;240720;'squelette>112609';1;148;'squelette>anatomie'
+e;77008;'yeux';1;4150
+e;81934;'main';1;6658
+e;107477;'nez';1;2603
+e;96211;'coeur';1;2308
+e;221019;'bouche>112609';1;208;'bouche>anatomie'
+e;355595;'fureur démente';1;50
+e;152775;'_FL:23';6;50
+e;151553;'_FL:0';6;50
+e;6799130;'en:brain';1;0
+e;20083;'cérébral';1;128
+e;94554;'encéphale';1;138
+e;39031;'cerveau';1;1760
+e;122864;'mort';1;7014
+e;1384;'vivant';1;766
+e;14916413;'Langue:français';18;50
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+e;120364;'concupiscence';1;218
+e;58134;'aïeule';1;106
+e;43601;'se reproduire';1;496
+e;2442;'vivre';1;2378
+e;43253;'dormir';1;6518
+e;124600;'mourir';1;2016
+e;251694;'mourir>126720';1;232;'mourir>cesser de vivre'
+e;259820;'vivre>160251';1;74;'vivre>être en vie'
+e;140318;'parler';1;4062
+e;15991431;'_ANIME-YES';36;50
+e;241794;'_POL-NEUTRE';36;50
+e;251716;'_INFO-MONOSEMIC';36;50
+e;223172;'_POL-NEG';36;50
+e;162761;'_INFO-SEM-PERS';36;732
+e;191669;'_INFO-SEM-LIVING-BEING';36;160
+e;254877;'_POL-NEUTRE_PC';36;50
+e;438949;'_INFO-POLYMORPHIC';36;50
+e;254878;'_POL-NEG_PC';36;50
+e;2936096;':r56851138';10;0
+e;2936098;':r56875984';10;0
+e;4951113;':r60993678';10;0
+e;13976441;':r351557877';10;0
+e;14817989;':r372437570';10;0
+e;13336305;'a637afbc403ff22817a399f0feb19b5e';200;0
+e;3778457;'dbnary:fra:__ws_1_démente__nom__1';444;0
+e;6096986;'umls:C0338630';444;0
+e;6096987;'umls:C0751071';444;0
+e;6093961;'umls:C0497327';444;0
+e;2983124;'_SW';36;50
+e;14602674;'malade mentale';1;4
+e;2428755;'petite vieille';1;4
+e;74860;'homme';1;28798
+e;221983;'homme>24956';1;216;'homme>être humain'
+e;19356;'sexe';1;5650
+e;9961183;'Isabelle Ire de Castille';777;0
+e;1472867;'Isabelle la Catholique';1;0
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;2;'r_raff_morpho';'raffinement morphologique';Raffinement morphologique vers un usage particulier du terme source
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;5;'r_syn';'synonyme';Il est demandé d'énumérer les synonymes ou quasi-synonymes de ce terme.
+rt;6;'r_isa';'générique';Il est demandé d'énumérer les GENERIQUES/hyperonymes du terme. Par exemple, 'animal' et 'mammifère' sont des génériques de 'chat'.
+rt;8;'r_hypo';'spécifique';Il est demandé d'énumérer des SPECIFIQUES/hyponymes du terme. Par exemple, 'mouche', 'abeille', 'guêpe' pour 'insecte'.
+rt;9;'r_has_part';'partie';Il faut donner des PARTIES/constituants/éléments (a pour méronymes) du mot cible. Par exemple, 'voiture' a comme parties : 'porte', 'roue', 'moteur', ...
+rt;10;'r_holo';'tout';Il est démandé d'énumérer des 'TOUT' (a pour holonymes)  de l'objet en question. Pour 'main', on aura 'bras', 'corps', 'personne', etc... Le tout est aussi l'ensemble comme 'classe' pour 'élève'.
+rt;11;'r_locution';'locution';A partir d'un terme, il est demandé d'énumérer les locutions, expression ou mots composés en rapport avec ce terme. Par exemple, pour 'moulin', ou pourra avoir 'moulin à vent', 'moulin à eau', 'moulin à café'. Pour 'vendre', on pourra avoir 'vendre la peau de l'ours avant de l'avoir tué', 'vendre à perte', etc..
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;13;'r_agent';'action>agent';L'agent (qu'on appelle aussi le sujet) est l'entité qui effectue l'action, OU la subit pour des formes passives ou des verbes d'état. Par exemple, dans - Le chat mange la souris -, l'agent est le chat. Des agents typiques de 'courir' peuvent être 'sportif', 'enfant',... (manger r_agent chat)
+rt;15;'r_lieu';'chose>lieu';Il est demandé d'énumérer les LIEUX typiques où peut se trouver le terme/objet en question. (carotte r_lieu potager)
+rt;17;'r_carac';'caractéristique';Pour un terme donné, souvent un objet, il est demandé d'en énumérer les CARACtéristiques (adjectifs) possibles/typiques. Par exemple, 'liquide', 'froide', 'chaude', pour 'eau'.
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;23;'r_carac-1';'caractéristique-1';Quels sont les objets (des noms) possédant typiquement/possiblement la caractérisque suivante ? Par exemple, 'soleil', 'feu', pour 'chaud'.
+rt;24;'r_agent-1';'agent typique-1';Que peut faire ce SUJET ? (par exemple chat => miauler, griffer, etc.) (chat r_agent-1 manger)
+rt;28;'r_lieu-1';'lieu>chose';A partir d'un lieu, il est demandé d'énumérer ce qui peut typiquement s'y trouver. Par exemple : Paris r_lieu-1 tour Eiffel
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;59;'r_masc';'équivalent masc';L'équivalent masculin du terme : lionne --> lion.
+rt;60;'r_fem';'équivalent fem';L'équivalent féminin du terme : lion --> lionne.
+rt;72;'r_syn_strict';'r_syn_strict';Termes strictement substituables, pour des termes hors du domaine général, et pour la plupart des noms (exemple : endométriose intra-utérine --> adénomyose)
+rt;128;'r_node2relnode';'r_node2relnode';Relation entre un noeud (quelconque) et un noeud de relation (type = 10) - permet de rendre le graphe connexe même avec les annotations de relations
+rt;200;'r_context';'r_context';Relation de contexte entre un terme et un noeud contexte.
+rt;333;'r_translation';'r_translation';Traduction vers une autre langue.
+rt;444;'r_link';'r_link';Lien vers une ressource externe (WordNet, RadLex, UMLS, Wikipedia, etc...)
+rt;555;'r_cooccurrence';'r_cooccurrence';co-occurences (non utilisée)
+rt;777;'r_wiki';'r_wiki';Associations issues de wikipedia...
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;72403442;400538;142086;0;-29
+r;72403440;400538;144846;0;-24
+r;60993677;400538;225934;0;-22
+r;100679989;400538;74846;0;-3
+r;245691362;400538;234036;0;17
+r;242837703;400538;116477;0;22
+r;243736884;400538;225916;0;22
+r;243736888;400538;244620;0;22
+r;243736892;400538;24956;0;22
+r;77184665;400538;1636805;0;23
+r;310796918;400538;600205;0;25
+r;331552358;400538;8568162;0;25
+r;415685751;400538;15200818;0;25
+r;415685753;400538;14932451;0;25
+r;87494453;400538;13555;0;26
+r;87494454;400538;106620;0;26
+r;119861390;400538;319694;0;27
+r;310796917;400538;600204;0;27
+r;120681931;400538;2029529;0;28
+r;120681939;400538;464619;0;28
+r;141908698;400538;8286536;0;28
+r;120681943;400538;592801;0;29
+r;120681910;400538;6314319;0;32
+r;149126516;400538;6837081;0;33
+r;120715989;400538;91959;0;34
+r;120747157;400538;6302816;0;34
+r;120681922;400538;2029341;0;35
+r;120681941;400538;5285;0;40
+r;52669985;400538;239128;0;1000000
+r;363932030;400538;14293016;2;55
+r;15999908;400538;452499;2;67
+r;15999905;400538;452498;2;85
+r;362816220;400538;14270944;4;25
+r;362815990;400538;14270942;4;25
+r;362815761;400538;14270945;4;25
+r;362815532;400538;150120;4;25
+r;362815302;400538;150119;4;25
+r;362815083;400538;2935005;4;25
+r;362814866;400538;3093591;4;25
+r;72423759;400538;2946892;4;45
+r;53923388;400538;2586628;4;46
+r;54073617;400538;2586629;4;46
+r;14350422;400538;146881;4;51
+r;14350420;400538;161733;4;53
+r;14350417;400538;146894;4;58
+r;14350421;400538;212235;4;60
+r;14350423;400538;171870;4;60
+r;14350418;400538;171869;4;68
+r;215167863;400538;13555;5;-28
+r;310008424;400538;600204;5;25
+r;310008426;400538;600205;5;25
+r;314819963;400538;71624;6;25
+r;314999709;400538;101689;6;25
+r;56394019;400538;116477;6;52
+r;58339703;400538;225916;6;52
+r;56830784;400538;24956;6;53
+r;58575505;400538;244620;6;53
+r;58628564;400538;234036;6;53
+r;56394020;400538;68439;6;55
+r;351173179;400538;219363;9;25
+r;372437570;400538;213977;9;25
+r;56851138;400538;142086;9;26
+r;56875984;400538;144846;9;26
+r;56868815;400538;34898;9;30
+r;76908185;400538;1636805;9;30
+r;56835964;400538;16110;9;32
+r;56878488;400538;145953;9;34
+r;56833442;400538;139779;9;36
+r;56846087;400538;95422;9;37
+r;56774242;400538;26363;9;39
+r;56863757;400538;77424;9;39
+r;56871353;400538;228289;9;39
+r;56843560;400538;74846;9;41
+r;56853659;400538;140715;9;42
+r;56873887;400538;240720;9;42
+r;60778485;400538;225934;9;42
+r;56886053;400538;77008;9;43
+r;56802298;400538;81934;9;44
+r;56861224;400538;107477;9;45
+r;56841035;400538;96211;9;47
+r;56838502;400538;221019;9;52
+r;14212244;400538;355595;11;58
+r;136313573;400538;152775;12;21
+r;74603024;400538;151553;12;31
+r;391921085;400538;6799130;15;25
+r;121120273;400538;20083;15;30
+r;121120265;400538;94554;15;34
+r;121120281;400538;39031;15;35
+r;316971719;400538;122864;17;25
+r;56881020;400538;1384;17;39
+r;394691971;400538;14916413;18;25
+r;89791856;400538;3575927;18;29
+r;90769927;400538;3576104;18;35
+r;78814428;400538;400538;19;34
+r;14350416;400538;13555;19;54
+r;14350419;400538;106620;19;56
+r;122166671;400538;120364;23;21
+r;137920997;400538;58134;23;26
+r;58732530;400538;43601;24;30
+r;58785740;400538;2442;24;30
+r;56848618;400538;43253;24;34
+r;56856190;400538;124600;24;39
+r;56858705;400538;251694;24;39
+r;56883536;400538;259820;24;40
+r;56866280;400538;140318;24;42
+r;417380446;400538;15991431;36;25
+r;28815069;400538;241794;36;27
+r;96098012;400538;251716;36;29
+r;28815068;400538;223172;36;35
+r;56394021;400538;162761;36;40
+r;56468576;400538;191669;36;40
+r;28815070;400538;254877;36;44
+r;15999907;400538;438949;36;46
+r;28815071;400538;254878;36;56
+r;105159580;400538;13555;59;34
+r;215153683;400538;13555;72;-28
+r;222455493;400538;464619;72;-25
+r;293861027;400538;5285;72;-25
+r;293861028;400538;2029341;72;-25
+r;293861029;400538;91959;72;-25
+r;293861030;400538;2029529;72;-25
+r;294033849;400538;8286536;72;-25
+r;294033853;400538;592801;72;-25
+r;72216374;400538;2936096;128;1
+r;72216435;400538;2936098;128;1
+r;103884474;400538;4951113;128;2
+r;351942774;400538;13976441;128;2
+r;383909616;400538;14817989;128;11
+r;338739064;400538;13336305;200;2
+r;394691969;400538;14932451;333;26
+r;394691972;400538;15200818;333;26
+r;94178529;400538;3778457;444;1
+r;119861389;400538;6096986;444;30
+r;119861392;400538;6096987;444;32
+r;119861391;400538;6093961;444;36
+r;74259587;400538;2983124;555;107
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;96994450;77424;400538;0;-28
+r;61762808;225934;400538;0;-27
+r;72581003;142086;400538;0;-22
+r;432362253;14602674;400538;0;10
+r;310008423;600204;400538;0;15
+r;310008425;600205;400538;0;15
+r;73019787;1636805;400538;0;24
+r;331552359;8568162;400538;0;25
+r;415685750;15200818;400538;0;25
+r;415685752;14932451;400538;0;25
+r;72581002;144846;400538;0;27
+r;120681921;2029341;400538;0;30
+r;120681930;2029529;400538;0;30
+r;120681945;13555;400538;0;30
+r;120681944;592801;400538;0;32
+r;120681942;5285;400538;0;35
+r;120747158;6302816;400538;0;35
+r;120715988;91959;400538;0;42
+r;141908697;8286536;400538;0;52
+r;120681909;6314319;400538;0;56
+r;125712207;2428755;400538;0;57
+r;14212245;355595;400538;0;59
+r;149126515;6837081;400538;0;167
+r;120681940;464619;400538;0;171
+r;215167864;13555;400538;5;-29
+r;309379610;600204;400538;5;33
+r;309379611;600205;400538;5;33
+r;397386889;74860;400538;8;10
+r;270635287;71624;400538;8;15
+r;371900762;221983;400538;8;15
+r;242837704;116477;400538;8;25
+r;243736886;225916;400538;8;25
+r;243736889;244620;400538;8;25
+r;243736893;24956;400538;8;25
+r;245691363;234036;400538;8;25
+r;377170958;68439;400538;8;25
+r;382179984;101689;400538;8;25
+r;100679990;74846;400538;10;3
+r;351557877;219363;400538;10;3
+r;411663437;19356;400538;10;15
+r;378141925;26363;400538;10;25
+r;378168868;81934;400538;10;25
+r;378171037;139779;400538;10;25
+r;378172625;16110;400538;10;25
+r;378174633;221019;400538;10;25
+r;378176991;96211;400538;10;25
+r;378184297;95422;400538;10;25
+r;378191729;140715;400538;10;25
+r;378195963;107477;400538;10;25
+r;378200055;34898;400538;10;25
+r;378203828;228289;400538;10;25
+r;378207989;240720;400538;10;25
+r;378215672;145953;400538;10;25
+r;378219967;77008;400538;10;25
+r;383801143;213977;400538;10;25
+r;97034892;77424;400538;10;26
+r;73019786;1636805;400538;10;31
+r;72403443;142086;400538;10;37
+r;72403441;144846;400538;10;39
+r;60993678;225934;400538;10;42
+r;93827549;259820;400538;13;1
+r;93829707;140318;400538;13;1
+r;93831849;251694;400538;13;1
+r;93834111;124600;400538;13;1
+r;93836147;43253;400538;13;1
+r;59043072;2442;400538;13;30
+r;59096072;43601;400538;13;30
+r;122103592;120364;400538;17;34
+r;136313572;58134;400538;17;51
+r;78814428;400538;400538;19;34
+r;57968451;1384;400538;23;24
+r;317702655;122864;400538;23;25
+r;378781841;94554;400538;28;25
+r;378781853;20083;400538;28;25
+r;378781865;39031;400538;28;25
+r;390919259;6799130;400538;28;25
+r;105159581;13555;400538;60;26
+r;215153684;13555;400538;72;-28
+r;218820070;464619;400538;72;-25
+r;293861031;2029529;400538;72;-25
+r;293861032;5285;400538;72;-25
+r;293861033;592801;400538;72;-25
+r;293861073;8286536;400538;72;-25
+r;294033854;91959;400538;72;-25
+r;294033855;2029341;400538;72;-25
+r;338739068;13336305;400538;200;2
+r;394691970;14932451;400538;333;26
+r;394691973;15200818;400538;333;26
+r;306054191;9961183;400538;777;10
+r;306054212;1472867;400538;777;10

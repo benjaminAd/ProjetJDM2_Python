@@ -1,0 +1,51 @@
+<CODE>
+// DUMP pour le terme 'cachais' (eid=1996097)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;1996097;'cachais';2;0
+e;30316;'cacher';1;998
+e;14270943;'VerbalPers:P2';4;0
+e;14270942;'VerbalPers:P1';4;0
+e;14270945;'VerbalNumber:SG';4;0
+e;14271094;'VerbalTime:Imparfait';4;0
+e;3093590;'VerbalMode:Indicatif';4;0
+e;14270843;'Ver:IImp+SG+P1';4;0
+e;14270844;'Ver:IImp+SG+P2';4;0
+e;2935006;'VerbalTime:Past';4;0
+e;2946892;'Ver:Conjug';4;0
+e;161722;'Ver:IImp+SG+P1:IImp+SG+P2';4;50
+e;212235;'Ver:';4;50
+e;151553;'_FL:0';6;50
+e;3576104;'Morpho:nospace';18;50
+e;3575927;'Morpho:min';18;50
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;87527285;1996097;30316;0;34
+r;363349864;1996097;14270943;4;25
+r;363341645;1996097;14270942;4;25
+r;363333426;1996097;14270945;4;25
+r;363325205;1996097;14271094;4;25
+r;363320201;1996097;3093590;4;25
+r;363747027;1996097;14270843;4;25
+r;363755252;1996097;14270844;4;25
+r;72118406;1996097;2935006;4;45
+r;72436980;1996097;2946892;4;45
+r;32190740;1996097;161722;4;53
+r;32190744;1996097;212235;4;57
+r;74560214;1996097;151553;12;28
+r;90687294;1996097;3576104;18;26
+r;89702446;1996097;3575927;18;34
+r;32190734;1996097;30316;19;59
+// les relations entrantes : r;rid;node1;node2;type;w 

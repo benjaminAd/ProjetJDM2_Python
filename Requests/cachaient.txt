@@ -1,0 +1,53 @@
+<CODE>
+// DUMP pour le terme 'cachaient' (eid=1996094)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;1996094;'cachaient';2;0
+e;30316;'cacher';1;998
+e;14270944;'VerbalPers:P3';4;0
+e;14270946;'VerbalNumber:PL';4;0
+e;14271094;'VerbalTime:Imparfait';4;0
+e;3093590;'VerbalMode:Indicatif';4;0
+e;2935006;'VerbalTime:Past';4;0
+e;2946892;'Ver:Conjug';4;0
+e;161764;'Ver:IImp+PL+P3';4;50
+e;212235;'Ver:';4;50
+e;15572319;'Des arbres nous cachaient le village.';1;0
+e;151553;'_FL:0';6;50
+e;3576104;'Morpho:nospace';18;50
+e;3575927;'Morpho:min';18;50
+e;2983124;'_SW';36;50
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;11;'r_locution';'locution';A partir d'un terme, il est demandé d'énumérer les locutions, expression ou mots composés en rapport avec ce terme. Par exemple, pour 'moulin', ou pourra avoir 'moulin à vent', 'moulin à eau', 'moulin à café'. Pour 'vendre', on pourra avoir 'vendre la peau de l'ours avant de l'avoir tué', 'vendre à perte', etc..
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;555;'r_cooccurrence';'r_cooccurrence';co-occurences (non utilisée)
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;87527280;1996094;30316;0;27
+r;363376350;1996094;14270944;4;25
+r;363368084;1996094;14270946;4;25
+r;363359818;1996094;14271094;4;25
+r;363354199;1996094;3093590;4;25
+r;72118404;1996094;2935006;4;45
+r;72436975;1996094;2946892;4;45
+r;32190724;1996094;161764;4;56
+r;32190729;1996094;212235;4;60
+r;399661629;1996094;15572319;11;50
+r;74560213;1996094;151553;12;26
+r;90687297;1996094;3576104;18;26
+r;89702449;1996094;3575927;18;31
+r;32190719;1996094;30316;19;58
+r;74103048;1996094;2983124;555;375
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;399661630;15572319;1996094;0;50

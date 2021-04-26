@@ -1,0 +1,49 @@
+<CODE>
+// DUMP pour le terme 'cacherais' (eid=1996225)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;1996225;'cacherais';2;0
+e;30316;'cacher';1;998
+e;14270838;'Ver:CPre+SG+P1';4;0
+e;3094354;'VerbalMode:Conditionnel';4;0
+e;14270839;'Ver:CPre+SG+P2';4;0
+e;2935005;'VerbalTime:Present';4;0
+e;14270942;'VerbalPers:P1';4;0
+e;14270943;'VerbalPers:P2';4;0
+e;14270945;'VerbalNumber:SG';4;0
+e;2946892;'Ver:Conjug';4;0
+e;161758;'Ver:CPre+SG+P1:CPre+SG+P2';4;50
+e;212235;'Ver:';4;50
+e;151553;'_FL:0';6;50
+e;3576104;'Morpho:nospace';18;50
+e;3575927;'Morpho:min';18;50
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;87527376;1996225;30316;0;35
+r;361893217;1996225;14270838;4;25
+r;361900344;1996225;3094354;4;25
+r;361901948;1996225;14270839;4;25
+r;361910404;1996225;2935005;4;25
+r;363592619;1996225;14270942;4;25
+r;363579860;1996225;14270943;4;25
+r;363571760;1996225;14270945;4;25
+r;72437034;1996225;2946892;4;45
+r;32190990;1996225;161758;4;56
+r;32190993;1996225;212235;4;69
+r;74560240;1996225;151553;12;29
+r;90687166;1996225;3576104;18;26
+r;89702318;1996225;3575927;18;32
+r;32190985;1996225;30316;19;59
+// les relations entrantes : r;rid;node1;node2;type;w 

@@ -1,0 +1,83 @@
+<CODE>
+// DUMP pour le terme 'cachable' (eid=2441719)
+<def>
+<br />
+1. (Rare) Qui peut être caché.<br /> 
+ C'était une maladie honteuse ; cela devient un dysfonctionnement au même titre que l'énurésie, à ceci près que ce symptôme est moins « cachable » à l' environnement.    
+ (Vincent Laupies et Michel Rendu, La thérapie familiale au quotidien : Parcours alphabétique, 2004)  <br />
+2. Modèle:architecture des ordinateurs? Qui peut être mis en cache.<br /> 
+ Sur ces cartes, il n'est (vraiment) pas conseillé de dépasser la taille maximale de la mémoire cachable, au risque de constater une décroissance très netter des performances.    
+ (Michel Martin, Dépanner et upgrader son PC, 2007)  
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;4;'n_pos'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;444;'n_link'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;2441719;'cachable';1;0
+e;14925553;'en:cachable';1;0
+e;14925554;'en:cacheable';1;0
+e;239128;'_COM';36;50
+e;146888;'Adj:Mas+SG';4;50
+e;2586627;'Gender:Mas';4;0
+e;2586628;'Gender:Fem';4;0
+e;2586629;'Number:Sing';4;0
+e;146894;'Adj:Fem+SG';4;50
+e;171869;'Adj:';4;50
+e;14916413;'Langue:français';18;50
+e;7332979;'Langue:anglais';18;50
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+e;2580064;'Langage:rare';18;0
+e;217817;'_INFO-POLYSEMIC';36;50
+e;273221;'_INFO-WIKI-NO';36;50
+e;243007;'_INFO-LRARE';36;50
+e;2585997;'_INFO-CNRTL-NO';36;50
+e;3920050;'dbnary:fra:__ws_1_cachable__adj__1';444;0
+e;4131956;'dbnary:fra:__ws_2_cachable__adj__1';444;0
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;5;'r_syn';'synonyme';Il est demandé d'énumérer les synonymes ou quasi-synonymes de ce terme.
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;72;'r_syn_strict';'r_syn_strict';Termes strictement substituables, pour des termes hors du domaine général, et pour la plupart des noms (exemple : endométriose intra-utérine --> adénomyose)
+rt;333;'r_translation';'r_translation';Traduction vers une autre langue.
+rt;444;'r_link';'r_link';Lien vers une ressource externe (WordNet, RadLex, UMLS, Wikipedia, etc...)
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;390971527;2441719;14925553;0;25
+r;416095252;2441719;14925554;0;25
+r;52761264;2441719;239128;0;1000000
+r;373102342;2441719;146888;4;26
+r;373105548;2441719;2586627;4;26
+r;373107149;2441719;2586628;4;26
+r;373108750;2441719;2586629;4;26
+r;373103945;2441719;146894;4;30
+r;52307179;2441719;171869;4;45
+r;390971528;2441719;14925553;5;25
+r;390125799;2441719;14916413;18;25
+r;390125801;2441719;7332979;18;25
+r;89329830;2441719;3575927;18;30
+r;90287980;2441719;3576104;18;35
+r;52989114;2441719;2580064;18;40
+r;390125797;2441719;2441719;19;25
+r;390125804;2441719;217817;36;25
+r;312458126;2441719;273221;36;30
+r;52557079;2441719;243007;36;40
+r;55275401;2441719;2585997;36;59
+r;390125802;2441719;14925553;72;25
+r;390125795;2441719;14925553;333;25
+r;390125806;2441719;14925554;333;25
+r;94304864;2441719;3920050;444;1
+r;94495242;2441719;4131956;444;1
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;390971529;14925553;2441719;0;23
+r;416095251;14925554;2441719;0;25
+r;390971530;14925553;2441719;5;25
+r;390125797;2441719;2441719;19;25
+r;390125803;14925553;2441719;72;25
+r;390125796;14925553;2441719;333;25
+r;390125807;14925554;2441719;333;25

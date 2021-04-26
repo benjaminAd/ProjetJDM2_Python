@@ -1,0 +1,136 @@
+<CODE>
+// DUMP pour le terme 'caches' (eid=1996272)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;200;'n_context'
+nt;777;'n_wikipedia'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;1996272;'caches';2;0
+e;14925573;'en:cache';1;0
+e;30316;'cacher';1;998
+e;141851;'cache';1;108
+e;14293862;'caches>2946892';1;0;'caches>Ver:Conjug'
+e;14293863;'caches>171870';1;0;'caches>Nom:'
+e;104993;'informatique';1;3048
+e;171869;'Adj:';4;50
+e;3093591;'VerbalMode:Subjonctif';4;0
+e;14270943;'VerbalPers:P2';4;0
+e;14270945;'VerbalNumber:SG';4;0
+e;161718;'Ver:SPre+SG+P2';4;50
+e;161717;'Ver:IPre+SG+P2';4;50
+e;3093590;'VerbalMode:Indicatif';4;0
+e;2586628;'Gender:Fem';4;0
+e;2586630;'Number:Plur';4;0
+e;2586627;'Gender:Mas';4;0
+e;2935005;'VerbalTime:Present';4;0
+e;2946892;'Ver:Conjug';4;0
+e;212235;'Ver:';4;50
+e;161710;'Ver:IPre+SG+P2:SPre+SG+P2';4;50
+e;146893;'Nom:Fem+PL';4;50
+e;146887;'Nom:Mas+PL';4;50
+e;171870;'Nom:';4;50
+e;15492471;'Tu me caches quelque chose!';1;0
+e;12080492;'peintre de caches';1;0
+e;151553;'_FL:0';6;50
+e;14916413;'Langue:français';18;50
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+e;438949;'_INFO-POLYMORPHIC';36;50
+e;1912917;'_INFO-COUNTABLE-YES';36;0
+e;12694533;'2dae8bf49d94a6cb9ce30b58c65e6f10';200;0
+e;12720966;'3842cae1ae4c70fedcdb5f0e0d9d71b4';200;0
+e;12773210;'ca838d9772b0c9ea9e0b86aac2a6bcf5';200;0
+e;12692538;'a8c9df7d2e3fd759fdb767e4adfbae28';200;0
+e;14137074;'73646b08b6ca8eb7411f158f6d7236b8';200;0
+e;14756181;'0a1b75d681ffd490a8c41d4b0b6444df';200;0
+e;2983124;'_SW';36;50
+e;2469635;'quad-core';1;0
+e;96211;'coeur';1;2308
+e;234847;'microprocesseur multi-coeur';1;50
+e;2381003;'dual-core';1;0
+e;1824666;'multicore';1;0
+e;737440;'processeur double coeur';777;0
+e;187139;'Dual Core';1;50
+e;5526351;'OnyX';777;0
+e;6682050;'loi relative au renseignement';777;0
+e;14549108;'manifestation contre le projet de loi renseignement';777;0
+e;89231;'unité centrale';1;106
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;2;'r_raff_morpho';'raffinement morphologique';Raffinement morphologique vers un usage particulier du terme source
+rt;3;'r_domain';'domaine';Il est demandé de fournir des domaines relatifs au mot cible. Par exemple, pour 'corner', on pourra donner les domaines 'football' ou 'sport'.
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;11;'r_locution';'locution';A partir d'un terme, il est demandé d'énumérer les locutions, expression ou mots composés en rapport avec ce terme. Par exemple, pour 'moulin', ou pourra avoir 'moulin à vent', 'moulin à eau', 'moulin à café'. Pour 'vendre', on pourra avoir 'vendre la peau de l'ours avant de l'avoir tué', 'vendre à perte', etc..
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;200;'r_context';'r_context';Relation de contexte entre un terme et un noeud contexte.
+rt;333;'r_translation';'r_translation';Traduction vers une autre langue.
+rt;555;'r_cooccurrence';'r_cooccurrence';co-occurences (non utilisée)
+rt;777;'r_wiki';'r_wiki';Associations issues de wikipedia...
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;415360511;1996272;14925573;0;25
+r;87515400;1996272;30316;0;26
+r;87515399;1996272;141851;0;41
+r;363934962;1996272;14293862;2;45
+r;363934966;1996272;14293863;2;45
+r;396727722;1996272;104993;3;25
+r;396727717;1996272;171869;4;25
+r;363196227;1996272;3093591;4;25
+r;362954937;1996272;14270943;4;25
+r;362946545;1996272;14270945;4;25
+r;362938078;1996272;161718;4;25
+r;362929616;1996272;161717;4;25
+r;362922716;1996272;3093590;4;25
+r;53990550;1996272;2586628;4;45
+r;54006717;1996272;2586630;4;45
+r;54090692;1996272;2586627;4;45
+r;72096901;1996272;2935005;4;45
+r;72432849;1996272;2946892;4;45
+r;32154916;1996272;212235;4;52
+r;32154915;1996272;161710;4;58
+r;32191083;1996272;146893;4;59
+r;32154912;1996272;146887;4;60
+r;32154913;1996272;171870;4;66
+r;419555534;1996272;15492471;11;25
+r;315112560;1996272;12080492;11;35
+r;74560249;1996272;151553;12;31
+r;396727721;1996272;14916413;18;25
+r;89702271;1996272;3575927;18;30
+r;90687119;1996272;3576104;18;31
+r;32154911;1996272;141851;19;51
+r;32154914;1996272;30316;19;60
+r;363934965;1996272;438949;36;29
+r;32936299;1996272;1912917;36;40
+r;325312116;1996272;12694533;200;1
+r;326541215;1996272;12720966;200;1
+r;327755087;1996272;12773210;200;1
+r;325223462;1996272;12692538;200;2
+r;358544412;1996272;14137074;200;2
+r;375113374;1996272;14756181;200;2
+r;396727719;1996272;14925573;333;26
+r;74058137;1996272;2983124;555;2367
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;419555535;15492471;1996272;0;1
+r;315112561;12080492;1996272;0;11
+r;415360510;14925573;1996272;0;25
+r;396727720;14925573;1996272;333;26
+r;55845698;2469635;1996272;777;8
+r;52707627;96211;1996272;777;9
+r;52707626;234847;1996272;777;10
+r;52707629;2381003;1996272;777;10
+r;71662354;1824666;1996272;777;10
+r;71734853;737440;1996272;777;10
+r;75953872;187139;1996272;777;10
+r;109407428;5526351;1996272;777;10
+r;122596409;6682050;1996272;777;10
+r;369822900;14549108;1996272;777;10
+r;430757967;89231;1996272;777;10
