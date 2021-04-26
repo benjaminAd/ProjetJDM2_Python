@@ -1,0 +1,134 @@
+<CODE>
+// DUMP pour le terme 'dÃ©range' (eid=2044755)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;200;'n_context'
+nt;777;'n_wikipedia'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;2044755;'dérange';2;0
+e;72449;'déranger';1;106
+e;14295890;'dérange>2946892';1;0;'dérange>Ver:Conjug'
+e;14295891;'dérange>171870';1;0;'dérange>Nom:'
+e;3093590;'VerbalMode:Indicatif';4;0
+e;14270798;'VerbalMode:Impératif';4;0
+e;14270847;'Ver:ImPre+SG+P2';4;0
+e;3093591;'VerbalMode:Subjonctif';4;0
+e;14270944;'VerbalPers:P3';4;0
+e;14270943;'VerbalPers:P2';4;0
+e;14270942;'VerbalPers:P1';4;0
+e;14270945;'VerbalNumber:SG';4;0
+e;150120;'Ver:SPre+SG+P3';4;50
+e;150119;'Ver:SPre+SG+P1';4;50
+e;150118;'Ver:IPre+SG+P3';4;50
+e;150117;'Ver:IPre+SG+P1';4;50
+e;2586628;'Gender:Fem';4;0
+e;2586629;'Number:Sing';4;0
+e;2935005;'VerbalTime:Present';4;0
+e;2946892;'Ver:Conjug';4;0
+e;212235;'Ver:';4;50
+e;171870;'Nom:';4;50
+e;146881;'Nom:Fem+SG';4;50
+e;161698;'Ver:IPre+SG+P1:IPre+SG+P3:SPre+SG+P1:SPre+SG+P3:ImPre+SG+P2';4;50
+e;14334814;'Une vérité qui dérange';777;0
+e;15383780;'cela ne me dérange pas';1;0
+e;15383767;'en quoi est-ce que cela dérange';1;0
+e;5984916;'une vérité qui dérange';777;0
+e;15381389;'Elle me dérange sans cesse.';1;0
+e;15391297;'Cela vous dérange si j'ouvre la fenêtre?';1;0
+e;15391299;'Cela vous dérange si j'ouvre une fenêtre?';1;0
+e;15445564;'Je ne vous dérange pas ?';1;0
+e;151553;'_FL:0';6;50
+e;3576104;'Morpho:nospace';18;50
+e;3575927;'Morpho:min';18;50
+e;438949;'_INFO-POLYMORPHIC';36;50
+e;13267182;'2a5e40fa3a48ed2d8116e31c3b36cb1a';200;0
+e;12772108;'5193bf28c0cdbdbf408f6d02bc5e8aa2';200;0
+e;14026176;'c8b5c1425be0433d77fde4bc51e06fac';200;0
+e;14173430;'d13c8c5fdbdc11f57b034a0aeded7d7e';200;0
+e;14311579;'00da5658c299d01b76d07ea5496fc1cd';200;0
+e;2983124;'_SW';36;50
+e;3433;'littérature engagée';1;64
+e;81509;'dérangeur';1;50
+e;16158754;'en:Am I bothering you? Am I disturbing you?';1;0
+e;15445566;'en:I hope I'm not disturbing you';1;0
+e;15445565;'en:I hope I'm not bothering you';1;0
+e;2044887;'déranges';2;0
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;2;'r_raff_morpho';'raffinement morphologique';Raffinement morphologique vers un usage particulier du terme source
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;11;'r_locution';'locution';A partir d'un terme, il est demandé d'énumérer les locutions, expression ou mots composés en rapport avec ce terme. Par exemple, pour 'moulin', ou pourra avoir 'moulin à vent', 'moulin à eau', 'moulin à café'. Pour 'vendre', on pourra avoir 'vendre la peau de l'ours avant de l'avoir tué', 'vendre à perte', etc..
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;200;'r_context';'r_context';Relation de contexte entre un terme et un noeud contexte.
+rt;555;'r_cooccurrence';'r_cooccurrence';co-occurences (non utilisée)
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;87595253;2044755;72449;0;30
+r;363942060;2044755;14295890;2;45
+r;363942064;2044755;14295891;2;45
+r;361877544;2044755;3093590;4;25
+r;361878345;2044755;14270798;4;25
+r;363207413;2044755;14270847;4;25
+r;363195869;2044755;3093591;4;25
+r;363028444;2044755;14270944;4;25
+r;363019453;2044755;14270943;4;25
+r;363010488;2044755;14270942;4;25
+r;363001611;2044755;14270945;4;25
+r;362992718;2044755;150120;4;25
+r;362983543;2044755;150119;4;25
+r;362974549;2044755;150118;4;25
+r;362965620;2044755;150117;4;25
+r;54047594;2044755;2586628;4;45
+r;54079843;2044755;2586629;4;45
+r;72106937;2044755;2935005;4;45
+r;72475081;2044755;2946892;4;45
+r;32380120;2044755;212235;4;58
+r;32587651;2044755;171870;4;58
+r;32587652;2044755;146881;4;60
+r;32380114;2044755;161698;4;65
+r;364677660;2044755;14334814;11;25
+r;419692254;2044755;15383780;11;25
+r;419842557;2044755;15383767;11;25
+r;117893843;2044755;5984916;11;41
+r;397499363;2044755;15381389;11;50
+r;395013351;2044755;15391297;11;50
+r;395013361;2044755;15391299;11;50
+r;402273239;2044755;15445564;11;50
+r;74608296;2044755;151553;12;31
+r;90637006;2044755;3576104;18;29
+r;89653500;2044755;3575927;18;34
+r;32537639;2044755;2044755;19;60
+r;32380108;2044755;72449;19;62
+r;363942063;2044755;438949;36;26
+r;337523134;2044755;13267182;200;1
+r;327710201;2044755;12772108;200;2
+r;354088010;2044755;14026176;200;2
+r;360257965;2044755;14173430;200;2
+r;364255946;2044755;14311579;200;8
+r;74128597;2044755;2983124;555;1185
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;364677661;14334814;2044755;0;1
+r;419692255;15383780;2044755;0;1
+r;419842558;15383767;2044755;0;1
+r;423083411;3433;2044755;0;1
+r;427254982;81509;2044755;0;1
+r;432200470;16158754;2044755;0;10
+r;432200712;15445566;2044755;0;10
+r;432200715;15445565;2044755;0;10
+r;117893844;5984916;2044755;0;11
+r;87646234;2044887;2044755;0;28
+r;397499364;15381389;2044755;0;50
+r;395013352;15391297;2044755;0;50
+r;395013362;15391299;2044755;0;50
+r;402273240;15445564;2044755;0;50
+r;32537640;2044887;2044755;19;56
+r;32537639;2044755;2044755;19;60

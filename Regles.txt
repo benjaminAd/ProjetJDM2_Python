@@ -241,3 +241,4 @@ Adj:Mas+SG;$;Adj:Mas+PL;s;$
 Adj:Fem+SG;$;Adj:Fem+PL;es;$
 Adj:Mas+SG;$;Adj:Fem+PL;es;$
 Nom:;ère;Nom:;ereau;$
+Ver:;ge;Adj:;geable;$

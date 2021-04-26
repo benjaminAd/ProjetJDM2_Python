@@ -107,8 +107,7 @@ class JDM:
     def checkIfWordExist(self, mot, typeMot):
         jdm2 = JDM(mot)
         if os.path.isfile(jdm2.nettoyerPath):
-            jdm2.nettoyage()
-            return jdm2.checkSemantique(typeMot)
+            return True
         else:
             if jdm2.checkIfNeology(jdm2.requestToJDM()):
                 return jdm2.checkSemantique(typeMot)

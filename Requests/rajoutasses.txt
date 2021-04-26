@@ -1,0 +1,45 @@
+<CODE>
+// DUMP pour le terme 'rajoutasses' (eid=2080834)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;2080834;'rajoutasses';2;0
+e;87561;'rajouter';1;68
+e;161741;'Ver:SImp+SG+P2';4;50
+e;212235;'Ver:';4;50
+e;2935006;'VerbalTime:Past';4;0
+e;2946892;'Ver:Conjug';4;0
+e;3093591;'VerbalMode:Subjonctif';4;0
+e;14270943;'VerbalPers:P2';4;0
+e;14270945;'VerbalNumber:SG';4;0
+e;14271094;'VerbalTime:Imparfait';4;0
+e;151553;'_FL:0';6;50
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;87597324;2080834;87561;0;31
+r;32385890;2080834;161741;4;57
+r;32385894;2080834;212235;4;58
+r;75555146;2080834;2935006;4;45
+r;72476206;2080834;2946892;4;45
+r;75555145;2080834;3093591;4;45
+r;362848452;2080834;14270943;4;25
+r;362840438;2080834;14270945;4;25
+r;363701133;2080834;14271094;4;25
+r;74740441;2080834;151553;12;30
+r;89617020;2080834;3575927;18;37
+r;90600401;2080834;3576104;18;35
+r;32385884;2080834;87561;19;56
+// les relations entrantes : r;rid;node1;node2;type;w 

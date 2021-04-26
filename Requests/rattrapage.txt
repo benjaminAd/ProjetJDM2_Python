@@ -1,0 +1,312 @@
+<CODE>
+// DUMP pour le terme 'rattrapage' (eid=94604)
+<def>
+<br />
+Action de se rattraper, de regagner.<br /> 
+ Il serait peut-être prudent de ne pas quitter un ancien fournisseur, pour réaliser l'économie offerte, avant de s'assurer si elle existe bien et sans le rattrapage sur la quantité ou la qualité.    
+ (Gazette des Tribunaux 9 juin 1875, p. 552, 3e colonne)  
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;200;'n_context'
+nt;444;'n_link'
+nt;777;'n_wikipedia'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;94604;'rattrapage';1;86
+e;17408;'manutention';1;136
+e;15356135;'en:catch-up';1;0
+e;15313907;'en:making up';1;0
+e;15247178;'en:catching up';1;0
+e;14959120;'en:retrofit';1;0
+e;375414;'rattrapage scolaire';1;50
+e;375413;'rattrapage salarial';1;50
+e;375412;'rattrapage de jeu';1;50
+e;239128;'_COM';36;50
+e;134536;'économie';1;1908
+e;132284;'reprise';1;298
+e;125780;'reprendre';1;162
+e;124051;'récupération';1;134
+e;111271;'compensation';1;74
+e;104993;'informatique';1;3048
+e;40253;'reconquête';1;52
+e;95156;'rattraper';1;200
+e;23061;'raccrochage';1;50
+e;33701;'soutien';1;368
+e;63404;'rajustement';1;50
+e;171870;'Nom:';4;50
+e;2586627;'Gender:Mas';4;0
+e;2586629;'Number:Sing';4;0
+e;146885;'Nom:Mas+SG';4;50
+e;112929;'action';1;1076
+e;9962045;'rattrapage télé';777;0
+e;10592873;'rattrapage technologique';777;0
+e;9012830;'passer le rattrapage';1;0
+e;2845236;'aller au rattrapage';1;0
+e;12903776;'avoir le bac au rattrapage';1;0
+e;2487396;'boucle de rattrapage';1;0
+e;14583968;'prendre des cours de rattrapage';1;0
+e;9962044;'télévision de rattrapage';777;0
+e;6334476;'traitement de rattrapage';1;0
+e;15287915;'TV de rattrapage';1;0
+e;349834;'effet de rattrapage';1;50
+e;329357;'session de rattrapage';1;54
+e;15356132;'classe de rattrapage';1;0
+e;258342;'épreuve de rattrapage';1;2
+e;258036;'cours de rattrapage';1;50
+e;255283;'oral de rattrapage';1;14
+e;151553;'_FL:0';6;50
+e;62880;'économique';1;182
+e;9538;'possible';1;214
+e;3576104;'Morpho:nospace';18;50
+e;14916413;'Langue:français';18;50
+e;3575927;'Morpho:min';18;50
+e;217817;'_INFO-POLYSEMIC';36;50
+e;191672;'_INFO-SEM-ACTION';36;36
+e;254878;'_POL-NEG_PC';36;50
+e;15991432;'_ANIME-NO';36;50
+e;254877;'_POL-NEUTRE_PC';36;50
+e;276096;'_INFO-WIKI-YES';36;50
+e;223172;'_POL-NEG';36;50
+e;223173;'_POL-POS';36;50
+e;254876;'_POL-POS_PC';36;50
+e;2585996;'_INFO-CNRTL-YES';36;50
+e;241794;'_POL-NEUTRE';36;50
+e;248198;'_SEX_NO';36;50
+e;251716;'_INFO-MONOSEMIC';36;50
+e;252440;'échouer au bac';1;4
+e;16162222;'09fa73f760792dda409040b87818258b';200;0
+e;12791529;'e15cf933a763a6b1dd392c287c2c27d3';200;0
+e;12736306;'faf448e909279ee61bd27a8d8fcb6970';200;0
+e;3228593;'wiki:@';444;0
+e;3956419;'dbnary:fra:__ws_1_rattrapage__nom__1';444;0
+e;2983124;'_SW';36;50
+e;10180354;'Rattrapage';777;0
+e;268962;'accident ferroviaire';1;42
+e;15271593;'se représenter à';1;0
+e;15224887;'en:underachieving student';1;0
+e;361326;'leçon particulière';1;50
+e;14933402;'en:tutorial';1;0
+e;253916;'se faire coller';1;20
+e;15230599;'épreuve de repêchage';1;0
+e;155585;'deuxième chance';1;76
+e;123769;'étudiant';1;2162
+e;332622;'passer les oraux';1;50
+e;255267;'se faire coller>126824';1;10;'se faire coller>être recalé'
+e;2087321;'rattrapages';2;0
+e;15230600;'en:resit';1;0
+e;15429486;'examen de rattrapage';1;0
+e;235708;'cours privé';1;50
+e;15429487;'en:retake exam';1;0
+e;15429488;'en:resit exam';1;0
+e;15270046;'en:catch up effect';1;0
+e;15261928;'en:private tuition';1;0
+e;15225110;'en:private lesson';1;0
+e;235827;'cours particulier';1;10
+e;15569425;'copie d'étudiant';1;0
+e;255282;'se faire repêcher';1;50
+e;14171668;'session d'examens';1;4
+e;235686;'élève en difficulté';1;50
+e;15217590;'en:second chance';1;0
+e;249609;'seconde chance';1;50
+e;166120;'course poursuite';1;74
+e;277062;'économie de la France';777;50
+e;277063;'économie française';777;50
+e;92410;'repêchage';1;58
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;3;'r_domain';'domaine';Il est demandé de fournir des domaines relatifs au mot cible. Par exemple, pour 'corner', on pourra donner les domaines 'football' ou 'sport'.
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;5;'r_syn';'synonyme';Il est demandé d'énumérer les synonymes ou quasi-synonymes de ce terme.
+rt;6;'r_isa';'générique';Il est demandé d'énumérer les GENERIQUES/hyperonymes du terme. Par exemple, 'animal' et 'mammifère' sont des génériques de 'chat'.
+rt;8;'r_hypo';'spécifique';Il est demandé d'énumérer des SPECIFIQUES/hyponymes du terme. Par exemple, 'mouche', 'abeille', 'guêpe' pour 'insecte'.
+rt;11;'r_locution';'locution';A partir d'un terme, il est demandé d'énumérer les locutions, expression ou mots composés en rapport avec ce terme. Par exemple, pour 'moulin', ou pourra avoir 'moulin à vent', 'moulin à eau', 'moulin à café'. Pour 'vendre', on pourra avoir 'vendre la peau de l'ours avant de l'avoir tué', 'vendre à perte', etc..
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;17;'r_carac';'caractéristique';Pour un terme donné, souvent un objet, il est demandé d'en énumérer les CARACtéristiques (adjectifs) possibles/typiques. Par exemple, 'liquide', 'froide', 'chaude', pour 'eau'.
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;23;'r_carac-1';'caractéristique-1';Quels sont les objets (des noms) possédant typiquement/possiblement la caractérisque suivante ? Par exemple, 'soleil', 'feu', pour 'chaud'.
+rt;27;'r_domain-1';'domaine-1';inverse de r_domain : à un domaine, on associe des termes
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;39;'r_verbe-action';'verbe>action';du verbe vers l'action. Par exemple, construire -> construction , jardiner -> jardinage . C'est un terme directement dérivé (ayant la même racine). Applicable que pour un verbe et inverse de la relation 40 (action vers verbe).
+rt;40;'r_action-verbe';'action>verbe';de l'action vers le verbe. Par exemple, construction -> construire, jardinage -> jardiner. C'est un terme directement dérivé (ayant la même racine). Applicable que pour un nom et inverse de la relation 39 (verbe vers action).
+rt;41;'r_conseq';'conséquence';B (que vous devez donner) est une CONSEQUENCE possible de A. A et B sont des verbes ou des noms.  Exemples : tomber -> se blesser ; faim -> voler ; allumer -> incendie ; négligence --> accident ; etc.
+rt;42;'r_causatif';'cause';B (que vous devez donner) est une CAUSE possible de A. A et B sont des verbes ou des noms.  Exemples : se blesser -> tomber ; vol -> pauvreté ; incendie -> négligence ; mort --> maladie ; etc.
+rt;200;'r_context';'r_context';Relation de contexte entre un terme et un noeud contexte.
+rt;333;'r_translation';'r_translation';Traduction vers une autre langue.
+rt;444;'r_link';'r_link';Lien vers une ressource externe (WordNet, RadLex, UMLS, Wikipedia, etc...)
+rt;555;'r_cooccurrence';'r_cooccurrence';co-occurences (non utilisée)
+rt;777;'r_wiki';'r_wiki';Associations issues de wikipedia...
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;418294579;94604;17408;0;25
+r;415671313;94604;15356135;0;25
+r;415671335;94604;15313907;0;25
+r;415671337;94604;15247178;0;25
+r;415671315;94604;14959120;0;25
+r;33900454;94604;375414;0;7
+r;33900345;94604;375413;0;7
+r;33900792;94604;375412;0;7
+r;24075439;94604;239128;0;1000000
+r;418294582;94604;134536;0;25
+r;981600;94604;132284;0;22
+r;418294580;94604;125780;0;21
+r;981596;94604;124051;0;29
+r;418294583;94604;111271;0;26
+r;15422209;94604;104993;0;45
+r;981599;94604;40253;0;24
+r;11987287;94604;95156;0;34
+r;59227485;94604;23061;0;21
+r;981598;94604;33701;0;24
+r;981597;94604;63404;0;27
+r;418294578;94604;17408;3;25
+r;418294581;94604;134536;3;25
+r;454563;94604;104993;3;42
+r;1947518;94604;171870;4;78
+r;54140537;94604;2586627;4;45
+r;54179662;94604;2586629;4;45
+r;48294;94604;146885;4;55
+r;55345824;94604;23061;5;55
+r;55345825;94604;63404;5;57
+r;78605574;94604;112929;6;34
+r;243396965;94604;9962045;8;25
+r;346615926;94604;10592873;8;1
+r;33857731;94604;375414;8;28
+r;33857622;94604;375413;8;27
+r;33857606;94604;375412;8;32
+r;195337498;94604;9012830;11;50
+r;221022886;94604;9962045;11;31
+r;69028813;94604;2845236;11;56
+r;264459058;94604;10592873;11;30
+r;331163968;94604;12903776;11;30
+r;52482176;94604;2487396;11;59
+r;12600263;94604;375414;11;101
+r;370557685;94604;14583968;11;26
+r;221012765;94604;9962044;11;30
+r;12600267;94604;375413;11;102
+r;349187159;94604;6334476;11;25
+r;12600271;94604;375412;11;109
+r;419550490;94604;15287915;11;25
+r;12703895;94604;349834;11;104
+r;11598914;94604;329357;11;148
+r;419712582;94604;15356132;11;25
+r;8723908;94604;258342;11;161
+r;8723448;94604;258036;11;161
+r;8719596;94604;255283;11;161
+r;1897354;94604;151553;12;27
+r;372882276;94604;62880;17;26
+r;416166297;94604;9538;17;25
+r;90863804;94604;3576104;18;28
+r;394721567;94604;14916413;18;25
+r;90000462;94604;3575927;18;32
+r;328040;94604;94604;19;60
+r;418294576;94604;217817;36;25
+r;11954861;94604;191672;36;41
+r;26980168;94604;254878;36;8
+r;418294577;94604;15991432;36;25
+r;9306574;94604;254877;36;30
+r;263956399;94604;276096;36;26
+r;26652981;94604;223172;36;38
+r;9136255;94604;223173;36;336
+r;9306573;94604;254876;36;67
+r;55345823;94604;2585996;36;52
+r;9162660;94604;241794;36;128
+r;2558684;94604;248198;36;16
+r;96149815;94604;251716;36;-35
+r;1066946;94604;95156;40;56
+r;14661968;94604;252440;42;71
+r;423518832;94604;16162222;200;2
+r;328254698;94604;12791529;200;3
+r;327192744;94604;12736306;200;4
+r;394721616;94604;14959120;333;25
+r;394721565;94604;15247178;333;25
+r;394721569;94604;15313907;333;25
+r;394721619;94604;15356135;333;25
+r;78114164;94604;3228593;444;28
+r;94337293;94604;3956419;444;1
+r;74055064;94604;2983124;555;1702
+r;263956398;94604;10180354;777;10
+r;7344189;94604;268962;777;10
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;349187161;6334476;94604;0;1
+r;419550491;15287915;94604;0;1
+r;419712583;15356132;94604;0;1
+r;370557686;14583968;94604;0;2
+r;221012766;9962044;94604;0;6
+r;331163969;12903776;94604;0;6
+r;221022888;9962045;94604;0;7
+r;264459059;10592873;94604;0;7
+r;405658916;15271593;94604;0;10
+r;426383864;15224887;94604;0;10
+r;430993835;361326;94604;0;10
+r;431127901;14933402;94604;0;10
+r;97346303;253916;94604;0;15
+r;401730800;15230599;94604;0;20
+r;408958261;155585;94604;0;20
+r;15422208;104993;94604;0;22
+r;987815;132284;94604;0;23
+r;59246931;23061;94604;0;24
+r;415671312;15356135;94604;0;25
+r;415671314;14959120;94604;0;25
+r;415671334;15313907;94604;0;25
+r;415671336;15247178;94604;0;25
+r;11987286;95156;94604;0;26
+r;979797;63404;94604;0;27
+r;1924492;123769;94604;0;27
+r;12456657;332622;94604;0;27
+r;1011124;33701;94604;0;28
+r;2392147;255267;94604;0;28
+r;87606951;2087321;94604;0;29
+r;983093;40253;94604;0;30
+r;401170451;15230600;94604;0;30
+r;407407218;15429486;94604;0;30
+r;409402720;235708;94604;0;30
+r;409638083;15429487;94604;0;30
+r;409638105;15429488;94604;0;30
+r;994894;124051;94604;0;31
+r;397193989;15270046;94604;0;31
+r;407335976;15261928;94604;0;40
+r;407346931;15225110;94604;0;40
+r;1882985;235827;94604;0;45
+r;52482177;2487396;94604;0;46
+r;195337499;9012830;94604;0;50
+r;399702978;15569425;94604;0;50
+r;28179001;255282;94604;0;51
+r;371551405;14171668;94604;0;51
+r;69028814;2845236;94604;0;55
+r;106878930;235686;94604;0;55
+r;396810512;15217590;94604;0;65
+r;278748022;249609;94604;0;66
+r;12703896;349834;94604;0;101
+r;12600272;375412;94604;0;107
+r;12600264;375414;94604;0;109
+r;12600268;375413;94604;0;109
+r;9531615;255283;94604;0;147
+r;9535525;258036;94604;0;147
+r;11598915;329357;94604;0;148
+r;9535977;258342;94604;0;167
+r;55412022;63404;94604;5;52
+r;55154605;23061;94604;5;58
+r;221022890;9962045;94604;6;26
+r;264459060;10592873;94604;6;26
+r;33850658;375413;94604;6;35
+r;33850701;375412;94604;6;35
+r;33850270;375414;94604;6;41
+r;378318527;112929;94604;8;25
+r;32412912;2087321;94604;19;55
+r;328040;94604;94604;19;60
+r;376086474;62880;94604;23;25
+r;15206491;104993;94604;27;29
+r;1066945;95156;94604;39;58
+r;5560473;166120;94604;41;0
+r;12988506;252440;94604;41;141
+r;394721566;15247178;94604;333;25
+r;394721570;15313907;94604;333;25
+r;394721617;14959120;94604;333;25
+r;394721620;15356135;94604;333;25
+r;4142464;277062;94604;777;10
+r;4142468;277063;94604;777;10
+r;18570226;92410;94604;777;10

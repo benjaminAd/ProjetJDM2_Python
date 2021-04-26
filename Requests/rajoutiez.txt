@@ -1,0 +1,53 @@
+<CODE>
+// DUMP pour le terme 'rajoutiez' (eid=2080914)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;2080914;'rajoutiez';2;0
+e;87561;'rajouter';1;68
+e;3093590;'VerbalMode:Indicatif';4;0
+e;14271094;'VerbalTime:Imparfait';4;0
+e;14270946;'VerbalNumber:PL';4;0
+e;14270943;'VerbalPers:P2';4;0
+e;14270842;'Ver:SPre+PL+P2';4;0
+e;14270841;'Ver:IImp+PL+P2';4;0
+e;3093591;'VerbalMode:Subjonctif';4;0
+e;2946892;'Ver:Conjug';4;0
+e;2935006;'VerbalTime:Past';4;0
+e;2935005;'VerbalTime:Present';4;0
+e;212235;'Ver:';4;50
+e;161752;'Ver:IImp+PL+P2:SPre+PL+P2';4;50
+e;151553;'_FL:0';6;50
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;87597429;2080914;87561;0;32
+r;75555114;2080914;3093590;4;45
+r;363389074;2080914;14271094;4;25
+r;363404805;2080914;14270946;4;25
+r;363412622;2080914;14270943;4;25
+r;363396981;2080914;14270842;4;25
+r;363766968;2080914;14270841;4;25
+r;75555115;2080914;3093591;4;45
+r;72476261;2080914;2946892;4;45
+r;72127715;2080914;2935006;4;45
+r;363651069;2080914;2935005;4;25
+r;32386191;2080914;212235;4;62
+r;32386187;2080914;161752;4;62
+r;74740465;2080914;151553;12;28
+r;89616940;2080914;3575927;18;26
+r;90600321;2080914;3576104;18;39
+r;32386182;2080914;87561;19;58
+// les relations entrantes : r;rid;node1;node2;type;w 

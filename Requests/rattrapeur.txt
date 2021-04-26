@@ -1,0 +1,50 @@
+<CODE>
+// DUMP pour le terme 'rattrapeur' (eid=38003)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;4;'n_pos'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;38003;'rattrapeur';1;50
+e;28475;'corriger';1;678
+e;51419;'défaut';1;548
+e;67368;'mécanique';1;686
+e;239128;'_COM';36;50
+e;171869;'Adj:';4;50
+e;2586627;'Gender:Mas';4;0
+e;2586628;'Gender:Fem';4;0
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+e;223172;'_POL-NEG';36;50
+e;241794;'_POL-NEUTRE';36;50
+e;273221;'_INFO-WIKI-NO';36;50
+e;254877;'_POL-NEUTRE_PC';36;50
+e;254878;'_POL-NEG_PC';36;50
+e;2585997;'_INFO-CNRTL-NO';36;50
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;3;'r_domain';'domaine';Il est demandé de fournir des domaines relatifs au mot cible. Par exemple, pour 'corner', on pourra donner les domaines 'football' ou 'sport'.
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;417878706;38003;28475;0;12
+r;417878707;38003;51419;0;12
+r;417878705;38003;67368;0;25
+r;24034943;38003;239128;0;1000000
+r;417878704;38003;67368;3;25
+r;417878701;38003;171869;4;25
+r;417878702;38003;2586627;4;25
+r;417878703;38003;2586628;4;25
+r;90038295;38003;3575927;18;29
+r;90908737;38003;3576104;18;31
+r;424087456;38003;223172;36;2
+r;424087457;38003;241794;36;2
+r;361432570;38003;273221;36;33
+r;424087458;38003;254877;36;50
+r;424087459;38003;254878;36;50
+r;72638425;38003;2585997;36;65
+// les relations entrantes : r;rid;node1;node2;type;w 

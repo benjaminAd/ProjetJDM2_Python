@@ -1,0 +1,70 @@
+<CODE>
+// DUMP pour le terme 'rajoutant' (eid=2080810)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;200;'n_context'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;2080810;'rajoutant';2;0
+e;87561;'rajouter';1;68
+e;146888;'Adj:Mas+SG';4;50
+e;161697;'Ver:PPre';4;50
+e;161701;'Ver:PPre+Mas+SG';4;50
+e;171869;'Adj:';4;50
+e;212235;'Ver:';4;50
+e;2586627;'Gender:Mas';4;0
+e;2586629;'Number:Sing';4;0
+e;151553;'_FL:0';6;50
+e;3576104;'Morpho:nospace';18;50
+e;3575927;'Morpho:min';18;50
+e;438949;'_INFO-POLYMORPHIC';36;50
+e;12697083;'a62051be6ede28bf184817bbb2f545d9';200;0
+e;12708674;'666afd62c0545467e13b260df30328a7';200;0
+e;12720155;'429fd9dee6fcef02259a48472c1ccbe4';200;0
+e;13058044;'e0b8c16357372573ac3919a94eae18cf';200;0
+e;13388264;'507ccf45278b1790bf4896e0d5783d98';200;0
+e;14397423;'11815c0b65a62afe1fe7107a5491887d';200;0
+e;14486669;'77f36d69d83f6f3fc3214298ccd29d75';200;0
+e;2983124;'_SW';36;50
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;79;'r_verb_ppre';'r_verb_ppre';Le participe présent(au masculin singulier) du verbe infinitif. Par exemple, pour manger => mangeant
+rt;200;'r_context';'r_context';Relation de contexte entre un terme et un noeud contexte.
+rt;555;'r_cooccurrence';'r_cooccurrence';co-occurences (non utilisée)
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;87521160;2080810;87561;0;30
+r;75555155;2080810;146888;4;45
+r;32385823;2080810;161697;4;68
+r;32172726;2080810;161701;4;52
+r;75555156;2080810;171869;4;46
+r;32172727;2080810;212235;4;59
+r;75555157;2080810;2586627;4;45
+r;75555158;2080810;2586629;4;45
+r;74740437;2080810;151553;12;28
+r;90600425;2080810;3576104;18;32
+r;89617044;2080810;3575927;18;31
+r;32172725;2080810;87561;19;59
+r;78857715;2080810;2080810;19;40
+r;427378351;2080810;438949;36;25
+r;325420741;2080810;12697083;200;1
+r;325913485;2080810;12708674;200;1
+r;326502087;2080810;12720155;200;3
+r;334705456;2080810;13058044;200;1
+r;339404529;2080810;13388264;200;7
+r;365565497;2080810;14397423;200;2
+r;368148863;2080810;14486669;200;2
+r;74077203;2080810;2983124;555;1110
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;78857715;2080810;2080810;19;40
+r;85734060;87561;2080810;79;30

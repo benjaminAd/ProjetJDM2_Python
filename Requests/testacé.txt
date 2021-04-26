@@ -1,0 +1,436 @@
+<CODE>
+// DUMP pour le terme 'testacÃ©' (eid=110568)
+<def>
+<br />
+1. Couvert d'une écaille dure et forte.<br /> 
+ Les animaux testacés, du genre testacé.  <br />
+2. (Zoologie) Animal à coquille.<br /> 
+ Mes yeux avides y cherchaient des merveilles. [?] Ils eussent voulu voir ces nombreux habitants dont la plupart sont encore inconnus et le seront toujours ; ces poissons de toute espèce, ces testacés sans nombre qui ne s'élèvent jamais au niveau des mers.    
+ (Auteur:Félix Longin, Voyage à la Guadeloupe, Monnoyer, Le Mans, 1848, p. 5)  <br /> 
+ Les huîtres, les moules, les escargots sont des testacés.  
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;10;'n_relation'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;200;'n_context'
+nt;444;'n_link'
+nt;777;'n_wikipedia'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;110568;'testacé';1;50
+e;77424;'oeil';1;3212
+e;101689;'être animé';1;50
+e;225847;'organisme>71624';1;96;'organisme>être vivant'
+e;260820;'entité vivante';1;64
+e;65081;'organisme vivant';1;144
+e;234036;'être vivant>123933';1;258;'être vivant>entité'
+e;237445;'être>68439';1;32;'être>individu'
+e;233133;'animal>117095';1;818;'animal>zoologie'
+e;329657;'choano-organisme';1;62
+e;55823;'métazoaire';1;158
+e;71624;'être vivant';1;1882
+e;325736;'holozoaire';1;60
+e;325731;'opisthoconte';1;76
+e;54794;'eucaryote';1;190
+e;325728;'uniconte';1;42
+e;325741;'choanobionte';1;76
+e;325738;'filozoaire';1;84
+e;120157;'règne animal';1;98
+e;36886;'faune';1;404
+e;21688;'muni';1;58
+e;143246;'coquille';1;560
+e;1636805;'oeil>44335';1;50;'oeil>organe'
+e;17559;'animal';1;13917
+e;153845;'Minéralogie';1;112
+e;77008;'yeux';1;4150
+e;390927;'tête>112609';1;72;'tête>anatomie'
+e;219363;'corps>112609';1;182;'corps>anatomie'
+e;74846;'corps';1;4798
+e;15544005;'en:testaceous';1;0
+e;152125;'Zoologie';1;210
+e;16747;'adn';1;164
+e;114327;'acide désoxyribonucléique';1;140
+e;139779;'ADN';1;716
+e;143156;'reptiles';1;84
+e;117095;'zoologie';1;1864
+e;52499;'entomologie';1;294
+e;28663;'minéralogie';1;354
+e;144846;'tête';1;5684
+e;83944;'nerf';1;846
+e;239128;'_COM';36;50
+e;583490;'testacé>171870';1;0;'testacé>Nom:'
+e;583491;'testacé>171869';1;0;'testacé>Adj:'
+e;7256380;'en:zoology';1;0
+e;102206;'médecine';1;7144
+e;2586627;'Gender:Mas';4;0
+e;2586629;'Number:Sing';4;0
+e;146885;'Nom:Mas+SG';4;50
+e;171870;'Nom:';4;50
+e;146888;'Adj:Mas+SG';4;50
+e;171869;'Adj:';4;50
+e;12321907;'en:eukaryote';1;0
+e;316850;'entité physique';1;50
+e;436570;'entité biologique';1;50
+e;14917526;'en:deoxyribonucleic acid';1;0
+e;6800353;'en:nervous system';1;0
+e;12791689;'acide désoxyribo-nucléique';1;0
+e;225934;'oeil>330323';1;202;'oeil>organe de la vue'
+e;103311;'système nerveux';1;270
+e;364724;'mollusque testacé';1;50
+e;151553;'_FL:0';6;50
+e;10314012;'en:heterotroph';1;0
+e;122864;'mort';1;7014
+e;99220;'hétérotrophe';1;68
+e;1384;'vivant';1;766
+e;14916413;'Langue:français';18;50
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+e;43253;'dormir';1;6518
+e;130164;'manger';1;10184
+e;251694;'mourir>126720';1;232;'mourir>cesser de vivre'
+e;33882;'se nourrir';1;430
+e;2442;'vivre';1;2378
+e;124600;'mourir';1;2016
+e;43601;'se reproduire';1;496
+e;259820;'vivre>160251';1;74;'vivre>être en vie'
+e;105814;'regarder';1;3588
+e;103405;'indifférence';1;610
+e;14330;'satisfaction';1;614
+e;91691;'surprise';1;1186
+e;28453;'bonheur';1;2180
+e;251716;'_INFO-MONOSEMIC';36;50
+e;217817;'_INFO-POLYSEMIC';36;50
+e;254877;'_POL-NEUTRE_PC';36;50
+e;191669;'_INFO-SEM-LIVING-BEING';36;160
+e;273221;'_INFO-WIKI-NO';36;50
+e;438949;'_INFO-POLYMORPHIC';36;50
+e;2585997;'_INFO-CNRTL-NO';36;50
+e;254876;'_POL-POS_PC';36;50
+e;241794;'_POL-NEUTRE';36;50
+e;223173;'_POL-POS';36;50
+e;2089738;'testacée';2;0
+e;12851488;':r82149248';10;0
+e;4548965;':r82901648';10;0
+e;4568962;':r82165140';10;0
+e;5101209;':r82152298';10;0
+e;16414466;':r82153649';10;0
+e;15816496;':r154185532';10;0
+e;15620980;':r400376028';10;0
+e;4395545;':r97007180';10;0
+e;8676119;':r160744671';10;0
+e;11391244;':r82156120';10;0
+e;12863273;'cd535841e4b1f4aba533381f06e78f4c';200;0
+e;14465322;'e73e1fe775c0784dbf2add3622bb1bbd';200;0
+e;7030810;'en:shellfish';1;0
+e;4142267;'dbnary:fra:__ws_2_testacé__nom__1';444;0
+e;4258636;'dbnary:fra:__ws_1_testacé__adj__1';444;0
+e;14948057;'en:ogle';1;0
+e;15566941;'en:have one's eye on';1;0
+e;15566942;'en:have one's beady eye on';1;0
+e;6802231;'en:eye';1;0
+e;148104;'eye';1;50
+e;174120;'il';1;4
+e;257172;'loucher sur';1;56
+e;15266507;'en:to have one's eye on';1;0
+e;15266508;'en:to have one's beady eye on';1;0
+e;2296243;'testacés';2;0
+e;2089737;'testacées';2;0
+e;273434;'reptilia';777;50
+e;6948521;'en:reptiles';1;0
+e;14918011;'en:DNA';1;0
+e;1395235;'être>171870';1;0;'être>Nom:'
+e;58768;'organisme';1;278
+e;157007;'être>146885';1;50;'être>Nom:Mas+SG'
+e;13369;'être';1;1058
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;2;'r_raff_morpho';'raffinement morphologique';Raffinement morphologique vers un usage particulier du terme source
+rt;3;'r_domain';'domaine';Il est demandé de fournir des domaines relatifs au mot cible. Par exemple, pour 'corner', on pourra donner les domaines 'football' ou 'sport'.
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;6;'r_isa';'générique';Il est demandé d'énumérer les GENERIQUES/hyperonymes du terme. Par exemple, 'animal' et 'mammifère' sont des génériques de 'chat'.
+rt;8;'r_hypo';'spécifique';Il est demandé d'énumérer des SPECIFIQUES/hyponymes du terme. Par exemple, 'mouche', 'abeille', 'guêpe' pour 'insecte'.
+rt;9;'r_has_part';'partie';Il faut donner des PARTIES/constituants/éléments (a pour méronymes) du mot cible. Par exemple, 'voiture' a comme parties : 'porte', 'roue', 'moteur', ...
+rt;10;'r_holo';'tout';Il est démandé d'énumérer des 'TOUT' (a pour holonymes)  de l'objet en question. Pour 'main', on aura 'bras', 'corps', 'personne', etc... Le tout est aussi l'ensemble comme 'classe' pour 'élève'.
+rt;11;'r_locution';'locution';A partir d'un terme, il est demandé d'énumérer les locutions, expression ou mots composés en rapport avec ce terme. Par exemple, pour 'moulin', ou pourra avoir 'moulin à vent', 'moulin à eau', 'moulin à café'. Pour 'vendre', on pourra avoir 'vendre la peau de l'ours avant de l'avoir tué', 'vendre à perte', etc..
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;13;'r_agent';'action>agent';L'agent (qu'on appelle aussi le sujet) est l'entité qui effectue l'action, OU la subit pour des formes passives ou des verbes d'état. Par exemple, dans - Le chat mange la souris -, l'agent est le chat. Des agents typiques de 'courir' peuvent être 'sportif', 'enfant',... (manger r_agent chat)
+rt;17;'r_carac';'caractéristique';Pour un terme donné, souvent un objet, il est demandé d'en énumérer les CARACtéristiques (adjectifs) possibles/typiques. Par exemple, 'liquide', 'froide', 'chaude', pour 'eau'.
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;23;'r_carac-1';'caractéristique-1';Quels sont les objets (des noms) possédant typiquement/possiblement la caractérisque suivante ? Par exemple, 'soleil', 'feu', pour 'chaud'.
+rt;24;'r_agent-1';'agent typique-1';Que peut faire ce SUJET ? (par exemple chat => miauler, griffer, etc.) (chat r_agent-1 manger)
+rt;27;'r_domain-1';'domaine-1';inverse de r_domain : à un domaine, on associe des termes
+rt;32;'r_sentiment';'sentiment';Pour un terme donné, évoquer des mots liés à des SENTIMENTS ou des EMOTIONS que vous pourriez associer à ce terme. Par exemple, la joie, le plaisir, le dégoût, la peur, la haine, l'amour, l'indifférence, l'envie, avoir peur, horrible, etc.
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;59;'r_masc';'équivalent masc';L'équivalent masculin du terme : lionne --> lion.
+rt;60;'r_fem';'équivalent fem';L'équivalent féminin du terme : lion --> lionne.
+rt;128;'r_node2relnode';'r_node2relnode';Relation entre un noeud (quelconque) et un noeud de relation (type = 10) - permet de rendre le graphe connexe même avec les annotations de relations
+rt;200;'r_context';'r_context';Relation de contexte entre un terme et un noeud contexte.
+rt;333;'r_translation';'r_translation';Traduction vers une autre langue.
+rt;444;'r_link';'r_link';Lien vers une ressource externe (WordNet, RadLex, UMLS, Wikipedia, etc...)
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;98703080;110568;77424;0;-23
+r;346608728;110568;101689;0;1
+r;248751656;110568;225847;0;6
+r;248751658;110568;260820;0;6
+r;248751660;110568;65081;0;6
+r;248751662;110568;234036;0;6
+r;248751668;110568;237445;0;6
+r;248751670;110568;233133;0;6
+r;248751672;110568;329657;0;6
+r;248751664;110568;55823;0;7
+r;248751674;110568;71624;0;7
+r;248751676;110568;325736;0;7
+r;248751678;110568;325731;0;7
+r;248751680;110568;54794;0;7
+r;248751682;110568;325728;0;7
+r;248751684;110568;325741;0;7
+r;248751686;110568;325738;0;7
+r;82253025;110568;120157;0;9
+r;82253429;110568;36886;0;9
+r;418352400;110568;21688;0;12
+r;418352401;110568;143246;0;12
+r;84268470;110568;1636805;0;22
+r;242862901;110568;17559;0;22
+r;15728994;110568;153845;0;23
+r;82163990;110568;77008;0;24
+r;82164226;110568;390927;0;24
+r;82164909;110568;219363;0;24
+r;82165139;110568;74846;0;24
+r;415294957;110568;15544005;0;25
+r;15714960;110568;152125;0;26
+r;82163324;110568;16747;0;26
+r;82163558;110568;114327;0;26
+r;82163774;110568;139779;0;26
+r;1348088;110568;143156;0;30
+r;15331486;110568;117095;0;30
+r;15384604;110568;52499;0;30
+r;15415100;110568;28663;0;30
+r;82164455;110568;144846;0;30
+r;82162997;110568;83944;0;32
+r;24010991;110568;239128;0;1000000
+r;18283271;110568;583490;2;50
+r;18283274;110568;583491;2;50
+r;15647211;110568;152125;3;-20
+r;15680329;110568;153845;3;-20
+r;393709254;110568;7256380;3;25
+r;398388246;110568;102206;3;25
+r;11359484;110568;117095;3;29
+r;459333;110568;28663;3;30
+r;491831;110568;52499;3;30
+r;53970376;110568;2586627;4;45
+r;53984774;110568;2586629;4;45
+r;56604;110568;146885;4;51
+r;1947951;110568;171870;4;55
+r;56603;110568;146888;4;59
+r;526421;110568;171869;4;66
+r;377426236;110568;12321907;6;25
+r;314908882;110568;101689;6;26
+r;83917529;110568;316850;6;49
+r;83898768;110568;436570;6;50
+r;82153312;110568;71624;6;51
+r;82154376;110568;225847;6;51
+r;83931603;110568;65081;6;51
+r;84013117;110568;237445;6;51
+r;82153431;110568;234036;6;52
+r;82154018;110568;260820;6;52
+r;82155814;110568;54794;6;52
+r;82156379;110568;325728;6;53
+r;82155087;110568;325736;6;54
+r;82154807;110568;325738;6;55
+r;82155289;110568;325731;6;55
+r;82153892;110568;325741;6;57
+r;83894757;110568;329657;6;57
+r;82149248;110568;17559;6;58
+r;82151227;110568;233133;6;58
+r;82152179;110568;55823;6;58
+r;400376028;110568;14917526;9;8
+r;97846525;110568;77424;9;15
+r;160744671;110568;6800353;9;25
+r;377961929;110568;12791689;9;25
+r;82151462;110568;219363;9;26
+r;82152298;110568;225934;9;28
+r;82152774;110568;390927;9;30
+r;82153649;110568;114327;9;30
+r;82152659;110568;144846;9;31
+r;82153768;110568;16747;9;31
+r;82156120;110568;103311;9;31
+r;82153108;110568;77008;9;34
+r;82153540;110568;139779;9;34
+r;82155950;110568;83944;9;34
+r;82151347;110568;74846;9;40
+r;83972747;110568;1636805;9;42
+r;82151695;110568;36886;10;27
+r;82152414;110568;120157;10;34
+r;12643379;110568;364724;11;107
+r;74791909;110568;151553;12;30
+r;293340353;110568;10314012;17;3
+r;82154145;110568;122864;17;27
+r;82151821;110568;99220;17;28
+r;82152892;110568;1384;17;30
+r;398388244;110568;14916413;18;25
+r;89989687;110568;3575927;18;27
+r;90850998;110568;3576104;18;35
+r;337265;110568;110568;19;54
+r;82151581;110568;43253;24;30
+r;82151946;110568;130164;24;30
+r;82152063;110568;251694;24;30
+r;82152540;110568;33882;24;30
+r;82153000;110568;2442;24;30
+r;82154263;110568;124600;24;30
+r;82154493;110568;43601;24;30
+r;82154623;110568;259820;24;30
+r;347620412;110568;105814;24;30
+r;72987446;110568;103405;32;2
+r;211795775;110568;14330;32;2
+r;211795776;110568;91691;32;2
+r;33968128;110568;28453;32;4
+r;310281315;110568;251716;36;-30
+r;396059665;110568;217817;36;25
+r;2433702;110568;254877;36;28
+r;82151112;110568;191669;36;28
+r;4820912;110568;273221;36;46
+r;18283273;110568;438949;36;50
+r;77840511;110568;2585997;36;55
+r;27182419;110568;254876;36;72
+r;2031893;110568;241794;36;132
+r;18283276;110568;223173;36;342
+r;105157630;110568;2089738;60;30
+r;329344662;110568;12851488;128;1
+r;100396835;110568;4548965;128;3
+r;100477926;110568;4568962;128;3
+r;105591052;110568;5101209;128;5
+r;433307196;110568;16414466;128;5
+r;411848161;110568;15816496;128;7
+r;400513765;110568;15620980;128;11
+r;99421863;110568;4395545;128;14
+r;161633712;110568;8676119;128;73
+r;292476301;110568;11391244;128;127
+r;329475157;110568;12863273;200;1
+r;367019534;110568;14465322;200;2
+r;398388242;110568;15544005;333;25
+r;419847694;110568;7030810;333;25
+r;94504458;110568;4142267;444;1
+r;94609434;110568;4258636;444;1
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;82620566;77008;110568;0;-30
+r;97000380;77424;110568;0;-27
+r;409684947;14948057;110568;0;10
+r;410940221;15566941;110568;0;10
+r;411092785;15566942;110568;0;10
+r;321792886;6802231;110568;0;15
+r;332640151;148104;110568;0;15
+r;332967522;174120;110568;0;15
+r;401551338;257172;110568;0;15
+r;410520207;15266507;110568;0;15
+r;410787750;15266508;110568;0;15
+r;15254172;117095;110568;0;23
+r;82620461;139779;110568;0;23
+r;82620745;16747;110568;0;23
+r;82620861;83944;110568;0;23
+r;15384603;52499;110568;0;24
+r;330069830;12791689;110568;0;25
+r;415294956;15544005;110568;0;25
+r;82619989;219363;110568;0;27
+r;82620449;390927;110568;0;27
+r;390555879;7256380;110568;0;27
+r;15415099;28663;110568;0;28
+r;82619882;74846;110568;0;28
+r;82620322;144846;110568;0;28
+r;83026677;1636805;110568;0;29
+r;87604637;2089738;110568;0;29
+r;15728993;153845;110568;0;31
+r;15553952;152125;110568;0;32
+r;87822503;2296243;110568;0;37
+r;87604629;2089737;110568;0;42
+r;21110009;143156;110568;0;74
+r;150584141;273434;110568;0;75
+r;156985399;6948521;110568;0;75
+r;12643380;364724;110568;0;110
+r;398746854;14918011;110568;0;120
+r;398294077;14917526;110568;0;125
+r;82620601;114327;110568;0;128
+r;154181096;6800353;110568;0;257
+r;82621009;103311;110568;0;260
+r;346608729;101689;110568;8;1
+r;310445111;1395235;110568;8;10
+r;273189231;58768;110568;8;15
+r;280201225;157007;110568;8;15
+r;283949295;13369;110568;8;15
+r;242862902;17559;110568;8;25
+r;248751657;225847;110568;8;25
+r;248751659;260820;110568;8;25
+r;248751661;65081;110568;8;25
+r;248751663;234036;110568;8;25
+r;248751665;55823;110568;8;25
+r;248751666;316850;110568;8;25
+r;248751667;436570;110568;8;25
+r;248751669;237445;110568;8;25
+r;248751671;233133;110568;8;25
+r;248751673;329657;110568;8;25
+r;248751675;71624;110568;8;25
+r;248751677;325736;110568;8;25
+r;248751679;325731;110568;8;25
+r;248751681;54794;110568;8;25
+r;248751683;325728;110568;8;25
+r;248751685;325741;110568;8;25
+r;248751687;325738;110568;8;25
+r;321856591;12321907;110568;8;25
+r;82253026;120157;110568;9;9
+r;82253430;36886;110568;9;9
+r;409684948;14948057;110568;10;10
+r;410940222;15566941;110568;10;10
+r;411092786;15566942;110568;10;10
+r;321752624;6802231;110568;10;15
+r;332640152;148104;110568;10;15
+r;332967523;174120;110568;10;15
+r;401590752;257172;110568;10;15
+r;410520208;15266507;110568;10;15
+r;410787751;15266508;110568;10;15
+r;82162998;83944;110568;10;26
+r;82163991;77008;110568;10;26
+r;82164456;144846;110568;10;27
+r;82164227;390927;110568;10;29
+r;97007180;77424;110568;10;29
+r;330225870;12791689;110568;10;30
+r;82164910;219363;110568;10;31
+r;82165140;74846;110568;10;31
+r;82164674;225934;110568;10;35
+r;82901648;1636805;110568;10;35
+r;82163325;16747;110568;10;42
+r;82163775;139779;110568;10;42
+r;398912721;14918011;110568;10;120
+r;398726348;14917526;110568;10;125
+r;82163559;114327;110568;10;127
+r;154185532;6800353;110568;10;257
+r;82162752;103311;110568;10;260
+r;82370990;259820;110568;13;30
+r;82371098;43601;110568;13;30
+r;82371206;124600;110568;13;30
+r;82371314;2442;110568;13;30
+r;82371474;33882;110568;13;30
+r;82371547;251694;110568;13;30
+r;82371662;130164;110568;13;30
+r;82371780;43253;110568;13;30
+r;347698754;105814;110568;13;30
+r;337265;110568;110568;19;54
+r;32406386;2089737;110568;19;57
+r;33051896;2296243;110568;19;59
+r;32406402;2089738;110568;19;65
+r;82161328;1384;110568;23;21
+r;82161220;122864;110568;23;30
+r;253121028;10314012;110568;23;65
+r;82161453;99220;110568;23;66
+r;15537561;153845;110568;27;-32
+r;15517753;152125;110568;27;-29
+r;15119213;117095;110568;27;21
+r;15202523;28663;110568;27;24
+r;390543538;7256380;110568;27;25
+r;15182958;52499;110568;27;29
+r;105157629;2089738;110568;59;27
+r;398388243;15544005;110568;333;25
+r;419847695;7030810;110568;333;25

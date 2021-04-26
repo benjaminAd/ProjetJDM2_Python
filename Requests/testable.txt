@@ -1,0 +1,144 @@
+<CODE>
+// DUMP pour le terme 'testable' (eid=29149)
+<def>
+<br />
+Que l'on peut tester, en particulier, pour assurer la véracité scientifique.<br /> 
+ Les réponses des sciences ne sont vraies qu'à un instant ''t'', mais elles sont testables : on peut faire des expériences pour infirmer une théorie que l'on pense fausse.  
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;10;'n_relation'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;444;'n_link'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;29149;'testable';1;54
+e;13853607;'pouvoir être';1;0
+e;154156;'testé';1;58
+e;224704;'prod';1;52
+e;13444;'production';1;449
+e;15528769;'être testé';1;0
+e;63652;'décomposable';1;50
+e;14964356;'en:testable';1;0
+e;13701;'technique';1;642
+e;98272;'évaluable';1;50
+e;117331;'testabilité';1;50
+e;480;'calculable';1;50
+e;54081;'analysable';1;50
+e;111320;'mesurable';1;120
+e;139536;'contrôle';1;460
+e;239128;'_COM';36;50
+e;146894;'Adj:Fem+SG';4;50
+e;146888;'Adj:Mas+SG';4;50
+e;2586634;'Gender:Inv';4;0
+e;2586627;'Gender:Mas';4;0
+e;2586628;'Gender:Fem';4;0
+e;2586629;'Number:Sing';4;0
+e;146883;'Adj:InvGen+SG';4;50
+e;171869;'Adj:';4;50
+e;151553;'_FL:0';6;50
+e;14916413;'Langue:français';18;50
+e;7332979;'Langue:anglais';18;50
+e;3576104;'Morpho:nospace';18;50
+e;3575927;'Morpho:min';18;50
+e;254878;'_POL-NEG_PC';36;50
+e;273221;'_INFO-WIKI-NO';36;50
+e;254877;'_POL-NEUTRE_PC';36;50
+e;251716;'_INFO-MONOSEMIC';36;50
+e;223172;'_POL-NEG';36;50
+e;2585997;'_INFO-CNRTL-NO';36;50
+e;254876;'_POL-POS_PC';36;50
+e;241794;'_POL-NEUTRE';36;50
+e;223173;'_POL-POS';36;50
+e;81196;'tester';1;268
+e;16167221;':r390934257';10;0
+e;4214696;'dbnary:fra:__ws_1_testable__adj__1';444;0
+e;15150861;'en:calculable';1;0
+e;15313136;'en:mensurable';1;0
+e;6876885;'en:measurable';1;0
+e;3054817;'testables';1;0
+e;14358;'test';1;608
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;3;'r_domain';'domaine';Il est demandé de fournir des domaines relatifs au mot cible. Par exemple, pour 'corner', on pourra donner les domaines 'football' ou 'sport'.
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;5;'r_syn';'synonyme';Il est demandé d'énumérer les synonymes ou quasi-synonymes de ce terme.
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;22;'r_family';'famille';Des mots de la même famille lexicale sont demandés (dérivation morphologique, par exemple). Par exemple, pour 'lait' on pourrait mettre 'laitier', 'laitage', 'laiterie', etc.
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;43;'r_adj-verbe';'adj>verbe';Pour un adjectif de potentialité/possibilité, son verbe correspondant. Par exemple pour 'lavable' -> 'laver'
+rt;44;'r_verbe-adj';'verbe>adj';Pour un verbe, son adjectif de potentialité/possibilité correspondant. Par exemple pour 'laver' -> 'lavable'
+rt;72;'r_syn_strict';'r_syn_strict';Termes strictement substituables, pour des termes hors du domaine général, et pour la plupart des noms (exemple : endométriose intra-utérine --> adénomyose)
+rt;128;'r_node2relnode';'r_node2relnode';Relation entre un noeud (quelconque) et un noeud de relation (type = 10) - permet de rendre le graphe connexe même avec les annotations de relations
+rt;333;'r_translation';'r_translation';Traduction vers une autre langue.
+rt;444;'r_link';'r_link';Lien vers une ressource externe (WordNet, RadLex, UMLS, Wikipedia, etc...)
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;418466214;29149;13853607;0;10
+r;418352399;29149;154156;0;12
+r;417932759;29149;224704;0;13
+r;417932760;29149;13444;0;13
+r;417932761;29149;15528769;0;13
+r;1022062;29149;63652;0;21
+r;390934256;29149;14964356;0;22
+r;418466213;29149;13701;0;25
+r;1022065;29149;98272;0;26
+r;77981029;29149;117331;0;27
+r;1022064;29149;480;0;28
+r;1022061;29149;54081;0;30
+r;1022063;29149;111320;0;30
+r;1348087;29149;139536;0;30
+r;23988371;29149;239128;0;1000000
+r;418466212;29149;13701;3;25
+r;16086856;29149;146894;4;32
+r;16092279;29149;146888;4;32
+r;53941440;29149;2586634;4;45
+r;53975986;29149;2586627;4;47
+r;53929174;29149;2586628;4;48
+r;53946880;29149;2586629;4;49
+r;56601;29149;146883;4;51
+r;1425271;29149;171869;4;57
+r;390934257;29149;14964356;5;25
+r;74791908;29149;151553;12;32
+r;390500595;29149;14916413;18;25
+r;390500597;29149;7332979;18;25
+r;90916019;29149;3576104;18;29
+r;90044530;29149;3575927;18;32
+r;337263;29149;29149;19;58
+r;27097345;29149;254878;36;9
+r;423859018;29149;273221;36;25
+r;9327475;29149;254877;36;25
+r;96182957;29149;251716;36;31
+r;26500372;29149;223172;36;48
+r;77833551;29149;2585997;36;60
+r;9327474;29149;254876;36;66
+r;9204723;29149;241794;36;130
+r;9170213;29149;223173;36;342
+r;1357055;29149;81196;43;57
+r;390500598;29149;14964356;72;25
+r;423859016;29149;16167221;128;1
+r;390500592;29149;14964356;333;25
+r;94569632;29149;4214696;444;1
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;408975074;15150861;29149;0;10
+r;411793451;15313136;29149;0;10
+r;430942438;6876885;29149;0;10
+r;758244;54081;29149;0;23
+r;789977;480;29149;0;23
+r;835412;63652;29149;0;23
+r;359873265;3054817;29149;0;25
+r;1052326;98272;29149;0;27
+r;21122537;139536;29149;0;27
+r;390934258;14964356;29149;0;28
+r;930110;111320;29149;0;29
+r;77981028;117331;29149;0;60
+r;390934259;14964356;29149;5;25
+r;358117715;3054817;29149;19;25
+r;337263;29149;29149;19;58
+r;166853;14358;29149;22;60
+r;1357056;81196;29149;44;54
+r;390500599;14964356;29149;72;25
+r;390500593;14964356;29149;333;25

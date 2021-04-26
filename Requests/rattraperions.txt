@@ -1,0 +1,43 @@
+<CODE>
+// DUMP pour le terme 'rattraperions' (eid=2087368)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;2087368;'rattraperions';2;0
+e;95156;'rattraper';1;200
+e;2946892;'Ver:Conjug';4;0
+e;14270942;'VerbalPers:P1';4;0
+e;14270946;'VerbalNumber:PL';4;0
+e;2935005;'VerbalTime:Present';4;0
+e;3094354;'VerbalMode:Conditionnel';4;0
+e;212235;'Ver:';4;50
+e;3095164;'Ver:CPre+PL+P1';4;50
+e;151553;'_FL:0';6;50
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;87607061;2087368;95156;0;34
+r;323080420;2087368;2946892;4;25
+r;363642927;2087368;14270942;4;25
+r;363634698;2087368;14270946;4;25
+r;75857706;2087368;2935005;4;45
+r;75857707;2087368;3094354;4;45
+r;32413229;2087368;212235;4;59
+r;75097801;2087368;3095164;4;59
+r;74742986;2087368;151553;12;31
+r;89610467;2087368;3575927;18;26
+r;90593865;2087368;3576104;18;29
+r;32413225;2087368;95156;19;60
+// les relations entrantes : r;rid;node1;node2;type;w 

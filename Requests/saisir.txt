@@ -1,0 +1,3063 @@
+<CODE>
+// DUMP pour le terme 'saisir' (eid=80010)
+<def>
+<br />
+1. exposer un aliment à une température très élevée<br />
+2. (Figuré) Discerner, concevoir nettement, comprendre.<br /> 
+ Saisissez bien ce que je vous dis.   <br /> 
+ Vous n'avez pas bien saisi le sens de ses paroles.   <br /> 
+ Il a saisi sur-le-champ mon intention.   <br /> 
+ Je ne saisis pas, quant à moi, un seul mot de leur jargon. Ni le maire, ni le curé je ne les entends.    
+ (Jean Rogissart, Passantes d'Octobre, Librairie Arthème Fayard, Paris, 1958)  <br /> 
+ Bien sûr, il n'y pige rien et comme il croit, dur comme fer, qu'on lui débite des cochoncetés, il voudrait bien saisir.    
+ (Francis Carco, Images cachées, Éditions Albin Michel, Paris, 1928)  <br />
+3. Inscrire de façon à avoir une trace tangible, comptabiliser, noter.<br /> 
+ Saisir des données dans un ordinateur et les sauvegarder ensuite.   <br /> 
+ Tu as saisi cette écriture comptable dans le compte de report à nouveau ?  <br />
+4. Mettre en possession de.<br /> 
+ La seconde chambre du tribunal de première instance est saisie, a été saisie de cette affaire.   <br /> 
+ Il a saisi la Cour d'appel de son affaire.   <br /> 
+ Saisir d'une affaire un tribunal, une juridiction, Porter, par les voies de procédure normale, une affaire devant la juridiction compétente.   <br /> 
+ Être saisi d'un gage.  <br />
+5. Représenter, croquer avec exactitude, esquisser avec précision.<br /> 
+ Cet artiste a bien saisi la ressemblance de son modèle, il a su le représenter d'une manière très ressemblante.   <br /> 
+ Ce poète comique saisit parfaitement les ridicules.  <br />
+6. (Cuisine) Brûler modérément la partie extérieure d'un solide.<br />
+7. Prendre vivement, rapidement, délibérément, avec vigueur.<br /> 
+ D'une main, l'assassin avait dû saisir la vieille femme à la gorge et, de l'autre main, la bâillonner pour l'empêcher d'appeler au secours.    
+ (Francis Carco, L'Homme de minuit, Éditions Albin Michel, Paris, 1938)  <br /> 
+ Saisir un prétexte, Prendre la première raison qui se présente, bonne ou mauvaise, pour faire une chose, ou se justifier de l'avoir faite.   <br /> 
+ Elle saisit le feuillage d'une façon très-singulière, faisant sortir pour cet effet une langue longue, rugueuse, très-étroite et noire, en l'entortillant autour de l'objet qu'elle convoîte.    
+ (Étienne Geoffroy Saint-Hilaire, Quelques Considérations sur la Girafe, 1827)  <br /> 
+ Saisir l'occasion, saisir le moment favorable, Se hâter d'en profiter.   <br /> 
+ Saisir la bride de son cheval.   <br /> 
+ Il saisit d'un regard la configuration du terrain.   <br /> 
+ Saisir quelqu'un au collet, lui saisir le bras.   <br /> 
+ Saisir une chose du regard, L'apercevoir rapidement et avec netteté.   <br /> 
+ Saisir avec la main, avec les dents, avec le bec, etc.   <br /> 
+ Saisir quelqu'un par les cheveux, par le bras.  <br />
+8. (Figuré) S'emparer vivement et fortement d'une personne, en parlant des maux du corps, des maladies, des passions, des sentiments.<br /> 
+ (Absolument) Être saisi, être frappé subitement, touché de plaisir, pénétré de douleur.   <br /> 
+ Être saisi de joie, de peur, d'étonnement, de respect, etc.   <br /> 
+ J'en suis encore saisi, tout saisi.   <br /> 
+ Cette pensée m'a saisi.   <br /> 
+ Quand on lui dit cette nouvelle, elle fut tellement saisie, qu'elle perdit connaissance.   <br /> 
+ La douleur, la crainte, le désespoir l'a saisi.   <br /> 
+ Le froid l'a saisi.  <br />
+9. Prendre une chose de manière à pouvoir la tenir, la porter, à ne pas la laisser échapper.<br /> 
+ Saisir par l'anse une marmite qui est sur le feu, pour l'en retirer.   <br /> 
+ Le manche de cet outil est trop gros, est trop court, on a de la peine à le saisir, on ne peut le saisir commodément.   <br /> 
+ Il saisit Héloïse, l'enlève entre ses bras comme une balle de fougère, une sachée de linaigrettes floconneuses, et la transporte doucement, parmi les couvertures qu'il rabat sur elle.    
+ (Jean Rogissart, Passantes d'Octobre, Librairie Arthème Fayard, Paris, 1958)  <br />
+10. (Droit) Confisquer, arrêter, retenir par voie de saisie.<br /> 
+ On a saisi ce numéro de journal.   <br /> 
+ Le garde-chasse lui a saisi son fusil.   <br /> 
+ Saisir des objets de contrebande.   <br /> 
+ Il y a des objets qui ne peuvent être saisis pour aucune créance.   <br /> 
+ Saisir les revenus d'une terre entre les mains des fermiers.   <br /> 
+ J'avais voulu inscrire l'avion à son nom. On m'a charitablement avertie que le premier soin des créanciers serait de le saisir...    
+ (Georges Simenon, Le Blanc à lunettes, ch. IV, Gallimard, 1937)  
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;8;'n_chunk'
+nt;9;'n_question'
+nt;10;'n_relation'
+nt;12;'n_analogy'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;200;'n_context'
+nt;444;'n_link'
+nt;666;'n_AKI'
+nt;777;'n_wikipedia'
+nt;1002;'n_group'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;80010;'saisir';1;422
+e;144148;'percé';1;74
+e;20102;'percée';1;98
+e;11473;'poché';1;68
+e;22316;'pris';1;122
+e;60123;'pénétré';1;66
+e;61791;'retourné';1;82
+e;6236;'retenu';1;88
+e;130235;'prendre bien';1;50
+e;29897;'biens';1;192
+e;217;'brutalement';1;532
+e;152552;'Cuisine';1;156
+e;212909;'feu vif';1;50
+e;233500;'comprendre>80010';1;38;'comprendre>saisir'
+e;1633;'apercevoir';1;182
+e;98571;'remarquer';1;108
+e;123105;'repérer';1;84
+e;73827;'voler';1;2892
+e;87185;'troubler';1;116
+e;4601;'enflammer';1;194
+e;73472;'alarmer';1;88
+e;16903;'méduser';1;64
+e;91215;'paralyser';1;104
+e;45225;'effrayer';1;246
+e;120541;'captiver';1;132
+e;133824;'happer';1;52
+e;102107;'agripper';1;68
+e;260619;'prendre>80010';1;56;'prendre>saisir'
+e;26738;'percer';1;242
+e;20419;'camper';1;314
+e;34954;'frapper';1;1860
+e;91829;'serrer';1;798
+e;119183;'imprégner';1;84
+e;239595;'cuisson>5115';1;50;'cuisson>cuire'
+e;104307;'craindre';1;248
+e;124188;'spolier';1;80
+e;82900;'toucher';1;1294
+e;25239;'exciter';1;302
+e;4594;'surprendre';1;248
+e;22549;'pétrifier';1;80
+e;40379;'rogner';1;58
+e;86054;'empoigner';1;92
+e;7501;'déférer';1;54
+e;134093;'piger';1;50
+e;114824;'électriser';1;62
+e;9341;'supprimer';1;244
+e;118663;'exproprier';1;52
+e;127777;'imposer';1;174
+e;134295;'exiger';1;252
+e;105296;'emparer';1;50
+e;27895;'percevoir';1;150
+e;14335;'profiter';1;172
+e;129329;'ébranler';1;66
+e;11824;'révéler';1;190
+e;13216;'solidifier';1;82
+e;90139;'découvrir';1;444
+e;79307;'faire revenir';1;152
+e;60056;'cuisson';1;774
+e;590595;'gripper>146882';1;0;'gripper>Ver:Inf'
+e;28778;'arrêter';1;856
+e;82345;'enlever';1;670
+e;58543;'attrister';1;202
+e;77997;'stupéfier';1;70
+e;65980;'ponctionner';1;54
+e;51683;'lever';1;356
+e;82821;'assimiler';1;78
+e;107540;'déchiffrer';1;172
+e;21845;'pénétrer';1;254
+e;10444;'épingler';1;74
+e;123955;'étreindre';1;152
+e;63030;'agrafer';1;52
+e;2447305;'aoindre';1;0
+e;259980;'faire revenir>16033';1;26;'faire revenir>cuisine'
+e;15070129;'en:snatch up';1;0
+e;15687393;'en:refer to something';1;0
+e;15695119;'en:capitalize on something';1;0
+e;15761335;'en:turn something to account';1;0
+e;15761334;'en:use something to advantage';1;0
+e;15695118;'en:make the most of something';1;0
+e;15562631;'en:take advantage of something';1;0
+e;15761332;'en:seize somebody's property';1;0
+e;15513180;'en:take hold of something';1;0
+e;15566635;'en:get the point';1;0
+e;15562877;'en:get a handle on';1;0
+e;15562876;'en:foreclose on';1;0
+e;15501242;'en:levy on';1;0
+e;15473913;'en:to foreclose on';1;0
+e;12452230;'en:grip';1;0
+e;14917233;'en:strike';1;0
+e;14929461;'en:understand';1;0
+e;7440940;'en:take';1;0
+e;7524277;'en:hit';1;0
+e;14918547;'en:clutch';1;0
+e;15072029;'en:distrain';1;0
+e;15236198;'en:to get a handle on';1;0
+e;14940920;'en:seize up';1;0
+e;15062059;'en:seize on';1;0
+e;15234293;'en:to get the point';1;0
+e;15236197;'en:seize upon';1;0
+e;6876975;'en:type';1;0
+e;14935899;'en:enter';1;0
+e;14960014;'en:take hold';1;0
+e;14921085;'en:snatch';1;0
+e;14921734;'en:seize';1;0
+e;14960013;'en:sear';1;0
+e;7054183;'en:record';1;0
+e;14928122;'en:nab';1;0
+e;7053784;'en:input';1;0
+e;13231454;'en:grasp';1;0
+e;14921733;'en:grapple';1;0
+e;14918548;'en:grab';1;0
+e;14916989;'en:get';1;0
+e;14921618;'en:catch';1;0
+e;14921732;'en:capture';1;0
+e;8924;'psychologie';1;1244
+e;134536;'économie';1;1908
+e;17408;'manutention';1;136
+e;85169;'particulier';1;232
+e;153105;'tribunal d'instance';1;82
+e;16475499;'::>66:85169>24:16475497';8;0;'particulier [peut] saisir [objet] tribunal d'instance'
+e;69256;'aviser';1;112
+e;34104;'détourner';1;182
+e;103323;'retourner';1;358
+e;112575;'mobiliser';1;98
+e;46367;'griller';1;386
+e;116592;'atteindre';1;274
+e;34510;'réquisitionner';1;58
+e;131905;'harponner';1;50
+e;243863;'piger>131333';1;50;'piger>comprendre'
+e;232306;'faire tilt';1;16
+e;18886;'occuper';1;180
+e;71674;'gripper';1;52
+e;48704;'trouver';1;488
+e;84160;'pocher';1;78
+e;84676;'voir';1;2498
+e;57370;'accaparer';1;60
+e;14744;'épouvanter';1;76
+e;47899;'coincer';1;168
+e;128828;'couper';1;3292
+e;132551;'rôtir';1;248
+e;115811;'saisissement';1;92
+e;71079;'se saisir';1;50
+e;106202;'suffoquer';1;68
+e;98244;'discerner';1;54
+e;146125;'s'apercevoir';1;62
+e;54315;'usurper';1;64
+e;67583;'étourdir';1;72
+e;134489;'faire griller';1;132
+e;2524599;'impreigner';1;0
+e;1787939;'penser>146882';1;0;'penser>Ver:Inf'
+e;121316;'ravir';1;102
+e;114629;'soustraire';1;178
+e;25296;'impressionner';1;220
+e;124836;'croquer';1;424
+e;76662;'interdire';1;150
+e;44228;'terrifier';1;108
+e;18834;'posséder';1;338
+e;27502;'prélever';1;74
+e;103148;'extraire';1;310
+e;88663;'retrancher';1;64
+e;132650;'amputer';1;68
+e;131142;'concevoir';1;472
+e;64848;'distinguer';1;126
+e;126398;'intercepter';1;64
+e;238607;'tilter';1;4
+e;117557;'piquer';1;1126
+e;62786;'exécuter';1;232
+e;44654;'transporter';1;1118
+e;35966;'choper';1;106
+e;47869;'contracter';1;120
+e;50630;'émouvoir';1;348
+e;132682;'attendrir';1;96
+e;99453;'piéger';1;120
+e;60966;'feinter';1;62
+e;75156;'brûler';1;822
+e;11380;'bronzer';1;414
+e;68473;'saisine';1;50
+e;14235;'étonner';1;160
+e;241772;'attraper>86306';1;18;'attraper>prendre'
+e;15016;'interpréter';1;198
+e;116921;'révolutionner';1;116
+e;133259;'déceler';1;58
+e;119770;'transir';1;50
+e;5535;'évoquer';1;80
+e;63449;'apprécier';1;448
+e;103619;'aveindre';1;50
+e;1236505;'toucher>146882';1;0;'toucher>Ver:Inf'
+e;66071;'deviner';1;290
+e;129092;'inclure';1;110
+e;125556;'remuer';1;402
+e;2333;'ébahir';1;60
+e;24085;'glacer';1;222
+e;133749;'entortiller';1;54
+e;99313;'colleter';1;54
+e;43125;'gastronomie';1;2556
+e;81846;'dette';1;418
+e;11403;'possession';1;452
+e;66208;'intelligibilité';1;62
+e;21157;'arrestation';1;330
+e;91691;'surprise';1;1186
+e;1614;'intuition';1;124
+e;8663;'entendement';1;112
+e;127640;'sensation';1;244
+e;29542;'choc';1;632
+e;55112;'confiscation';1;52
+e;104993;'informatique';1;3048
+e;131122;'secouer';1;298
+e;151610;'ouir';1;62
+e;143757;'art culinaire';1;700
+e;30132;'cueillir';1;492
+e;4528;'réaliser';1;434
+e;117226;'bouleverser';1;114
+e;138539;'s'emparer';1;80
+e;7931;'accrocher';1;282
+e;69680;'ramasser';1;424
+e;42196;'penser';1;988
+e;115473;'ouïr';1;128
+e;16930;'prise';1;558
+e;133466;'leurrer';1;230
+e;7159;'droit';1;1600
+e;99889;'retenir';1;338
+e;847;'capturer';1;144
+e;86368;'ceinturer';1;66
+e;31533;'affecter';1;98
+e;56255;'berner';1;144
+e;14363;'saisie';1;148
+e;83571;'appréhender';1;158
+e;133793;'pincer';1;286
+e;39088;'jurisprudence';1;98
+e;49803;'froid';1;4219
+e;143712;'marine';1;1284
+e;214275;'cuisine>143757';1;1928;'cuisine>art culinaire'
+e;177166;'huissier de justice';1;58
+e;68977;'saisi';1;72
+e;111921;'chance';1;1320
+e;240359;'saisir sa chance';1;52
+e;40325;'opportunité';1;144
+e;58294;'huissier';1;224
+e;260032;'cuire>16033';1;122;'cuire>cuisine'
+e;71637;'justice';1;1828
+e;61490;'femme';1;30496
+e;120839;'entendre';1;648
+e;328008;'::>13:17559>29:80010';8;50;'saisir [sujet] animal'
+e;328384;'::>13:124094>29:80010';8;50;'saisir [sujet] enfant'
+e;328872;'::>13:58294>29:80010';8;50;'saisir [sujet] huissier'
+e;327655;'::>13:68439>29:80010';8;50;'saisir [sujet] individu'
+e;327767;'::>14:40325>29:80010';8;50;'saisir [objet] opportunité'
+e;328162;'::>13:74860>29:80010';8;50;'saisir [sujet] homme'
+e;9026;'confisquer';1;52
+e;75449;'occasion';1;324
+e;327521;'::>13:61490>29:80010';8;50;'saisir [sujet] femme'
+e;53500;'esquisser';1;272
+e;73790;'inscrire';1;116
+e;81934;'main';1;6658
+e;244314;'prendre quelque chose';1;50
+e;16033;'cuisine';1;11422
+e;5115;'cuire';1;1406
+e;123526;'tenir';1;966
+e;24646;'attraper';1;832
+e;131333;'comprendre';1;448
+e;86306;'prendre';1;1352
+e;239128;'_COM';36;50
+e;1770989;'saisir>71637';1;4;'saisir>justice'
+e;227880;'saisir>9026';1;56;'saisir>confisquer'
+e;227883;'saisir>53500';1;50;'saisir>esquisser'
+e;227881;'saisir>73790';1;58;'saisir>inscrire'
+e;227884;'saisir>5115';1;50;'saisir>cuire'
+e;227882;'saisir>131333';1;50;'saisir>comprendre'
+e;227879;'saisir>86306';1;18;'saisir>prendre'
+e;107073;'Art culinaire';1;50
+e;13701;'technique';1;642
+e;212235;'Ver:';4;50
+e;146882;'Ver:Inf';4;50
+e;149691;'pinçant';1;54
+e;322205;'pétrifiée';1;50
+e;152850;'réalisant';1;50
+e;76805;'serra';1;50
+e;160528;'serrant';1;60
+e;66399;'suffoquant';1;50
+e;245902;'supprimée';1;50
+e;48625;'jeter';1;522
+e;11598;'manquer';1;412
+e;108838;'enhardir';1;50
+e;44755;'lancer';1;642
+e;133531;'dessaisir';1;50
+e;32380;'ressaisir';1;56
+e;135779;'laisser';1;282
+e;53223;'lâcher';1;122
+e;14231801;'saisir et serrer avec les dents';1;0
+e;15450924;'affaire à saisir';1;0
+e;14557748;'saisir ses identifiants';1;2
+e;9039304;'saisir-exécuté>171869';1;0;'saisir-exécuté>Adj:'
+e;9040896;'saisir-brandonné>161702';1;0;'saisir-brandonné>Ver:PPas'
+e;9040873;'saisir-arrêté>171869';1;0;'saisir-arrêté>Adj:'
+e;9039303;'saisir-exécuté>161702';1;0;'saisir-exécuté>Ver:PPas'
+e;10906091;'saisir du texte';1;0
+e;9040872;'saisir-arrêté>161702';1;0;'saisir-arrêté>Ver:PPas'
+e;9039445;'saisir-revendiqué>171869';1;0;'saisir-revendiqué>Adj:'
+e;9039327;'saisir-gagé>161702';1;0;'saisir-gagé>Ver:PPas'
+e;9039328;'saisir-gagé>171869';1;0;'saisir-gagé>Adj:'
+e;9039444;'saisir-revendiqué>161702';1;0;'saisir-revendiqué>Ver:PPas'
+e;9040897;'saisir-brandonné>171869';1;0;'saisir-brandonné>Adj:'
+e;11938722;'saisir une viande';1;0
+e;11012077;'saisir un mot de passe';1;0
+e;10133025;'Playboy à saisir';777;0
+e;11958305;'saisir la justice';1;0
+e;8863866;'se saisir d'une affaire';1;0
+e;3186970;'saisir-brandonné';1;0
+e;2520647;'saisir entre les mains';1;0
+e;3186469;'saisir-gagé';1;0
+e;3186589;'saisir-revendiqué';1;0
+e;3186565;'saisir-exécuté';1;0
+e;3187077;'saisir-arrêté';1;0
+e;3108103;'saisir sur le fait';1;2
+e;367011;'occasion à saisir';1;50
+e;391307;'saisir une opportunité';1;50
+e;96846;'saisir-arrêter';1;50
+e;83102;'saisir-brandonner';1;50
+e;22439;'saisir-revendiquer';1;50
+e;18981;'saisir-exécuter';1;50
+e;5345;'saisir-gager';1;50
+e;185336;'entre-saisir';1;50
+e;185284;'co-saisir';1;50
+e;185265;'auto-saisir';1;50
+e;207955;'se saisir de';1;50
+e;240228;'saisir une occasion';1;50
+e;242082;'saisir l'occasion';1;68
+e;207397;'saisir le moment';1;50
+e;211759;'saisir l'occasion aux cheveux';1;50
+e;98045;'saisir la balle au bond';1;54
+e;151564;'_FL:5';6;50
+e;157170;'_FL:31';6;50
+e;157639;'_FL:35';6;50
+e;151858;'_FL:16';6;50
+e;151553;'_FL:0';6;50
+e;151926;'_FL:14';6;50
+e;151851;'_FL:13';6;50
+e;15592540;'qn';1;0
+e;14954010;'en:somebody';1;0
+e;14954011;'en:someone';1;0
+e;15634650;'en:a somebody';1;0
+e;64885;'qqn';1;52
+e;1797469;'qqun';1;0
+e;396247;'individu>24956';1;128;'individu>être humain'
+e;118790;'cuisinier';1;1016
+e;59151;'cuisinière';1;636
+e;73893;'singe';1;872
+e;101083;'policier';1;2296
+e;142124;'garçon';1;3004
+e;95245;'fille';1;5950
+e;141440;'police';1;2000
+e;225916;'personne>24956';1;708;'personne>être humain'
+e;132527;'tribunal';1;1592
+e;140856;'juge';1;1870
+e;137506;'quelqu'un';1;4354
+e;121664;'opportuniste';1;96
+e;24956;'être humain';1;814
+e;17559;'animal';1;13917
+e;68439;'individu';1;6030
+e;124094;'enfant';1;19064
+e;116477;'personne';1;10218
+e;74860;'homme';1;28798
+e;16475498;'::>66:153105>26:80010';8;0;'tribunal d'instance [se faire] saisir'
+e;1742522;'bien>146889';1;0;'bien>Adv:'
+e;1632794;'souris>171869';1;0;'souris>Adj:'
+e;114637;'aliment';1;1546
+e;114700;'bien';1;3057
+e;239674;'bien>11403';1;68;'bien>possession'
+e;160927;'morceau de viande';1;146
+e;218941;'poisson>20965';1;324;'poisson>nourriture'
+e;260997;'Oscar>31900';1;52;'Oscar>récompense'
+e;251158;'tranche de viande';1;16
+e;65415;'salaire';1;934
+e;213376;'souris>104993';1;56;'souris>informatique'
+e;215004;'pomme>87286';1;290;'pomme>fruit'
+e;128646;'agneau';1;800
+e;312132;'thon>68467>113902';1;46;'thon>poisson>alimentation'
+e;213377;'souris>71115';1;138;'souris>rongeur'
+e;116588;'rognon';1;86
+e;66970;'ballon';1;2062
+e;191722;'steak haché';1;204
+e;214126;'thon>68467';1;236;'thon>poisson'
+e;162005;'Oscar';1;94
+e;142832;'souris';1;2248
+e;37201;'pomme';1;2224
+e;6876542;'en:chance';1;0
+e;7187011;'en:concept';1;0
+e;14108772;'Défenseur des droits';777;0
+e;25914;'bifteck haché';1;50
+e;15054599;'en:ground beef';1;0
+e;8061837;'en:minced beef';1;0
+e;8052392;'en:burger';1;0
+e;14941467;'en:hamburger';1;0
+e;15062312;'en:beefburger';1;0
+e;217141;'boeuf haché';1;62
+e;21742;'hamburger';1;460
+e;8055252;'en:beef burger';1;0
+e;12054110;'noix de saint-jacques';1;0
+e;15246459;'en:golden opportunity';1;0
+e;152432;'steack';1;156
+e;86754;'thon';1;566
+e;2321033;'IGPN';1;0
+e;318498;'Steak haché';1;50
+e;11250903;'défenseur des droits';777;0
+e;261738;'viande>20965';1;380;'viande>nourriture'
+e;32650;'concept';1;138
+e;246557;'occasion en or';1;22
+e;55572;'steak';1;570
+e;154848;'main tendue';1;56
+e;246870;'objet>109527';1;194;'objet>chose'
+e;214995;'main>157827';1;438;'main>partie du corps'
+e;71377;'bonne occasion';1;66
+e;68467;'poisson';1;6991
+e;246874;'objet>109527>139768';1;70;'objet>chose>artéfact'
+e;320632;'noix de Saint-Jacques';1;56
+e;19636;'rôti';1;362
+e;3361;'saumon';1;418
+e;237;'objet';1;1966
+e;27373;'idée';1;1108
+e;47417;'boeuf';1;1452
+e;20164;'lapin';1;1308
+e;41642;'échalote';1;80
+e;88413;'occase';1;66
+e;146144;'tasse';1;978
+e;141253;'perche';1;162
+e;146261;'poulet';1;1876
+e;99884;'mémoire';1;1054
+e;66372;'texte';1;960
+e;140100;'viande';1;4972
+e;86439;'instant';1;152
+e;260105;'cuit au four';1;52
+e;78401;'pogne';1;50
+e;147466;'baguettes';1;218
+e;155391;'pince à épiler';1;150
+e;134670;'fourchette';1;1500
+e;148387;'griffes';1;324
+e;62706;'doigt';1;2766
+e;14916413;'Langue:français';18;50
+e;3575927;'Morpho:min';18;50
+e;5046152;'Ver:Groupe2';18;50
+e;3576104;'Morpho:nospace';18;50
+e;187289;'Langage:littéraire';18;50
+e;2589183;'Ver:Transformation';18;0
+e;151866;'Ver:Transitif';18;50
+e;21880;'saisissable';1;52
+e;105778;'saisissant';1;104
+e;16475497;'::>14:153105>29:80010';8;0;'saisir [objet] tribunal d'instance'
+e;16475495;'::>13:85169>29:80010';8;0;'saisir [sujet] particulier'
+e;159385;'::>13:61490>29:80010>34';9;50;'De quelle manière une femme pourrait saisir ?'
+e;160121;'::>13:68439>29:80010>14';9;50;'Qu'est-ce qu'un individu pourrait saisir ?'
+e;160628;'::>14:40325>29:80010>13';9;50;'Qui pourrait saisir une opportunité ?'
+e;162233;'::>13:17559>29:80010>14';9;50;'Qu'est-ce qu'un animal pourrait saisir ?'
+e;162871;'::>13:74860>29:80010>34';9;50;'De quelle manière un homme pourrait saisir ?'
+e;164345;'::>13:124094>29:80010>14';9;50;'Qu'est-ce qu'une enfant pourrait saisir ?'
+e;166327;'::>13:17559>29:80010>15';9;50;'Où un animal pourrait saisir ?'
+e;195023;'::>13:124094>29:80010>16';9;50;'Avec quoi une enfant pourrait saisir ?'
+e;212511;'::>13:68439>29:80010>16';9;50;'Avec quoi un individu pourrait saisir ?'
+e;213620;'::>13:58294>29:80010>14';9;50;'Qu'est-ce qu'un huissier pourrait saisir ?'
+e;46453;'douane';1;288
+e;113521;'mieux';1;200
+e;20564;'rue';1;6855
+e;45179;'maison';1;12514
+e;49337;'crainte';1;1398
+e;4552;'inquiétude';1;836
+e;120892;'méfiance';1;716
+e;144681;'angoisse';1;1836
+e;17927;'haine';1;1292
+e;60835;'terreur';1;770
+e;90830;'dégoût';1;844
+e;82489;'frustration';1;514
+e;20202;'tristesse';1;2576
+e;23114;'anxiété';1;822
+e;22264;'colère';1;2170
+e;103405;'indifférence';1;610
+e;626;'peur';1;5290
+e;159792;'avec les mains';1;50
+e;259968;'à la poêle';1;18
+e;259967;'à feu vif';1;6
+e;77638;'vivement';1;232
+e;73080;'au mieux';1;52
+e;317324;'_POLIT_3PS';36;50
+e;248198;'_SEX_NO';36;50
+e;254876;'_POL-POS_PC';36;50
+e;191741;'_INFO-VOC-COMMON';36;50
+e;254878;'_POL-NEG_PC';36;50
+e;273221;'_INFO-WIKI-NO';36;50
+e;214534;'_INFO-MEANING-FIGURED';36;50
+e;254877;'_POL-NEUTRE_PC';36;50
+e;217817;'_INFO-POLYSEMIC';36;50
+e;2585996;'_INFO-CNRTL-YES';36;50
+e;223173;'_POL-POS';36;50
+e;223172;'_POL-NEG';36;50
+e;241794;'_POL-NEUTRE';36;50
+e;321562;'trouver>90139';1;64;'trouver>découvrir'
+e;9209824;'modifier la température';1;0
+e;20379;'transformer';1;224
+e;269561;'sans couleur';1;50
+e;45686;'découper';1;1206
+e;1974763;':r31864763';10;0
+e;1974764;':r31864768';10;0
+e;1974765;':r31864773';10;0
+e;1974905;':r31865856';10;0
+e;1975011;':r31870649';10;0
+e;1975078;':r31867768';10;0
+e;1975079;':r31871689';10;0
+e;1975080;':r31871694';10;0
+e;1975081;':r31871699';10;0
+e;12005802;':r312881814';10;0
+e;12667426;'7f5a6e11b0c09eefdc7b064860af02aa';200;0
+e;12676145;'144a2c203cf556319c899369640646cf';200;0
+e;12676374;'8fec1f83607ccc32725edce7ca4844ef';200;0
+e;12677087;'4045af3aeacc3925cba00b0e3a2d3d98';200;0
+e;12681155;'6d95c79afa696354aab060989a201bd9';200;0
+e;12683775;'b673fc1107e1901d2e956d5d06ecdccc';200;0
+e;12685031;'f80053405a72fcc50c3a0c7247a3253b';200;0
+e;12689300;'41cf1c33c0ef6637b299b8727b99ccfd';200;0
+e;12690499;'16d414d4e085f95b770c8209e8af22e3';200;0
+e;12690622;'7d81e7ab284ae9fca2231ea0c2e38616';200;0
+e;12692781;'7e0e9fa3bcded01c612a01e520295728';200;0
+e;12692851;'e74d3e9d3e7c893a4da774a16fd3a91e';200;0
+e;12692896;'de406261b6408a9f0a2e4dd5163c7002';200;0
+e;12693313;'97b2d7dfd73668e9cdd9e479b91461b6';200;0
+e;12697449;'3c14b184a7591d4611cc2d76af4bba6d';200;0
+e;12699859;'2439848b55c341360d058f3cb13b5dcb';200;0
+e;12702438;'b442874cc31be049b92a23e95899595c';200;0
+e;12709336;'2cc09d763a26af3347348572106cde2a';200;0
+e;12711162;'e3ea58a24a45f3e96e5dd0c6cec86ea2';200;0
+e;12712802;'10f01c07b366dd5016d8f848116e37ed';200;0
+e;12712924;'20e416c0dd62ffe7f996bb00f8211d6d';200;0
+e;12713521;'84ddf534b3ef1db3ad7585a8e2ea9b0a';200;0
+e;12714659;'1f655f9c26e60684253635859af626a3';200;0
+e;12716703;'aeb6ce8e855985ffd86b50a7da02ddac';200;0
+e;12719203;'595343fcd4840a4a560381a0570e0d8f';200;0
+e;12720486;'f3a256646c17b13157ec1b5049c3b3a5';200;0
+e;12722157;'3c7896c52179a1c1406bb7d010264e87';200;0
+e;12724865;'5ada1a30414ffd9bb5057a6d67d6e87e';200;0
+e;12727621;'01c6557509cebd90d6b8ec134f5f0ea9';200;0
+e;12732286;'b37660b0ec4d6068f6be4018001fe76a';200;0
+e;12735422;'f35a459bcd75f603e807d439f1b5e364';200;0
+e;12763811;'93da83f2b80ec9c56046229ada1ecc33';200;0
+e;12773910;'f90fab14cea8d60cf0ad940b052df1da';200;0
+e;12784582;'3a819d3457ae88bd087dbba531485dd0';200;0
+e;12784731;'8180f758498c67c2d0c4ae0d2b0bda8d';200;0
+e;12982826;'13946c4c63060d673fc18cbbf2a4a4da';200;0
+e;12987426;'e72d36e891bd3ceab25d268947ce8c22';200;0
+e;12991242;'2124eba9f1b1b98eb9a9973e89ba8ffa';200;0
+e;12991249;'37738770a1b72456dee409c0379a71e8';200;0
+e;12991357;'9eb0ca841222e045efb89710aa835e05';200;0
+e;12991411;'3a382e6799cd4bb2a95e0f3b43048ab3';200;0
+e;12991554;'3bcd3a4c68fa1b17e0c94ee379aa6558';200;0
+e;12992245;'0fdd14ba9373ac05623db4435fefe097';200;0
+e;12992397;'e407983fa8804e54bda52cdde40844e0';200;0
+e;13026699;'513e8c9e71d665339fd425d318e44aa7';200;0
+e;13102595;'30f79d304bee87bf61511fe7ba8dff35';200;0
+e;13219401;'1def9962d8ce6bb2453e301047567199';200;0
+e;13270228;'33f389d8de45e3a047178854d0b15e9e';200;0
+e;13406225;'c21dbc9bd2a314a2ac2eb7973813fe83';200;0
+e;13312466;'b3a865081cb355ac8a21e2c6e4f38b54';200;0
+e;13323389;'ac5771c7ba11525391edee9e0b04e330';200;0
+e;12672754;'290008564a25abe75292a8e98fd31500';200;0
+e;12673935;'1dfbe8979ef2317654bc3aa508aae701';200;0
+e;12674988;'b5201f0925a1959d47cd11696c67c96f';200;0
+e;12678244;'d234bad028e1bf879bd7c8974035db19';200;0
+e;12680116;'0e40d4a30c655d8b715e6ca8cff7af37';200;0
+e;12680234;'04f9100d901175aa168814f8dbc6ec53';200;0
+e;12680235;'d37126d7d20d10faf5ca249441fbd062';200;0
+e;12680876;'ba6d1244d1fb7fd177ed4f217b275e56';200;0
+e;12681758;'0769e7188e5482d23f880f14fccc5366';200;0
+e;12683383;'9ae51730b22576a0b676f3fc0830885e';200;0
+e;12685697;'44d467f842933156588eb9a5b13721e4';200;0
+e;12709327;'444f2f4eaeea760a2ef7b1e9a12602b8';200;0
+e;12711486;'c01e8050923e401b3f3175f0b48f7c6d';200;0
+e;12711750;'d6c5c14e54134dd92b2ab32c8e7ff068';200;0
+e;12719154;'4973ba5fc23aee9eb77af7c751d4f1d1';200;0
+e;12722195;'e81f2e99dba5b62f929ce1674d460065';200;0
+e;12722356;'9762bca420107d0cade8580b5ff3015d';200;0
+e;12722364;'660951feecadf2f98e3ef9dd99dd7eb9';200;0
+e;12734581;'8439f6d650d39af54d76c0cbd2f0b3e6';200;0
+e;12990887;'ab30f3f178c8dca45a6da9a4cd73dd6b';200;0
+e;13519843;'87e8afcc0578b05960fe9094fe0eac67';200;0
+e;13628615;'8ed94caecdbfcfd52c009f8e2cd53742';200;0
+e;13631004;'0553617ebf045c19f460d1f8018d920d';200;0
+e;13642424;'154959448052e9f3e9c452837805ca3a';200;0
+e;13656444;'92b2b97c9c1a88e9eebef920f4fe5589';200;0
+e;13665581;'96857b8ee9da829160c8bea141eb79a4';200;0
+e;13737462;'ddaf3359368c99b2e709da614e2fce3b';200;0
+e;13738432;'40e41fe202d82a77725d57ad38cafb31';200;0
+e;13884866;'67255225e361d8b20e5275281c8b7b25';200;0
+e;13990359;'3ba851d57b6cc53d438a717ee650b910';200;0
+e;14036290;'97649d0cf2f79e457d8928a9ebe6b5fe';200;0
+e;14114556;'5761e37f9f90d3ad911df43982c5718f';200;0
+e;14127545;'ef0f4ed76a30f99c123dee84d7477440';200;0
+e;14135919;'8025f5a038e351e536da319831b24db9';200;0
+e;14158135;'9e52fbef6196895eb7f1fb4145e21818';200;0
+e;14158155;'fee23742c83a110aeeb4b3c2fb244088';200;0
+e;14169147;'06443d2f3d46a9e2474d96cd3208d39b';200;0
+e;14169154;'94983dd996ecf385f147869492c6d8c7';200;0
+e;14169244;'38497a43072863418644f75488a613b3';200;0
+e;14173005;'a0e2d62f75477c5d5a71d190f7d2074c';200;0
+e;14227835;'7c99d4f3eaef57393e736694ad8eb917';200;0
+e;14257831;'29a8ed46d3d2735c076d689e2429da24';200;0
+e;14270523;'ad73c7e71102ab65005d871537a13ac6';200;0
+e;14271089;'6bb3b1fcfd75dce89db50731c9f36764';200;0
+e;14316870;'0a2953846779a4b5ec81e324540d9822';200;0
+e;14326564;'ed3ac7d53d2707d89f7c53d678c44953';200;0
+e;14333991;'21abb4d2e6fca49227989d857370e729';200;0
+e;14380520;'87dd5ba5d9a5b61d9b6bd0362e8c333c';200;0
+e;14399472;'1c86f0146307913232d49545ace6284f';200;0
+e;14432703;'979132c7b55c526a00a7b5c44711a172';200;0
+e;14446216;'adaf3224409bf30994ae9712bc509de9';200;0
+e;14465471;'aeda5f9f0e036eb34a776b016b8f3f85';200;0
+e;14485026;'41f3e4759ae3a71cf0a5ab5c349d5b6b';200;0
+e;14594689;'a485e7d8d2983d7301a1de8b03852064';200;0
+e;14604707;'918c6f1f5705ecf4ac6eca8349236bbd';200;0
+e;14669523;'dceb741968e9444af13926eb724daf2e';200;0
+e;14669528;'0abd5ad4e18deb9d87e4352ca78b4387';200;0
+e;14753396;'c5a12a7c2889a4bb5b8173e1a4cfa5b1';200;0
+e;16306139;'525a5ba613726558ee247310218b124a';200;0
+e;14851640;'6a1445d1ce3f55258276cb4df78b7134';200;0
+e;15013563;'b62ec5904969fdafec8313fa7d639c51';200;0
+e;15019647;'39398e00fc286a3728b9e15aeef1b8a8';200;0
+e;15951497;'0326b16cf28f206f506b2135e665d3d0';200;0
+e;16144806;'545baf5c7343f9b0c8115c6cff72a617';200;0
+e;16157775;'5fb89ec70d9238121e2a60e01d82e75b';200;0
+e;16276669;'440d3a6b15a460298d8549b12f75f164';200;0
+e;16290666;'f4032cf2fd80c4a1b97c9a6c0370a687';200;0
+e;16296361;'2ca18632f458a8aec5a67fcef133e438';200;0
+e;16316043;'ca096bbe1e3823b5eded6997bba7972d';200;0
+e;16367158;'7e1937f991b2037ac244ce92f0dd0f29';200;0
+e;16367272;'8b6a475fa701100df527ebd147e2190d';200;0
+e;16375390;'21280d4cdb9cf30fc53deaf68b413dab';200;0
+e;12663637;'bb4a58d5f7d4e62b097514fe4c4f4033';200;0
+e;12692817;'2d95cb4b84e4bcd0d14c78b2fe61caa1';200;0
+e;12699415;'b636c900de29972229f7b4d0b6eb9ff1';200;0
+e;12712907;'8c4bea9f7cee9f750c90fe7b9638f845';200;0
+e;12714774;'3a2da836f165ee5f40ef227780b5c006';200;0
+e;12726057;'529c70a527060645363d40f0f8689312';200;0
+e;12772385;'3a5be555039a76061113406966051d9d';200;0
+e;12788501;'a681d4519144bd388c79b97f6753ebac';200;0
+e;12827550;'b3bd5088818fa7ec744b10e3043ab4ad';200;0
+e;12988199;'b17b555158d70b81ac2b1b2388bffe9e';200;0
+e;13252210;'029cb0ea8ee989573f37e6e93c7dc26a';200;0
+e;13440496;'dd313ddb472765e3af16fabb68029b20';200;0
+e;13519858;'dd0f3471ffed616e650a216e84e42116';200;0
+e;13520081;'c5641322f12d844ede25dd31d806c70c';200;0
+e;13520082;'9c054a978ff2bdd6914f0acc2666ddb9';200;0
+e;12665075;'79f81c33c631deaca7ccc1962c5eef45';200;0
+e;12670153;'62a54bc5a3d1d05e8b0d8fbfde0ce0d4';200;0
+e;12679688;'b888c981d758fdd798a73c41aa4636a3';200;0
+e;12693110;'d6e7aedc0d26acbec43f1754dcb9032e';200;0
+e;12699268;'70bb9b0a91483181b243c784d5f67d89';200;0
+e;13641308;'4b11b4c1892eb9ae7d6d5013c01b81aa';200;0
+e;15636549;'407dd3ca489919d8efc179b1eec70ebe';200;0
+e;14326241;'5086225d563152cc3a4cd31b327e634c';200;0
+e;14388176;'3157f15c6fefd2e3e28f3c4d04e10d44';200;0
+e;14655056;'0bc44533ffa97cebf866e58717b68224';200;0
+e;14753410;'ae2c1355a33a0ba22db89867963a1857';200;0
+e;14895525;'bf6b54a137bd266938bcca89093ae039';200;0
+e;16508490;'4f051cc8abf36fbdfa9158f284852dde';200;0
+e;12977419;'3a7c9823dc01c779b93f4fdae7e36352';200;0
+e;12899811;'368254cdc87e900d7e240c1cc6f5604b';200;0
+e;14321890;'b93363483d03d64f266d3a323c42eff9';200;0
+e;14490892;'ef5d46b8b5c15fd4da642c533f04c753';200;0
+e;14902465;'abe80b28d1e1d63765456c2d20b89a63';200;0
+e;14902466;'80accff1b91d92a42b54146771c1bf67';200;0
+e;12692913;'3903225930eda02b1af347cf34c87e3c';200;0
+e;12717991;'22836e950f5d70588ee5e6f6f3f4f922';200;0
+e;12667466;'cce7a59771e9919ddf19ca23a41ea32e';200;0
+e;12727982;'5c6793b33629764b96fd02fc80889099';200;0
+e;12870454;'eea4d56043b88363cda60d50748236e2';200;0
+e;13730271;'201904156d8a311ec1c742b67de6ea68';200;0
+e;14902456;'d101d258b4fcafecde95a0ced2b260e8';200;0
+e;12665661;'fbf5c3092360703dbc70a6cf96461f98';200;0
+e;13439386;'7e867154100d228af8ff8eccc150ad47';200;0
+e;13439401;'75708435257467ca0f049edfcc97f066';200;0
+e;12764013;'1c93087a5fbc9d0acbc0c86db14acc66';200;0
+e;12977398;'3775a4a89ab04d6870ac14adccaa0cdd';200;0
+e;3769954;'dbnary:fra:__ws_4_saisir__verb__1';444;0
+e;3774995;'dbnary:fra:__ws_3_saisir__verb__1';444;0
+e;3806484;'dbnary:fra:__ws_9_saisir__verb__1';444;0
+e;3879356;'dbnary:fra:__ws_5_saisir__verb__1';444;0
+e;3988386;'dbnary:fra:__ws_6_saisir__verb__1';444;0
+e;4065609;'dbnary:fra:__ws_1_saisir__verb__1';444;0
+e;4096629;'dbnary:fra:__ws_7_saisir__verb__1';444;0
+e;4173552;'dbnary:fra:__ws_2_saisir__verb__1';444;0
+e;4204914;'dbnary:fra:__ws_8_saisir__verb__1';444;0
+e;2983124;'_SW';36;50
+e;31412;'mettre en évidence';1;52
+e;49778;'faire apparaître';1;50
+e;233502;'comprendre>107521';1;50;'comprendre>être indulgent'
+e;233499;'comprendre>129092';1;50;'comprendre>inclure'
+e;313854;'comprendre>39253';1;58;'comprendre>empathie'
+e;233501;'comprendre>29449';1;52;'comprendre>se rendre compte'
+e;1874446;'entrer>114158';1;4;'entrer>être admis'
+e;1874448;'entrer>21845';1;6;'entrer>pénétrer'
+e;1874449;'entrer>8431';1;2;'entrer>commencer'
+e;241775;'attraper>847';1;44;'attraper>capturer'
+e;243861;'piger>40924';1;50;'piger>mesurer'
+e;243862;'piger>243860';1;16;'piger>travail à la pige'
+e;1797373;'figer>109979';1;0;'figer>se solidifier'
+e;241773;'attraper>61952';1;30;'attraper>gronder'
+e;241774;'attraper>47869';1;8;'attraper>contracter'
+e;241776;'attraper>56255';1;10;'attraper>berner'
+e;3437748;'gueuler>38531';1;18;'gueuler>hurler'
+e;4309609;'capter>4309608';1;2;'capter>attirer à soi'
+e;4309621;'capter>82656';1;0;'capter>capteur'
+e;4309612;'capter>99014';1;0;'capter>source'
+e;4309614;'capter>44663';1;0;'capter>réseau'
+e;4309610;'capter>126398';1;0;'capter>intercepter'
+e;4309613;'capter>120619';1;0;'capter>héritage'
+e;323298;'tilter>223874';1;50;'tilter>billard électrique'
+e;1792219;'compris>131333';1;2;'compris>comprendre'
+e;1792218;'compris>141191';1;0;'compris>interprété'
+e;1800266;'appréhendé>160201';1;0;'appréhendé>redouté'
+e;1800268;'appréhendé>110038';1;0;'appréhendé>arrêté'
+e;1792209;'compris>108150';1;2;'compris>contenu'
+e;1771459;'saisie>167159';1;4;'saisie>attrapée'
+e;12087954;':gRUS';1002;0
+e;13084;'effarement';1;94
+e;13429;'guichetier';1;92
+e;10996;'flamboiement';1;52
+e;75087;'nib';1;50
+e;9858;'dorloter';1;84
+e;212543;'Muse';666;2
+e;229298;'bopomofo';666;50
+e;938;'bâtier';1;50
+e;2556;'aguets';1;50
+e;3181;'ardemment';1;118
+e;7422;'cordialement';1;92
+e;9224;'Buridan';1;76
+e;19866;'Rene';1;50
+e;22983;'plioir';1;50
+e;27916;'raffermir';1;60
+e;30090;'boutade';1;66
+e;30848;'touffeur';1;52
+e;36574;'halde';1;54
+e;41182;'ribaud';1;58
+e;41666;'jusant';1;50
+e;47177;'invinciblement';1;52
+e;56035;'kriss';1;64
+e;60739;'rasade';1;52
+e;63280;'raccrocher';1;70
+e;65840;'derechef';1;64
+e;69766;'rasseoir';1;50
+e;76150;'triboulet';1;50
+e;88897;'mouver';1;50
+e;90058;'imparfaitement';1;56
+e;103840;'inextinguible';1;62
+e;116201;'rengainer';1;50
+e;174710;'armadille';1;50
+e;212839;'Playboy';666;36
+e;186876;'savoir ce que parler veut dire';1;50
+e;223559;'multiprise';666;50
+e;2504;'huchier';1;54
+e;69684;'surseoir';1;70
+e;16086487;'Charon>32303';1;0;'Charon>mythologie'
+e;15204618;'en:go to court';1;0
+e;14932730;'en:dispossess';1;0
+e;14932741;'en:despoil';1;0
+e;14916701;'en:relinquish';1;0
+e;14954696;'en:booby-trap';1;0
+e;15428382;'saisir [qch] au vol';1;0
+e;15587914;'saisir quelque chose au vol';1;0
+e;345301;'crochet de fenêtre';1;50
+e;210967;'il faut battre le fer tant qu'il est chaud';1;50
+e;16324764;'en:do a dummy';1;0
+e;15379882;'saisir... l'occasion';1;0
+e;14669803;'attaquer en justice';1;0
+e;15091742;'en:PIN';1;0
+e;14928856;'en:PIN number';1;0
+e;15091741;'en:personal identification number';1;0
+e;211588;'prendre d'assaut';1;74
+e;129254;'prendre sur le vif';1;50
+e;2544306;'réempoigner';1;0
+e;16057027;'saisir aux cheveux';1;0
+e;16036998;'pince-balles';1;0
+e;94056;'préhensile';1;50
+e;12677;'enserrer';1;98
+e;42112;'épuiseter';1;50
+e;60861;'happement';1;50
+e;167457;'hystérolabe';1;50
+e;9947;'mécanographe';1;50
+e;70680;'crampon';1;84
+e;128482;'baguette';1;1926
+e;60993;'accessible';1;164
+e;2343982;'saisi>161702';1;0;'saisi>Ver:PPas'
+e;37665;'atelloire';1;50
+e;588448;'saisi>171869';1;0;'saisi>Adj:'
+e;75718;'becquer';1;50
+e;15550313;'en:to return the ball on the volley';1;0
+e;15569661;'en:return the ball on the volley';1;0
+e;15333144;'en:fake sb out';1;0
+e;15792360;'en:fake somebody out';1;0
+e;15409576;'en:make hay while the sun shines';1;0
+e;15389256;'en:to make hay while the sun shines';1;0
+e;15419884;'en:over an open flame';1;0
+e;15419883;'en:over an open fire';1;0
+e;15306930;'en:catch red-handed';1;0
+e;15437750;'saisir la cour';1;0
+e;15428722;'saisir un tribunal';1;0
+e;15695858;'profiter de quelque chose';1;0
+e;122840;'bronzeur';1;50
+e;3382777;'compris>171869';1;0;'compris>Adj:'
+e;46612;'compris';1;62
+e;206211;'prendre sur le fait';1;74
+e;1654640;'harpigner';1;0
+e;16057136;'sauter sur le râble à';1;0
+e;3382776;'compris>161702';1;0;'compris>Ver:PPas'
+e;11516;'auberon';1;50
+e;93513;'capter';1;84
+e;13639306;'mal prendre>80010';1;0;'mal prendre>saisir'
+e;14281841;'saisis>2946892';1;0;'saisis>Ver:Conjug'
+e;15562634;'mettre quelque chose à profit';1;0
+e;15444511;'mettre [qch] à profit';1;0
+e;15761333;'saisir quelqu'un';1;0
+e;15460651;'saisir [qqn]';1;0
+e;15743002;'tirer profit de quelque chose';1;0
+e;15424688;'tirer profit de [qch]';1;0
+e;15743107;'tirer avantage de quelque chose';1;0
+e;15424651;'tirer avantage de [qch]';1;0
+e;15562633;'en:make good use of something';1;0
+e;15562632;'en:put something to good use';1;0
+e;15743001;'en:benefit from something';1;0
+e;16475496;'::>66:85169>24:80010';8;0;'particulier [peut] saisir'
+e;1978783;'saisissez';1;0
+e;2078316;'saisirai';2;0
+e;2078401;'saisissent';2;0
+e;126279;'appréhendé';1;50
+e;135926;'araignée';1;740
+e;238615;'faire tilt>131333';1;2;'faire tilt>comprendre'
+e;1770851;'saisi>104993';1;0;'saisi>informatique'
+e;1978638;'saisies';1;0
+e;2078323;'saisira';2;0
+e;2078334;'saisirez';2;0
+e;2078410;'saisissons';2;0
+e;325803;'prendre son pied>80010';1;50;'prendre son pied>saisir'
+e;152553;'Gastronomie';1;72
+e;1874996;'accessible>235778';1;6;'accessible>à portée de main'
+e;2078362;'saisissaient';2;0
+e;37099;'harper';1;54
+e;47528;'fourche';1;164
+e;229272;'baguette>1451';1;28;'baguette>couvert'
+e;1973227;'saisie>80010';1;4;'saisie>saisir'
+e;2078320;'saisirait';2;0
+e;2078339;'saisiront';2;0
+e;2078402;'saisisse';2;0
+e;2078419;'saisît';2;0
+e;90592;'figer';1;58
+e;1800278;'appréhendé>171869';1;0;'appréhendé>Adj:'
+e;171064;'à bras le corps';1;10
+e;2078314;'saisiraient';2;0
+e;2078335;'saisiriez';2;0
+e;1800277;'appréhendé>161702';1;0;'appréhendé>Ver:PPas'
+e;15236196;'en:jump at the opportunity';1;0
+e;15247742;'en:art of cooking';1;0
+e;15322503;'maquette en blanc';1;0
+e;15205830;'en:take a risk';1;0
+e;15041903;'en:run a risk';1;0
+e;235058;'autocomplétion';1;50
+e;323297;'tilter>131333';1;50;'tilter>comprendre'
+e;1771457;'saisie>7159';1;6;'saisie>droit'
+e;421625;'saisit';1;50
+e;2078403;'saisisses';2;0
+e;102531;'gueuler';1;230
+e;235693;'éclair de compréhension';1;6
+e;250855;'prendre à bras-le-corps';1;50
+e;1771458;'saisie>104993';1;6;'saisie>informatique'
+e;1978637;'saisis';1;0
+e;2078318;'saisirais';2;0
+e;2078336;'saisirions';2;0
+e;2078337;'saisirons';2;0
+e;2078368;'saisissais';2;0
+e;2078412;'saisîtes';2;0
+e;2078328;'saisiras';2;0
+e;2078408;'saisissions';2;0
+e;1792208;'compris>84434';1;0;'compris>assimilé'
+e;2078370;'saisissait';2;0
+e;4309611;'capter>131333';1;4;'capter>comprendre'
+e;13639301;'mal prendre';1;0
+e;15379884;'en:jump at the chance';1;0
+e;15323827;'en:enclude';1;0
+e;1797374;'figer>42637';1;0;'figer>immobiliser'
+e;1888712;'saisie>161702';1;0;'saisie>Ver:PPas'
+e;600026;'saisie>171869';1;0;'saisie>Adj:'
+e;211812;'sauter sur l'occasion';1;52
+e;2078300;'saisîmes';2;0
+e;1874447;'entrer>80010';1;6;'entrer>saisir'
+e;6904572;'en:firmly';1;0
+e;15432026;'en:seize an opportunity';1;0
+e;15041904;'en:take a chance';1;0
+e;15431687;'en:take the ball in midair';1;0
+e;14944337;'en:enclose';1;0
+e;236786;'courir un risque';1;58
+e;1800267;'appréhendé>46612';1;0;'appréhendé>compris'
+e;2078406;'saisissiez';2;0
+e;2078332;'saisirent';2;0
+e;3174663;'prendre par';1;0
+e;97538;'entrer';1;452
+e;3437749;'gueuler>140429';1;0;'gueuler>chasse'
+e;15427106;'en:have recourse to the law';1;0
+e;97934;'prendre son pied';1;370
+e;16160698;'taper son code confidentiel';1;0
+e;15196029;'en:over a brisk heat';1;0
+e;15221900;'en:take to court';1;0
+e;3161660;'vil opportuniste';1;0
+e;21764;'curseur';1;72
+e;256973;'faire la surprise';1;50
+e;14755596;'saisie de texte';1;0
+e;14753147;'permis de conduire (document)';1;0
+e;245619;'code confidentiel';1;10
+e;108467;'à pleines mains';1;54
+e;3354341;'À pleines mains';777;0
+e;14936475;'en:spook';1;0
+e;15100594;'en:culinary art';1;0
+e;156064;'art de la table';1;68
+e;125954;'se dessaisir';1;52
+e;15431686;'reprendre la balle de volée';1;0
+e;14923729;'en:dummy';1;0
+e;367674;'organe de préhension';1;50
+e;271477;'photographie animalière';666;50
+e;154180;'tirer la couverture à soi';1;64
+e;11012136;'entrer un nom de login';1;0
+e;5246471;'mots de passe';1;0
+e;98783;'instantanéiser';1;50
+e;14938071;'en:feint';1;0
+e;15715981;'en:claim his/her/their due';1;0
+e;15428985;'en:take his/her/their payment in kind';1;0
+e;251861;'se payer sur la bête';1;50
+e;3157348;'an:86306:?:85286:143876';12;50
+e;378390;'saisie mobilière';1;50
+e;7187036;'en:intuition';1;0
+e;51656;'y être';1;50
+e;15431682;'en:take the ball and run with it';1;0
+e;15431688;'en:seize the opportunity';1;0
+e;185290;'cosaisir';1;50
+e;185267;'autosaisir';1;50
+e;21699;'poigner';1;50
+e;221231;'pogner';1;2
+e;102816;'vue';1;1300
+e;92177;'occupé';1;156
+e;116474;'apprécié';1;108
+e;36492;'atteint';1;104
+e;65470;'atteinte';1;104
+e;12643;'attrapé';1;62
+e;124506;'bouleversé';1;72
+e;103624;'campé';1;72
+e;134700;'conçu';1;74
+e;121157;'distingué';1;118
+e;59798;'entendu';1;80
+e;46996;'impressionné';1;58
+e;86031;'secoué';1;66
+e;153870;'supprimé';1;58
+e;45854;'surpris';1;154
+e;25132;'tenue';1;492
+e;57502;'touché';1;172
+e;108939;'transit';1;54
+e;90803;'transporté';1;92
+e;30726;'vu';1;92
+e;66200;'interprétant';1;50
+e;147799;'discernant';1;50
+e;113849;'campée';1;56
+e;247806;'interdite';1;6
+e;156084;'campant';1;54
+e;151461;'accrochant';1;52
+e;109640;'embrasser';1;1454
+e;14950663;'en:overlook';1;0
+e;15447635;'dominer [qch]';1;0
+e;15592542;'dominer quelque chose';1;0
+e;15592543;'en:be predominant in something';1;0
+e;15592544;'en:be predominant among something';1;0
+e;15592545;'en:be a master of something';1;0
+e;15592546;'en:have mastered something';1;0
+e;15592547;'ventiler [qch]';1;0
+e;15592548;'ventiler quelque chose';1;0
+e;15592549;'en:share something out';1;0
+e;14918139;'en:ventilate';1;0
+e;15592541;'en:tower over something';1;0
+e;14935300;'en:dominate';1;0
+e;14917974;'en:allocate';1;0
+e;15592550;'en:give something out';1;0
+e;15447417;'[qqn]';1;0
+e;122824;'phalange';1;610
+e;15252344;'en:tricholabion';1;0
+e;15252345;'en:eyebrow tweezers';1;0
+e;15474559;'pince brucelles';1;0
+e;14925283;'en:tweezers';1;0
+e;15430389;'en:beef mince';1;0
+e;15196234;'en:hand stretched';1;0
+e;15196233;'en:friendly hand';1;0
+e;14930626;'en:helping hand';1;0
+e;15196190;'en:hand extented';1;0
+e;15196189;'en:extended hand';1;0
+e;213841;'fourchette>152067';1;32;'fourchette>ustensile de cuisine'
+e;255793;'araignée>80970';1;50;'araignée>écumoire'
+e;15194509;'en:police patrol';1;0
+e;252598;'ronde de police';1;4
+e;9462;'pouce';1;994
+e;146381;'même';1;178
+e;223513;'décrudir';666;50
+e;110111;'portatif';1;56
+e;296360;'Amedeo Clemente Modigliani';777;50
+e;40569;'Amedeo Modigliani';1;50
+e;47895;'Modigliani';1;50
+e;4853792;'Amadeo Modigliani';1;0
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;1;'r_raff_sem';'raffinement sémantique';Raffinement sémantique vers un usage particulier du terme source
+rt;3;'r_domain';'domaine';Il est demandé de fournir des domaines relatifs au mot cible. Par exemple, pour 'corner', on pourra donner les domaines 'football' ou 'sport'.
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;5;'r_syn';'synonyme';Il est demandé d'énumérer les synonymes ou quasi-synonymes de ce terme.
+rt;6;'r_isa';'générique';Il est demandé d'énumérer les GENERIQUES/hyperonymes du terme. Par exemple, 'animal' et 'mammifère' sont des génériques de 'chat'.
+rt;7;'r_anto';'contraire';Il est demandé d'énumérer des contraires du terme. Par exemple, 'chaud' est le contraire de 'froid'.
+rt;8;'r_hypo';'spécifique';Il est demandé d'énumérer des SPECIFIQUES/hyponymes du terme. Par exemple, 'mouche', 'abeille', 'guêpe' pour 'insecte'.
+rt;11;'r_locution';'locution';A partir d'un terme, il est demandé d'énumérer les locutions, expression ou mots composés en rapport avec ce terme. Par exemple, pour 'moulin', ou pourra avoir 'moulin à vent', 'moulin à eau', 'moulin à café'. Pour 'vendre', on pourra avoir 'vendre la peau de l'ours avant de l'avoir tué', 'vendre à perte', etc..
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;13;'r_agent';'action>agent';L'agent (qu'on appelle aussi le sujet) est l'entité qui effectue l'action, OU la subit pour des formes passives ou des verbes d'état. Par exemple, dans - Le chat mange la souris -, l'agent est le chat. Des agents typiques de 'courir' peuvent être 'sportif', 'enfant',... (manger r_agent chat)
+rt;14;'r_patient';'action>patient';Le patient (qu'on appelle aussi l'objet) est l'entité qui subit l'action. Par exemple dans - Le chat mange la souris -, le patient est la souris. Des patients typiques de manger peuvent être 'viande', 'légume', 'pain', ... (manger r_patient pain)
+rt;16;'r_instr';'action>instrument';L'instrument est l'objet avec lequel on fait l'action. Dans - Il mange sa salade avec une fourchette -, fourchette est l'instrument. Des instruments typiques de 'tuer' peuvent être 'arme', 'pistolet', 'poison', ... (couper r_instr couteau)
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;22;'r_family';'famille';Des mots de la même famille lexicale sont demandés (dérivation morphologique, par exemple). Par exemple, pour 'lait' on pourrait mettre 'laitier', 'laitage', 'laiterie', etc.
+rt;24;'r_agent-1';'agent typique-1';Que peut faire ce SUJET ? (par exemple chat => miauler, griffer, etc.) (chat r_agent-1 manger)
+rt;25;'r_instr-1';'instrument>action';L'instrument est l'objet avec lequel on fait l'action. Dans - Il mange sa salade avec une fourchette -, fourchette est l'instrument. On demande ici, ce qu'on peut faire avec un instrument donné... (scie r_instr-1 scier)
+rt;26;'r_patient-1';'patient-1';(inverse de r_patient) Que peut-on faire à cet OBJET. Pour 'pomme', on pourrait avoir 'manger', 'croquer', couper', 'éplucher',  etc. (pomme r_patient-1 manger)
+rt;27;'r_domain-1';'domaine-1';inverse de r_domain : à un domaine, on associe des termes
+rt;29;'r_chunk_pred';'predicat';(interne) d'un prédicat quel chunk ?
+rt;30;'r_lieu_action';'lieu>action';A partir d'un lieu, énumérer les actions typiques possibles dans ce lieu.
+rt;31;'r_action_lieu';'action>lieu';A partir d'une action (un verbe), énumérer les lieux typiques possibles où peut être réalisée cette action.
+rt;32;'r_sentiment';'sentiment';Pour un terme donné, évoquer des mots liés à des SENTIMENTS ou des EMOTIONS que vous pourriez associer à ce terme. Par exemple, la joie, le plaisir, le dégoût, la peur, la haine, l'amour, l'indifférence, l'envie, avoir peur, horrible, etc.
+rt;34;'r_manner';'manière';De quelles MANIERES peut être effectuée l'action (le verbe) proposée. Il s'agira d'un adverbe ou d'un équivalent comme une locution adverbiale, par exemple : 'rapidement', 'sur le pouce', 'goulûment', 'salement' ... pour 'manger'.
+rt;35;'r_meaning/glose';'glose/sens/signification';Quels SENS/SIGNIFICATIONS pouvez vous donner au terme proposé. Il s'agira de termes (des gloses) évoquant chacun des sens possibles, par exemple : 'forces de l'ordre', 'contrat d'assurance', 'police typographique', ... pour 'police'.
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;37;'r_telic_role';'rôle télique';Le rôle télique indique la fonction du nom ou du verbe. Par exemple, couper pour couteau, scier pour scie, etc. C'est le rôle qu'on lui destine communément pour un artéfact, ou bien un rôle qu'on peut attribuer à un objet naturel (réchauffer, éclairer pour soleil).
+rt;39;'r_verbe-action';'verbe>action';du verbe vers l'action. Par exemple, construire -> construction , jardiner -> jardinage . C'est un terme directement dérivé (ayant la même racine). Applicable que pour un verbe et inverse de la relation 40 (action vers verbe).
+rt;40;'r_action-verbe';'action>verbe';de l'action vers le verbe. Par exemple, construction -> construire, jardinage -> jardiner. C'est un terme directement dérivé (ayant la même racine). Applicable que pour un nom et inverse de la relation 39 (verbe vers action).
+rt;41;'r_conseq';'conséquence';B (que vous devez donner) est une CONSEQUENCE possible de A. A et B sont des verbes ou des noms.  Exemples : tomber -> se blesser ; faim -> voler ; allumer -> incendie ; négligence --> accident ; etc.
+rt;42;'r_causatif';'cause';B (que vous devez donner) est une CAUSE possible de A. A et B sont des verbes ou des noms.  Exemples : se blesser -> tomber ; vol -> pauvreté ; incendie -> négligence ; mort --> maladie ; etc.
+rt;52;'r_successeur-time';'successeur temporel';Qu'est ce qui peut SUIVRE temporellement (par exemple Noêl -> jour de l'an, guerre -> paix, jour -> nuit,  pluie -> beau temps, repas -> sieste, etc) le terme suivant :
+rt;57;'r_implication';'implication';Qu'est-ce que le terme implique logiquement ? Par exemple : ronfler implique dormir, courir implique se déplacer, câlin implique contact physique. (attention ce n'est pas la cause ni le but...)
+rt;62;'r_manner-1';'maniere-1';Quelles ACTIONS (verbes) peut-on effectuer de cette manière ? Par exemple, rapidement -> courir, manger, ...
+rt;63;'r_agentive_implication';'implication agentive';Les verbes ou actions qui sont impliqués dans la création de l'objet. Par exemple pour 'construire' un livre, il faut, imprimer, relier, brocher, etc. Il s'agit des étapes nécessaires à la réalisation du rôle agentif.
+rt;77;'r_verb_ppas';'r_verb_ppas';Le participe passé (au masculin singulier) du verbe infinitif. Par exemple, pour manger => mangé
+rt;79;'r_verb_ppre';'r_verb_ppre';Le participe présent(au masculin singulier) du verbe infinitif. Par exemple, pour manger => mangeant
+rt;106;'r_color';'couleur';A comme couleur(s)... chat r_color noir
+rt;109;'r_predecesseur-time';'prédécesseur temporel';Qu'est ce qui peut PRECEDER temporellement (par exemple -  inverse de successeur) le terme suivant :
+rt;115;'r_sentiment-1';'sentiment-1';Pour un SENTIMENT ou EMOTION donné, il est demandé dénumérer les termes que vous pourriez associer. Par exemple, pour 'joie', on aurait 'cadeau', 'naissance', 'bonne nouvelle', etc.
+rt;128;'r_node2relnode';'r_node2relnode';Relation entre un noeud (quelconque) et un noeud de relation (type = 10) - permet de rendre le graphe connexe même avec les annotations de relations
+rt;200;'r_context';'r_context';Relation de contexte entre un terme et un noeud contexte.
+rt;333;'r_translation';'r_translation';Traduction vers une autre langue.
+rt;444;'r_link';'r_link';Lien vers une ressource externe (WordNet, RadLex, UMLS, Wikipedia, etc...)
+rt;555;'r_cooccurrence';'r_cooccurrence';co-occurences (non utilisée)
+rt;666;'r_aki';'r_aki';(TOTAKI) equivalent pour TOTAKI de l'association libre
+rt;777;'r_wiki';'r_wiki';Associations issues de wikipedia...
+rt;999;'r_inhib';'r_inhib';relation d'inhibition, le terme inhibe les termes suivants... ce terme a tendance à exclure le terme associé.
+rt;1002;'r_termgroup';'r_termgroup';(interne)
+rt;2000;'r_raff_sem-1';'r_raff_sem-1';Inverse de r_raff_sem (automatique)
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;54312999;80010;144148;0;10
+r;54313073;80010;20102;0;10
+r;54313919;80010;11473;0;10
+r;54314594;80010;22316;0;10
+r;54315346;80010;60123;0;10
+r;54317177;80010;61791;0;10
+r;54317298;80010;6236;0;10
+r;418316820;80010;130235;0;11
+r;418316821;80010;29897;0;11
+r;417768185;80010;217;0;13
+r;97320836;80010;152552;0;15
+r;97320837;80010;212909;0;15
+r;97320835;80010;233500;0;17
+r;1000791;80010;1633;0;21
+r;1000794;80010;98571;0;21
+r;1000795;80010;123105;0;21
+r;1000802;80010;73827;0;21
+r;1000816;80010;87185;0;21
+r;1000819;80010;4601;0;21
+r;1000820;80010;73472;0;21
+r;1000825;80010;16903;0;21
+r;1000828;80010;91215;0;21
+r;1000833;80010;45225;0;21
+r;12197108;80010;120541;0;21
+r;12266206;80010;133824;0;21
+r;12266222;80010;102107;0;21
+r;12362612;80010;260619;0;21
+r;54312878;80010;26738;0;21
+r;54579933;80010;20419;0;21
+r;54829977;80010;34954;0;21
+r;54829990;80010;91829;0;21
+r;54830001;80010;119183;0;21
+r;97320838;80010;239595;0;21
+r;1000799;80010;104307;0;22
+r;1000809;80010;124188;0;22
+r;1000812;80010;82900;0;22
+r;1000818;80010;25239;0;22
+r;1000823;80010;4594;0;22
+r;1000824;80010;22549;0;22
+r;1000848;80010;40379;0;22
+r;12266211;80010;86054;0;22
+r;12266218;80010;7501;0;22
+r;12353585;80010;134093;0;22
+r;54829976;80010;114824;0;22
+r;54829989;80010;9341;0;22
+r;54830007;80010;118663;0;22
+r;1000843;80010;127777;0;23
+r;1000851;80010;134295;0;23
+r;12197106;80010;105296;0;23
+r;12266214;80010;27895;0;23
+r;54314744;80010;14335;0;23
+r;54321831;80010;129329;0;23
+r;54829975;80010;11824;0;23
+r;54830004;80010;13216;0;23
+r;54830017;80010;90139;0;23
+r;85316550;80010;79307;0;23
+r;97320839;80010;60056;0;23
+r;332129781;80010;590595;0;23
+r;1000798;80010;28778;0;24
+r;1000806;80010;82345;0;24
+r;1000817;80010;58543;0;24
+r;1000826;80010;77997;0;24
+r;1000841;80010;65980;0;24
+r;1000844;80010;51683;0;24
+r;12266216;80010;82821;0;24
+r;12266221;80010;107540;0;24
+r;54315212;80010;21845;0;24
+r;54322259;80010;10444;0;24
+r;54829987;80010;123955;0;24
+r;54829992;80010;63030;0;24
+r;71491697;80010;2447305;0;24
+r;85316544;80010;259980;0;24
+r;415093708;80010;15070129;0;25
+r;415131950;80010;15687393;0;25
+r;415131956;80010;15695119;0;25
+r;415131958;80010;15761335;0;25
+r;415131960;80010;15761334;0;25
+r;415131962;80010;15695118;0;25
+r;415131964;80010;15562631;0;25
+r;415131966;80010;15761332;0;25
+r;415131972;80010;15513180;0;25
+r;415186310;80010;15566635;0;25
+r;415283795;80010;15562877;0;25
+r;415283797;80010;15562876;0;25
+r;415341952;80010;15501242;0;25
+r;415399493;80010;15473913;0;25
+r;415417083;80010;12452230;0;25
+r;415417089;80010;14917233;0;25
+r;415417091;80010;14929461;0;25
+r;415417093;80010;7440940;0;25
+r;415417095;80010;7524277;0;25
+r;415791546;80010;14918547;0;25
+r;415890937;80010;15072029;0;25
+r;415890939;80010;15236198;0;25
+r;415890941;80010;14940920;0;25
+r;415890943;80010;15062059;0;25
+r;415890945;80010;15234293;0;25
+r;415890947;80010;15236197;0;25
+r;415890955;80010;6876975;0;25
+r;415890957;80010;14935899;0;25
+r;415994739;80010;14960014;0;25
+r;415994741;80010;14921085;0;25
+r;415994743;80010;14921734;0;25
+r;415994745;80010;14960013;0;25
+r;415994747;80010;7054183;0;25
+r;415994749;80010;14928122;0;25
+r;415994751;80010;7053784;0;25
+r;415994753;80010;13231454;0;25
+r;415994755;80010;14921733;0;25
+r;415994756;80010;14918548;0;25
+r;415994758;80010;14916989;0;25
+r;415994759;80010;14921618;0;25
+r;415994760;80010;14921732;0;25
+r;417768184;80010;8924;0;25
+r;418316819;80010;134536;0;25
+r;418316823;80010;17408;0;25
+r;433721637;80010;85169;0;25
+r;433721654;80010;153105;0;25
+r;433721695;80010;16475499;0;25
+r;1000796;80010;69256;0;26
+r;1000805;80010;34104;0;26
+r;1000821;80010;103323;0;26
+r;1000852;80010;112575;0;26
+r;1000855;80010;46367;0;26
+r;1000859;80010;116592;0;26
+r;12266212;80010;34510;0;26
+r;12266220;80010;131905;0;26
+r;12358591;80010;243863;0;26
+r;12360005;80010;232306;0;26
+r;54829991;80010;18886;0;26
+r;54829999;80010;71674;0;26
+r;54830014;80010;48704;0;26
+r;54830015;80010;84160;0;26
+r;1000792;80010;84676;0;27
+r;1000804;80010;57370;0;27
+r;1000832;80010;14744;0;27
+r;1000836;80010;47899;0;27
+r;1000850;80010;128828;0;27
+r;1000853;80010;132551;0;27
+r;2221745;80010;115811;0;27
+r;2221753;80010;71079;0;27
+r;12266208;80010;106202;0;27
+r;12266215;80010;98244;0;27
+r;54318661;80010;146125;0;27
+r;54321631;80010;54315;0;27
+r;54829995;80010;67583;0;27
+r;54830005;80010;134489;0;27
+r;62477509;80010;2524599;0;27
+r;335795649;80010;1787939;0;27
+r;1000807;80010;121316;0;28
+r;1000808;80010;114629;0;28
+r;1000814;80010;25296;0;28
+r;1000822;80010;124836;0;28
+r;1000827;80010;76662;0;28
+r;1000829;80010;44228;0;28
+r;1000835;80010;18834;0;28
+r;1000842;80010;27502;0;28
+r;1000845;80010;103148;0;28
+r;1000846;80010;88663;0;28
+r;1000849;80010;132650;0;28
+r;12266209;80010;131142;0;28
+r;12266213;80010;64848;0;28
+r;12266217;80010;126398;0;28
+r;12472628;80010;238607;0;28
+r;54829973;80010;117557;0;28
+r;54829986;80010;62786;0;28
+r;54830013;80010;44654;0;28
+r;1000800;80010;35966;0;29
+r;1000801;80010;47869;0;29
+r;1000810;80010;50630;0;29
+r;1000811;80010;132682;0;29
+r;1000834;80010;99453;0;29
+r;1000837;80010;60966;0;29
+r;1000856;80010;75156;0;29
+r;1000857;80010;11380;0;29
+r;2221743;80010;68473;0;29
+r;9366876;80010;14235;0;29
+r;12358667;80010;241772;0;29
+r;54309267;80010;15016;0;29
+r;54829974;80010;116921;0;29
+r;54829981;80010;133259;0;29
+r;54829993;80010;119770;0;29
+r;54829996;80010;5535;0;29
+r;54829998;80010;63449;0;29
+r;54830011;80010;103619;0;29
+r;332135119;80010;1236505;0;29
+r;1000797;80010;66071;0;30
+r;1000803;80010;129092;0;30
+r;1000813;80010;125556;0;30
+r;1000830;80010;2333;0;30
+r;1000831;80010;24085;0;30
+r;1000840;80010;133749;0;30
+r;1000858;80010;99313;0;30
+r;1341380;80010;43125;0;30
+r;1341381;80010;81846;0;30
+r;1341382;80010;11403;0;30
+r;1341383;80010;66208;0;30
+r;1341384;80010;21157;0;30
+r;1341386;80010;91691;0;30
+r;1341387;80010;1614;0;30
+r;1341388;80010;8663;0;30
+r;1341389;80010;127640;0;30
+r;1341392;80010;29542;0;30
+r;1817409;80010;55112;0;30
+r;9357972;80010;104993;0;30
+r;12266210;80010;131122;0;30
+r;12343571;80010;151610;0;30
+r;15311508;80010;143757;0;30
+r;54304576;80010;30132;0;30
+r;54317925;80010;4528;0;30
+r;54579557;80010;117226;0;30
+r;54829978;80010;138539;0;30
+r;54829980;80010;7931;0;30
+r;54829983;80010;69680;0;30
+r;54830002;80010;42196;0;30
+r;366575925;80010;115473;0;30
+r;2221754;80010;16930;0;31
+r;1000838;80010;133466;0;32
+r;15426808;80010;7159;0;33
+r;1000847;80010;99889;0;34
+r;2128985;80010;847;0;34
+r;54830010;80010;86368;0;34
+r;1000815;80010;31533;0;35
+r;1000839;80010;56255;0;35
+r;1817407;80010;14363;0;35
+r;12266219;80010;83571;0;35
+r;12342333;80010;133793;0;35
+r;15349768;80010;39088;0;35
+r;1341391;80010;49803;0;40
+r;15441621;80010;143712;0;40
+r;31080676;80010;214275;0;43
+r;1817408;80010;177166;0;45
+r;2221744;80010;68977;0;45
+r;2508832;80010;111921;0;51
+r;71589750;80010;240359;0;51
+r;308149748;80010;40325;0;51
+r;2160491;80010;58294;0;52
+r;11471637;80010;260032;0;52
+r;1341385;80010;71637;0;53
+r;1770967;80010;61490;0;53
+r;2160492;80010;120839;0;53
+r;11642002;80010;328008;0;55
+r;11642379;80010;328384;0;55
+r;11642867;80010;328872;0;55
+r;11648976;80010;327655;0;56
+r;11649088;80010;327767;0;56
+r;11642157;80010;328162;0;57
+r;12266207;80010;9026;0;58
+r;2508831;80010;75449;0;59
+r;11648842;80010;327521;0;59
+r;88976680;80010;53500;0;63
+r;88976679;80010;73790;0;68
+r;1341390;80010;81934;0;70
+r;375267905;80010;244314;0;72
+r;15370689;80010;16033;0;86
+r;1000854;80010;5115;0;109
+r;9355905;80010;123526;0;114
+r;2183165;80010;24646;0;120
+r;1000793;80010;131333;0;134
+r;365269;80010;86306;0;170
+r;23930562;80010;239128;0;1000000
+r;29105922;80010;1770989;1;50
+r;1751730;80010;227880;1;56
+r;1751739;80010;227883;1;57
+r;1751733;80010;227881;1;62
+r;1751742;80010;227884;1;65
+r;1751736;80010;227882;1;76
+r;1751727;80010;227879;1;114
+r;103315682;80010;107073;3;15
+r;396776719;80010;13701;3;25
+r;417768183;80010;8924;3;25
+r;418316818;80010;134536;3;25
+r;418316822;80010;17408;3;25
+r;31078155;80010;43125;3;26
+r;97423678;80010;71637;3;26
+r;454597;80010;104993;3;27
+r;13999786;80010;143757;3;27
+r;450962;80010;7159;3;28
+r;442707;80010;143712;3;31
+r;1637459;80010;39088;3;32
+r;31078435;80010;214275;3;42
+r;505554;80010;16033;3;85
+r;12109169;80010;212235;4;51
+r;51297;80010;146882;4;109
+r;53724664;80010;61791;5;-18
+r;53724933;80010;6236;5;-18
+r;53729029;80010;60123;5;-18
+r;53730786;80010;22316;5;-18
+r;53732651;80010;11473;5;-17
+r;53734598;80010;20102;5;-17
+r;53734796;80010;144148;5;-17
+r;85633993;80010;149691;5;-4
+r;85635863;80010;322205;5;-4
+r;85638859;80010;152850;5;-4
+r;85640313;80010;76805;5;-4
+r;85640471;80010;160528;5;-4
+r;85642602;80010;66399;5;-4
+r;85642808;80010;245902;5;-4
+r;309958266;80010;1236505;5;25
+r;310113888;80010;590595;5;25
+r;12181043;80010;241772;5;26
+r;12320976;80010;151610;5;27
+r;12181273;80010;243863;5;28
+r;309934202;80010;1787939;5;28
+r;85308552;80010;79307;5;29
+r;1726074;80010;105296;5;30
+r;12172056;80010;260619;5;30
+r;366575929;80010;115473;5;30
+r;12438053;80010;238607;5;31
+r;85308555;80010;259980;5;32
+r;12177523;80010;232306;5;34
+r;62033998;80010;2524599;5;34
+r;12317336;80010;35966;5;37
+r;54773530;80010;123955;5;51
+r;54773531;80010;9341;5;51
+r;54773532;80010;91829;5;51
+r;54773541;80010;119183;5;51
+r;54773542;80010;42196;5;51
+r;54773546;80010;99313;5;51
+r;68543986;80010;2447305;5;51
+r;54693973;80010;114824;5;52
+r;54706053;80010;34954;5;52
+r;54773544;80010;134489;5;52
+r;54578824;80010;116921;5;53
+r;54631412;80010;66071;5;53
+r;54631604;80010;11824;5;53
+r;54773521;80010;138539;5;53
+r;54773545;80010;118663;5;53
+r;54546278;80010;117557;5;54
+r;54773518;80010;1633;5;54
+r;54773525;80010;69680;5;54
+r;54773527;80010;121316;5;54
+r;54773528;80010;62786;5;55
+r;54773538;80010;103323;5;55
+r;54773517;80010;90139;5;57
+r;53778240;80010;84160;5;58
+r;54773520;80010;82900;5;58
+r;54773522;80010;28778;5;58
+r;54773526;80010;14235;5;58
+r;54773543;80010;13216;5;58
+r;53771071;80010;44654;5;59
+r;53774381;80010;48704;5;59
+r;53775117;80010;25296;5;59
+r;54773519;80010;123105;5;59
+r;54773523;80010;7931;5;59
+r;54773529;80010;22549;5;59
+r;54773533;80010;18886;5;59
+r;54773535;80010;119770;5;59
+r;54773536;80010;67583;5;59
+r;54773539;80010;63449;5;59
+r;53765357;80010;116592;5;60
+r;54773524;80010;133259;5;60
+r;54773537;80010;5535;5;60
+r;54773540;80010;71674;5;60
+r;54773547;80010;86368;5;60
+r;54773548;80010;103619;5;60
+r;53762292;80010;20419;5;62
+r;53763305;80010;117226;5;62
+r;54773534;80010;63030;5;62
+r;53757120;80010;30132;5;65
+r;53744392;80010;76662;5;66
+r;53744442;80010;15016;5;66
+r;53735132;80010;26738;5;67
+r;53721259;80010;146125;5;68
+r;53723044;80010;4528;5;68
+r;53725036;80010;99889;5;68
+r;53727073;80010;98571;5;68
+r;53729117;80010;21845;5;68
+r;53730242;80010;27502;5;68
+r;53730545;80010;14335;5;68
+r;53712121;80010;10444;5;69
+r;53712982;80010;129329;5;69
+r;53713817;80010;54315;5;69
+r;53714285;80010;87185;5;69
+r;53715816;80010;123526;5;69
+r;53716613;80010;4594;5;69
+r;668906;80010;9026;5;76
+r;2178763;80010;86306;5;76
+r;12325634;80010;133793;5;76
+r;668905;80010;106202;5;77
+r;668892;80010;7501;5;78
+r;668902;80010;131122;5;78
+r;668893;80010;126398;5;79
+r;668900;80010;847;5;79
+r;12196875;80010;131333;5;79
+r;12315324;80010;50630;5;79
+r;668888;80010;102107;5;80
+r;668889;80010;107540;5;80
+r;668891;80010;83571;5;80
+r;668904;80010;120839;5;80
+r;53543322;80010;84676;5;80
+r;668899;80010;34510;5;81
+r;1726073;80010;120541;5;81
+r;668890;80010;131905;5;83
+r;668895;80010;98244;5;83
+r;668896;80010;27895;5;83
+r;668898;80010;64848;5;83
+r;668894;80010;82821;5;84
+r;668897;80010;24646;5;84
+r;668901;80010;86054;5;84
+r;668907;80010;133824;5;84
+r;12195024;80010;134093;5;85
+r;12205291;80010;124836;5;85
+r;668903;80010;131142;5;92
+r;97721322;80010;5115;6;3
+r;9918101;80010;260032;6;23
+r;85308562;80010;75156;6;55
+r;85345865;80010;48625;7;26
+r;85345868;80010;11598;7;27
+r;85345864;80010;108838;7;28
+r;85345867;80010;44755;7;28
+r;1726075;80010;133531;7;29
+r;85345869;80010;32380;7;29
+r;85345866;80010;135779;7;30
+r;1726076;80010;53223;7;32
+r;11600726;80010;327767;8;69
+r;11600838;80010;327655;8;69
+r;11600972;80010;327521;8;69
+r;11600106;80010;328384;8;70
+r;11599615;80010;328872;8;70
+r;11600329;80010;328162;8;70
+r;11600485;80010;328008;8;70
+r;361286449;80010;14231801;11;25
+r;419579388;80010;15450924;11;25
+r;369891490;80010;14557748;11;26
+r;196700455;80010;9039304;11;28
+r;196725164;80010;9040896;11;28
+r;196723623;80010;9040873;11;30
+r;196677675;80010;9039303;11;31
+r;274285718;80010;10906091;11;31
+r;196723403;80010;9040872;11;32
+r;196703651;80010;9039445;11;34
+r;196678560;80010;9039327;11;35
+r;196679448;80010;9039328;11;36
+r;196699800;80010;9039444;11;36
+r;196726158;80010;9040897;11;36
+r;308264085;80010;11938722;11;39
+r;278885480;80010;11012077;11;40
+r;236690870;80010;10133025;11;41
+r;308658306;80010;11958305;11;42
+r;190691430;80010;8863866;11;50
+r;77366872;80010;3186970;11;52
+r;52466683;80010;2520647;11;54
+r;77359875;80010;3186469;11;58
+r;77360017;80010;3186589;11;58
+r;77359562;80010;3186565;11;59
+r;77366864;80010;3187077;11;59
+r;75216456;80010;3108103;11;62
+r;12634143;80010;367011;11;103
+r;13048863;80010;391307;11;104
+r;11864132;80010;96846;11;121
+r;11866161;80010;83102;11;121
+r;11875046;80010;22439;11;121
+r;11875534;80010;18981;11;121
+r;11877363;80010;5345;11;121
+r;11853620;80010;185336;11;122
+r;11853634;80010;185284;11;122
+r;11853640;80010;185265;11;122
+r;8681090;80010;207955;11;161
+r;8706581;80010;240228;11;161
+r;8706643;80010;240359;11;161
+r;8707342;80010;242082;11;161
+r;8594021;80010;71079;11;162
+r;8680148;80010;207397;11;162
+r;8687087;80010;211759;11;162
+r;8603487;80010;98045;11;163
+r;70357;80010;151564;12;14
+r;1356876;80010;157170;12;22
+r;1751719;80010;157639;12;30
+r;155152;80010;151858;12;33
+r;183546;80010;151553;12;40
+r;237174;80010;151926;12;50
+r;134655;80010;151851;12;110
+r;404861019;80010;15592540;13;1
+r;400781057;80010;14954010;13;12
+r;433721636;80010;85169;13;25
+r;402052211;80010;14954011;13;29
+r;402052989;80010;15634650;13;29
+r;15535331;80010;64885;13;30
+r;29452322;80010;1797469;13;30
+r;371189369;80010;396247;13;31
+r;227720;80010;118790;13;51
+r;227721;80010;59151;13;51
+r;135410;80010;73893;13;52
+r;183654;80010;101083;13;54
+r;134659;80010;142124;13;55
+r;134660;80010;95245;13;55
+r;183655;80010;141440;13;55
+r;273491132;80010;225916;13;55
+r;417371;80010;132527;13;56
+r;626143;80010;140856;13;59
+r;135411;80010;137506;13;60
+r;227722;80010;121664;13;60
+r;314741473;80010;24956;13;62
+r;183656;80010;58294;13;80
+r;183657;80010;81934;13;80
+r;196762;80010;17559;13;80
+r;183653;80010;68439;13;167
+r;134658;80010;124094;13;210
+r;134661;80010;116477;13;220
+r;134656;80010;74860;13;360
+r;134657;80010;61490;13;360
+r;433909978;80010;16475498;14;3
+r;431583982;80010;1742522;14;9
+r;431584184;80010;1632794;14;9
+r;433721653;80010;153105;14;28
+r;2208345;80010;114637;14;30
+r;2223127;80010;114700;14;30
+r;2299330;80010;239674;14;30
+r;9297685;80010;160927;14;30
+r;9297686;80010;218941;14;30
+r;15082511;80010;260997;14;30
+r;15082659;80010;251158;14;30
+r;15084079;80010;65415;14;30
+r;15085722;80010;213376;14;30
+r;25676300;80010;215004;14;30
+r;31867768;80010;128646;14;30
+r;53797015;80010;312132;14;30
+r;74842947;80010;213377;14;30
+r;93422046;80010;116588;14;30
+r;93785111;80010;66970;14;30
+r;94163973;80010;191722;14;30
+r;97739928;80010;214126;14;30
+r;97740071;80010;162005;14;30
+r;97862055;80010;142832;14;30
+r;97862756;80010;37201;14;30
+r;213746655;80010;6876542;14;30
+r;213746695;80010;7187011;14;30
+r;360540586;80010;14108772;14;30
+r;405569279;80010;25914;14;30
+r;405569302;80010;15054599;14;30
+r;405569315;80010;8061837;14;30
+r;405569333;80010;8052392;14;30
+r;405569352;80010;14941467;14;30
+r;412305478;80010;15062312;14;30
+r;412305493;80010;217141;14;30
+r;413305081;80010;21742;14;30
+r;413307382;80010;8055252;14;30
+r;418933970;80010;12054110;14;30
+r;431489464;80010;15246459;14;30
+r;97320840;80010;152432;14;31
+r;98317106;80010;86754;14;31
+r;312881814;80010;2321033;14;31
+r;98798180;80010;318498;14;32
+r;289099722;80010;11250903;14;36
+r;312882245;80010;261738;14;36
+r;2303247;80010;32650;14;40
+r;2309447;80010;246557;14;40
+r;2207929;80010;55572;14;45
+r;2211552;80010;154848;14;45
+r;2221751;80010;246870;14;45
+r;2221756;80010;214995;14;45
+r;2312007;80010;71377;14;45
+r;9297684;80010;68467;14;45
+r;9297687;80010;246874;14;45
+r;31864768;80010;320632;14;51
+r;31864763;80010;19636;14;54
+r;31864773;80010;3361;14;54
+r;2221750;80010;237;14;55
+r;2221752;80010;27373;14;55
+r;31871689;80010;47417;14;57
+r;31871694;80010;20164;14;58
+r;31871699;80010;41642;14;59
+r;12982471;80010;88413;14;61
+r;12982476;80010;146144;14;61
+r;12982477;80010;141253;14;61
+r;12982472;80010;146261;14;71
+r;12982473;80010;99884;14;71
+r;12982474;80010;66372;14;71
+r;12982475;80010;140100;14;71
+r;12982478;80010;86439;14;71
+r;237180;80010;40325;14;90
+r;237178;80010;111921;14;120
+r;237175;80010;81934;14;130
+r;237176;80010;75449;14;140
+r;376193821;80010;260105;16;25
+r;376196694;80010;78401;16;25
+r;376198468;80010;147466;16;25
+r;376200356;80010;155391;16;25
+r;376200471;80010;134670;16;25
+r;376191969;80010;148387;16;26
+r;376197468;80010;214995;16;26
+r;376200829;80010;62706;16;26
+r;376201272;80010;81934;16;26
+r;390460539;80010;14916413;18;25
+r;90010139;80010;3575927;18;26
+r;105042798;80010;5046152;18;29
+r;90875598;80010;3576104;18;32
+r;551347;80010;187289;18;41
+r;54537170;80010;2589183;18;45
+r;78823;80010;151866;18;53
+r;331555;80010;80010;19;55
+r;2221746;80010;68977;22;27
+r;2221749;80010;21880;22;28
+r;2221748;80010;105778;22;31
+r;2221747;80010;115811;22;39
+r;433819713;80010;16475497;29;8
+r;433819715;80010;16475495;29;8
+r;1380093;80010;159385;29;528
+r;1380220;80010;160121;29;534
+r;1381474;80010;160628;29;542
+r;1379798;80010;162233;29;559
+r;1380428;80010;162871;29;573
+r;1379568;80010;164345;29;589
+r;1379799;80010;166327;29;604
+r;1379569;80010;195023;29;607
+r;11589742;80010;212511;29;610
+r;11590153;80010;213620;29;611
+r;11564687;80010;327521;29;657
+r;11569435;80010;327767;29;671
+r;11577145;80010;328162;29;702
+r;11590154;80010;328872;29;741
+r;11567420;80010;327655;29;773
+r;11574355;80010;328008;29;792
+r;11581597;80010;328384;29;825
+r;376066901;80010;46453;31;25
+r;373029477;80010;113521;31;36
+r;1356877;80010;20564;31;58
+r;644042;80010;45179;31;70
+r;34062893;80010;49337;32;19
+r;9319741;80010;91691;32;24
+r;33672910;80010;4552;32;27
+r;33672912;80010;120892;32;27
+r;33672909;80010;144681;32;32
+r;33672915;80010;17927;32;32
+r;33672911;80010;60835;32;36
+r;33672914;80010;90830;32;36
+r;33672916;80010;82489;32;39
+r;33672908;80010;20202;32;40
+r;33672913;80010;23114;32;43
+r;33144351;80010;22264;32;65
+r;72959237;80010;103405;32;67
+r;33144350;80010;626;32;68
+r;376769696;80010;159792;34;25
+r;376769486;80010;259968;34;26
+r;376769510;80010;259967;34;26
+r;376770476;80010;77638;34;26
+r;373029476;80010;73080;34;36
+r;9297683;80010;49803;35;26
+r;2221742;80010;104993;35;28
+r;9297682;80010;14235;35;28
+r;29105919;80010;71637;35;53
+r;23187061;80010;9026;35;57
+r;23187063;80010;53500;35;59
+r;23187062;80010;73790;35;66
+r;23187060;80010;86306;35;100
+r;1751850;80010;5115;35;108
+r;1751720;80010;123526;35;110
+r;1751721;80010;24646;35;120
+r;1751851;80010;131333;35;130
+r;314078495;80010;317324;36;1
+r;315474848;80010;248198;36;2
+r;2324125;80010;254876;36;21
+r;741198;80010;191741;36;35
+r;2570437;80010;254878;36;39
+r;50964345;80010;273221;36;40
+r;52531625;80010;214534;36;40
+r;2324126;80010;254877;36;41
+r;1672568;80010;217817;36;47
+r;54773516;80010;2585996;36;57
+r;2005951;80010;223173;36;93
+r;2568270;80010;223172;36;176
+r;2006899;80010;241794;36;184
+r;2221755;80010;68473;39;30
+r;1068177;80010;115811;39;57
+r;1068175;80010;14363;39;58
+r;375154202;80010;321562;42;25
+r;431724530;80010;48704;42;25
+r;209749091;80010;9209824;57;34
+r;213486740;80010;20379;57;34
+r;77298614;80010;68977;77;32
+r;85731467;80010;105778;79;30
+r;3162275;80010;269561;106;2
+r;376107190;80010;45686;109;25
+r;31864766;80010;1974763;128;1
+r;31864771;80010;1974764;128;1
+r;31864776;80010;1974765;128;1
+r;31865860;80010;1974905;128;1
+r;31870653;80010;1975011;128;1
+r;31871687;80010;1975078;128;1
+r;31871692;80010;1975079;128;1
+r;31871697;80010;1975080;128;1
+r;31871702;80010;1975081;128;1
+r;312881818;80010;12005802;128;1
+r;324225220;80010;12667426;200;1
+r;324539508;80010;12676145;200;1
+r;324546022;80010;12676374;200;1
+r;324580155;80010;12677087;200;1
+r;324750923;80010;12681155;200;1
+r;324856834;80010;12683775;200;1
+r;324904485;80010;12685031;200;1
+r;325071236;80010;12689300;200;1
+r;325130757;80010;12690499;200;1
+r;325134979;80010;12690622;200;1
+r;325233614;80010;12692781;200;1
+r;325236880;80010;12692851;200;1
+r;325238662;80010;12692896;200;1
+r;325261699;80010;12693313;200;1
+r;325436193;80010;12697449;200;1
+r;325542032;80010;12699859;200;1
+r;325805965;80010;12702438;200;1
+r;325953427;80010;12709336;200;1
+r;326054390;80010;12711162;200;1
+r;326126989;80010;12712802;200;1
+r;326134025;80010;12712924;200;1
+r;326158832;80010;12713521;200;1
+r;326216858;80010;12714659;200;1
+r;326314064;80010;12716703;200;1
+r;326455344;80010;12719203;200;1
+r;326520986;80010;12720486;200;1
+r;326599873;80010;12722157;200;1
+r;326723158;80010;12724865;200;1
+r;326836018;80010;12727621;200;1
+r;327019862;80010;12732286;200;1
+r;327152330;80010;12735422;200;1
+r;327453310;80010;12763811;200;1
+r;327786499;80010;12773910;200;1
+r;328004582;80010;12784582;200;1
+r;328010933;80010;12784731;200;1
+r;333422318;80010;12982826;200;1
+r;333657211;80010;12987426;200;1
+r;333946789;80010;12991242;200;1
+r;333947091;80010;12991249;200;1
+r;333951731;80010;12991357;200;1
+r;333953777;80010;12991411;200;1
+r;333959099;80010;12991554;200;1
+r;333988743;80010;12992245;200;1
+r;333992817;80010;12992397;200;1
+r;334308036;80010;13026699;200;1
+r;335205753;80010;13102595;200;1
+r;336904686;80010;13219401;200;1
+r;337617455;80010;13270228;200;1
+r;340231111;80010;13406225;200;1
+r;338478631;80010;13312466;200;1
+r;338610408;80010;13323389;200;1
+r;324422041;80010;12672754;200;2
+r;324462950;80010;12673935;200;2
+r;324497608;80010;12674988;200;2
+r;324634776;80010;12678244;200;2
+r;324705900;80010;12680116;200;2
+r;324710258;80010;12680234;200;2
+r;324710288;80010;12680235;200;2
+r;324740338;80010;12680876;200;2
+r;324773490;80010;12681758;200;2
+r;324842591;80010;12683383;200;2
+r;324925356;80010;12685697;200;2
+r;325953026;80010;12709327;200;2
+r;326072338;80010;12711486;200;2
+r;326079899;80010;12711750;200;2
+r;326452436;80010;12719154;200;2
+r;326601257;80010;12722195;200;2
+r;326609250;80010;12722356;200;2
+r;326609922;80010;12722364;200;2
+r;327111451;80010;12734581;200;2
+r;333889583;80010;12990887;200;2
+r;342562949;80010;13519843;200;2
+r;345442455;80010;13628615;200;2
+r;345564601;80010;13631004;200;2
+r;346172885;80010;13642424;200;2
+r;346930552;80010;13656444;200;2
+r;347137005;80010;13665581;200;2
+r;348346922;80010;13737462;200;2
+r;348429010;80010;13738432;200;2
+r;351454666;80010;13884866;200;2
+r;352425763;80010;13990359;200;2
+r;354591076;80010;14036290;200;2
+r;357425660;80010;14114556;200;2
+r;357882463;80010;14127545;200;2
+r;358446132;80010;14135919;200;2
+r;359593785;80010;14158135;200;2
+r;359595307;80010;14158155;200;2
+r;360100298;80010;14169147;200;2
+r;360100534;80010;14169154;200;2
+r;360103487;80010;14169244;200;2
+r;360242609;80010;14173005;200;2
+r;361164329;80010;14227835;200;2
+r;361550476;80010;14257831;200;2
+r;361862089;80010;14270523;200;2
+r;362248148;80010;14271089;200;2
+r;364324591;80010;14316870;200;2
+r;364581967;80010;14326564;200;2
+r;364660045;80010;14333991;200;2
+r;365199314;80010;14380520;200;2
+r;365755817;80010;14399472;200;2
+r;366463568;80010;14432703;200;2
+r;366650547;80010;14446216;200;2
+r;367030705;80010;14465471;200;2
+r;368064682;80010;14485026;200;2
+r;370859284;80010;14594689;200;2
+r;371156992;80010;14604707;200;2
+r;372989160;80010;14669523;200;2
+r;372989329;80010;14669528;200;2
+r;375040411;80010;14753396;200;2
+r;427614161;80010;16306139;200;2
+r;384747592;80010;14851640;200;2
+r;392099263;80010;15013563;200;2
+r;392328718;80010;15019647;200;2
+r;415010433;80010;15951497;200;2
+r;422498656;80010;16144806;200;2
+r;423221455;80010;16157775;200;2
+r;426966120;80010;16276669;200;2
+r;427331414;80010;16290666;200;2
+r;427502027;80010;16296361;200;2
+r;428747375;80010;16316043;200;2
+r;432387625;80010;16367158;200;2
+r;432448495;80010;16367272;200;2
+r;432584164;80010;16375390;200;2
+r;324076002;80010;12663637;200;3
+r;325235330;80010;12692817;200;3
+r;325520166;80010;12699415;200;3
+r;326132895;80010;12712907;200;3
+r;326221648;80010;12714774;200;3
+r;326768434;80010;12726057;200;3
+r;327723965;80010;12772385;200;3
+r;328136715;80010;12788501;200;3
+r;329205782;80010;12827550;200;3
+r;333693506;80010;12988199;200;3
+r;337366563;80010;13252210;200;3
+r;340919830;80010;13440496;200;3
+r;342563680;80010;13519858;200;3
+r;342575252;80010;13520081;200;3
+r;342575329;80010;13520082;200;3
+r;324135958;80010;12665075;200;4
+r;324331330;80010;12670153;200;4
+r;324688269;80010;12679688;200;4
+r;325253944;80010;12693110;200;4
+r;325508667;80010;12699268;200;4
+r;346105661;80010;13641308;200;4
+r;401079373;80010;15636549;200;4
+r;364566401;80010;14326241;200;4
+r;365406448;80010;14388176;200;4
+r;372598596;80010;14655056;200;4
+r;375041170;80010;14753410;200;4
+r;389612573;80010;14895525;200;4
+r;434180995;80010;16508490;200;4
+r;332093525;80010;12977419;200;5
+r;330944287;80010;12899811;200;6
+r;364485455;80010;14321890;200;6
+r;368233001;80010;14490892;200;6
+r;389689533;80010;14902465;200;6
+r;389689602;80010;14902466;200;6
+r;325239401;80010;12692913;200;7
+r;326399797;80010;12717991;200;7
+r;324227035;80010;12667466;200;8
+r;326855977;80010;12727982;200;8
+r;329652125;80010;12870454;200;8
+r;348150802;80010;13730271;200;8
+r;389689257;80010;14902456;200;8
+r;324158727;80010;12665661;200;9
+r;340874729;80010;13439386;200;11
+r;340875287;80010;13439401;200;11
+r;327461629;80010;12764013;200;18
+r;332092996;80010;12977398;200;19
+r;390460537;80010;14921732;333;25
+r;390460546;80010;14921733;333;25
+r;390460552;80010;14928122;333;25
+r;390460554;80010;7054183;333;25
+r;390460573;80010;14960014;333;25
+r;414427496;80010;15070129;333;25
+r;394226094;80010;15062059;333;27
+r;404977848;80010;15513180;333;27
+r;404977859;80010;15761332;333;27
+r;404977861;80010;15562631;333;27
+r;404977863;80010;15695118;333;27
+r;404977866;80010;15761334;333;27
+r;404977870;80010;15761335;333;27
+r;404977873;80010;15695119;333;27
+r;404977879;80010;15687393;333;27
+r;394226096;80010;14940920;333;28
+r;395467598;80010;7524277;333;28
+r;395467601;80010;7440940;333;28
+r;395467603;80010;14929461;333;28
+r;395467605;80010;14917233;333;28
+r;390460542;80010;14916989;333;29
+r;390460558;80010;14960013;333;29
+r;390460569;80010;14921085;333;29
+r;404150382;80010;15566635;333;29
+r;398929065;80010;15562876;333;31
+r;394226089;80010;15236197;333;32
+r;394226092;80010;15234293;333;32
+r;390460540;80010;14921618;333;33
+r;398929068;80010;15562877;333;34
+r;395897965;80010;15473913;333;36
+r;396776716;80010;15501242;333;37
+r;394226102;80010;15072029;333;39
+r;394226099;80010;15236198;333;40
+r;395467612;80010;12452230;333;40
+r;394226074;80010;6876975;333;43
+r;390460550;80010;7053784;333;44
+r;394226072;80010;14935899;333;47
+r;394458043;80010;14918547;333;47
+r;390460544;80010;14918548;333;50
+r;390460548;80010;13231454;333;50
+r;390460567;80010;14921734;333;54
+r;94170991;80010;3769954;444;1
+r;94175459;80010;3774995;444;1
+r;94203475;80010;3806484;444;1
+r;94268492;80010;3879356;444;1
+r;94365788;80010;3988386;444;1
+r;94435118;80010;4065609;444;1
+r;94463073;80010;4096629;444;1
+r;94532744;80010;4173552;444;1
+r;94560912;80010;4204914;444;1
+r;73961064;80010;2983124;555;16809
+r;1880668;80010;31412;666;1
+r;1880669;80010;103148;666;1
+r;1880670;80010;49778;666;1
+r;285234029;80010;233502;999;3
+r;285234033;80010;233499;999;3
+r;285234037;80010;313854;999;3
+r;285234041;80010;233501;999;3
+r;285220299;80010;1874446;999;4
+r;285220331;80010;1874448;999;4
+r;285220344;80010;1874449;999;4
+r;285353354;80010;241775;999;4
+r;285243436;80010;243861;999;5
+r;285243451;80010;243862;999;5
+r;285244724;80010;1797373;999;5
+r;18771128;80010;241773;999;7
+r;18771138;80010;241774;999;7
+r;18771149;80010;241776;999;8
+r;285194189;80010;3437748;999;8
+r;285199848;80010;4309609;999;8
+r;285199858;80010;4309621;999;8
+r;285199866;80010;4309612;999;8
+r;285199873;80010;4309614;999;8
+r;285199883;80010;4309610;999;8
+r;285199891;80010;4309613;999;8
+r;284289663;80010;323298;999;12
+r;284343190;80010;1792219;999;17
+r;284343260;80010;1792218;999;17
+r;284391746;80010;1800266;999;28
+r;284391824;80010;1800268;999;28
+r;284342762;80010;1792209;999;29
+r;284313480;80010;1771459;999;60
+r;315327618;80010;12087954;1002;30
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;82208383;152552;80010;0;1
+r;423586829;13084;80010;0;1
+r;423588050;13429;80010;0;1
+r;361286450;14231801;80010;0;1
+r;423485939;10996;80010;0;1
+r;427015980;75087;80010;0;1
+r;423465052;9858;80010;0;1
+r;418523179;212543;80010;0;1
+r;419579389;15450924;80010;0;1
+r;420257356;229298;80010;0;1
+r;420840620;938;80010;0;1
+r;422989234;2556;80010;0;1
+r;423063534;3181;80010;0;1
+r;423383819;7422;80010;0;1
+r;423441748;9224;80010;0;1
+r;423695926;19866;80010;0;1
+r;423734667;22983;80010;0;1
+r;423846462;27916;80010;0;1
+r;423864444;30090;80010;0;1
+r;423871314;30848;80010;0;1
+r;423923589;36574;80010;0;1
+r;424848783;41182;80010;0;1
+r;424865559;41666;80010;0;1
+r;425076365;47177;80010;0;1
+r;425872436;56035;80010;0;1
+r;426551343;60739;80010;0;1
+r;426688893;63280;80010;0;1
+r;426750353;65840;80010;0;1
+r;426844373;69766;80010;0;1
+r;427075205;76150;80010;0;1
+r;427505316;88897;80010;0;1
+r;427516498;90058;80010;0;1
+r;427862224;103840;80010;0;1
+r;428476546;116201;80010;0;1
+r;428946793;174710;80010;0;1
+r;429625089;212839;80010;0;1
+r;429668314;186876;80010;0;1
+r;369891491;14557748;80010;0;2
+r;419319802;223559;80010;0;2
+r;423033597;2504;80010;0;2
+r;426841348;69684;80010;0;2
+r;196677676;9039303;80010;0;3
+r;196678562;9039327;80010;0;3
+r;196679449;9039328;80010;0;3
+r;196699801;9039444;80010;0;3
+r;196700456;9039304;80010;0;3
+r;196703652;9039445;80010;0;3
+r;196725165;9040896;80010;0;3
+r;196726159;9040897;80010;0;3
+r;419186439;16086487;80010;0;3
+r;85633992;149691;80010;0;4
+r;85635862;322205;80010;0;4
+r;85638858;152850;80010;0;4
+r;85640312;76805;80010;0;4
+r;85640470;160528;80010;0;4
+r;85642601;66399;80010;0;4
+r;85642807;245902;80010;0;4
+r;196723404;9040872;80010;0;4
+r;196723624;9040873;80010;0;4
+r;274285719;10906091;80010;0;7
+r;15426807;7159;80010;0;10
+r;399921841;15204618;80010;0;10
+r;404627740;14932730;80010;0;10
+r;404627848;14932741;80010;0;10
+r;405046643;14916701;80010;0;10
+r;405064007;14918548;80010;0;10
+r;411870314;14954696;80010;0;10
+r;412305035;15428382;80010;0;10
+r;412305634;15587914;80010;0;10
+r;419064092;345301;80010;0;10
+r;419093063;210967;80010;0;10
+r;430730355;16324764;80010;0;10
+r;431270237;15379882;80010;0;10
+r;432389366;14669803;80010;0;10
+r;432436181;15091742;80010;0;10
+r;432436249;14928856;80010;0;10
+r;432436262;15091741;80010;0;10
+r;418281672;211588;80010;0;11
+r;418281946;129254;80010;0;11
+r;418283658;16930;80010;0;11
+r;418299687;2544306;80010;0;11
+r;418316817;68473;80010;0;11
+r;418316828;16057027;80010;0;11
+r;417882617;16036998;80010;0;12
+r;417905710;94056;80010;0;12
+r;418083555;12677;80010;0;12
+r;418087333;42112;80010;0;12
+r;418129708;60861;80010;0;12
+r;418142207;167457;80010;0;12
+r;417963754;9947;80010;0;13
+r;418024047;55112;80010;0;13
+r;418033407;70680;80010;0;13
+r;97322406;128482;80010;0;15
+r;97445092;60993;80010;0;15
+r;97658188;2343982;80010;0;15
+r;308264086;11938722;80010;0;15
+r;417875343;37665;80010;0;15
+r;97658133;588448;80010;0;16
+r;53732650;11473;80010;0;17
+r;53734597;20102;80010;0;17
+r;236690871;10133025;80010;0;17
+r;417981668;75718;80010;0;17
+r;53724663;61791;80010;0;18
+r;53724932;6236;80010;0;18
+r;53729028;60123;80010;0;18
+r;53730785;22316;80010;0;18
+r;405063550;14921618;80010;0;20
+r;405064036;14921732;80010;0;20
+r;407878865;15550313;80010;0;20
+r;407878872;15569661;80010;0;20
+r;411336680;15333144;80010;0;20
+r;411337348;15792360;80010;0;20
+r;418853650;15409576;80010;0;20
+r;418853709;15389256;80010;0;20
+r;426096078;15419884;80010;0;20
+r;426096128;15419883;80010;0;20
+r;426481586;15306930;80010;0;20
+r;430498460;15437750;80010;0;20
+r;430498479;15428722;80010;0;20
+r;431271732;15695858;80010;0;20
+r;786286;11380;80010;0;21
+r;803466;99313;80010;0;21
+r;818958;104307;80010;0;21
+r;880478;24085;80010;0;21
+r;897063;25296;80010;0;21
+r;908104;76662;80010;0;21
+r;986024;125556;80010;0;21
+r;991729;40379;80010;0;21
+r;1011792;124188;80010;0;21
+r;1029284;87185;80010;0;21
+r;10708827;122840;80010;0;21
+r;12239526;64848;80010;0;21
+r;12262743;7501;80010;0;21
+r;12438052;238607;80010;0;21
+r;15422147;104993;80010;0;21
+r;54546277;117557;80010;0;21
+r;54823514;13216;80010;0;21
+r;54825058;9341;80010;0;21
+r;54858603;69680;80010;0;21
+r;54905695;123955;80010;0;21
+r;55079553;90139;80010;0;21
+r;59238759;138539;80010;0;21
+r;59241100;14235;80010;0;21
+r;59508400;62786;80010;0;21
+r;76612994;42196;80010;0;21
+r;96690232;3382777;80010;0;21
+r;97426990;46612;80010;0;21
+r;309958265;1236505;80010;0;21
+r;310113887;590595;80010;0;21
+r;418281941;206211;80010;0;21
+r;754058;73472;80010;0;22
+r;813281;47869;80010;0;22
+r;12195023;134093;80010;0;22
+r;12221925;107540;80010;0;22
+r;53757119;30132;80010;0;22
+r;53774380;48704;80010;0;22
+r;54832215;67583;80010;0;22
+r;309934201;1787939;80010;0;22
+r;418130163;1654640;80010;0;22
+r;418320247;16057136;80010;0;22
+r;802979;47899;80010;0;23
+r;821885;5115;80010;0;23
+r;853369;133749;80010;0;23
+r;858417;25239;80010;0;23
+r;1013410;77997;80010;0;23
+r;1021912;44228;80010;0;23
+r;1048842;14744;80010;0;23
+r;9918100;260032;80010;0;23
+r;12266361;27895;80010;0;23
+r;12352823;105296;80010;0;23
+r;15304093;16033;80010;0;23
+r;53713816;54315;80010;0;23
+r;53721258;146125;80010;0;23
+r;53762291;20419;80010;0;23
+r;53763304;117226;80010;0;23
+r;55056569;119770;80010;0;23
+r;769556;116592;80010;0;24
+r;770673;58543;80010;0;24
+r;851660;82345;80010;0;24
+r;917276;51683;80010;0;24
+r;963805;65980;80010;0;24
+r;988296;123105;80010;0;24
+r;989660;103323;80010;0;24
+r;999732;132551;80010;0;24
+r;1010918;114629;80010;0;24
+r;1024384;82900;80010;0;24
+r;12274954;131142;80010;0;24
+r;15280401;39088;80010;0;24
+r;15441620;143712;80010;0;24
+r;53725035;99889;80010;0;24
+r;54631603;11824;80010;0;24
+r;54933809;86368;80010;0;24
+r;96690214;3382776;80010;0;24
+r;417973612;11516;80010;0;24
+r;96824548;93513;80010;0;25
+r;346003931;13639306;80010;0;25
+r;363961782;14281841;80010;0;25
+r;369501125;115473;80010;0;25
+r;415093707;15070129;80010;0;25
+r;415131949;15687393;80010;0;25
+r;415131955;15695119;80010;0;25
+r;415131957;15761335;80010;0;25
+r;415131959;15761334;80010;0;25
+r;415131961;15695118;80010;0;25
+r;415131963;15562631;80010;0;25
+r;415131965;15761332;80010;0;25
+r;415131971;15513180;80010;0;25
+r;415186309;15566635;80010;0;25
+r;415283794;15562877;80010;0;25
+r;415283796;15562876;80010;0;25
+r;415341951;15501242;80010;0;25
+r;415399492;15473913;80010;0;25
+r;415417082;12452230;80010;0;25
+r;415417088;14917233;80010;0;25
+r;415417090;14929461;80010;0;25
+r;415417092;7440940;80010;0;25
+r;415417094;7524277;80010;0;25
+r;415791545;14918547;80010;0;25
+r;415890936;15072029;80010;0;25
+r;415890938;15236198;80010;0;25
+r;415890940;14940920;80010;0;25
+r;415890942;15062059;80010;0;25
+r;415890944;15234293;80010;0;25
+r;415890946;15236197;80010;0;25
+r;415890954;6876975;80010;0;25
+r;415890956;14935899;80010;0;25
+r;415994738;14960014;80010;0;25
+r;415994740;14921085;80010;0;25
+r;415994742;14921734;80010;0;25
+r;415994744;14960013;80010;0;25
+r;415994746;7054183;80010;0;25
+r;415994748;14928122;80010;0;25
+r;415994750;7053784;80010;0;25
+r;415994752;13231454;80010;0;25
+r;415994754;14921733;80010;0;25
+r;415994757;14916989;80010;0;25
+r;426098224;15562634;80010;0;25
+r;426098242;15444511;80010;0;25
+r;430426157;15761333;80010;0;25
+r;430426161;15460651;80010;0;25
+r;430980614;15743002;80010;0;25
+r;430980690;15424688;80010;0;25
+r;430981313;15743107;80010;0;25
+r;430981371;15424651;80010;0;25
+r;431302928;15562633;80010;0;25
+r;431302941;15562632;80010;0;25
+r;431443251;15743001;80010;0;25
+r;433721643;16475495;80010;0;25
+r;433721645;85169;80010;0;25
+r;433721652;16475496;80010;0;25
+r;433721663;16475497;80010;0;25
+r;433721672;16475498;80010;0;25
+r;433721691;16475499;80010;0;25
+r;745362;57370;80010;0;26
+r;932009;112575;80010;0;26
+r;964878;18834;80010;0;26
+r;12212214;131905;80010;0;26
+r;12315323;50630;80010;0;26
+r;21111909;81934;80010;0;26
+r;21114888;127640;80010;0;26
+r;53744441;15016;80010;0;26
+r;53771070;44654;80010;0;26
+r;54578823;116921;80010;0;26
+r;54901349;133259;80010;0;26
+r;54931808;63449;80010;0;26
+r;59247434;134489;80010;0;26
+r;59516253;91829;80010;0;26
+r;87500088;1978783;80010;0;26
+r;87593789;2078316;80010;0;26
+r;87593907;2078401;80010;0;26
+r;97432546;126279;80010;0;26
+r;417854129;135926;80010;0;26
+r;896763;127777;80010;0;27
+r;972934;27502;80010;0;27
+r;1038342;73827;80010;0;27
+r;1915650;238615;80010;0;27
+r;12214630;126398;80010;0;27
+r;12281999;82821;80010;0;27
+r;21144884;71637;80010;0;27
+r;29105414;1770851;80010;0;27
+r;54706052;34954;80010;0;27
+r;54835464;7931;80010;0;27
+r;54835472;63030;80010;0;27
+r;59239135;5535;80010;0;27
+r;59258431;103619;80010;0;27
+r;63299990;2447305;80010;0;27
+r;87500054;1978638;80010;0;27
+r;87593806;2078323;80010;0;27
+r;87593821;2078334;80010;0;27
+r;87593929;2078410;80010;0;27
+r;757717;132650;80010;0;28
+r;765592;28778;80010;0;28
+r;778603;56255;80010;0;28
+r;787257;75156;80010;0;28
+r;825065;66071;80010;0;28
+r;917228;133466;80010;0;28
+r;950929;91215;80010;0;28
+r;989845;88663;80010;0;28
+r;2475633;260619;80010;0;28
+r;11230619;325803;80010;0;28
+r;12225832;98244;80010;0;28
+r;12231418;83571;80010;0;28
+r;12252638;34510;80010;0;28
+r;12282493;106202;80010;0;28
+r;12317335;35966;80010;0;28
+r;12320975;151610;80010;0;28
+r;12325633;133793;80010;0;28
+r;21162168;43125;80010;0;28
+r;21609887;152553;80010;0;28
+r;30337327;1874996;80010;0;28
+r;53734795;144148;80010;0;28
+r;54857768;71674;80010;0;28
+r;54907867;118663;80010;0;28
+r;85007276;107073;80010;0;28
+r;85787448;259980;80010;0;28
+r;87593857;2078362;80010;0;28
+r;417746113;37099;80010;0;28
+r;417880522;47528;80010;0;28
+r;773759;69256;80010;0;29
+r;843987;34104;80010;0;29
+r;859428;134295;80010;0;29
+r;960313;99453;80010;0;29
+r;1040971;2333;80010;0;29
+r;1768321;229272;80010;0;29
+r;12177522;232306;80010;0;29
+r;12230431;86054;80010;0;29
+r;12296953;131122;80010;0;29
+r;12352822;120541;80010;0;29
+r;21158291;11403;80010;0;29
+r;31817669;1973227;80010;0;29
+r;53712120;10444;80010;0;29
+r;53730544;14335;80010;0;29
+r;53778239;84160;80010;0;29
+r;54693972;114824;80010;0;29
+r;59517464;18886;80010;0;29
+r;87593800;2078320;80010;0;29
+r;87593837;2078339;80010;0;29
+r;87593911;2078402;80010;0;29
+r;87593942;2078419;80010;0;29
+r;97431036;90592;80010;0;29
+r;97432616;1800278;80010;0;29
+r;750119;31533;80010;0;30
+r;760799;1633;80010;0;30
+r;769692;132682;80010;0;30
+r;883972;46367;80010;0;30
+r;977329;22549;80010;0;30
+r;981884;121316;80010;0;30
+r;985369;98571;80010;0;30
+r;1038029;84676;80010;0;30
+r;2063049;171064;80010;0;30
+r;31080675;214275;80010;0;30
+r;53715815;123526;80010;0;30
+r;53723043;4528;80010;0;30
+r;53729116;21845;80010;0;30
+r;53735131;26738;80010;0;30
+r;85787451;79307;80010;0;30
+r;87593787;2078314;80010;0;30
+r;87593825;2078335;80010;0;30
+r;97432594;1800277;80010;0;30
+r;395970452;15236196;80010;0;30
+r;398977812;15247742;80010;0;30
+r;418822490;15322503;80010;0;30
+r;431358288;15205830;80010;0;30
+r;431358302;15041903;80010;0;30
+r;861224;103148;80010;0;31
+r;1016546;4594;80010;0;31
+r;1866046;235058;80010;0;31
+r;12436275;323297;80010;0;31
+r;21147154;66208;80010;0;31
+r;29111655;1771457;80010;0;31
+r;87497808;421625;80010;0;31
+r;87593915;2078403;80010;0;31
+r;96666299;102531;80010;0;31
+r;1915314;235693;80010;0;32
+r;2453377;250855;80010;0;32
+r;12211227;133824;80010;0;32
+r;21103437;49803;80010;0;32
+r;29111705;1771458;80010;0;32
+r;87500056;1978637;80010;0;32
+r;87593794;2078318;80010;0;32
+r;87593829;2078336;80010;0;32
+r;87593833;2078337;80010;0;32
+r;87593867;2078368;80010;0;32
+r;87593935;2078412;80010;0;32
+r;11989610;115811;80010;0;34
+r;12205290;124836;80010;0;34
+r;87485567;68977;80010;0;34
+r;87593811;2078328;80010;0;34
+r;87593923;2078408;80010;0;34
+r;850454;4601;80010;0;35
+r;1846500;233500;80010;0;35
+r;12181272;243863;80010;0;35
+r;21101969;29542;80010;0;35
+r;21124949;91691;80010;0;35
+r;21145833;21157;80010;0;35
+r;29392516;1792208;80010;0;35
+r;53712981;129329;80010;0;35
+r;87593873;2078370;80010;0;35
+r;96822871;4309611;80010;0;35
+r;347322592;13639301;80010;0;35
+r;408307039;15379884;80010;0;35
+r;412975256;15323827;80010;0;35
+r;29443846;1797374;80010;0;36
+r;91499297;1888712;80010;0;36
+r;91499298;600026;80010;0;36
+r;406887581;211812;80010;0;36
+r;87593783;2078300;80010;0;37
+r;30329204;1874447;80010;0;38
+r;899590;129092;80010;0;39
+r;12224227;102107;80010;0;39
+r;21120712;8663;80010;0;39
+r;54832541;119183;80010;0;39
+r;62033997;2524599;80010;0;39
+r;937245;16903;80010;0;40
+r;398034723;6904572;80010;0;40
+r;405063863;15432026;80010;0;40
+r;405063874;15041904;80010;0;40
+r;408198774;15431687;80010;0;40
+r;412975376;14944337;80010;0;40
+r;431127055;236786;80010;0;40
+r;21159460;81846;80010;0;41
+r;29474274;1800267;80010;0;41
+r;87593919;2078406;80010;0;41
+r;87593817;2078332;80010;0;43
+r;11989607;14363;80010;0;44
+r;88957255;3174663;80010;0;44
+r;88974656;97538;80010;0;44
+r;87471346;3437749;80010;0;45
+r;405063938;15427106;80010;0;45
+r;278885481;11012077;80010;0;46
+r;12002793;97934;80010;0;47
+r;190691431;8863866;80010;0;50
+r;423458470;16160698;80010;0;50
+r;399601617;15196029;80010;0;50
+r;405063933;15221900;80010;0;50
+r;2577789;259967;80010;0;51
+r;76178472;3161660;80010;0;51
+r;77359876;3186469;80010;0;51
+r;77366873;3186970;80010;0;51
+r;369638917;21764;80010;0;51
+r;372655089;256973;80010;0;51
+r;375459283;14755596;80010;0;51
+r;385041521;14753147;80010;0;51
+r;417034032;245619;80010;0;51
+r;77359563;3186565;80010;0;53
+r;308658307;11958305;80010;0;53
+r;845997;45225;80010;0;54
+r;1848350;108467;80010;0;55
+r;2062355;241772;80010;0;55
+r;86825229;3354341;80010;0;55
+r;395970031;14936475;80010;0;55
+r;402872160;15100594;80010;0;55
+r;402993542;156064;80010;0;55
+r;219442;125954;80010;0;56
+r;77360018;3186589;80010;0;56
+r;77366865;3187077;80010;0;57
+r;15232727;143757;80010;0;58
+r;52466684;2520647;80010;0;59
+r;2239496;847;80010;0;60
+r;406549192;15431686;80010;0;60
+r;411336980;14923729;80010;0;60
+r;865667;60966;80010;0;61
+r;23770982;367674;80010;0;61
+r;25811616;271477;80010;0;61
+r;27703514;154180;80010;0;61
+r;369820480;11012136;80010;0;61
+r;369829736;5246471;80010;0;61
+r;9351342;98783;80010;0;62
+r;9360353;120839;80010;0;63
+r;75216457;3108103;80010;0;64
+r;395723385;14938071;80010;0;65
+r;404703774;15715981;80010;0;65
+r;404703809;15428985;80010;0;65
+r;2596811;251861;80010;0;66
+r;75873134;3157348;80010;0;70
+r;12273496;9026;80010;0;71
+r;368351147;378390;80010;0;71
+r;375267904;244314;80010;0;71
+r;212241239;7187036;80010;0;75
+r;363892165;51656;80010;0;75
+r;21122410;1614;80010;0;77
+r;806713;131333;80010;0;86
+r;2012515;105778;80010;0;90
+r;405063909;15431682;80010;0;90
+r;405063919;15431688;80010;0;90
+r;11853635;185284;80010;0;101
+r;11877364;5345;80010;0;101
+r;13463840;185290;80010;0;101
+r;13048864;391307;80010;0;102
+r;13435648;185267;80010;0;104
+r;11853641;185265;80010;0;105
+r;12634144;367011;80010;0;105
+r;11864133;96846;80010;0;106
+r;11866162;83102;80010;0;106
+r;11875535;18981;80010;0;106
+r;11853621;185336;80010;0;107
+r;11875047;22439;80010;0;107
+r;183545;86306;80010;0;112
+r;13479522;21699;80010;0;121
+r;11933521;221231;80010;0;123
+r;1055878;71079;80010;0;144
+r;9408612;98045;80010;0;144
+r;2152095;24646;80010;0;146
+r;2152378;240228;80010;0;147
+r;2330650;240359;80010;0;147
+r;9493482;207397;80010;0;147
+r;9494724;207955;80010;0;147
+r;9501461;211759;80010;0;147
+r;9520325;242082;80010;0;167
+r;11564688;327521;80010;0;528
+r;11569436;327767;80010;0;542
+r;11577146;328162;80010;0;573
+r;11590155;328872;80010;0;611
+r;11567421;327655;80010;0;644
+r;11574356;328008;80010;0;663
+r;11581598;328384;80010;0;696
+r;53550435;102816;80010;5;-50
+r;53555250;92177;80010;5;-50
+r;53585260;116474;80010;5;-50
+r;53585278;126279;80010;5;-50
+r;53586574;36492;80010;5;-50
+r;53586634;65470;80010;5;-50
+r;53586854;12643;80010;5;-50
+r;53588652;124506;80010;5;-50
+r;53589441;103624;80010;5;-50
+r;53592341;46612;80010;5;-50
+r;53593691;134700;80010;5;-50
+r;53595928;121157;80010;5;-50
+r;53599866;59798;80010;5;-50
+r;53606266;46996;80010;5;-50
+r;53616664;144148;80010;5;-50
+r;53616763;20102;80010;5;-50
+r;53618158;11473;80010;5;-50
+r;53623145;22316;80010;5;-50
+r;53624325;60123;80010;5;-50
+r;53626874;6236;80010;5;-50
+r;53627037;61791;80010;5;-50
+r;53680982;86031;80010;5;-50
+r;53684141;153870;80010;5;-50
+r;53684543;45854;80010;5;-50
+r;53685880;25132;80010;5;-50
+r;53686747;57502;80010;5;-50
+r;53687461;108939;80010;5;-50
+r;53687876;90803;80010;5;-50
+r;53692635;30726;80010;5;-50
+r;85610147;66399;80010;5;-30
+r;85615820;152850;80010;5;-30
+r;85625977;322205;80010;5;-30
+r;85750357;66200;80010;5;-30
+r;85789221;147799;80010;5;-30
+r;85796614;113849;80010;5;-30
+r;85610044;245902;80010;5;-29
+r;85612959;76805;80010;5;-29
+r;85750430;247806;80010;5;-28
+r;85796646;156084;80010;5;-27
+r;85843397;151461;80010;5;-27
+r;85630882;149691;80010;5;-26
+r;85612868;160528;80010;5;-25
+r;3199164;109640;80010;5;5
+r;367063614;115473;80010;5;25
+r;54830003;42196;80010;5;26
+r;85316551;79307;80010;5;29
+r;85346442;82900;80010;5;29
+r;2309867;232306;80010;5;31
+r;2062401;241772;80010;5;32
+r;10636361;238607;80010;5;32
+r;85316545;259980;80010;5;32
+r;309299562;590595;80010;5;33
+r;309425168;1787939;80010;5;33
+r;2053469;243863;80010;5;34
+r;3132669;260619;80010;5;34
+r;309412137;1236505;80010;5;34
+r;12197107;105296;80010;5;35
+r;53690885;54315;80010;5;51
+r;53695008;10444;80010;5;51
+r;54787449;28778;80010;5;51
+r;54829982;133259;80010;5;51
+r;54829984;69680;80010;5;51
+r;54829988;123955;80010;5;51
+r;54830000;71674;80010;5;51
+r;54830008;118663;80010;5;51
+r;54830016;123105;80010;5;51
+r;53586532;116592;80010;5;52
+r;53607148;15016;80010;5;52
+r;53623588;27502;80010;5;52
+r;53629146;146125;80010;5;52
+r;54725410;18886;80010;5;52
+r;54829994;119770;80010;5;52
+r;196798;151610;80010;5;53
+r;53549475;84160;80010;5;53
+r;53589416;20419;80010;5;53
+r;53625641;98571;80010;5;53
+r;54570041;116921;80010;5;53
+r;54784700;22549;80010;5;53
+r;54829985;14235;80010;5;53
+r;54829997;5535;80010;5;53
+r;54830006;134489;80010;5;53
+r;54830009;99313;80010;5;53
+r;54830012;103619;80010;5;53
+r;54830018;90139;80010;5;53
+r;63299988;2447305;80010;5;53
+r;53594892;30132;80010;5;54
+r;53626804;99889;80010;5;54
+r;54614218;11824;80010;5;54
+r;54644704;34954;80010;5;54
+r;54670930;114824;80010;5;54
+r;54774971;1633;80010;5;54
+r;54829979;138539;80010;5;54
+r;680581;24646;80010;5;55
+r;53588604;117226;80010;5;55
+r;53607114;76662;80010;5;55
+r;53691827;84676;80010;5;55
+r;54780301;13216;80010;5;55
+r;53624252;21845;80010;5;56
+r;53628027;4528;80010;5;56
+r;53684474;4594;80010;5;56
+r;53693506;129329;80010;5;56
+r;54750698;86368;80010;5;56
+r;54778703;9341;80010;5;56
+r;53556644;25296;80010;5;57
+r;53560891;48704;80010;5;57
+r;53616544;26738;80010;5;58
+r;53623392;14335;80010;5;58
+r;53689167;87185;80010;5;58
+r;54763291;103323;80010;5;58
+r;54771514;67583;80010;5;58
+r;54539893;117557;80010;5;59
+r;53685728;123526;80010;5;59
+r;54615101;66071;80010;5;59
+r;54732567;91829;80010;5;59
+r;54765542;63030;80010;5;59
+r;54771177;119183;80010;5;59
+r;61487662;2524599;80010;5;59
+r;70356;133793;80010;5;60
+r;272404;35966;80010;5;60
+r;401970;50630;80010;5;60
+r;1587178;124836;80010;5;60
+r;53575292;44654;80010;5;60
+r;54747937;62786;80010;5;60
+r;54750509;121316;80010;5;60
+r;54753567;63449;80010;5;60
+r;54765549;7931;80010;5;60
+r;633334;82821;80010;5;75
+r;728238;126398;80010;5;75
+r;562752;847;80010;5;76
+r;578348;131122;80010;5;76
+r;650471;9026;80010;5;76
+r;684809;34510;80010;5;76
+r;710007;86054;80010;5;76
+r;673298;7501;80010;5;77
+r;708924;83571;80010;5;77
+r;719808;107540;80010;5;77
+r;632728;106202;80010;5;78
+r;732108;133824;80010;5;78
+r;647720;131142;80010;5;79
+r;715329;98244;80010;5;79
+r;699734;64848;80010;5;80
+r;717142;102107;80010;5;80
+r;668676;27895;80010;5;81
+r;731005;131905;80010;5;81
+r;12197109;120541;80010;5;81
+r;1728757;134093;80010;5;82
+r;146411;120839;80010;5;90
+r;1726378;131333;80010;5;95
+r;205940;86306;80010;5;130
+r;433721638;16475495;80010;6;25
+r;433721655;16475497;80010;6;25
+r;11564671;327521;80010;6;250
+r;11567409;327655;80010;6;250
+r;11569430;327767;80010;6;250
+r;11574348;328008;80010;6;250
+r;11577124;328162;80010;6;250
+r;11581589;328384;80010;6;250
+r;11590143;328872;80010;6;250
+r;85366916;44755;80010;7;26
+r;85341344;11598;80010;7;27
+r;85335580;133531;80010;7;28
+r;85338718;48625;80010;7;29
+r;85340173;53223;80010;7;29
+r;85351575;108838;80010;7;29
+r;85363801;32380;80010;7;30
+r;85398231;135779;80010;7;30
+r;243471242;75156;80010;8;25
+r;96739738;5115;80010;8;40
+r;2466785;260032;80010;8;76
+r;363961781;14281841;80010;19;25
+r;331559;105778;80010;19;51
+r;32085742;1978637;80010;19;52
+r;32376216;2078362;80010;19;52
+r;331549;14363;80010;19;53
+r;32376091;2078328;80010;19;53
+r;32376370;2078402;80010;19;54
+r;331555;80010;80010;19;55
+r;32376131;2078335;80010;19;55
+r;32376385;2078403;80010;19;55
+r;32376358;2078401;80010;19;56
+r;32376245;2078368;80010;19;57
+r;14361990;421625;80010;19;58
+r;32089655;1978783;80010;19;58
+r;32376405;2078408;80010;19;58
+r;32376458;2078419;80010;19;58
+r;32085735;1978638;80010;19;59
+r;331557;68977;80010;19;60
+r;32376025;2078314;80010;19;60
+r;32376120;2078334;80010;19;60
+r;32376044;2078318;80010;19;61
+r;32376416;2078410;80010;19;61
+r;32376060;2078320;80010;19;62
+r;32376108;2078332;80010;19;62
+r;32376164;2078339;80010;19;62
+r;32376397;2078406;80010;19;62
+r;32376434;2078412;80010;19;62
+r;32376031;2078316;80010;19;64
+r;32376260;2078370;80010;19;64
+r;32376144;2078336;80010;19;65
+r;32376015;2078300;80010;19;69
+r;32376076;2078323;80010;19;69
+r;32376150;2078337;80010;19;69
+r;413586748;14950663;80010;24;5
+r;14841889;17559;80010;24;17
+r;14842310;81934;80010;24;17
+r;14845949;124094;80010;24;17
+r;14845950;61490;80010;24;17
+r;14845951;74860;80010;24;17
+r;14842311;58294;80010;24;18
+r;403883293;15592540;80010;24;20
+r;413426358;15447635;80010;24;20
+r;413430209;15592542;80010;24;20
+r;413575067;15592543;80010;24;20
+r;413576857;15592544;80010;24;20
+r;413578636;15592545;80010;24;20
+r;413580420;15592546;80010;24;20
+r;413581762;15592547;80010;24;20
+r;413583740;15592548;80010;24;20
+r;430620048;15592549;80010;24;20
+r;430621988;14918139;80010;24;20
+r;430625356;15592541;80010;24;20
+r;433721647;16475496;80010;24;25
+r;14836542;140856;80010;24;30
+r;14837170;132527;80010;24;30
+r;14840807;121664;80010;24;30
+r;14840808;59151;80010;24;30
+r;14840809;118790;80010;24;30
+r;14842312;141440;80010;24;30
+r;14842313;101083;80010;24;30
+r;14842314;68439;80010;24;30
+r;14845907;137506;80010;24;30
+r;14845908;73893;80010;24;30
+r;14845947;95245;80010;24;30
+r;14845948;142124;80010;24;30
+r;15463168;64885;80010;24;30
+r;29448213;1797469;80010;24;30
+r;371189370;396247;80010;24;30
+r;399193678;14954010;80010;24;30
+r;401215171;14954011;80010;24;30
+r;401216688;15634650;80010;24;30
+r;405262821;14935300;80010;24;30
+r;413047650;14917974;80010;24;30
+r;413049649;15592550;80010;24;30
+r;413428182;15447417;80010;24;30
+r;433721644;85169;80010;24;30
+r;14845946;116477;80010;24;32
+r;273491131;225916;80010;24;56
+r;315231209;24956;80010;24;65
+r;8406927;122824;80010;25;-12
+r;404888306;15252344;80010;25;20
+r;404888354;15252345;80010;25;20
+r;429122984;15474559;80010;25;20
+r;2125025;147466;80010;25;26
+r;404888401;14925283;80010;25;30
+r;2499743;214995;80010;25;32
+r;3093733;78401;80010;25;35
+r;234257;62706;80010;25;57
+r;257557;134670;80010;25;60
+r;77538480;148387;80010;25;61
+r;267566;155391;80010;25;70
+r;13074228;260105;80010;25;111
+r;155151;81934;80010;25;281
+r;431222728;15430389;80010;26;10
+r;431350470;15196234;80010;26;10
+r;431350503;15196233;80010;26;10
+r;431350538;14930626;80010;26;10
+r;431350571;15196190;80010;26;10
+r;431350604;15196189;80010;26;10
+r;430042678;1742522;80010;26;15
+r;410341666;1632794;80010;26;25
+r;433721666;16475498;80010;26;25
+r;433721670;153105;80010;26;29
+r;1938926;213376;80010;26;30
+r;2200541;65415;80010;26;30
+r;2259393;75449;80010;26;30
+r;2473667;251158;80010;26;30
+r;2484028;260997;80010;26;30
+r;15049298;86439;80010;26;30
+r;15049299;141253;80010;26;30
+r;15049300;146144;80010;26;30
+r;15049301;140100;80010;26;30
+r;15049302;66372;80010;26;30
+r;15049303;99884;80010;26;30
+r;15049304;146261;80010;26;30
+r;15049305;88413;80010;26;30
+r;15059137;246874;80010;26;30
+r;15059138;218941;80010;26;30
+r;15059139;160927;80010;26;30
+r;15059140;68467;80010;26;30
+r;15062406;71377;80010;26;30
+r;15062429;246557;80010;26;30
+r;15062470;32650;80010;26;30
+r;15062508;239674;80010;26;30
+r;15062952;114700;80010;26;30
+r;15062965;214995;80010;26;30
+r;15062966;27373;80010;26;30
+r;15062967;246870;80010;26;30
+r;15062968;237;80010;26;30
+r;15063123;154848;80010;26;30
+r;15063133;114637;80010;26;30
+r;15071448;40325;80010;26;30
+r;15071449;111921;80010;26;30
+r;15071450;81934;80010;26;30
+r;24497063;215004;80010;26;30
+r;31867760;3361;80010;26;30
+r;31867761;320632;80010;26;30
+r;31867762;19636;80010;26;30
+r;31874352;41642;80010;26;30
+r;31874353;20164;80010;26;30
+r;31874354;47417;80010;26;30
+r;96711531;37201;80010;26;30
+r;97054868;142832;80010;26;30
+r;212510150;7187011;80010;26;30
+r;212564616;6876542;80010;26;30
+r;312882246;261738;80010;26;30
+r;312963908;2321033;80010;26;30
+r;369259259;12054110;80010;26;30
+r;405534625;25914;80010;26;30
+r;411986726;8055252;80010;26;30
+r;430590506;15246459;80010;26;30
+r;15063137;55572;80010;26;31
+r;95740710;152432;80010;26;31
+r;98287430;86754;80010;26;31
+r;97348370;162005;80010;26;32
+r;93564277;66970;80010;26;34
+r;97357887;214126;80010;26;34
+r;289099723;11250903;80010;26;35
+r;358501428;14108772;80010;26;35
+r;412880067;21742;80010;26;40
+r;94152442;318498;80010;26;41
+r;93406136;116588;80010;26;43
+r;74824077;213377;80010;26;51
+r;53315653;312132;80010;26;52
+r;31865856;128646;80010;26;59
+r;399439243;15062312;80010;26;90
+r;399438956;14941467;80010;26;95
+r;399439510;15054599;80010;26;95
+r;399439098;8052392;80010;26;100
+r;399439376;8061837;80010;26;100
+r;411986065;217141;80010;26;100
+r;94151751;191722;80010;26;101
+r;82208382;152552;80010;27;1
+r;82210624;152553;80010;27;1
+r;15208987;7159;80010;27;12
+r;15216788;143712;80010;27;21
+r;98008073;71637;80010;27;21
+r;15147040;39088;80010;27;23
+r;15206457;104993;80010;27;23
+r;15174096;16033;80010;27;24
+r;31080674;214275;80010;27;29
+r;31080904;43125;80010;27;29
+r;85008297;107073;80010;27;29
+r;398978046;15247742;80010;27;30
+r;402872388;15100594;80010;27;55
+r;402993783;156064;80010;27;55
+r;15096987;143757;80010;27;59
+r;380394808;45179;80010;30;25
+r;380394814;20564;80010;30;25
+r;380406098;113521;80010;30;26
+r;382648;46453;80010;30;56
+r;374424625;115811;80010;35;25
+r;346003802;13639301;80010;35;31
+r;28508765;68977;80010;35;34
+r;91491485;1888712;80010;35;35
+r;91491486;600026;80010;35;35
+r;30329194;97538;80010;35;40
+r;31817661;14363;80010;35;40
+r;76452219;3174663;80010;35;41
+r;11230588;97934;80010;35;47
+r;237578;98783;80010;35;60
+r;2582130;120839;80010;35;60
+r;2475625;86306;80010;35;85
+r;1660540;24646;80010;35;90
+r;8812681;131333;80010;35;101
+r;97322410;128482;80010;37;15
+r;97346627;135926;80010;37;15
+r;404888307;15252344;80010;37;20
+r;404888355;15252345;80010;37;20
+r;429122985;15474559;80010;37;20
+r;76540634;213841;80010;37;26
+r;76668639;62706;80010;37;27
+r;10744851;255793;80010;37;29
+r;1847634;229272;80010;37;30
+r;395723881;15194509;80010;37;30
+r;404888402;14925283;80010;37;30
+r;2460164;252598;80010;37;31
+r;2077594;9462;80010;37;120
+r;1745342;134670;80010;37;130
+r;1802104;155391;80010;37;250
+r;376693380;68473;80010;40;25
+r;1068176;14363;80010;40;54
+r;1068178;115811;80010;40;60
+r;375148066;321562;80010;41;25
+r;430043919;48704;80010;41;25
+r;34528823;45686;80010;52;35
+r;426096070;15419884;80010;62;20
+r;426096120;15419883;80010;62;20
+r;423818359;146381;80010;62;25
+r;376791531;73080;80010;62;26
+r;3086077;159792;80010;62;29
+r;2463402;259968;80010;62;36
+r;399601602;15196029;80010;62;45
+r;2463712;259967;80010;62;47
+r;31870649;77638;80010;62;51
+r;213740324;60056;80010;63;31
+r;34560150;20202;80010;115;3
+r;34560151;144681;80010;115;3
+r;34560152;4552;80010;115;3
+r;34560153;60835;80010;115;3
+r;34560154;120892;80010;115;3
+r;34560155;23114;80010;115;3
+r;34560156;90830;80010;115;3
+r;34560157;17927;80010;115;3
+r;34560158;82489;80010;115;3
+r;34560159;49337;80010;115;3
+r;34560160;626;80010;115;3
+r;34560161;22264;80010;115;3
+r;385288467;91691;80010;115;25
+r;385452072;103405;80010;115;25
+r;390460538;14921732;80010;333;25
+r;390460547;14921733;80010;333;25
+r;390460553;14928122;80010;333;25
+r;390460555;7054183;80010;333;25
+r;390460574;14960014;80010;333;25
+r;414427497;15070129;80010;333;25
+r;394226095;15062059;80010;333;27
+r;404977849;15513180;80010;333;27
+r;404977860;15761332;80010;333;27
+r;404977862;15562631;80010;333;27
+r;404977864;15695118;80010;333;27
+r;404977867;15761334;80010;333;27
+r;404977871;15761335;80010;333;27
+r;404977874;15695119;80010;333;27
+r;404977880;15687393;80010;333;27
+r;394226097;14940920;80010;333;28
+r;395467599;7524277;80010;333;28
+r;395467602;7440940;80010;333;28
+r;395467604;14929461;80010;333;28
+r;395467606;14917233;80010;333;28
+r;390460543;14916989;80010;333;29
+r;390460559;14960013;80010;333;29
+r;390460570;14921085;80010;333;29
+r;404150385;15566635;80010;333;29
+r;398929066;15562876;80010;333;31
+r;394226090;15236197;80010;333;32
+r;394226093;15234293;80010;333;32
+r;390460541;14921618;80010;333;33
+r;398929069;15562877;80010;333;34
+r;395897966;15473913;80010;333;36
+r;396776717;15501242;80010;333;37
+r;394226103;15072029;80010;333;39
+r;394226100;15236198;80010;333;40
+r;395467613;12452230;80010;333;40
+r;394226075;6876975;80010;333;43
+r;390460551;7053784;80010;333;44
+r;394226073;14935899;80010;333;47
+r;394458044;14918547;80010;333;47
+r;390460545;14918548;80010;333;50
+r;390460549;13231454;80010;333;50
+r;390460568;14921734;80010;333;54
+r;1672563;223513;80010;666;1
+r;1768292;128482;80010;666;1
+r;1768326;229272;80010;666;1
+r;1793418;81934;80010;666;1
+r;1766592;110111;80010;666;2
+r;359809708;296360;80010;777;10
+r;359809709;40569;80010;777;10
+r;359809710;47895;80010;777;10
+r;359809711;4853792;80010;777;10
+r;289379502;1770989;80010;2000;50
+r;289328423;227880;80010;2000;56
+r;289328426;227883;80010;2000;57
+r;289328424;227881;80010;2000;62
+r;289328427;227884;80010;2000;65
+r;289328425;227882;80010;2000;75
+r;289328422;227879;80010;2000;114

@@ -1,0 +1,42 @@
+<CODE>
+// DUMP pour le terme 'dÃ©rangeable' (eid=3908172)
+<def>
+<br />
+(Didactique) Que l'on peut déranger ; qui est susceptible de dérangement.<br /> 
+ Nous sommes donc joignables et « dérangeables » à tout instant. Il n'y a pas un moment, ni un endroit, où nous puissions avoir du répit : aux États-Unis, 75 % des possesseurs de smartphones l'utilisent aux toilettes !    
+ (Laurence Roux-Fouillet, Ralentir pour mieux vivre dans ce monde qui s'emballe, Ixelles Éditions, 2014)  <br /> 
+ Il lui fut répondu qu'à cette heure-ci, il effectuait son service dans les étages et n'était pas dérangeable.    
+ (Claude Daveux, Robert ou le roman inachevé, Éditions Publibook, 2010, p.71)  <br /> 
+ Si le salarié doit simplement être « joignable » pendant ce temps - en clair dérangeable à tout moment -, s'agit-il encore de vie privée, c'est-à-dire pouvoir précisément « se soustraire aux sollicitations des tiers » ?    
+ (Jean-Emmanuel Ray, Droit du travail, droit vivant: 2008-2009, Wolters Kluwer France, 2008, p.124)  
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;4;'n_pos'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;444;'n_link'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;3908172;'dérangeable';1;0
+e;239128;'_COM';36;50
+e;171869;'Adj:';4;50
+e;3576104;'Morpho:nospace';18;50
+e;2767138;'Langage:didactique';18;50
+e;251716;'_INFO-MONOSEMIC';36;50
+e;2585997;'_INFO-CNRTL-NO';36;50
+e;3908171;'dbnary:fra:__ws_1_dérangeable__adj__1';444;0
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;444;'r_link';'r_link';Lien vers une ressource externe (WordNet, RadLex, UMLS, Wikipedia, etc...)
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;95396167;3908172;239128;0;1000000
+r;95396168;3908172;171869;4;29
+r;424295265;3908172;3576104;18;25
+r;95425462;3908172;2767138;18;31
+r;96264109;3908172;251716;36;29
+r;95546885;3908172;2585997;36;52
+r;95299179;3908172;3908171;444;31
+// les relations entrantes : r;rid;node1;node2;type;w 

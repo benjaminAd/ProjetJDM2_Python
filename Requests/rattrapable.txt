@@ -1,0 +1,110 @@
+<CODE>
+// DUMP pour le terme 'rattrapable' (eid=101179)
+<def>
+<br />
+Que l'on peut rattraper.<br /> 
+ Un tel résultat, c'est rattrapable si tu mets un coup de collier.  
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;444;'n_link'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;101179;'rattrapable';1;58
+e;13853607;'pouvoir être';1;0
+e;52250;'acte';1;542
+e;89739;'acter';1;162
+e;14596822;'être rattrapé';1;34
+e;430286;'rattrapé';1;50
+e;38344;'sociologie';1;1110
+e;67769;'récupérable';1;56
+e;239128;'_COM';36;50
+e;146888;'Adj:Mas+SG';4;50
+e;146894;'Adj:Fem+SG';4;50
+e;2586634;'Gender:Inv';4;0
+e;171869;'Adj:';4;50
+e;2586627;'Gender:Mas';4;0
+e;2586628;'Gender:Fem';4;0
+e;2586629;'Number:Sing';4;0
+e;146883;'Adj:InvGen+SG';4;50
+e;15712;'irrécupérable';1;70
+e;16720;'irrattrapable';1;54
+e;151566;'_FL:7';6;50
+e;151553;'_FL:0';6;50
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+e;254878;'_POL-NEG_PC';36;50
+e;254877;'_POL-NEUTRE_PC';36;50
+e;251716;'_INFO-MONOSEMIC';36;50
+e;273221;'_INFO-WIKI-NO';36;50
+e;223172;'_POL-NEG';36;50
+e;2585996;'_INFO-CNRTL-YES';36;50
+e;254876;'_POL-POS_PC';36;50
+e;241794;'_POL-NEUTRE';36;50
+e;223173;'_POL-POS';36;50
+e;95156;'rattraper';1;200
+e;4141841;'dbnary:fra:__ws_1_rattrapable__adj__1';444;0
+e;2087313;'rattrapables';2;0
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;3;'r_domain';'domaine';Il est demandé de fournir des domaines relatifs au mot cible. Par exemple, pour 'corner', on pourra donner les domaines 'football' ou 'sport'.
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;5;'r_syn';'synonyme';Il est demandé d'énumérer les synonymes ou quasi-synonymes de ce terme.
+rt;7;'r_anto';'contraire';Il est demandé d'énumérer des contraires du terme. Par exemple, 'chaud' est le contraire de 'froid'.
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;43;'r_adj-verbe';'adj>verbe';Pour un adjectif de potentialité/possibilité, son verbe correspondant. Par exemple pour 'lavable' -> 'laver'
+rt;44;'r_verbe-adj';'verbe>adj';Pour un verbe, son adjectif de potentialité/possibilité correspondant. Par exemple pour 'laver' -> 'lavable'
+rt;444;'r_link';'r_link';Lien vers une ressource externe (WordNet, RadLex, UMLS, Wikipedia, etc...)
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;418457394;101179;13853607;0;10
+r;418294572;101179;52250;0;11
+r;418294573;101179;89739;0;11
+r;418294574;101179;14596822;0;11
+r;418294575;101179;430286;0;11
+r;418294571;101179;38344;0;25
+r;981595;101179;67769;0;26
+r;24010590;101179;239128;0;1000000
+r;418294570;101179;38344;3;25
+r;16091589;101179;146888;4;34
+r;16086166;101179;146894;4;38
+r;53940750;101179;2586634;4;45
+r;2300483;101179;171869;4;47
+r;53975296;101179;2586627;4;47
+r;53928484;101179;2586628;4;48
+r;53946190;101179;2586629;4;49
+r;48293;101179;146883;4;59
+r;3143438;101179;67769;5;80
+r;3143440;101179;15712;7;26
+r;3143439;101179;16720;7;29
+r;124537;101179;151566;12;12
+r;74742955;101179;151553;12;34
+r;89995933;101179;3575927;18;27
+r;90858126;101179;3576104;18;27
+r;328039;101179;101179;19;53
+r;26838713;101179;254878;36;9
+r;11878065;101179;254877;36;22
+r;95984427;101179;251716;36;26
+r;83059489;101179;273221;36;34
+r;26630647;101179;223172;36;36
+r;54968654;101179;2585996;36;53
+r;11878064;101179;254876;36;69
+r;9212988;101179;241794;36;86
+r;9126806;101179;223173;36;274
+r;1357509;101179;95156;43;53
+r;94504096;101179;4141841;444;1
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;994887;67769;101179;0;26
+r;87606948;2087313;101179;0;31
+r;12171498;67769;101179;5;79
+r;12373053;15712;101179;7;56
+r;124536;16720;101179;7;80
+r;328039;101179;101179;19;53
+r;32412903;2087313;101179;19;62
+r;1357510;95156;101179;44;57

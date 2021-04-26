@@ -1,0 +1,49 @@
+<CODE>
+// DUMP pour le terme 'rajoutaient' (eid=2080790)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;2080790;'rajoutaient';2;0
+e;87561;'rajouter';1;68
+e;161764;'Ver:IImp+PL+P3';4;50
+e;212235;'Ver:';4;50
+e;2935006;'VerbalTime:Past';4;0
+e;2946892;'Ver:Conjug';4;0
+e;3093590;'VerbalMode:Indicatif';4;0
+e;14270944;'VerbalPers:P3';4;0
+e;14270946;'VerbalNumber:PL';4;0
+e;14271094;'VerbalTime:Imparfait';4;0
+e;151553;'_FL:0';6;50
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+e;2983124;'_SW';36;50
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;555;'r_cooccurrence';'r_cooccurrence';co-occurences (non utilisée)
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;87597275;2080790;87561;0;31
+r;32385753;2080790;161764;4;52
+r;32385759;2080790;212235;4;62
+r;72127694;2080790;2935006;4;45
+r;72476179;2080790;2946892;4;45
+r;75555116;2080790;3093590;4;45
+r;363375022;2080790;14270944;4;25
+r;363366756;2080790;14270946;4;25
+r;363358488;2080790;14271094;4;25
+r;74740433;2080790;151553;12;35
+r;89617064;2080790;3575927;18;32
+r;90600445;2080790;3576104;18;34
+r;32385749;2080790;87561;19;57
+r;74221999;2080790;2983124;555;32
+// les relations entrantes : r;rid;node1;node2;type;w 

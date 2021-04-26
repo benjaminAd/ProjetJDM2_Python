@@ -1,0 +1,73 @@
+<CODE>
+// DUMP pour le terme 'rattrapante' (eid=3998002)
+<def>
+<br />
+(Horlogerie) Aiguille superposée à la trotteuse.<br /> 
+ J'ai indiqué que, dans le chronographe, le coeur était l'organe capital. C'est, en effet, lui qui est chargé de ramener à zéro les aiguilles et de reconduire d'un bond la rattrapante sous sa compagne.    
+ (Le Cosmos; revue des sciences et de leurs applications, du 3 octobre 1912, p. 386)  
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;4;'n_pos'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;444;'n_link'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;3998002;'rattrapante';1;0
+e;12984;'trotteuse';1;96
+e;53145;'aiguille';1;1286
+e;105649;'horlogerie';1;94
+e;10034;'2e';1;70
+e;239128;'_COM';36;50
+e;146881;'Nom:Fem+SG';4;50
+e;171870;'Nom:';4;50
+e;2586629;'Number:Sing';4;0
+e;2586628;'Gender:Fem';4;0
+e;3576104;'Morpho:nospace';18;50
+e;15991432;'_ANIME-NO';36;50
+e;2585997;'_INFO-CNRTL-NO';36;50
+e;273221;'_INFO-WIKI-NO';36;50
+e;254878;'_POL-NEG_PC';36;50
+e;254877;'_POL-NEUTRE_PC';36;50
+e;254876;'_POL-POS_PC';36;50
+e;251716;'_INFO-MONOSEMIC';36;50
+e;241794;'_POL-NEUTRE';36;50
+e;223173;'_POL-POS';36;50
+e;223172;'_POL-NEG';36;50
+e;3998001;'dbnary:fra:__ws_1_rattrapante__nom__1';444;0
+e;16031111;'dédoublante';1;0
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;3;'r_domain';'domaine';Il est demandé de fournir des domaines relatifs au mot cible. Par exemple, pour 'corner', on pourra donner les domaines 'football' ou 'sport'.
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;27;'r_domain-1';'domaine-1';inverse de r_domain : à un domaine, on associe des termes
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;444;'r_link';'r_link';Lien vers une ressource externe (WordNet, RadLex, UMLS, Wikipedia, etc...)
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;417721398;3998002;12984;0;12
+r;417721397;3998002;53145;0;12
+r;95839241;3998002;105649;0;30
+r;417721396;3998002;10034;0;12
+r;95461527;3998002;239128;0;1000000
+r;95469711;3998002;105649;3;30
+r;427978887;3998002;146881;4;25
+r;95461528;3998002;171870;4;27
+r;427991196;3998002;2586629;4;25
+r;417721394;3998002;2586628;4;25
+r;424299173;3998002;3576104;18;25
+r;417721395;3998002;15991432;36;25
+r;283287960;3998002;2585997;36;50
+r;391908042;3998002;273221;36;25
+r;283287966;3998002;254878;36;14
+r;283287965;3998002;254877;36;73
+r;283287964;3998002;254876;36;14
+r;95962511;3998002;251716;36;35
+r;283287963;3998002;241794;36;16
+r;283287962;3998002;223173;36;3
+r;283287961;3998002;223172;36;3
+r;95306678;3998002;3998001;444;31
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;95891473;105649;3998002;0;4
+r;417721200;16031111;3998002;0;14
+r;95891472;105649;3998002;27;4

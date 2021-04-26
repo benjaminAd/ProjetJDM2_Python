@@ -1,0 +1,310 @@
+<CODE>
+// DUMP pour le terme 'testateur' (eid=88925)
+<def>
+<br />
+Personne qui fait ou a fait un testament.<br /> 
+ La volonté du testateur doit être sacrée et inviolable.   <br /> 
+ Pour être capable de recevoir par testament, il suffit d'être conçu à l'époque du décès du testateur.    
+ (Article 906, Code civil, France, version en vigueur au 1er janvier 2007)  
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;10;'n_relation'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;444;'n_link'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;88925;'testateur';1;54
+e;225916;'personne>24956';1;708;'personne>être humain'
+e;70922;'cession';1;74
+e;53245;'testament';1;332
+e;1636805;'oeil>44335';1;50;'oeil>organe'
+e;36906;'rédiger';1;644
+e;3517669;'disposant>146885';1;0;'disposant>Nom:Mas+SG'
+e;34481;'disposant';1;52
+e;244620;'être humain>74860';1;146;'être humain>homme'
+e;239128;'_COM';36;50
+e;24956;'être humain';1;814
+e;225934;'oeil>330323';1;202;'oeil>organe de la vue'
+e;17324;'don';1;900
+e;234036;'être vivant>123933';1;258;'être vivant>entité'
+e;15502843;'en:bequeather';1;0
+e;7159;'droit';1;1600
+e;116477;'personne';1;10218
+e;2586627;'Gender:Mas';4;0
+e;146885;'Nom:Mas+SG';4;50
+e;2586629;'Number:Sing';4;0
+e;171869;'Adj:';4;50
+e;171870;'Nom:';4;50
+e;2586628;'Gender:Fem';4;0
+e;101689;'être animé';1;50
+e;68439;'individu';1;6030
+e;71624;'être vivant';1;1882
+e;21935;'héritier';1;234
+e;74846;'corps';1;4798
+e;16110;'bouche';1;4300
+e;228289;'sexe>218086';1;270;'sexe>organe sexuel'
+e;26363;'bras';1;3760
+e;34898;'pied';1;4290
+e;221019;'bouche>112609';1;208;'bouche>anatomie'
+e;219363;'corps>112609';1;182;'corps>anatomie'
+e;213977;'bassin>112609';1;18;'bassin>anatomie'
+e;240720;'squelette>112609';1;148;'squelette>anatomie'
+e;77008;'yeux';1;4150
+e;145953;'visage';1;2480
+e;144846;'tête';1;5684
+e;142086;'jambe';1;3332
+e;140715;'jambes';1;794
+e;77424;'oeil';1;3212
+e;139779;'ADN';1;716
+e;81934;'main';1;6658
+e;95422;'cou';1;1058
+e;96211;'coeur';1;2308
+e;107477;'nez';1;2603
+e;151553;'_FL:0';6;50
+e;1384;'vivant';1;766
+e;122864;'mort';1;7014
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+e;14916413;'Langue:français';18;50
+e;2442;'vivre';1;2378
+e;259820;'vivre>160251';1;74;'vivre>être en vie'
+e;251694;'mourir>126720';1;232;'mourir>cesser de vivre'
+e;43253;'dormir';1;6518
+e;43601;'se reproduire';1;496
+e;239895;'coucher sur un testament';1;50
+e;124600;'mourir';1;2016
+e;140318;'parler';1;4062
+e;14330;'satisfaction';1;614
+e;28453;'bonheur';1;2180
+e;254876;'_POL-POS_PC';36;50
+e;15991431;'_ANIME-YES';36;50
+e;162761;'_INFO-SEM-PERS';36;732
+e;223173;'_POL-POS';36;50
+e;251716;'_INFO-MONOSEMIC';36;50
+e;254877;'_POL-NEUTRE_PC';36;50
+e;273221;'_INFO-WIKI-NO';36;50
+e;438949;'_INFO-POLYMORPHIC';36;50
+e;241794;'_POL-NEUTRE';36;50
+e;2585996;'_INFO-CNRTL-YES';36;50
+e;191669;'_INFO-SEM-LIVING-BEING';36;160
+e;2089806;'testatrice';2;0
+e;3426832;':r56395860';10;0
+e;3426831;':r58576148';10;0
+e;3426830;':r56831428';10;0
+e;3426829;':r58340299';10;0
+e;5042006;':r60994861';10;0
+e;13945913;':r351527130';10;0
+e;3426828;':r58629199';10;0
+e;3426827;':r56395859';10;0
+e;4206140;'dbnary:fra:__ws_1_testateur__nom__1';444;0
+e;23815;'prélegs';1;50
+e;15490605;'en:divestiture';1;0
+e;15520969;'en:divestment';1;0
+e;14958614;'en:handover';1;0
+e;116247;'olographe';1;54
+e;2089798;'testateurs';2;0
+e;2089802;'testatrices';2;0
+e;62584;'héritiers';1;62
+e;74860;'homme';1;28798
+e;221983;'homme>24956';1;216;'homme>être humain'
+e;19356;'sexe';1;5650
+e;14358;'test';1;608
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;3;'r_domain';'domaine';Il est demandé de fournir des domaines relatifs au mot cible. Par exemple, pour 'corner', on pourra donner les domaines 'football' ou 'sport'.
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;5;'r_syn';'synonyme';Il est demandé d'énumérer les synonymes ou quasi-synonymes de ce terme.
+rt;6;'r_isa';'générique';Il est demandé d'énumérer les GENERIQUES/hyperonymes du terme. Par exemple, 'animal' et 'mammifère' sont des génériques de 'chat'.
+rt;7;'r_anto';'contraire';Il est demandé d'énumérer des contraires du terme. Par exemple, 'chaud' est le contraire de 'froid'.
+rt;8;'r_hypo';'spécifique';Il est demandé d'énumérer des SPECIFIQUES/hyponymes du terme. Par exemple, 'mouche', 'abeille', 'guêpe' pour 'insecte'.
+rt;9;'r_has_part';'partie';Il faut donner des PARTIES/constituants/éléments (a pour méronymes) du mot cible. Par exemple, 'voiture' a comme parties : 'porte', 'roue', 'moteur', ...
+rt;10;'r_holo';'tout';Il est démandé d'énumérer des 'TOUT' (a pour holonymes)  de l'objet en question. Pour 'main', on aura 'bras', 'corps', 'personne', etc... Le tout est aussi l'ensemble comme 'classe' pour 'élève'.
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;13;'r_agent';'action>agent';L'agent (qu'on appelle aussi le sujet) est l'entité qui effectue l'action, OU la subit pour des formes passives ou des verbes d'état. Par exemple, dans - Le chat mange la souris -, l'agent est le chat. Des agents typiques de 'courir' peuvent être 'sportif', 'enfant',... (manger r_agent chat)
+rt;17;'r_carac';'caractéristique';Pour un terme donné, souvent un objet, il est demandé d'en énumérer les CARACtéristiques (adjectifs) possibles/typiques. Par exemple, 'liquide', 'froide', 'chaude', pour 'eau'.
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;22;'r_family';'famille';Des mots de la même famille lexicale sont demandés (dérivation morphologique, par exemple). Par exemple, pour 'lait' on pourrait mettre 'laitier', 'laitage', 'laiterie', etc.
+rt;23;'r_carac-1';'caractéristique-1';Quels sont les objets (des noms) possédant typiquement/possiblement la caractérisque suivante ? Par exemple, 'soleil', 'feu', pour 'chaud'.
+rt;24;'r_agent-1';'agent typique-1';Que peut faire ce SUJET ? (par exemple chat => miauler, griffer, etc.) (chat r_agent-1 manger)
+rt;27;'r_domain-1';'domaine-1';inverse de r_domain : à un domaine, on associe des termes
+rt;32;'r_sentiment';'sentiment';Pour un terme donné, évoquer des mots liés à des SENTIMENTS ou des EMOTIONS que vous pourriez associer à ce terme. Par exemple, la joie, le plaisir, le dégoût, la peur, la haine, l'amour, l'indifférence, l'envie, avoir peur, horrible, etc.
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;59;'r_masc';'équivalent masc';L'équivalent masculin du terme : lionne --> lion.
+rt;60;'r_fem';'équivalent fem';L'équivalent féminin du terme : lion --> lionne.
+rt;128;'r_node2relnode';'r_node2relnode';Relation entre un noeud (quelconque) et un noeud de relation (type = 10) - permet de rendre le graphe connexe même avec les annotations de relations
+rt;333;'r_translation';'r_translation';Traduction vers une autre langue.
+rt;444;'r_link';'r_link';Lien vers une ressource externe (WordNet, RadLex, UMLS, Wikipedia, etc...)
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;243677694;88925;225916;0;22
+r;1348093;88925;70922;0;30
+r;418352417;88925;53245;0;12
+r;77182183;88925;1636805;0;24
+r;418352416;88925;36906;0;12
+r;310231507;88925;3517669;0;23
+r;2229728;88925;34481;0;58
+r;243677696;88925;244620;0;22
+r;24071292;88925;239128;0;1000000
+r;243677698;88925;24956;0;22
+r;60994860;88925;225934;0;-24
+r;1348092;88925;17324;0;30
+r;243677692;88925;234036;0;22
+r;415338828;88925;15502843;0;25
+r;15426399;88925;7159;0;37
+r;242836886;88925;116477;0;22
+r;451173;88925;7159;3;32
+r;54142751;88925;2586627;4;45
+r;56608;88925;146885;4;54
+r;54181858;88925;2586629;4;45
+r;418352414;88925;171869;4;25
+r;598182;88925;171870;4;65
+r;418352415;88925;2586628;4;25
+r;711321;88925;34481;5;81
+r;309590037;88925;3517669;5;25
+r;315030464;88925;101689;6;25
+r;58340299;88925;225916;6;55
+r;56395859;88925;116477;6;54
+r;58629199;88925;234036;6;52
+r;58576148;88925;244620;6;57
+r;56831428;88925;24956;6;55
+r;56395860;88925;68439;6;57
+r;314826649;88925;71624;6;25
+r;85386485;88925;21935;7;26
+r;56844149;88925;74846;9;44
+r;56836562;88925;16110;9;41
+r;56871951;88925;228289;9;37
+r;60779075;88925;225934;9;37
+r;56774839;88925;26363;9;35
+r;56869413;88925;34898;9;31
+r;56839099;88925;221019;9;35
+r;351203848;88925;219363;9;25
+r;372475419;88925;213977;9;25
+r;56874477;88925;240720;9;38
+r;56886642;88925;77008;9;41
+r;56879086;88925;145953;9;29
+r;56876573;88925;144846;9;34
+r;56851736;88925;142086;9;31
+r;56854257;88925;140715;9;36
+r;56864347;88925;77424;9;32
+r;56834031;88925;139779;9;40
+r;56802894;88925;81934;9;38
+r;76909459;88925;1636805;9;31
+r;56846684;88925;95422;9;34
+r;56841628;88925;96211;9;39
+r;56861821;88925;107477;9;42
+r;2229727;88925;151553;12;23
+r;56881608;88925;1384;17;47
+r;316977933;88925;122864;17;25
+r;90004293;88925;3575927;18;26
+r;90868626;88925;3576104;18;39
+r;396785262;88925;14916413;18;25
+r;337269;88925;88925;19;55
+r;58786374;88925;2442;24;30
+r;56884125;88925;259820;24;39
+r;56859292;88925;251694;24;47
+r;56849206;88925;43253;24;40
+r;58733166;88925;43601;24;30
+r;14833397;88925;239895;24;17
+r;56856779;88925;124600;24;44
+r;56866876;88925;140318;24;45
+r;87406666;88925;14330;32;2
+r;87406667;88925;28453;32;2
+r;27418023;88925;254876;36;78
+r;417381035;88925;15991431;36;25
+r;56395861;88925;162761;36;40
+r;18438336;88925;223173;36;319
+r;95981061;88925;251716;36;34
+r;2453462;88925;254877;36;22
+r;87406693;88925;273221;36;31
+r;427418083;88925;438949;36;26
+r;2451465;88925;241794;36;89
+r;55068750;88925;2585996;36;58
+r;56469163;88925;191669;36;40
+r;78354469;88925;2089806;60;30
+r;87406690;88925;3426832;128;3
+r;87406686;88925;3426831;128;1
+r;87406682;88925;3426830;128;1
+r;87406678;88925;3426829;128;3
+r;104875503;88925;5042006;128;1
+r;351820499;88925;13945913;128;3
+r;87406674;88925;3426828;128;7
+r;87406670;88925;3426827;128;3
+r;396785260;88925;15502843;333;25
+r;94562002;88925;4206140;444;1
+// les relations entrantes : r;rid;node1;node2;type;w 
+r;96994006;77424;88925;0;-28
+r;61762107;225934;88925;0;-22
+r;423799963;23815;88925;0;1
+r;397552174;15490605;88925;0;10
+r;397552379;15520969;88925;0;10
+r;431052596;14958614;88925;0;10
+r;418229519;116247;88925;0;11
+r;309590036;3517669;88925;0;23
+r;415338827;15502843;88925;0;25
+r;12252648;34481;88925;0;26
+r;21158584;17324;88925;0;26
+r;78361256;2089806;88925;0;27
+r;15426398;7159;88925;0;28
+r;21158344;70922;88925;0;28
+r;73015056;1636805;88925;0;29
+r;87604736;2089798;88925;0;30
+r;87604743;2089802;88925;0;36
+r;309521004;3517669;88925;5;33
+r;684797;34481;88925;5;75
+r;85751882;62584;88925;7;29
+r;85361821;21935;88925;7;34
+r;397374198;74860;88925;8;10
+r;270607827;71624;88925;8;15
+r;371900165;221983;88925;8;15
+r;242836887;116477;88925;8;25
+r;243677693;234036;88925;8;25
+r;243677695;225916;88925;8;25
+r;243677697;244620;88925;8;25
+r;243677699;24956;88925;8;25
+r;377171919;68439;88925;8;25
+r;382211996;101689;88925;8;25
+r;372533326;213977;88925;10;1
+r;351527130;219363;88925;10;4
+r;411663861;19356;88925;10;15
+r;97009833;77424;88925;10;24
+r;378142362;26363;88925;10;25
+r;378169288;81934;88925;10;25
+r;378171422;139779;88925;10;25
+r;378173030;16110;88925;10;25
+r;378175068;221019;88925;10;25
+r;378177748;96211;88925;10;25
+r;378181463;74846;88925;10;25
+r;378185068;95422;88925;10;25
+r;378188628;142086;88925;10;25
+r;378192604;140715;88925;10;25
+r;378196821;107477;88925;10;25
+r;378200820;34898;88925;10;25
+r;378204703;228289;88925;10;25
+r;378208838;240720;88925;10;25
+r;378212201;144846;88925;10;25
+r;378216532;145953;88925;10;25
+r;378220829;77008;88925;10;25
+r;60994861;225934;88925;10;36
+r;73015055;1636805;88925;10;39
+r;93827089;259820;88925;13;1
+r;93829233;140318;88925;13;1
+r;93831395;251694;88925;13;1
+r;93833533;124600;88925;13;1
+r;93835734;43253;88925;13;1
+r;2058701;239895;88925;13;30
+r;59042178;2442;88925;13;30
+r;59095230;43601;88925;13;30
+r;32406710;2089806;88925;19;52
+r;337269;88925;88925;19;55
+r;32406675;2089798;88925;19;58
+r;32406695;2089802;88925;19;67
+r;264217;14358;88925;22;60
+r;57969039;1384;88925;23;24
+r;317696142;122864;88925;23;25
+r;15208776;7159;88925;27;22
+r;78354468;2089806;88925;59;36
+r;396785261;15502843;88925;333;25

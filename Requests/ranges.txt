@@ -1,0 +1,78 @@
+<CODE>
+// DUMP pour le terme 'ranges' (eid=2083281)
+<def>
+</def>
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;200;'n_context'
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+e;2083281;'ranges';2;0
+e;145209;'ranger';1;1096
+e;150038;'range';1;50
+e;14294918;'ranges>2946892';1;0;'ranges>Ver:Conjug'
+e;14294919;'ranges>171870';1;0;'ranges>Nom:'
+e;146893;'Nom:Fem+PL';4;50
+e;161710;'Ver:IPre+SG+P2:SPre+SG+P2';4;50
+e;161717;'Ver:IPre+SG+P2';4;50
+e;161718;'Ver:SPre+SG+P2';4;50
+e;171870;'Nom:';4;50
+e;212235;'Ver:';4;50
+e;3093591;'VerbalMode:Subjonctif';4;0
+e;14270945;'VerbalNumber:SG';4;0
+e;2586628;'Gender:Fem';4;0
+e;2586630;'Number:Plur';4;0
+e;2935005;'VerbalTime:Present';4;0
+e;2946892;'Ver:Conjug';4;0
+e;14270943;'VerbalPers:P2';4;0
+e;3093590;'VerbalMode:Indicatif';4;0
+e;151553;'_FL:0';6;50
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+e;1912917;'_INFO-COUNTABLE-YES';36;0
+e;438949;'_INFO-POLYMORPHIC';36;50
+e;15166645;'d50d3786f0753eaf60cab37e77b13e86';200;0
+e;2983124;'_SW';36;50
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;2;'r_raff_morpho';'raffinement morphologique';Raffinement morphologique vers un usage particulier du terme source
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;200;'r_context';'r_context';Relation de contexte entre un terme et un noeud contexte.
+rt;555;'r_cooccurrence';'r_cooccurrence';co-occurences (non utilisée)
+// les relations sortantes : r;rid;node1;node2;type;w 
+r;87521374;2083281;145209;0;34
+r;87600956;2083281;150038;0;27
+r;363938658;2083281;14294918;2;45
+r;363938662;2083281;14294919;2;45
+r;32396068;2083281;146893;4;57
+r;32173380;2083281;161710;4;51
+r;362927006;2083281;161717;4;25
+r;362935479;2083281;161718;4;25
+r;32396070;2083281;171870;4;57
+r;32173381;2083281;212235;4;57
+r;363195998;2083281;3093591;4;25
+r;362943967;2083281;14270945;4;25
+r;53992474;2083281;2586628;4;45
+r;54008641;2083281;2586630;4;45
+r;72098072;2083281;2935005;4;45
+r;72434508;2083281;2946892;4;45
+r;362952362;2083281;14270943;4;25
+r;362922394;2083281;3093590;4;25
+r;74741419;2083281;151553;12;27
+r;89614573;2083281;3575927;18;41
+r;90597954;2083281;3576104;18;35
+r;32173378;2083281;145209;19;59
+r;32396064;2083281;150038;19;62
+r;32938234;2083281;1912917;36;40
+r;363938661;2083281;438949;36;26
+r;393763431;2083281;15166645;200;8
+r;74254166;2083281;2983124;555;256
+// les relations entrantes : r;rid;node1;node2;type;w 
